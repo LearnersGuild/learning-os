@@ -1,0 +1,27 @@
+{
+  "name": "learning-os-blueprint",
+  "version": "0.1.0",
+  "description": "Blueprint for the Learning Operating System at Learners Guild",
+  "scripts": {
+    "clean": "rimraf _book",
+    "prepare": "gitbook install",
+    "build": "npm run prepare && gitbook build",
+    "watch": "npm run prepare && gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LearnersGuild/learning-os-blueprint.git"
+  },
+  "author": "Tanner Welsh <tanner@learnersguild.org>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/LearnersGuild/learning-os-blueprint/issues"
+  },
+  "homepage": "https://github.com/LearnersGuild/learning-os-blueprint#readme",
+  "devDependencies": {
+    "gitbook-cli": "^1.0.0"
+  },
+  "dependencies": {
+    "rimraf": "^2.4.3"
+  }
+}
