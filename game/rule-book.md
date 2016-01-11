@@ -1,4 +1,4 @@
-# Game Mechanics
+# Game Rule Book
 
 ## Skills
 
