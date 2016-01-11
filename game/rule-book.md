@@ -23,6 +23,11 @@
 			- [Habits](#habits)
 			- [Beliefs](#beliefs)
 - [Resources](#resources)
+- [Boundaries](#boundaries)
+- [Timing](#timing)
+- [Advancement](#advancement)
+	- [Challenges](#challenges)
+- [Victory Conditions](#victory-conditions)
 
 <!-- /TOC -->
 
@@ -120,3 +125,61 @@ Example: "As a software developer, I believe I can tackle any problem I'm faced 
 ## Resources
 
 See player support resources. <!-- TODO: needs link. -->
+
+## Boundaries
+- Time limit: 40 weeks
+- Pod size: 10 to 12
+- Technical curriculum is relevant to web development
+- Social-Emotional Literacy curriculum is relevant to web development
+
+## Timing
+The game is ongoing and is played in "real time". Players will join the game in Pods, with all Players in a Pod starting at the same time. Not all Pods start at the same time; new Pods start the game every 5 weeks. Each Pod spends 40 weeks playing the game. No Aspirant can play the game before applying and being accepted to a Pod.
+
+## Advancement
+
+Challenge in the game is worth 0 or more skill-points (SPs) across 4 different skill-areas:
+
+- **Personal**: meta-cognitive skills (learning how to learn), self-awareness, self-assessment, etc.
+- **Social**: teamwork, giving and receiving feedback, vulnerability, etc.
+- **Technical**: "hard" skills related to the profession of web development
+- **Systemic**: capacity to understand, critique, and influence change in larger systems
+
+SPs contribute directly to how a player advances through Levels in the game. In order to move from lower Levels to higher Levels, a Player must achieve a minimum number of SPs in each of the 4 areas. Lower Levels may not require SPs across all 4 skill-areas, but more advanced levels will require a minimum number of SPs across each area. This incentivizes players to develop a well-rounded set of skills without excelling in one skill-area at the expense of the others. SPs are acquired by completing challenges.
+
+_For example_, an implementation of Levels may look as follows:
+
+| Level | Personal  | Social    | Technical  | Systemic |
+|:------|:----------|:----------|:-----------|:---------|
+| 1     | 100       | 0         | 100        | 0        |
+| 2     | 200       | 100       | 100        | 0        |
+| 3     | 400       | 150       | 200        | 100      |
+| ...   | ...       | ...       | ...        | ...      |
+| 18    | 250,000   | 250,000   | 2,500,000  | 25,000   |
+| 19    | 500,000   | 500,000   | 5,000,000  | 50,000   |
+| 20    | 1,000,000 | 1,000,000 | 10,000,000 | 100,000  |
+
+### Challenges
+
+Many challenges can be completed individually, while others must be completed as part of a pair, as a 4-Player group, as an entire Pod, or as multiple Pods. Different challenges yield different types of game-play. All challenges have a time limit, though time limits will vary depending on the complexity of the challenge.
+
+_For example_, here are some challenge structures:
+
+| \# of Players | \# of Pods | Time Limit | Play Type                |
+|:--------------|:-----------|:-----------|:-------------------------|
+| 1             | 0          | 2 hours    | Player vs. Game          |
+| 2             | 0          | 4 hours    | Pair vs. Game            |
+| 2             | 0          | 2 hours    | Player vs. Player        |
+| 4             | 0          | 2 days     | Project Team vs. Game    |
+| 4             | 0          | 1 day      | Pair vs. Pair            |
+| 12            | 1          | 3 days     | Project Team competition |
+| 12            | 1          | 1 week     | Pod vs. Game             |
+| 24            | 2          | 2 weeks    | Pod vs. Pod              |
+| 48            | 4          | 5 weeks    | Pod competition          |
+
+For challenges that require more than a single Player, there _may_ be a requirement that the Players have not worked together before.
+
+## Victory Conditions
+
+Skill Point accumulation and Health point accumulation allow you to take a Boss challenge and go up to a new level.
+
+There is a floor where all members and the pod as a whole has to be at in order to try the boss challenge.
