@@ -17,6 +17,10 @@ You will be supported, asked to support others, and you will be challenged.
 
 > TODO: What is the theme of the game?
 
+## Objectives
+
+The objective of the game is to secure a livelihood with dignity and continuous learning for my both my pod and myself, in an organization where people are excited to work with me.
+
 ## Skills
 
 Skills are the high-level learning outcomes of our Applied Game.
