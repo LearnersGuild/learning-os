@@ -1,6 +1,8 @@
 # The Game
 
-The components of our Applied Game consist of the [Mechanics](mechanics.md), or how the game works, and the [Terrain](terrain.md), or where the game is played.
+The components of our Applied Game consist of the [Mechanics](mechanics.md), or how the game works, and the [Terrain](terrain.md), or where the game is played. The [Terrain Architecture](terrain-architecture.md) describes the terrain types and the high-level map of the terrain.
+
+**Given the material within this folder, a pod will be able to start playing the game from start to finish.**
 
 Our Applied Game is designed with a game-enhanced learning approach and based in principles of learning theory .
 
