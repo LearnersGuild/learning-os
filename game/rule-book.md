@@ -1,5 +1,22 @@
 # Game Rule Book
 
+## Story
+
+### Premise
+
+You are here to create a dignified livelihood.
+There are many paths to a dignified livelihood.
+This game sets up many experiences to facilitate you discovering your path.
+The path is an expression of dignified livelihood.
+
+It is a path of play, the empowerment of self teaching, of creating meaning and learning with others, of bringing other people forward with you.
+This a journey, you get there by earning your way there.
+You will be supported, asked to support others, and you will be challenged.
+
+### Theme
+
+> TODO: What is the theme of the game?
+
 ## Skills
 
 Skills are the high-level learning outcomes of our Applied Game.
