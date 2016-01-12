@@ -28,6 +28,15 @@
 - [Advancement](#advancement)
 	- [Challenges](#challenges)
 - [Victory Conditions](#victory-conditions)
+- [Stages](#stages)
+	- [0 - Admissions](#0-admissions)
+		- [Technical Talent Requirement](#technical-talent-requirement)
+		- [Emotional Talent Requirement](#emotional-talent-requirement)
+		- [Necessary Admission Challenge Criteria](#necessary-admission-challenge-criteria)
+		- [Admission Challenge Mechanism](#admission-challenge-mechanism)
+		- [Admittance to the Game](#admittance-to-the-game)
+	- [1 - Ingame](#1-ingame)
+	- [2 - Postgame](#2-postgame)
 
 <!-- /TOC -->
 
@@ -183,3 +192,116 @@ For challenges that require more than a single Player, there _may_ be a requirem
 Skill Point accumulation and Health point accumulation allow you to take a Boss challenge and go up to a new level.
 
 There is a floor where all members and the pod as a whole has to be at in order to try the boss challenge.
+
+## Stages
+
+### 0 - Admissions
+
+**Learners Guild is for:**
+- People who are failed by the current system of software engineering and higher education.
+
+This person has the following characteristics:
+
+Absolute:
+- A desire to be a software engineer but can’t find a sustainable path to goal
+- Is open to social-emotional growth
+- Believes that inclusion is a net positive
+
+Relative:
+- Is historically underrepresented in current software engineering workforce
+  - Woman, Ethnic-Minority, LGBTQ, Disabled
+
+#### Technical Talent Requirement
+
+40 to 50 hours of prior programming experience.
+
+- **Programming Experience**
+  - Facility
+    - Loops
+    - Arrays / lists
+    - Functions
+    - Object Oriented Programming
+- **Web Development Experience**
+  - Facility
+    - HTTP methods
+    - Databases
+    - Encryption
+    - Web Services API
+- **Language Experience**
+  - Fluency
+    - English
+  - Familiarity
+    - HTML/CSS
+    - Python
+    - Ruby
+    - JavaScript
+    - SQL
+
+#### Emotional Talent Requirement
+
+- **Grit**
+  - You have "distance traveled" - You have overcome significant obstacles that would otherwise cripple the average person.
+  - You overcome setbacks to conquer an important challenge.
+  - You are a hard worker.
+  - You finish whatever you begin
+  - You have achieved a goal that took years of work.
+  - You have a "Can do!" attitude.
+- **Group Spirit**
+  - You understand there is no "I" in team
+  - You understand the compromises and inconveniences that are required to be a part of a group.
+  - You are willing to slow down, in order to go farther together.
+- **Adaptability**
+  - You know your boundaries, and how/when to extend them.
+  - You are open and tolerant of ideas and approaches different from your own.
+  - You draw from the unique nature of individual cultural backgrounds.
+  - You are capable of and willing to engage in self reflection.
+- **Creativity / Resourcefulness**
+  - You are not constrained by the way you were initially taught when seeking solutions.
+  - Your humor is a creative resource, used appropriately as an emerging contextual response.
+  - You have a good sense of play and spirit of playfulness.
+  - You are aware of different forms of creativity
+
+#### Necessary Admission Challenge Criteria
+- 18 years
+- Proficient English speaker
+- Employment history
+  - Does not matter what the job is, the point is that they can keep it and have been able to navigate family needs, transportation, housing, co-worker dynamics.
+- Availability to participate FULL TIME for 40 weeks
+- Strong intention to join professional software engineering community
+
+#### Admission Challenge Mechanism
+
+**Mission: Technical Admission ( 1000 XP)**
+Technical: "hard" skills related to the profession of web development
+
+**Mission: Carbon Admission (1000 XP)**
+Personal: meta-cognitive skills (learning how to learn), self-awareness, self-assessment, etc.
+Social: teamwork, giving and receiving feedback, vulnerability, etc.
+Systemic: capacity to understand, critique, and influence change in larger systems
+
+#### Admittance to the Game
+Every person seeking to join Learners Guild must complete a simple form, including:
+- Name
+- DOB
+- [  ] I am able to participate full-time for 40 weeks
+- [  ] I want a career as a professional software engineer
+- Do you work full-time?
+- If so, where?
+- If not, how do you spend your waking hours?
+- When can you start?
+
+Once the form is completed, a person becomes an Aspirant on Level 0 of the game. Before becoming a full-fledged player in the game, Aspirants must prove their mettle by advancing to Level 1, which requires achieving point values of the following in each of the four skill-areas. For example: 100 (P) / 100 (So) / 100 (T) / 100 (Sy). Some Aspirants may have higher scores in an individual category, but no Aspirant may advance to Level 1 without meeting the minimum criteria in all four skill-areas.
+
+Aspirants coming from partner organizations (e.g., "Black Girls Code") will be awarded immediate points in the social and systemic categories.
+
+Aspirants acquire points by completing challenges where scores are assigned by players further advanced in the program. To ensure fairness, different Players will rate Aspirants on different challenges, with the more difficult challenges being scored by Players further advanced.
+
+Challenges will include (but not be limited to):
+- "grit" survey (v1+ -- include recorded video for certain parts of survey)
+- face-to-face with multiple existing players at different levels
+- multi-player challenges where giving and integrating feedback is part of the challenge (measure for "social" dimension: teamwork, vulnerability, group spirit, etc.)
+- boss-level "final" admissions challenge (?)
+
+### 1 - Ingame
+
+### 2 - Postgame
