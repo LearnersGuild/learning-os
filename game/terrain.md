@@ -3,15 +3,14 @@
 
 - [External Boundaries: Start and Finish](#external-boundaries-start-and-finish)
 	- [Game Start](#game-start)
-		- [Technical Pre-Start Mission](#technical-pre-start-mission)
+		- [Example Pre-Game Missions](#example-pre-game-missions)
 			- [Mission: JS Tic-Tac-Toe](#mission-js-tic-tac-toe)
-		- [Personal Pre-Start Mission](#personal-pre-start-mission)
-		- [Social Pre-Start Mission](#social-pre-start-mission)
-		- [Systems Pre-Start Mission](#systems-pre-start-mission)
 	- [Game Finish](#game-finish)
+		- [Final Mission: Acquire Dignified Employment](#final-mission-acquire-dignified-employment)
 - [Internal Boundaries: Themes and Phases](#internal-boundaries-themes-and-phases)
 	- [The Four Themes](#the-four-themes)
 	- [Progression through Themes](#progression-through-themes)
+	- [Progression through Phases](#progression-through-phases)
 
 <!-- /TOC -->
 
@@ -83,3 +82,24 @@ Listed in the table below are the main outcomes for each theme, split by quadran
 | **Social**    | Construct pod identity, define norms       | Rotate, play with group roles and dynamics                | Study group dynamics and collaboration patterns                 | Create group practices and identity                          |
 | **Technical** | Build a full-stack web application         | Discover and play with other tools, languages, frameworks | Research and implement optimal ways to produce quality software | Ideate, build, deploy, and maintain a production-quality app |
 | **Systemic**  | Adapt and build tools for systems thinking | Explore different systems and how they interact           | Inspect, reflect on, and critique different systems             | Engage systemic problems with creative agency                |
+
+### Progression through Phases
+
+Each phase has 0 or more final missions (i.e. "boss levels") that mark the end of the phase.
+
+These final missions start small and focused, and grow in both length and scope. They follow fibonacci-inspired pattern of growth: 1 week, 1 week, 2 weeks, 3 weeks, etc.
+
+Most phases have both a final solo and a final pod mission, which must be completed individually and by the whole pod, respectively. Pod missions are team missions, with variance in team size (min 3, max 6).
+
+Listed below are the final missions for each phase:
+
+|             | Final Solo Mission        | Final Pod Mission                            |
+|:------------|:--------------------------|:---------------------------------------------|
+| **Phase 1** | Online profile (2 days)   | Client-side app - quiz game (1 wk)           |
+| **Phase 2** | Personal site (1 wk)      | Full-stack web app - LMS (1 wk)              |
+| **Phase 3** | Passion project (1 wk)    | Web app - 3 groups, 3 options (2 wks)        |
+| **Phase 4** | Passion project (2 wks)   | Web app - 2 groups, 6 options (3 wks)        |
+| **Phase 5** | Deep dive project (3 wks) | N/A                                          |
+| **Phase 6** | N/A                       | Full product - 2 groups, team choice (5 wks) |
+| **Phase 7** | Passion project (5 wks)   | Get a job (3 wks, continues to next phase)   |
+| **Phase 8** | Learner choice (5 wks)    | Get a job (5 wks)                            |
