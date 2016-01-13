@@ -27,29 +27,32 @@ For a pod to start the game, every member of the pod must have met the admission
 
 Although these criteria are not currently a part of the game, the following is an example mission that demonstrates _roughly_ what level of technical skill is expected for a player/learner to have achieved before beginning the game.
 
-#### Technical Pre-Start Mission
+#### Example Pre-Game Missions
 
 ##### Mission: JS Tic-Tac-Toe
 
 Build a tic-tac-toe game in JavaScript and publish as a GitHub pages site.
 
 **Objectives:**
-- I believe that JavaScript can be used to build a web app.
-- I am able to program a complete and correct tic-tac-toe game.
-- I can explain and identify variables, data types, collections, loops, conditionals, and functions.
+- I believe that JavaScript can be used to build a web app. [Technical SP]
+- I am able to program a complete and correct tic-tac-toe game. [Technical SP]
+- I can explain and identify variables, data types, collections, loops, conditionals, and functions. [Technical SP]
 
-#### Personal Pre-Start Mission
-<!-- TODO: add example pre-start mission -->
-
-#### Social Pre-Start Mission
-<!-- TODO: add example pre-start mission -->
-
-#### Systems Pre-Start Mission
-<!-- TODO: add example pre-start mission -->
+<!-- TODO: add pre-game mission(s) and objectives to address personal, social, and systems -->
 
 ### Game Finish
 
-<!-- TODO: add finish mission (solo and pod) -->
+The final mission of the game is for every learner in the pod to secure employment as a software developer.
+
+This mission will require the most time, effort, and perseverance. Other missions will build towards it, but this one represents the "ultimate boss level" of the applied game. To complete this mission is to win the game.
+
+#### Final Mission: Acquire Dignified Employment
+
+This mission is complete when every learner in the pod has secured a job as a software developer.
+
+**Objectives:**
+- I have accepted a job offer to be a software developer [Personal SP]
+- Other software developers want to work with me [Social SP]
 
 ## Internal Boundaries: Themes and Phases
 
