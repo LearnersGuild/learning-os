@@ -23,7 +23,7 @@
  - [Stat Sheet](#stat-sheet)
  - [Stat Groups](#stat-groups)
  - [Stat Quadrants](#stat-quadrants)
- - [Player Skill Level, Value Alignment, & Quality Percentage](#player-skill-level)
+ - [Player Skill Level, Value Alignment, & Quality Percentage](#player-skill-level-value-alignment--quality-percentage)
 - [Game Objects](#game-objects)
 	- [Missions](#missions)
 		- [Mission Objectives](#mission-objectives)
