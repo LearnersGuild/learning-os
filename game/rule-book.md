@@ -15,7 +15,7 @@
 	- [Player Name](#player-name)
 - [Player Stats](#player-stats)
  - [Skill Stats](#skill-stats)
- 	- [Experience (XP)](#experience-xp)
+ 	- [Experience (SP)](#experience-SP)
 	- [Abilities](#abilities)
 	- [Leveling Up](#leveling-up)
  - [Value Stats](#value-stats)
@@ -55,7 +55,7 @@
 You are here to create a dignified livelihood.
 There are many paths to a dignified livelihood.
 This game sets up many experiences to facilitate you discovering your path.
-The path is an expression of dignified livelihood.
+The path is an eSPression of dignified livelihood.
 
 It is a path of play, the empowerment of self teaching, of creating meaning and learning with others, of bringing other people forward with you.
 This a journey, you get there by earning your way there.
@@ -74,7 +74,7 @@ The objective of the game is to secure a livelihood with dignity and continuous 
 ### Roles
 
 #### Aspirant
-An Aspirant is an individual who has expressed interest in joining Learners Guild, but has not yet become part of a Pod. She has not yet been vetted by existing Players (v0: LG Partners) as meeting the baseline criteria required to become a Player.
+An Aspirant is an individual who has eSPressed interest in joining Learners Guild, but has not yet become part of a Pod. She has not yet been vetted by existing Players (v0: LG Partners) as meeting the baseline criteria required to become a Player.
 
 #### Learner
 A Learner is an individual playing the game. She will follow her own path through the terrain in the game and will advance from level to level as she does so. She will initially be a member of a single Pod, but (as she advances in the game) will also become part of other Pods in her capacity as a Mentor (see below).
@@ -95,17 +95,17 @@ There are three types of Player Stats: Skill, Value and Quality
 
 Players have many different skills that they are developing throughout the game. Each skill has one or more levels which players advance through. Players start each skill at level 0.
 
-Each skill is broken down into stats: experience and abilities. Players level up by acquiring experience and abilities related to that skill. As a player develops a skill past a certain point, they "level up" to a new Skill Level.
+Each skill level is composed of a collection of abilities (Abilities Set). Players level up by acquiring Skill Points and abilities related to that skill. As a player develops a skill past a certain point, they "level up" to a new Skill Level.
 
-#### Experience (XP)
+#### Skill Points (SP)
 
-As a player navigates the game terrain, they gain Experience Points (XP) related to specific skills. For example, after a player builds an online profile they might gain 50 XP for the CSS skill, and 40 XP for their HTML skill. XP points are meant to track the level of practice a certain player has had using and developing a certain skill. Each skill level has an XP threshold. Once a player crosses that threshold, they have enough XP to attempt to level up. Each consecutive level has a higher XP threshold for any particular skill.
+As a player navigates the game terrain, they gain Skill Points (SP) related to specific skills. For example, after a player builds an online profile they might gain 50 SP for the CSS skill, and 40 SP for their HTML skill. SP are meant to track the level of skill a certain player has developed. The higher the SP the more skilled the player.
 
 #### Abilities
 
-While XP tracks *how much* a player has practiced a certain skill, Abilities track the capacities, knowledge, and beliefs the player has acquired in their practice. Each skill level has a predetermined Ability Set that a player needs to acquire before they can attempt to level up.
+While SP tracks *how much* a player has developed a certain skill, Abilities track the exact capacities, knowledge, and beliefs the player has acquired in their practice. Each skill level has a predetermined Ability Set that a player needs to acquire and demonstrate before they can attempt to level up.
 
-To continue with the above example, the "Build online profile" challenge might have 50 CSS XP, and 40 HTML XP, and the following abilities:
+To continue with the above example, the "Build online profile" challenge might have 50 CSS SP, and 40 HTML SP, and the following abilities:
 * I can use html rows and columns to display a table
 * I can extract css variables into a separate file
 
@@ -113,13 +113,13 @@ Once a player completes this challenge these abilities will show up respectively
 
 #### Leveling Up
 
-In order for a player to achieve a higher level for a skill, they need to complete a Level Up Challenge. Before they are allowed to attempt the Level Up Challenge they need to have accumulated enough XP for that skill to cross the XP Threshold, and they need to have acquired all of the abilities in that Skill's Ability Set.
+In order for a player to achieve a higher level for a skill, they need to complete a Level Up Challenge. Before they are allowed to attempt the Level Up Challenge they need to have acquired all of the abilities in that Skill's Ability Set.
 
-Once the Level Up Challenge is successfully completed, the player moves to the next level for that skill, and the XP and abilities are reset to 0.
+Once the Level Up Challenge is successfully completed, the player moves to the next level for that skill: The SP is reset to 0, and whole new Abilities Set is exposed to them.
 
 ### Value Stats
 
-Value Stats reflect the degree to which the player demonstrates certain values *through their behavior*. If Skill Stats are a measure of *where* the player has travelled, and *what* they have acquired along the way in terms of experience and abilities, Value Stats reflect *how the player is behaving* while  traveling and traversing the game terrain.
+Value Stats reflect the degree to which the player demonstrates certain values *through their behavior*. If Skill Stats are a measure of *where* the player has travelled, and *what* they have acquired along the way in terms of Skill Points and abilities, Value Stats reflect *how the player is behaving* while  traveling and traversing the game terrain.
 
 Value Stats are always expressed through a collection observable and verifiable behaviors (Behavior Set).
 
@@ -140,7 +140,7 @@ Most Quality stats are derived from post-challenge evaluation rubrics. For examp
 
 These four evaluation criteria are Quality Stats.
 
-Quality stats are measure as a percentage (0 to 100%), and are weighed based on the challenge's XP. They also have a "decay factor" similar to Value Stats.
+Quality stats are measure as a percentage (0 to 100%), and are weighed based on the challenge's SP. They also have a "decay factor" similar to Value Stats.
 
 While most Quality Stats are derived from challenge rubrics, some Quality stats are built into the game mechanics. For example: Self assessment is a Quality Stat that measures the precision with which a player assesses their contribution to a group or pair project. Other built in Quality Stats might include: Other assessment, Feedback Quality, Mentorship Quality...etc.
 
@@ -150,7 +150,7 @@ Every player has a stat sheet that is visible to them that tracks their progress
 The stat sheet reflects the player's skill levels, their demonstration of values, and the quality of their play.
 
 Players start off the game with a minimal stat sheet. They are tracking a handful of skill, value, and quality stats.
-As players advance through they game, they encounter challenges that expose them to new skills, values, and quality rubrics. Once they do, that Stat is added to their Stat Sheet for tracking.
+As players advance through they game, they encounter challenges that eSPose them to new skills, values, and quality rubrics. Once they do, that Stat is added to their Stat Sheet for tracking.
 
 ### Stat Groups
 
@@ -224,7 +224,7 @@ Challenge in the game is worth 0 or more skill-points (SPs) across 4 different s
 - **Technical**: "hard" skills related to the profession of web development
 - **Systemic**: capacity to understand, critique, and influence change in larger systems
 
-SPs contribute directly to how a player advances through Levels in the game. In order to move from lower Levels to higher Levels, a Player must achieve a minimum number of SPs in each of the 4 areas. Lower Levels may not require SPs across all 4 skill-areas, but more advanced levels will require a minimum number of SPs across each area. This incentivizes players to develop a well-rounded set of skills without excelling in one skill-area at the expense of the others. SPs are acquired by completing challenges.
+SPs contribute directly to how a player advances through Levels in the game. In order to move from lower Levels to higher Levels, a Player must achieve a minimum number of SPs in each of the 4 areas. Lower Levels may not require SPs across all 4 skill-areas, but more advanced levels will require a minimum number of SPs across each area. This incentivizes players to develop a well-rounded set of skills without excelling in one skill-area at the eSPense of the others. SPs are acquired by completing challenges.
 
 _For example_, an implementation of Levels may look as follows:
 
@@ -342,10 +342,10 @@ Relative:
 
 #### Admission Challenge Mechanism
 
-**Mission: Technical Admission ( 1000 XP)**
+**Mission: Technical Admission ( 1000 SP)**
 Technical: "hard" skills related to the profession of web development
 
-**Mission: Carbon Admission (1000 XP)**
+**Mission: Carbon Admission (1000 SP)**
 Personal: meta-cognitive skills (learning how to learn), self-awareness, self-assessment, etc.
 Social: teamwork, giving and receiving feedback, vulnerability, etc.
 Systemic: capacity to understand, critique, and influence change in larger systems

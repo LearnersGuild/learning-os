@@ -8,7 +8,7 @@ A collection of abilities belonging to a certain skill level.
 
 # Challenge
 
-A mission or project that is part of the game terrain. 
+A mission or project that is part of the game terrain.
 
 # Behavior Set
 
@@ -40,6 +40,10 @@ A skill is made up of skill levels. A number that tracks the development of a pl
 
 Each level is achieved through gaining experience, and abilities.  Once  XP and abilities reach a "leveling up threshold, there's a "leveling up challenge" that levels the skill up the next level, and resets XP and abilities to 0 for that level. Each consecutive level requires more XP and abilities gained to achieve.  
 
+# SP
+
+Skill Points. Every skill is measured in Skill Points (SP).
+
 # Stat Group
 
 A collection of related player stats of the same type.
@@ -51,11 +55,3 @@ A collection of related Stat Groups.
 # Value Stat
 
 A player stat that tracks the player's behavior and habits.
-
-# XP
-
-Experience points. Every skill is measured in Experience Points (XP) and Abilities.
-
-# XP Threshold
-
-The number of XP a player has to achieve for a certain skill level, in order to "unlock" the level up challenge.
