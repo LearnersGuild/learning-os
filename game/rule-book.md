@@ -166,7 +166,7 @@ Stat Groups can be further organized into Stat Quadrants. There are four Stat Qu
 
 ### Player Skill Level, Value Alignment, & Quality Percentage
 
-The highest player stats are the Player's rolled up Skill Level, Values Alignment, and Quality Percentage.
+The highest-level player stats are the Player's rolled up Skill Level, Values Alignment, and Quality Percentage.
 The Player Skill level is the sum of all the Player's individual skill levels. The Values Alignment is the average of all their individual Value Stats, and the Player's Quality Percentage is the average of all their individual Quality Stats.
 
 ## Game Objects
