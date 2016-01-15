@@ -79,6 +79,65 @@ Players who have been playing the game for long enough will also be Mentors. Men
 ### Player Name
 Every player has a name that identifies her in group chat rooms and scoreboards. This name may be derived from a player's "given" name, or may be a non-legally-binding "chosen" name. It should, however, be a name that the player is excited about, as other players will use it to address her and interact with her. It must be a single word (i.e., no spaces) and should be comprised of standard alpha-numeric characters and a subset of punctuation symbols: ('.', '-', '\_').
 
+## Player Stats
+
+There are three types of Player Stats: Skill, Value and Health
+
+### Skill Stats
+
+Players have many different skills that they are developing throughout the game. Each skill has one or more levels which players advance through. Players start each skill at level 0.
+
+Each skill is broken down into stats: experience and abilities. Players level up by acquiring experience and abilities related to that skill. As a player develops a skill past a certain point, they "level up" to a new Skill Level.
+
+#### Experience
+
+As a player navigates the game terrain, they gain Experience Points (XP) related to specific skills. For example, after a player builds an online profile they might gain 50 XP for the CSS skill, and 40 XP for their HTML skill. XP points are meant to track the level of practice a certain player has had using and developing a certain skill. Each skill level has an XP threshold. Once a player crosses that threshold, they have enough XP to attempt to level up. Each consecutive level has a higher XP threshold for any particular skill.
+
+#### Abilities
+
+While XP tracks *how much* a player has practiced a certain skill, Abilities track the capacities, knowledge, and beliefs the player has acquired in their practice. Each skill level has a predetermined Ability Set that a player needs to acquire before they can attempt to level up.
+
+To continue with the above example, the "Build online profile" challenge might have 50 CSS XP, and 40 HTML XP, and the following abilities:
+* I can use html rows and columns to display a table
+* I can extract css variables into a separate file
+
+Once a player completes this challenge these abilities will show up respectively under their HTML Skill Stat, and their CSS Skill stat.
+
+#### Leveling Up
+
+In order for a player to achieve a higher level for a skill, they need to complete a Level Up Challenge. Before they are allowed to attempt the Level Up Challenge they need to have accumulated enough XP for that skill to cross the XP Threshold, and they need to have acquired all of the abilities in that Skill's Ability Set.
+
+Once the Level Up Challenge is successfully completed, the player moves to the next level for that skill, and the XP and abilities are reset to 0.
+
+### Value Stats
+
+Value Stats reflect the degree to which the player demonstrates certain values *through their behavior*. If Skill Stats are a measure of *where* the player has travelled, and *what* they have acquired along the way in terms of experience and abilities, Value Stats reflect *how* the player is traveling and traversing the game terrain.
+
+Value Stats are always expressed through a collection observable and verifiable behaviors (Behavior Set).
+
+For example, an Integrity Value Stat might be composed of the following Behavior Set.
+* I keep my word
+* I show up on time
+* When I'm out of integrity, I quickly name it
+
+Unlike Skill Stats, there are no levels, or leveling up when it comes to Value Stats. Instead Values are represented using a single 1 to 5 score. 5 being the highest demonstration of the value, and 1 being the lowest. Each behavior within a value's behavior set is also scored from 1 to 5.
+
+Value Stats changed based on self, peer, and mentor assessment. They have a "decay factor", so the older an assessment is, the less weight it has on the overall Value score. This gives player's a chance to recover their score from poor behavior and removes the "permanent record" feel of the Value Stat.
+
+### Health Stats
+
+
+### Stat Sheet
+The stat sheet reflects the player's skill levels, their demonstration of values, and their health.
+Every player has a stat sheet that is visible to them that tracks their progress and success in the game.
+
+### Gradual Reveal
+
+Players start tracking a new skill when they encounter a challenge that exposes them to it. They start off with a few skills that are being tracked and as the game develops the list grows.
+
+### Player Level & Player Values
+The highest and most important stat is the player level. This is the sum total of all that players'
+
 ## Game Objects
 
 ### Skills
@@ -87,7 +146,7 @@ Skills are the high-level learning outcomes of our Applied Game.
 
 They are similar to a professional skill or field of the kind that would appear on a job description or the learning outcomes as listed on a course syllabus.
 
-Each skill has one or more levels which learners advance through. Generally, skill levels have a one-to-one correlation with a domain on the Skills Map. Learners who complete all of the required nodes in a domain gain the skill level.
+ Generally, skill levels have a one-to-one correlation with a domain on the Skills Map. Learners who complete all of the required nodes in a domain gain the skill level.
 
 Examples: "Skill: Web Developer; Levels: Novice, Apprentice, Practitioner, Expert", "Skill: Learning Mentor; Levels: Novice, Apprentice, Practitioner"
 
