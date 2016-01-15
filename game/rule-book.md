@@ -13,10 +13,9 @@
 		- [Mentor](#mentor)
 	- [Requirements](#requirements)
 	- [Player Name](#player-name)
+- [Player Stats](#player-stats)
+ - [Skill Stats](#skill-stats)
 - [Game Objects](#game-objects)
-	- [Skills](#skills)
-	- [Skill Points](#skill-points)
-	- [Levels](#levels)
 	- [Missions](#missions)
 		- [Mission Objectives](#mission-objectives)
 			- [Knowledge](#knowledge)
@@ -81,7 +80,7 @@ Every player has a name that identifies her in group chat rooms and scoreboards.
 
 ## Player Stats
 
-There are three types of Player Stats: Skill, Value and Health
+There are three types of Player Stats: Skill, Value and Quality
 
 ### Skill Stats
 
@@ -144,10 +143,6 @@ The stat sheet reflects the player's skill levels, their demonstration of values
 Players start off the game with a minimal stat sheet. They are tracking a handful of skill, value, and quality stats.
 As players advance through they game, they encounter challenges that expose them to new skills, values, and quality rubrics. Once they do, that Stat is added to their Stat Sheet for tracking.
 
-### Player Level & Player Values
-
-The highest and most important stat is the player level. This is the sum total of all that players'
-
 ### Stat Groups
 
 Stats of the same type can be grouped together in a stat group. For example, there might be a "Front End Skills" Stat Group composed of 3 Skill stats: CSS, HTML & jQuery.
@@ -160,7 +155,7 @@ Another example of a Stat Group might be a Quality Stat Group called "Code Quali
 
 Stat Groups can be further organized into Stat Quadrants. There are four Stat Quadrants: Personal, Social, Technical, and Systemic. Stat Quadrants each have a rolled up Level, Quality percentage, and Value Score
 
-### Player Level, Value, & Quality
+### Player Skill Level, Value Alignment, & Quality Percentage
 
 The highest player stats are the Player's rolled up Skill Level, Values Alignment, and Quality Percentage.
 The Player Skill level is the sum of all the Player's individual skill levels. The Values Alignment is the average of all their individual Value Stats, and the Player's Quality Percentage is the average of all their individual Quality Stats.
