@@ -4,15 +4,21 @@
 
 # Challenge
 
+# Evaluation Rubrics
+
 # Health
 
 # Level Up Challenge
 
-# Player Level
+# Player Skill Level
 
 # Skill
 
 # Skill Level
+
+# Stat Group
+
+# Stat Quadrant
 
 # Value
 

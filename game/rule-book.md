@@ -89,7 +89,7 @@ Players have many different skills that they are developing throughout the game.
 
 Each skill is broken down into stats: experience and abilities. Players level up by acquiring experience and abilities related to that skill. As a player develops a skill past a certain point, they "level up" to a new Skill Level.
 
-#### Experience
+#### Experience (XP)
 
 As a player navigates the game terrain, they gain Experience Points (XP) related to specific skills. For example, after a player builds an online profile they might gain 50 XP for the CSS skill, and 40 XP for their HTML skill. XP points are meant to track the level of practice a certain player has had using and developing a certain skill. Each skill level has an XP threshold. Once a player crosses that threshold, they have enough XP to attempt to level up. Each consecutive level has a higher XP threshold for any particular skill.
 
@@ -111,7 +111,7 @@ Once the Level Up Challenge is successfully completed, the player moves to the n
 
 ### Value Stats
 
-Value Stats reflect the degree to which the player demonstrates certain values *through their behavior*. If Skill Stats are a measure of *where* the player has travelled, and *what* they have acquired along the way in terms of experience and abilities, Value Stats reflect *how* the player is traveling and traversing the game terrain.
+Value Stats reflect the degree to which the player demonstrates certain values *through their behavior*. If Skill Stats are a measure of *where* the player has travelled, and *what* they have acquired along the way in terms of experience and abilities, Value Stats reflect *how the player is behaving* while  traveling and traversing the game terrain.
 
 Value Stats are always expressed through a collection observable and verifiable behaviors (Behavior Set).
 
@@ -120,45 +120,53 @@ For example, an Integrity Value Stat might be composed of the following Behavior
 * I show up on time
 * When I'm out of integrity, I quickly name it
 
-Unlike Skill Stats, there are no levels, or leveling up when it comes to Value Stats. Instead Values are represented using a single 1 to 5 score. 5 being the highest demonstration of the value, and 1 being the lowest. Each behavior within a value's behavior set is also scored from 1 to 5.
+Unlike Skill Stats, there are no levels, or leveling up when it comes to Value Stats. Instead Values are represented using a single alignment score from 1 to 5. 5 being the highest demonstration of the value, and 1 being the lowest. Each behavior within a value's behavior set is also scored from 1 to 5.
 
 Value Stats changed based on self, peer, and mentor assessment. They have a "decay factor", so the older an assessment is, the less weight it has on the overall Value score. This gives player's a chance to recover their score from poor behavior and removes the "permanent record" feel of the Value Stat.
 
-### Health Stats
+### Quality Stats
 
+Different than Skill and Value stats, Quality stats are orthogonal to the terrain traversed, and the behavior that a player demonstrates. They indicate the *quality & precision with which someone is traversing the terrain.*
+
+Most Quality stats are derived from post-challenge evaluation rubrics. For example, a challenge might require that a piece of code be evaluated for Code Readability, Test Coverage, and Commit Quality, and Completeness.
+
+These four evaluation criteria are Quality Stats.
+
+Quality stats are measure as a percentage (0 to 100%), and are weighed based on the challenge's XP. They also have a "decay factor" similar to Value Stats.
+
+While most Quality Stats are derived from challenge rubrics, some Quality stats are built into the game mechanics. For example: Self assessment is a Quality Stat that measures the precision with which a player assesses their contribution to a group or pair project. Other built in Quality Stats might include: Other assessment, Feedback Quality, Mentorship Quality...etc.
 
 ### Stat Sheet
-The stat sheet reflects the player's skill levels, their demonstration of values, and their health.
+
 Every player has a stat sheet that is visible to them that tracks their progress and success in the game.
+The stat sheet reflects the player's skill levels, their demonstration of values, and the quality of their play.
 
-### Gradual Reveal
-
-Players start tracking a new skill when they encounter a challenge that exposes them to it. They start off with a few skills that are being tracked and as the game develops the list grows.
+Players start off the game with a minimal stat sheet. They are tracking a handful of skill, value, and quality stats.
+As players advance through they game, they encounter challenges that expose them to new skills, values, and quality rubrics. Once they do, that Stat is added to their Stat Sheet for tracking.
 
 ### Player Level & Player Values
+
 The highest and most important stat is the player level. This is the sum total of all that players'
+
+### Stat Groups
+
+Stats of the same type can be grouped together in a stat group. For example, there might be a "Front End Skills" Stat Group composed of 3 Skill stats: CSS, HTML & jQuery.
+
+The Stat Group level is the sum of all levels of the underlying Skill Stats. In the above example, if the Player was a CSS Level 1, HTML Level 1, and jQuery Level 2, they would be a Front End Skill level 4.
+
+Another example of a Stat Group might be a Quality Stat Group called "Code Quality", this could be composed of 4 Quality Stats: Commit Quality, Test Coverage, Readability, Modularity. In this case, the Quality Stat Group's percentage would be the average of the 4 Quality Stats that it's composed of.
+
+### Stat Quadrants
+
+Stat Groups can be further organized into Stat Quadrants. There are four Stat Quadrants: Personal, Social, Technical, and Systemic. Stat Quadrants each have a rolled up Level, Quality percentage, and Value Score
+
+### Player Level, Value, & Quality
+
+The highest player stats are the Player's rolled up Skill Level, Values Alignment, and Quality Percentage.
+The Player Skill level is the sum of all the Player's individual skill levels. The Values Alignment is the average of all their individual Value Stats, and the Player's Quality Percentage is the average of all their individual Quality Stats.
 
 ## Game Objects
 
-### Skills
-
-Skills are the high-level learning outcomes of our Applied Game.
-
-They are similar to a professional skill or field of the kind that would appear on a job description or the learning outcomes as listed on a course syllabus.
-
- Generally, skill levels have a one-to-one correlation with a domain on the Skills Map. Learners who complete all of the required nodes in a domain gain the skill level.
-
-Examples: "Skill: Web Developer; Levels: Novice, Apprentice, Practitioner, Expert", "Skill: Learning Mentor; Levels: Novice, Apprentice, Practitioner"
-
-### Skill Points
-
-Skill points, or SP for short, are numeric values representing advancement towards a particular skill. They are akin to XP (experience points) in game design.
-
-**The primary motivator for learners is to accumulate SP.** These are the primary signifiers of learning in our Applied Game, and as such, they should be _accurate_ and _precise_ indicators.
-
-Skill points are gained by completing tasks (as defined on the Skills Map) and are associated with specific _objectives_.
-
-### Levels
 
 ### Missions
 
