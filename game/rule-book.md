@@ -55,7 +55,7 @@
 You are here to create a dignified livelihood.
 There are many paths to a dignified livelihood.
 This game sets up many experiences to facilitate you discovering your path.
-The path is an eSPression of dignified livelihood.
+The path is an expression of dignified livelihood.
 
 It is a path of play, the empowerment of self teaching, of creating meaning and learning with others, of bringing other people forward with you.
 This a journey, you get there by earning your way there.
@@ -74,7 +74,7 @@ The objective of the game is to secure a livelihood with dignity and continuous 
 ### Roles
 
 #### Aspirant
-An Aspirant is an individual who has eSPressed interest in joining Learners Guild, but has not yet become part of a Pod. She has not yet been vetted by existing Players (v0: LG Partners) as meeting the baseline criteria required to become a Player.
+An Aspirant is an individual who has expressed interest in joining Learners Guild, but has not yet become part of a Pod. She has not yet been vetted by existing Players (v0: LG Partners) as meeting the baseline criteria required to become a Player.
 
 #### Learner
 A Learner is an individual playing the game. She will follow her own path through the terrain in the game and will advance from level to level as she does so. She will initially be a member of a single Pod, but (as she advances in the game) will also become part of other Pods in her capacity as a Mentor (see below).
@@ -150,7 +150,7 @@ Every player has a stat sheet that is visible to them that tracks their progress
 The stat sheet reflects the player's skill levels, their demonstration of values, and the quality of their play.
 
 Players start off the game with a minimal stat sheet. They are tracking a handful of skill, value, and quality stats.
-As players advance through they game, they encounter challenges that eSPose them to new skills, values, and quality rubrics. Once they do, that Stat is added to their Stat Sheet for tracking.
+As players advance through they game, they encounter challenges that expose them to new skills, values, and quality rubrics. Once they do, that Stat is added to their Stat Sheet for tracking.
 
 ### Stat Groups
 
@@ -224,7 +224,7 @@ Challenge in the game is worth 0 or more skill-points (SPs) across 4 different s
 - **Technical**: "hard" skills related to the profession of web development
 - **Systemic**: capacity to understand, critique, and influence change in larger systems
 
-SPs contribute directly to how a player advances through Levels in the game. In order to move from lower Levels to higher Levels, a Player must achieve a minimum number of SPs in each of the 4 areas. Lower Levels may not require SPs across all 4 skill-areas, but more advanced levels will require a minimum number of SPs across each area. This incentivizes players to develop a well-rounded set of skills without excelling in one skill-area at the eSPense of the others. SPs are acquired by completing challenges.
+SPs contribute directly to how a player advances through Levels in the game. In order to move from lower Levels to higher Levels, a Player must achieve a minimum number of SPs in each of the 4 areas. Lower Levels may not require SPs across all 4 skill-areas, but more advanced levels will require a minimum number of SPs across each area. This incentivizes players to develop a well-rounded set of skills without excelling in one skill-area at the expense of the others. SPs are acquired by completing challenges.
 
 _For example_, an implementation of Levels may look as follows:
 
