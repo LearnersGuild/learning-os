@@ -1,16 +1,35 @@
 # Game Terrain Architecture
 
 
-Skills each broken down into skill levels.
-Each skill level defined by an Abilities Set, and a Level Challenge.
+## Overview
+
+The terrain of our applied game is represented as a list of Skills, and Quality Rubrics.
+
+Skills are each broken down into Skill Levels.
+Each Skill Level defined by an Abilities Set, a Challenge Set.
+
+The Skill Levels (along with their Abilities Set and Challenge Set) define *what* the player will be engaged in, while the Quality Rubrics defines *how* the player's accomplishments will be evaluated. Quality Rubrics are composed of a Quality Stat, and a Quality Description that spells out how a player's work for that particular challenge is evaluated.
+
+Players traverse the terrain by working on challenges that are available to them in for their skill levels. As they level up, more challenges are unlocked and are available to them.
+
+## Skill dependancies
+
+Skill Levels are locked to a player, unless she has achieved its dependancies. A Skill Level dependancies are expressed through other skill levels. Each Skill Level is, by default, dependent on the previous level for that skill.
+Skill Levels can also be optionally dependent on another Skill Level. Skill Level 0s that don't have other Level dependancies are automatically unlocked.
+
+For example: Full Stack Dev Level 3, is automatically dependent on Full Stack Dev Level 2, but could also be dependent on Front End Level 2, Database Level 1, and Teamwork Level 1. Meanwhile, SQL Level 0, might not be automatically unlocked, because it depends on Database Level 1.
+
+The Skill Level Dependancies are articulated and expressed through the Skills Map.
+
+
 
 A challenge can be: a project, or a drill.
 A challenge has:
 1. objectives
-2. 
+2.
 
 
-The terrain of our applied game is represented as a map of skills, called the Skills Map.
+
 
 It currently lives in the [skills-map repository on GitHub][skills-map-repo].
 
