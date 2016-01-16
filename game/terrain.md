@@ -6,7 +6,7 @@
 		- [Example Pre-Game Challenges](#example-pre-game-challenges)
 			- [Challenge: JS Tic-Tac-Toe](#challenge-js-tic-tac-toe)
 	- [Game Finish](#game-finish)
-		- [Final Challenge: Acquire Dignified Employment](#final-challenge-acquire-dignified-employment)
+		- [Level Challenge: Acquire Dignified Employment](#level-challenge-acquire-dignified-employment)
 - [Internal Boundaries: Skill Levels](#internal-boundaries-skill-levels)
 	- [Progression through Skill Levels](#progression-through-skill-levels)
 - [Timeline: Themes and Phases](#timeline-themes-and-phases)
@@ -24,7 +24,7 @@ While individuals and pods will move through the terrain at different speeds, th
 
 ## External Boundaries: Start and Finish
 
-The terrain starts after a pod finishes admissions and ends when the pod completes the final challenge or when 40 weeks are up, whichever comes first.
+The terrain starts after a pod finishes admissions and ends when the pod completes the Final Level Challenge or when 40 weeks are up, whichever comes first.
 
 ### Game Start
 
@@ -81,11 +81,11 @@ To obtain a score (i.e. SP earned for each skill), calculate the mean % of the a
 
 ### Game Finish
 
-The final challenge of the game is for every learner in the pod to secure employment as a software developer.
+The final Level Challenge of the game is for every learner in the pod to secure employment as a software developer.
 
 This challenge will require the most time, effort, and perseverance. Other challenges will build towards it, but this one represents the "ultimate boss level" of the applied game. To complete this challenge is to win the game.
 
-#### Final Challenge: Acquire Dignified Employment
+#### Final Level Challenge: Acquire Dignified Employment
 
 This challenge is complete when every learner in the pod has secured a job as a software developer.
 
@@ -125,13 +125,13 @@ For all of the skills learners are developing, they advance by unlocking/achievi
 
 ### Progression through Skill Levels
 
-To "level up" in a skill, learners and pods complete final challenges (i.e. "boss levels").
+To "level up" in a skill, learners and pods complete Level Challenges (i.e. "boss levels").
 
-These final challenges start small and focused, and grow in both length and scope. Learners will complete many final challenges per phase.
+These Level Challenges start small and focused, and grow in both length and scope. Learners will complete many Level Challenges per phase.
 
 There are both final solo and a final pod challenge, which must be completed individually and by the whole pod, respectively. Pod challenges are team challenges, with variance in team size (min 3, max 6).
 
-Listed below are suggested progressions in the type and duration of final challenges, along with their suggested durations:
+Listed below are suggested progressions in the type and duration of Level Challenges, along with their suggested durations:
 
 | Final Solo Challenge        | Final Pod Challenge                                   |
 |:--------------------------|:----------------------------------------------------|
