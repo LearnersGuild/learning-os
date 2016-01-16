@@ -7,20 +7,24 @@
 			- [Mission: JS Tic-Tac-Toe](#mission-js-tic-tac-toe)
 	- [Game Finish](#game-finish)
 		- [Final Mission: Acquire Dignified Employment](#final-mission-acquire-dignified-employment)
-- [Internal Boundaries: Themes and Phases](#internal-boundaries-themes-and-phases)
+- [Internal Boundaries: Skill Levels](#internal-boundaries-skill-levels)
+	- [Progression through Skill Levels](#progression-through-skill-levels)
+- [Timeline: Themes and Phases](#timeline-themes-and-phases)
 	- [The Four Themes](#the-four-themes)
 	- [Progression through Themes](#progression-through-themes)
 	- [Progression through Phases](#progression-through-phases)
 
 <!-- /TOC -->
 
-The game terrain covers **40 weeks** of learning.
+The game terrain is composed of **missions** that help learners to build one or more **skills**.
 
-It is organized into **8 phases** of 5 weeks each. These phases are grouped into **4 themes** of 2 phases each.
+The timeline of the program covers **40 weeks** of learning. It is organized into **8 phases** of 5 weeks each. These phases are grouped into **4 themes** of 2 phases each.
+
+While individuals and pods will move through the terrain at different speeds, the timeline serves as useful guideposts and reference points for progress toward the game objective.
 
 ## External Boundaries: Start and Finish
 
-The terrain starts after a pod finishes admissions and ends when the pod completes the game objective or when 40 weeks are up, whichever comes first.
+The terrain starts after a pod finishes admissions and ends when the pod completes the final mission or when 40 weeks are up, whichever comes first.
 
 ### Game Start
 
@@ -115,10 +119,35 @@ _Assign a % score to each of the following._
 
 To obtain a score (i.e. SP earned for each skill), calculate the mean % of the above rubric and multiply by the total SP for each skill.
 
+## Internal Boundaries: Skill Levels
 
-## Internal Boundaries: Themes and Phases
+For all of the skills learners are developing, they advance by unlocking/achieving **skill levels**.
 
-Over the course of the program, learners experience an increase in personal and group autonomy. Inversely, they experience a decrease in structured content and clearly-defined tasks.
+### Progression through Skill Levels
+
+To "level up" in a skill, learners and pods complete final missions (i.e. "boss levels").
+
+These final missions start small and focused, and grow in both length and scope. Learners will complete many final missions per phase.
+
+There are both final solo and a final pod mission, which must be completed individually and by the whole pod, respectively. Pod missions are team missions, with variance in team size (min 3, max 6).
+
+Listed below are suggested progressions in the type and duration of final missions, along with their suggested durations:
+
+| Final Solo Mission        | Final Pod Mission                                   |
+|:--------------------------|:----------------------------------------------------|
+| Online profile (2 days)   | Client-side app - 3 groups, defined specs (1 wk)    |
+| Personal site (1 wk)      | Full-stack web app - 3 groups, defined specs (1 wk) |
+| Passion project (1 wk)    | Web app - 3 groups, 3 options (1.5 wks)             |
+| Passion project (2 wks)   | Web app - 2 groups, 6 options (2 wks)               |
+| Deep dive project (1 wk)  | Full product - 3 groups, team choice (2.5 wks)      |
+| Deep dive project (2 wks) | Full product - 2 groups, team choice (4 wks)        |
+| Passion project (3 wks)   | Get a job (10 wks)                                  |
+
+## Timeline: Themes and Phases
+
+The 40 weeks of the program are broken down into 8 5-week phases, which are in turn grouped into 4 2-phase themes.
+
+Over the course of the program, learners experience an increase in personal and group autonomy.
 
 The themes are meant to serve as an articulation of this design. Learners and pods move from building and doing according to explicit expectations and rules towards a place where they set their own goals and direct their own group and individual learning.
 
@@ -137,7 +166,7 @@ The themes are better thought of as a macro-cycle of learning which is reproduce
 
 For each theme, there are different outcomes and primary activities for each of the four quadrants.
 
-Listed in the table below are the main outcomes for each theme, split by quadrant:
+Listed in the table below are the general activities for each theme, split by quadrant:
 
 |               | Build                                      | Explore                                                   | Analyze                                                         | Create                                                       |
 |:--------------|:-------------------------------------------|:----------------------------------------------------------|:----------------------------------------------------------------|:-------------------------------------------------------------|
@@ -148,21 +177,8 @@ Listed in the table below are the main outcomes for each theme, split by quadran
 
 ### Progression through Phases
 
-Each phase has 0 or more final missions (i.e. "boss levels") that mark the end of the phase.
+Phases are meant to serve as markers along the terrain, to be used by pods for gauging velocity and progress. Pods and learners may use them as part of their goal-setting, for example, "Reach level 7 in Front-End Dev by the end of Phase 3".
 
-These final missions start small and focused, and grow in both length and scope. They follow fibonacci-inspired pattern of growth: 1 week, 1 week, 2 weeks, 3 weeks, etc.
+They are useful mostly as a way to provide a rhythm to the gameplay.
 
-Most phases have both a final solo and a final pod mission, which must be completed individually and by the whole pod, respectively. Pod missions are team missions, with variance in team size (min 3, max 6).
-
-Listed below are the final missions for each phase:
-
-|             | Final Solo Mission        | Final Pod Mission                            |
-|:------------|:--------------------------|:---------------------------------------------|
-| **Phase 1** | Online profile (2 days)   | Client-side app - quiz game (1 wk)           |
-| **Phase 2** | Personal site (1 wk)      | Full-stack web app - LMS (1 wk)              |
-| **Phase 3** | Passion project (1 wk)    | Web app - 3 groups, 3 options (2 wks)        |
-| **Phase 4** | Passion project (2 wks)   | Web app - 2 groups, 6 options (3 wks)        |
-| **Phase 5** | Deep dive project (3 wks) | N/A                                          |
-| **Phase 6** | N/A                       | Full product - 2 groups, team choice (5 wks) |
-| **Phase 7** | Passion project (5 wks)   | Get a job (3 wks, continues to next phase)   |
-| **Phase 8** | Learner choice (5 wks)    | Get a job (5 wks)                            |
+Other than that, they have no meaning. Phases do not have any direct, explicit impact on gameplay mechanics.
