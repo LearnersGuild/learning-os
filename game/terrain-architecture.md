@@ -46,15 +46,18 @@ A Challenge belongs to at least 1 or more skill levels. Unless a player has achi
 For example, the "Build Online Resume" can have the following Skill Levels:
 
 **CSS Level 0 (100 SP)**
+
 Abilities:
 - can apply simple responsive design principles
 
 **HTML Level 1 (100 SP)**
+
 Abilities:
 - can build a table structure in html without using html tables
 - can separate html and css files and link them
 
 **Web Ops Level 0 (50 SP)**
+
 Abilities
 - can purchase & setup domain
 - can setup hosting
@@ -107,53 +110,50 @@ Drills are used to develop habits, build behavior, and to apply and gain knowled
 
 Examples: "Write a binary search algorithm that passes a provided test suite.", "Outline endpoints for a RESTful API exposing category, product, and shopping cart resources."
 
+### Level Challenge
+
+A Level Challenge is designed to test/exercises the entire Abilities Set for the *one or more* Skill Levels associated with a Challenge.
+
 
 ## Example Terrain Elements
 
-### Mission: Triad Sourcing
+### Mission:
 #### Overview
 #### Objectives
-#### Skill Levels
+#### Skill Level
+** Level 0 ( SP)**
+
+Abilities
+- can
+
 #### Quality Rubrics
 #### Time
 #### Players
 
-**Overview**
-**Objectives**
-**Skill Levels**
-**Quality Rubrics**
-**Time**
-**Players**
+### Project: How the web works presentation
+#### Objectives
+* Figure out how the web works
+* Present it to your POD in 5 minutes only using a white board
+#### Time: 3 hours
+#### Players: 3/3
+#### Skill Level
+** Networking: Level 0 (100 SP)**
+
+Abilities
+- can articulate how the internet works
+
+** Presentation: Level 0 (50 SP)**
+
+Abilities
+- can present a complex concept to a group
+
+#### Quality Rubrics
+**Completeness:** How complete was your research? How much of it was accurately presented?
+**Work Quality:** How clear was your presentation? How engaging was it?
 
 
-**Number of players:** 3
-**Objective:** 3 player reading and presentation to pod.
-**Time:** 3 hour
-**XP:** 50
-**Scoring:** (presentation will be graded on content, novelty of presentation, etc. pod grades presentation average)
-
-### Mission: Playing Well With Others
-**Number of players:** 2
-**Objective:** gain points on the “WE” quadrant
-Peer program with someone with whom you have had a previous clearing session.
-
-**Pre-requisite:**
-I have pair programmed with this player before
-I have cleared with this player since pairing with them
-
-**Scoring:**
-- Score the experience with your partner
-- Get the average score of the quest
-  - if the average score of the quest is higher than the previous average from previous quest
-    - assign the current average as the final points for the quest
-  - if the average score of the quest is lower than the previous average from previous quest
-    - Decrease the current average by the delta between the two scores and assign as the final points for the quest
-
-### Mission: 5 week personal goals
-**Time:** 1.5 hour
-**Number:** solo + pod presentation
-**Points:** 100
-**Game Play:**
+### Project: 5 week personal goals
+#### Objectives
 - Review past XP goals for 4 quadrants: Personal, Social, Technical, Systems
 - Review points disparity between past goal and present location, and resulting bonus points (see goal-location table)
 - Write one paragraph analysis/discussion of past goal and present reality
@@ -167,67 +167,50 @@ I have cleared with this player since pairing with them
 - Update pod on any changes via slack
 - Take first step towards new goals
 
-**Scoring:**
-20 points each for:
-- Aspiration
-- Realism
-- Actionable plan
-- Brevity
-- Novelty
+#### Time: 1.5 hours
+#### Players: 1/1
+#### Skill Level
+** Networking: Level 0 (100 SP)**
 
-### Mission: Twitter Clone (self-documenting)
-**Play Type:** 2 Players, Player vs. Player
-**SPs:** 0 (P) / 100 (So) / 100 (T) / 0 (Sy)
-**Time Limit:** 4 hours
-**Description:**
+Abilities
+- can articulate how the internet works
+
+** Presentation: Level 0 (50 SP)**
+
+Abilities
+- can present a complex concept to a group
+
+#### Quality Rubrics
+**Completeness:** How many of the objectives did you attempt/complete?
+**Work Quality:** How brief, actionable, and novel was your work?
+
+### Drill: Self-Documenting Twitter Clone
+#### Overview
 The objective of this challenge is to write code that is self-documenting in order to create a web-based Twitter clone with the following features:
 - Create account
 - Sign-in
 - Follow / unfollow
 - Publish new tweet
 - Read recent tweets
-**Game Play:**
+
+#### Objectives
 - (25 minutes) Read through the challenge and ensure that both players have a shared understanding of the exercise.
 - (90 minutes) Independently code as much of a solution to the problem as you can. Commit frequently.
 - (5 minutes) Switch codebases (clone each other’s repositories).
 - (90 minutes) Complete the code for the challenge using the other person’s codebase as a starting point.
 - (25 minutes) Review each other’s code and score each other in the 3 relevant skill-areas:
 - (5 minutes) Score the other player.
-**Scoring:**
-- (So)cial points should be based on the quality of the feedback received.
-- (T)echnical points should be awarded based on code readability, quality, follow-through on original design, and whether or not the challenge was completed successfully.
+#### Time: 4 hours
+#### Players: 2/2
+#### Skill Level
+** Javascript: Level 2 (200 SP)**
 
-### Mission: Booster Shot
-**Play Type:** 2 Players (Player + Mentor), Pair vs. Game
-**SPs:** 0 (P) / 100 (So) / 200 (T) / 0 (Sy)
-**Time Limit:** up to 4 hours
-**Description:**
-The objective of this challenge is to improve the understanding of a previously-completed challenge. The Player should present the code to the Mentor for a challenge that was either (a) not completed successfully, or (b) completed, but scored poorly. The challenge chosen should have a time limit of no more than 2 hours.
-**Game Play:**
-- (15-30 minutes) Mentee presents code for challenge to Mentor.
-- (60-90 minutes) Player and Mentor create a new branch and refactor, reimplement, and / or complete the challenge together.
-- (remaining time) Player redoes original challenge alone, without referring to codebase worked on with Mentor. Mentor then reviews the code.
-**Scoring (Player):**
-- (So)cial points awarded by Mentor for clarity of code presentation, quality of questions asked during pair programming, and willingness to be coached.
-- (T)echnical points awarded by Mentor based on quality and completeness of code for challenge.
-**Scoring (Mentor):**
-- (So)cial points awarded by Player based on teaching capacity of Mentor, patience, and clarity of communication.
-- (T)echnical points awarded to Mentor based on delta in score between the original Player attempt at the challenge and the post-pairing attempt (as a percentage of the delta between original score and total possible score).
+Abilities
+- can write code that is easily readable by another readable
+- can effectively read other people's code and build on it
 
-### Mission: To-do List
-**Number of players:** 1 Player, Player vs. Game
-**SPs:** 100 (P) / 0 (So) / 100 (T) / 0 (Sy)
-**Time Limit:** 2 hours
-**Description:**
-The objective of this challenge is to implement a console-based to-do list with the following features:
-- Create new task
-- Mark task complete
-- Save tasks to disk
-- Load tasks from disk
-**Game Play:** Implement and submit the code.
+** Feedback: Level 1 (50 SP)**
 
-### Mission: Dragon Boss
-**Number of players:** 2
-**Objective:** Defend strategy and code for problem x in the face of Dragon (expert coder)
-**Time:**  30 mins
-**XP:** 250 Dragon awards points
+#### Quality Rubrics
+**Completeness:** How much of the twitter-clone feature-set did you complete?
+**Code Readability:** How easy was it for your partner to read your code? How easy was it for you to read theirs?
