@@ -3,10 +3,10 @@
 
 - [External Boundaries: Start and Finish](#external-boundaries-start-and-finish)
 	- [Game Start](#game-start)
-		- [Example Pre-Game Missions](#example-pre-game-missions)
-			- [Mission: JS Tic-Tac-Toe](#mission-js-tic-tac-toe)
+		- [Example Pre-Game Challenges](#example-pre-game-challenges)
+			- [Challenge: JS Tic-Tac-Toe](#challenge-js-tic-tac-toe)
 	- [Game Finish](#game-finish)
-		- [Final Mission: Acquire Dignified Employment](#final-mission-acquire-dignified-employment)
+		- [Final Challenge: Acquire Dignified Employment](#final-challenge-acquire-dignified-employment)
 - [Internal Boundaries: Skill Levels](#internal-boundaries-skill-levels)
 	- [Progression through Skill Levels](#progression-through-skill-levels)
 - [Timeline: Themes and Phases](#timeline-themes-and-phases)
@@ -16,7 +16,7 @@
 
 <!-- /TOC -->
 
-The game terrain is composed of **missions** that help learners to build one or more **skills**.
+The game terrain is composed of **challenges** that help learners to build one or more **skills**.
 
 The timeline of the program covers **40 weeks** of learning. It is organized into **8 phases** of 5 weeks each. These phases are grouped into **4 themes** of 2 phases each.
 
@@ -24,17 +24,17 @@ While individuals and pods will move through the terrain at different speeds, th
 
 ## External Boundaries: Start and Finish
 
-The terrain starts after a pod finishes admissions and ends when the pod completes the final mission or when 40 weeks are up, whichever comes first.
+The terrain starts after a pod finishes admissions and ends when the pod completes the final challenge or when 40 weeks are up, whichever comes first.
 
 ### Game Start
 
 For a pod to start the game, every member of the pod must have met the admissions criteria in each of the 4 quadrants.
 
-Although these criteria are not currently a part of the game, the following is an example mission that demonstrates _roughly_ what level of technical skill is expected for a player/learner to have achieved before beginning the game.
+Although these criteria are not currently a part of the game, the following is an example challenge that demonstrates _roughly_ what level of technical skill is expected for a player/learner to have achieved before beginning the game.
 
-#### Example Pre-Game Missions
+#### Example Pre-Game Challenges
 
-##### Mission: JS Tic-Tac-Toe
+##### Challenge: JS Tic-Tac-Toe
 
 Build a tic-tac-toe game in JavaScript and publish as a GitHub pages site.
 
@@ -69,7 +69,7 @@ Submit the URL of the published website.
 
 _Assign a % score to each of the following._
 
-- Completeness: submission game meets all criteria
+- Completeness: subchallenge game meets all criteria
 - Quality: code is well-written, with no obvious bugs or errors
 - Comprehension: learner can explain how and why they arrived at their solution
 
@@ -77,17 +77,17 @@ _Assign a % score to each of the following._
 
 To obtain a score (i.e. SP earned for each skill), calculate the mean % of the above rubric and multiply by the total SP for each skill.
 
-<!-- TODO: add pre-game mission(s) and objectives to address personal, social, and systems -->
+<!-- TODO: add pre-game challenge(s) and objectives to address personal, social, and systems -->
 
 ### Game Finish
 
-The final mission of the game is for every learner in the pod to secure employment as a software developer.
+The final challenge of the game is for every learner in the pod to secure employment as a software developer.
 
-This mission will require the most time, effort, and perseverance. Other missions will build towards it, but this one represents the "ultimate boss level" of the applied game. To complete this mission is to win the game.
+This challenge will require the most time, effort, and perseverance. Other challenges will build towards it, but this one represents the "ultimate boss level" of the applied game. To complete this challenge is to win the game.
 
-#### Final Mission: Acquire Dignified Employment
+#### Final Challenge: Acquire Dignified Employment
 
-This mission is complete when every learner in the pod has secured a job as a software developer.
+This challenge is complete when every learner in the pod has secured a job as a software developer.
 
 **Criteria:**
 - Every member of your pod has a job where they are paid to build software.
@@ -125,15 +125,15 @@ For all of the skills learners are developing, they advance by unlocking/achievi
 
 ### Progression through Skill Levels
 
-To "level up" in a skill, learners and pods complete final missions (i.e. "boss levels").
+To "level up" in a skill, learners and pods complete final challenges (i.e. "boss levels").
 
-These final missions start small and focused, and grow in both length and scope. Learners will complete many final missions per phase.
+These final challenges start small and focused, and grow in both length and scope. Learners will complete many final challenges per phase.
 
-There are both final solo and a final pod mission, which must be completed individually and by the whole pod, respectively. Pod missions are team missions, with variance in team size (min 3, max 6).
+There are both final solo and a final pod challenge, which must be completed individually and by the whole pod, respectively. Pod challenges are team challenges, with variance in team size (min 3, max 6).
 
-Listed below are suggested progressions in the type and duration of final missions, along with their suggested durations:
+Listed below are suggested progressions in the type and duration of final challenges, along with their suggested durations:
 
-| Final Solo Mission        | Final Pod Mission                                   |
+| Final Solo Challenge        | Final Pod Challenge                                   |
 |:--------------------------|:----------------------------------------------------|
 | Online profile (2 days)   | Client-side app - 3 groups, defined specs (1 wk)    |
 | Personal site (1 wk)      | Full-stack web app - 3 groups, defined specs (1 wk) |
