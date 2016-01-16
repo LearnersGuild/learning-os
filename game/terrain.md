@@ -47,6 +47,8 @@ Submit the URL of the published website.
 - When a stalemate has been reached, game is over
 - When game is over, game notifies which player is winner or if game is a stalemate
 
+**Suggested Time:** 3-5 hours
+
 **Skills:**
 - Programming (150 SP - Technical)
 	- Identify, explain, and apply variables in JavaScript code
@@ -85,6 +87,8 @@ This mission is complete when every learner in the pod has secured a job as a so
 
 **Criteria:**
 - Every member of your pod has a job where they are paid to build software.
+
+**Suggested Time:** 6-10 weeks
 
 **Skills:**
 - Self-Awareness (2000 SP - Personal)
