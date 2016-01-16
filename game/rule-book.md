@@ -18,12 +18,12 @@
  	- [Experience (SP)](#experience-SP)
 	- [Abilities](#abilities)
 	- [Leveling Up](#leveling-up)
- - [Value Stats](#value-stats)
+ - [Health Stats](#health-stats)
  - [Quality Stats](#quality-stats)
  - [Stat Sheet](#stat-sheet)
  - [Stat Groups](#stat-groups)
  - [Stat Quadrants](#stat-quadrants)
- - [Player Skill Level, Value Alignment, & Quality Percentage](#player-skill-level-value-alignment--quality-percentage)
+ - [Player Skill Level, Health, & Quality Percentage](#player-skill-level-health--quality-percentage)
 - [Game Objects](#game-objects)
 	- [Missions](#missions)
 		- [Mission Objectives](#mission-objectives)
@@ -89,7 +89,7 @@ Every player has a name that identifies her in group chat rooms and scoreboards.
 
 ## Player Stats
 
-There are three types of Player Stats: Skill, Value and Quality
+There are three types of Player Stats: Skill, Health and Quality
 
 ### Skill Stats
 
@@ -117,40 +117,40 @@ In order for a player to achieve a higher level for a skill, they need to comple
 
 Once the Level Up Challenge is successfully completed, the player moves to the next level for that skill: The SP is reset to 0, and whole new Abilities Set is exposed to them.
 
-### Value Stats
+### Health Stats
 
-Value Stats reflect the degree to which the player demonstrates certain values *through their behavior*. If Skill Stats are a measure of *where* the player has travelled, and *what* they have acquired along the way in terms of Skill Points and abilities, Value Stats reflect *how the player is behaving* while  traveling and traversing the game terrain.
+Health Stats reflect the degree to which the player demonstrates certain values *through their observable behavior*. If Skill Stats are a measure of *where* the player has travelled, and *what* they have acquired along the way in terms of Skill Points and abilities, Health Stats reflect *how the player is behaving* while  traveling and traversing the game terrain.
 
-Value Stats are always expressed through a collection observable and verifiable behaviors (Behavior Set).
+Health Stats are always expressed through a collection observable and verifiable behaviors (Behavior Set).
 
-For example, an Integrity Value Stat might be composed of the following Behavior Set.
+For example, an Integrity Health Stat might be composed of the following Behavior Set.
 * I keep my word
 * I show up on time
 * When I'm out of integrity, I quickly name it
 
-Unlike Skill Stats, there are no levels, or leveling up when it comes to Value Stats. Instead Values are represented using a single alignment score from 1 to 5. 5 being the highest demonstration of the value, and 1 being the lowest. Each behavior within a value's behavior set is also scored from 1 to 5.
+Unlike Skill Stats, there are no levels, or leveling up when it comes to Health Stats. Instead Health is represented using a single alignment score from 1 to 5. 5 being the highest demonstration of the behaviors related to the stat, and 1 being the lowest. Each behavior within a Health Stats behavior set is also scored from 1 to 5.
 
-Value Stats changed based on self, peer, and mentor assessment. They have a "decay factor", so the older an assessment is, the less weight it has on the overall Value score. This gives player's a chance to recover their score from poor behavior and removes the "permanent record" feel of the Value Stat.
+Health Stats changed based on self, peer, and mentor assessment. They have a "decay factor", so the older an assessment is, the less weight it has on the overall Health score. This gives player's a chance to recover their score from poor behavior and removes the "permanent record" feel of the Health Stat.
 
 ### Quality Stats
 
-Different than Skill and Value stats, Quality stats are orthogonal to the terrain traversed, and the behavior that a player demonstrates. They indicate the *quality & precision with which someone is traversing the terrain.*
+Different than Skill and Health stats, Quality stats are orthogonal to the terrain traversed, and the behavior that a player demonstrates. They indicate the *quality & precision with which someone is traversing the terrain.*
 
 Most Quality stats are derived from post-challenge evaluation rubrics. For example, a challenge might require that a piece of code be evaluated for Code Readability, Test Coverage, and Commit Quality, and Completeness.
 
 These four evaluation criteria are Quality Stats.
 
-Quality stats are measure as a percentage (0 to 100%), and are weighed based on the challenge's SP. They also have a "decay factor" similar to Value Stats.
+Quality stats are measure as a percentage (0 to 100%), and are weighed based on the challenge's SP. They also have a "decay factor" similar to Health Stats.
 
 While most Quality Stats are derived from challenge rubrics, some Quality stats are built into the game mechanics. For example: Self assessment is a Quality Stat that measures the precision with which a player assesses their contribution to a group or pair project. Other built in Quality Stats might include: Other assessment, Feedback Quality, Mentorship Quality...etc.
 
 ### Stat Sheet
 
 Every player has a stat sheet that is visible to them that tracks their progress and success in the game.
-The stat sheet reflects the player's skill levels, their demonstration of values, and the quality of their play.
+The stat sheet reflects the player's skill levels, their demonstration of values (health), and the quality of their play.
 
-Players start off the game with a minimal stat sheet. They are tracking a handful of skill, value, and quality stats.
-As players advance through they game, they encounter challenges that expose them to new skills, values, and quality rubrics. Once they do, that Stat is added to their Stat Sheet for tracking.
+Players start off the game with a minimal stat sheet. They are tracking a handful of skill, health, and quality stats.
+As players advance through they game, they encounter challenges that expose them to new skills, values (health), and quality rubrics. Once they do, that Stat is added to their Stat Sheet for tracking.
 
 ### Stat Groups
 
@@ -162,12 +162,12 @@ Another example of a Stat Group might be a Quality Stat Group called "Code Quali
 
 ### Stat Quadrants
 
-Stat Groups can be further organized into Stat Quadrants. There are four Stat Quadrants: Personal, Social, Technical, and Systemic. Stat Quadrants each have a rolled up Level, Quality percentage, and Value Score
+Stat Groups can be further organized into Stat Quadrants. There are four Stat Quadrants: Personal, Social, Technical, and Systemic. Stat Quadrants each have a rolled up Level, Quality percentage, and Health Score
 
-### Player Skill Level, Value Alignment, & Quality Percentage
+### Player Skill Level, Health, & Quality Percentage
 
-The highest-level player stats are the Player's rolled up Skill Level, Values Alignment, and Quality Percentage.
-The Player Skill level is the sum of all the Player's individual skill levels. The Values Alignment is the average of all their individual Value Stats, and the Player's Quality Percentage is the average of all their individual Quality Stats.
+The highest-level player stats are the Player's rolled up Skill Level, Health, and Quality Percentage.
+The Player Skill level is the sum of all the Player's individual skill levels. The Health is the *lowest* of all their individual Health Stats, and the Player's Quality Percentage is the *average* of all their individual Quality Stats.
 
 ## Game Objects
 
