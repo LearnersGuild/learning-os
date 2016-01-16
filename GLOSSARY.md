@@ -6,17 +6,21 @@ Capacities, knowledge, and beliefs the player acquires through attempting challe
 
 A collection of abilities belonging to a certain skill level.
 
-# Challenge
-
-A mission or project that is part of the game terrain.
-
 # Behavior Set
 
 A collection of behaviors that define a Value Stat.
 
+# Challenge
+
+A mission or project that is part of the game terrain.
+
 # Evaluation Rubrics
 
 A set of dimensions that are used to evaluate a challenge once it's completed.
+
+# Health Stat
+
+A player stat that reflects the player's behavior, habits & value alignment.
 
 # Level Challenge
 
@@ -51,7 +55,3 @@ A collection of related player stats of the same type.
 # Stat Quadrant
 
 A collection of related Stat Groups.
-
-# Value Stat
-
-A player stat that tracks the player's behavior and habits.
