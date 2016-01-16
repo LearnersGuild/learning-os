@@ -18,7 +18,7 @@ A collection of behaviors that define a Value Stat.
 
 A set of dimensions that are used to evaluate a challenge once it's completed.
 
-# Level Up Challenge
+# Level Challenge
 
 A special required challenge that needs to be accomplished in order for a player to level up for a particular skill.
 

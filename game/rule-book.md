@@ -113,9 +113,9 @@ Once a player completes this challenge these abilities will show up respectively
 
 #### Leveling Up
 
-In order for a player to achieve a higher level for a skill, they need to complete a Level Up Challenge. Before they are allowed to attempt the Level Up Challenge they need to have acquired all of the abilities in that Skill's Ability Set.
+In order for a player to achieve a higher level for a skill, they need to complete a Level Challenge. Before they are allowed to attempt the Level Challenge they need to have acquired all of the abilities in that Skill's Ability Set.
 
-Once the Level Up Challenge is successfully completed, the player moves to the next level for that skill: The SP is reset to 0, and whole new Abilities Set is exposed to them.
+Once the Level Challenge is successfully completed, the player moves to the next level for that skill: The SP is reset to 0, and whole new Abilities Set is exposed to them.
 
 ### Value Stats
 
@@ -130,7 +130,7 @@ For example, an Integrity Value Stat might be composed of the following Behavior
 
 Unlike Skill Stats, there are no levels, or leveling up when it comes to Value Stats. Instead Values are represented using a single alignment score from 1 to 5. 5 being the highest demonstration of the value, and 1 being the lowest. Each behavior within a value's behavior set is also scored from 1 to 5.
 
-Value Stats changed based on self, peer, and mentor assessment. They have a "decay factor", so the older an assessment is, the less weight it has on the overall Value score. This gives player's a chance to recover their score from poor behavior and removes the "permanent record" feel of the Value Stat.
+Value Stats changed based on self, peer, and mentor assessment. They have a "decay factor", so the older an assessment is, the less weight it has on the overall Value score. More recent behavior is given more weight than older behavior. This gives player's a chance to recover their score from poor behavior and removes the "permanent record" feel of the Value Stat.
 
 ### Quality Stats
 

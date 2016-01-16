@@ -1,5 +1,15 @@
 # Game Terrain Architecture
 
+
+Skills each broken down into skill levels.
+Each skill level defined by an Abilities Set, and a Level Challenge.
+
+A challenge can be: a project, or a drill.
+A challenge has:
+1. objectives
+2. 
+
+
 The terrain of our applied game is represented as a map of skills, called the Skills Map.
 
 It currently lives in the [skills-map repository on GitHub][skills-map-repo].
