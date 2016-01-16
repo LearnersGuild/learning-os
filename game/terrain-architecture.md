@@ -127,12 +127,12 @@ A Level Challenge is designed to test/exercises the entire Abilities Set for the
 #### Players: 3/3
 
 #### Skill Level
-** Networking: Level 0 (100 SP)**
+**Networking: Level 0 (100 SP)**
 
 Abilities
 - can articulate how the internet works
 
-** Presentation: Level 0 (50 SP)**
+**Presentation: Level 0 (50 SP)**
 
 Abilities
 - can present a complex concept to a group
@@ -162,15 +162,11 @@ Abilities
 #### Players: 1/1
 
 #### Skill Level
-** Networking: Level 0 (100 SP)**
+**Goal Setting: Level 0 (100 SP)**
 
 Abilities
-- can articulate how the internet works
-
-** Presentation: Level 0 (50 SP)**
-
-Abilities
-- can present a complex concept to a group
+- can articulate personal goals
+- can demonstrate understanding of four quadrants
 
 #### Quality Rubrics
 * **Completeness:** How many of the objectives did you attempt/complete?
@@ -198,13 +194,13 @@ The objective of this challenge is to write code that is self-documenting in ord
 #### Players: 2/2
 
 #### Skill Level
-** Javascript: Level 2 (200 SP)**
+**Javascript: Level 2 (200 SP)**
 
 Abilities
 - can write code that is easily readable by another readable
 - can effectively read other people's code and build on it
 
-** Feedback: Level 1 (50 SP)**
+**Feedback: Level 1 (50 SP)**
 
 #### Quality Rubrics
 * **Completeness:** How much of the twitter-clone feature-set did you complete?
