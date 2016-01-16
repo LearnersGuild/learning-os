@@ -14,7 +14,9 @@
 
 <!-- /TOC -->
 
-The game terrain covers **40 weeks** of learning. It is organized into **8 phases** of 5 weeks each. These phases are grouped into **4 themes** of 2 phases each.
+The game terrain covers **40 weeks** of learning.
+
+It is organized into **8 phases** of 5 weeks each. These phases are grouped into **4 themes** of 2 phases each.
 
 ## External Boundaries: Start and Finish
 
@@ -32,10 +34,42 @@ Although these criteria are not currently a part of the game, the following is a
 
 Build a tic-tac-toe game in JavaScript and publish as a GitHub pages site.
 
-**Objectives:**
-- I believe that JavaScript can be used to build a web app. [Technical SP]
-- I am able to program a complete and correct tic-tac-toe game. [Technical SP]
-- I can explain and identify variables, data types, collections, loops, conditionals, and functions. [Technical SP]
+Use the provided HTML, CSS, and JavaScript files as a template.
+
+Submit the URL of the published website.
+
+**Criteria:**
+- Completed game is published as a website
+- Game allows for two human players (X and O)
+- Players mark a square by clicking on it
+- After clicking on a square, game shifts to the other players turn
+- When a tic-tac-toe has been achieved, game is over
+- When a stalemate has been reached, game is over
+- When game is over, game notifies which player is winner or if game is a stalemate
+
+**Skills:**
+- Programming (150 SP - Technical)
+	- Identify, explain, and apply variables in JavaScript code
+	- Identify, explain, and apply data types in JavaScript code
+	- Identify, explain, and apply collections in JavaScript code
+	- Identify, explain, and apply loops in JavaScript code
+	- Identify, explain, and apply conditional in JavaScript code
+	- Identify, explain, and apply functions in JavaScript code
+- Problem Solving (150 SP - Technical)
+	- Translate game logic into program logic
+	- Program a complete and correct tic-tac-toe game
+
+**Rubric:**
+
+_Assign a % score to each of the following._
+
+- Completeness: submission game meets all criteria
+- Quality: code is well-written, with no obvious bugs or errors
+- Comprehension: learner can explain how and why they arrived at their solution
+
+**Score:**
+
+To obtain a score (i.e. SP earned for each skill), calculate the mean % of the above rubric and multiply by the total SP for each skill.
 
 <!-- TODO: add pre-game mission(s) and objectives to address personal, social, and systems -->
 
@@ -49,9 +83,34 @@ This mission will require the most time, effort, and perseverance. Other mission
 
 This mission is complete when every learner in the pod has secured a job as a software developer.
 
-**Objectives:**
-- I have accepted a job offer to be a software developer [Personal SP]
-- Other software developers want to work with me [Social SP]
+**Criteria:**
+- Every member of your pod has a job where they are paid to build software.
+
+**Skills:**
+- Self-Awareness (2000 SP - Personal)
+	- Select job opportunities based on own interest and abilities
+	- Negotiate appropriate terms and compensation for job
+- Career Literacy (10000 SP - Social)
+	- Discover appropriate job openings
+	- Prepare for a job interview
+	- Navigate a hiring process
+	- Get a job as a software developer
+- Teamwork (2000 SP - Social)
+	- Seek support and feedback in job application process from peers and mentors
+	- Provide support and feedback to peers as they apply and interview for jobs
+	- Share information and tips about applying and interviewing for jobs
+
+**Rubric:**
+
+_Assign a % score to each of the following._
+
+- Completeness: everyone in the pod has a job
+- Accuracy: everyone in the pod is a paid web developer
+
+**Score:**
+
+To obtain a score (i.e. SP earned for each skill), calculate the mean % of the above rubric and multiply by the total SP for each skill.
+
 
 ## Internal Boundaries: Themes and Phases
 
