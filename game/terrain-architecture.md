@@ -128,13 +128,9 @@ A Level Challenge is designed to test/exercises the entire Abilities Set for the
 
 #### Skill Level
 **Networking: Level 0 (100 SP)**
-
-Abilities
 - can articulate how the internet works
 
 **Presentation: Level 0 (50 SP)**
-
-Abilities
 - can present a complex concept to a group
 
 #### Quality Rubrics
@@ -163,8 +159,6 @@ Abilities
 
 #### Skill Level
 **Goal Setting: Level 0 (100 SP)**
-
-Abilities
 - can articulate personal goals
 - can demonstrate understanding of four quadrants
 
@@ -195,8 +189,6 @@ The objective of this challenge is to write code that is self-documenting in ord
 
 #### Skill Level
 **Javascript: Level 2 (200 SP)**
-
-Abilities
 - can write code that is easily readable by another readable
 - can effectively read other people's code and build on it
 
