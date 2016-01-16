@@ -42,7 +42,7 @@ Use the provided HTML, CSS, and JavaScript files as a template.
 
 Submit the URL of the published website.
 
-**Criteria:**
+**Objectives:**
 - Completed game is published as a website
 - Game allows for two human players (X and O)
 - Players mark a square by clicking on it
@@ -89,7 +89,7 @@ This challenge will require the most time, effort, and perseverance. Other chall
 
 This challenge is complete when every learner in the pod has secured a job as a software developer.
 
-**Criteria:**
+**Objectives:**
 - Every member of your pod has a job where they are paid to build software.
 
 **Suggested Time:** 6-10 weeks
