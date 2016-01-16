@@ -55,7 +55,7 @@
 You are here to create a dignified livelihood.
 There are many paths to a dignified livelihood.
 This game sets up many experiences to facilitate you discovering your path.
-The path is an eSPression of dignified livelihood.
+The path is an expression of dignified livelihood.
 
 It is a path of play, the empowerment of self teaching, of creating meaning and learning with others, of bringing other people forward with you.
 This a journey, you get there by earning your way there.
@@ -74,7 +74,7 @@ The objective of the game is to secure a livelihood with dignity and continuous 
 ### Roles
 
 #### Aspirant
-An Aspirant is an individual who has eSPressed interest in joining Learners Guild, but has not yet become part of a Pod. She has not yet been vetted by existing Players (v0: LG Partners) as meeting the baseline criteria required to become a Player.
+An Aspirant is an individual who has expressed interest in joining Learners Guild, but has not yet become part of a Pod. She has not yet been vetted by existing Players (v0: LG Partners) as meeting the baseline criteria required to become a Player.
 
 #### Learner
 A Learner is an individual playing the game. She will follow her own path through the terrain in the game and will advance from level to level as she does so. She will initially be a member of a single Pod, but (as she advances in the game) will also become part of other Pods in her capacity as a Mentor (see below).
@@ -166,7 +166,7 @@ Stat Groups can be further organized into Stat Quadrants. There are four Stat Qu
 
 ### Player Skill Level, Value Alignment, & Quality Percentage
 
-The highest player stats are the Player's rolled up Skill Level, Values Alignment, and Quality Percentage.
+The highest-level player stats are the Player's rolled up Skill Level, Values Alignment, and Quality Percentage.
 The Player Skill level is the sum of all the Player's individual skill levels. The Values Alignment is the average of all their individual Value Stats, and the Player's Quality Percentage is the average of all their individual Quality Stats.
 
 ## Game Objects
