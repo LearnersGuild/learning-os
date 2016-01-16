@@ -21,113 +21,111 @@ For example: Full Stack Dev Level 3, is automatically dependent on Full Stack De
 
 The Skill Level Dependancies are articulated and expressed through the Skills Map.
 
+## Challenges
 
+Challenges are the main way a player interacts with and plays the game. A challenge is made up of the following elements:
+### Overview (optional)
 
-A challenge can be: a project, or a drill.
-A challenge has:
-1. objectives
-2.
+Describes the context, and big picture of the challenge. Sets the stage for the objectives.
 
+Example: "This project is designed to help you to get started with front end css and html skills, while at the same time strengthening your online presence."
 
+### Objective(s)
 
+An Objective is a demonstrable and specific goal for the challenge. Challenges with multiple objectives usually build on each other.
 
-It currently lives in the [skills-map repository on GitHub][skills-map-repo].
+For example, a "Build online Resume" challenge can have these objectives:
+- Using only html and css, and no html tables, build an online resume
+- Purchase your own domain and host it there
+- Apply responsive design principles to your resume
 
-Think of the Skills Map as you would a [trail map][trail-map] or [game map][mario-map]: it shows destinations, paths, and points of interest.
+### Skill Level(s)
 
-The Skills Map shows learners (and partners, mentors, facilitators, etc.) the missions, exercises, and projects they can complete; what skills are needed to achieve them; how to prove, test, practice, and apply their skills; and which resources are available to help them complete their learning tasks.
+A Challenge belongs to at least 1 or more skill levels. Unless a player has achieved that skill level, they cannot unlock the challenge. The Skill Level section of a challenge, describes which abilities the challenge requires/develops for which Skill level(s), and the Skill Points (SP) associated with each skill level.
 
-Taken together, they chart a grand territory of learnings and offer a map for learners to navigate by with clarity and confidence.
+For example, the "Build Online Resume" can have the following Skill Levels:
 
-## Topography
+**CSS Level 0 (100 SP)**
+Abilities:
+- can apply simple responsive design principles
 
-The terrain of the Skills Map is made up of three types of **nodes**:
+**HTML Level 1 (100 SP)**
+Abilities:
+- can build a table structure in html without using html tables
+- can separate html and css files and link them
 
-- [**Projects**](#projects): multi-stage group, pair, or solo work with defined outcomes.
-- [**Exercises**](#exercises): simple, short assignments to boost specific capabilities.
-- [**Materials**](#materials): useful resources and information, but without any explicit outcome.
+**Web Ops Level 0 (50 SP)**
+Abilities
+- can purchase & setup domain
+- can setup hosting
 
-These nodes are organized into [**domains**](#domains), or collections of related nodes that build towards particular **skills**.
+The above challenge will only be available to players who have leveled up to HTML Level 1.
 
-They may be grouped into sequenced or semi-sequenced clusters called [**missions**](#missions). Missions usually culminate in one large and difficult project.
+## Quality Rubric(s)
 
-Learners advance through the terrain by **deploying** projects and working through exercises. Projects and exercises have **objectives** which, when completed, give the learner **skill points** (SP) in one or more **capabilities**.
+A Quality Stat, and Quality Description associated with a certain challenge that determine how a player's work for that particular challenge is evaluated.
 
-### Projects
+For the above challenge, the quality rubrics might look like:
 
-Projects are the most time-intensive nodes of a technical skills map. They may span multiple days or weeks, and may be worked on in pairs or groups as well as alone.
+Completeness: % of objectives that were accomplished
+Code Readability: proper indentation
 
-Most projects will have a set of specifications defined that project must adhere to. Some will be very open-ended, letting learners choose their own objectives based on a prompt or within a certain theme.
+## Time (optional)
+
+Some challenges might need to be time bound.
+
+##Players (optional)
+
+Minimum, and Maximum number of players required to attempt this challenge. Some examples:
+* 3/5 : this challenge requires at least 3 players, and no more than 5.
+* 2/2 : pairs only
+* 1/1 : solo players only
+
+## Challenge Types
+
+Challenges can either be Sprints, Projects, or Drills.
+
+### Sprints
+
+Sprints are the most time-intensive challenges. They may span multiple days or weeks, and may be worked on in pairs or groups as well as solo.
+
+Most sprints will have a set of specifications defined that sprint must adhere to. Some will be very open-ended, letting learners choose their own objectives based on a prompt or within a certain theme.
 
 Example: "Build a Shopify clone that meets these user stories.", "Use a database you've never worked with to create whatever you want."
 
-### Exercises
+### Project
 
-An exercise is like a tutorial without the explanation part or defined steps. Exercises define clear objectives but do not provide structured steps to achieve them.
+Projects are smaller than sprints. They can usually be accomplished within 1 day. Projects tend to be for pairs, but can also be solo or group projects.
 
-Exercises are used to develop habits, build behavior, and to apply and gain knowledge.
+Example: "Write a Sudoku Solver"
+
+### Drill
+
+A Drill is like a tutorial without the explanation part or defined steps. Drills define clear objectives but do not provide structured steps to achieve them.
+
+Drills are used to develop habits, build behavior, and to apply and gain knowledge.
 
 Examples: "Write a binary search algorithm that passes a provided test suite.", "Outline endpoints for a RESTful API exposing category, product, and shopping cart resources."
 
-### Materials
-
-Materials are used to build knowledge and beliefs, but are less useful for behavior outcomes.
-
-Seeking and sharing knowledge is a critical part of the learning process, but it is not something that we directly measure.
-
-Materials can be information in one of many forms (text, video, audio, etc.) or a tool that can be used to complete exercises and projects, like a code library or testing framework.
-
-### Domains
-
-Domains are topic-aligned collections of nodes that build towards one or more specific skills.
-
-Learners and pods "explore" and "complete" domains as milestones in their skill training. Think of a domain like a course of learning: it encompasses tasks, projects, and studies, and results in a defined and subject-specific ability.
-
-Examples: "Ruby Land", "Web Apps Mountains", "Mentorship Forest".
-
-### Missions
-
-Missions are sequential or semi-sequential bundles of nodes that frequently culminate in one big group or pair project.
-
-Learners complete missions by working through exercises and deploying projects in a structured order, building up to a difficult final project. In game theory, this missions are akin to "quests" with a final "boss level".
-
-Completing missions gives lots of skill points (SP).
-
-Examples: "Microblogging", "Chat Bot", "Open-Source Expedition".
-
-## Node Attributes
-
-Each node (projects, exercises, materials) has 3 attributes:
-
-- **Title**: descriptive name for the node.
-- **Summary**: text summary of the node's purpose and use.
-- **Source**: link to an external resource (i.e. the "material" for the node).
-
-For example, an _exercise_ node might look like this:
-
-```
-Title: Practice writing basic web servers
-Summary: Build a web app that responds to `GET /ping` with a response `pong`. Write two versions of the app, one with Node.js and the other with Ruby. Deploy each app to Heroku or your platform of choice.
-Source: http://link.to.online/exercise
-```
-
-## Node Relationships
-
-Nodes are _linked_ to each other by different kinds of _paths_ or _relationships_, similar to how sites on a geographic map are linked by roads or trails.
-
-These paths represent relationships of _dependency_ (i.e. a node requires that the learner complete another node) or _support_ (i.e. completing one node will aid the learner to complete another). Other, more nuanced kinds of paths may be discovered as we build out this model.
-
-Paths connect nodes within domains and missions to give learners suggested or mandated courses through the nodes. They also connect domains to each other, showing how learners advance through domains.
-
-For example, within the mission "Web Application Basics" a video on "How a web server works" (material node) might be linked with a _support_ relationship to the tutorial "Deploying to Heroku" (exercise node) and both would be linked with a _dependency_ relationship to the group project "Deploy a web app to remote server".
-
-## Charting a Course
-
-Learners and pods chart their collective and individual courses through the Skills Map to achieve outcomes. Partners, mentors, and facilitators provide suggested courses and also aid learners and pods in charting and navigating their set course.
 
 ## Example Terrain Elements
 
 ### Mission: Triad Sourcing
+#### Overview
+#### Objectives
+#### Skill Levels
+#### Quality Rubrics
+#### Time
+#### Players
+
+**Overview**
+**Objectives**
+**Skill Levels**
+**Quality Rubrics**
+**Time**
+**Players**
+
+
 **Number of players:** 3
 **Objective:** 3 player reading and presentation to pod.
 **Time:** 3 hour
@@ -233,7 +231,3 @@ The objective of this challenge is to implement a console-based to-do list with 
 **Objective:** Defend strategy and code for problem x in the face of Dragon (expert coder)
 **Time:**  30 mins
 **XP:** 250 Dragon awards points
-
-[skills-map-repo]:https://github.com/LearnersGuild/skills-map
-[mario-map]:http://static1.1.sqspcdn.com/static/f/485187/22340105/1364869354830/Mario+World+Map.jpg?token=GREp5UDogM2xw1ImmxH%2FQEjb8Rw%3D
-[trail-map]:http://boggsmountain.net/wp-content/uploads/2012/03/BoggsTrailMap2012.jpg
