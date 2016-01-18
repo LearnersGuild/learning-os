@@ -130,11 +130,7 @@ For example, an Integrity Health Stat might be composed of the following Behavio
 
 Unlike Skill Stats, there are no levels, or leveling up when it comes to Health Stats. Instead Health is represented using a single alignment score from 1 to 5. 5 being the highest demonstration of the behaviors related to the stat, and 1 being the lowest. Each behavior within a Health Stats behavior set is also scored from 1 to 5.
 
-<<<<<<< HEAD
-Value Stats changed based on self, peer, and mentor assessment. They have a "decay factor", so the older an assessment is, the less weight it has on the overall Value score. More recent behavior is given more weight than older behavior. This gives player's a chance to recover their score from poor behavior and removes the "permanent record" feel of the Value Stat.
-=======
-Health Stats changed based on self, peer, and mentor assessment. They have a "decay factor", so the older an assessment is, the less weight it has on the overall Health score. This gives player's a chance to recover their score from poor behavior and removes the "permanent record" feel of the Health Stat.
->>>>>>> master
+Health Stats changed based on self, peer, and mentor assessment. Health Stats have a "decay factor": the older an assessment is, the less weight it has on the overall Value score, while the recent behavior has more impact on the health stat. This gives players a chance to recover their score from poor behavior and removes the "permanent record" feel of the Value Stat.
 
 ### Quality Stats
 
