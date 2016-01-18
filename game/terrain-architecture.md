@@ -1,5 +1,43 @@
 # Game Terrain Architecture
 
+<!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Overview](#overview)
+- [Skill dependancies](#skill-dependancies)
+- [Challenges](#challenges)
+	- [Overview (optional)](#overview-optional)
+	- [Objective(s)](#objectives)
+	- [Skill Level(s)](#skill-levels)
+- [Quality Rubric(s)](#quality-rubrics)
+- [Time (optional)](#time-optional)
+- [Players (optional)](#players-optional)
+- [Challenge Types](#challenge-types)
+	- [Sprints](#sprints)
+	- [Project](#project)
+	- [Drill](#drill)
+	- [Level Challenge](#level-challenge)
+- [Example Terrain Elements](#example-terrain-elements)
+	- [Project: How the web works presentation](#project-how-the-web-works-presentation)
+		- [Objectives](#objectives)
+		- [Time: 3 hours](#time-3-hours)
+		- [Players: 3/3](#players-33)
+		- [Skill Level](#skill-level)
+		- [Quality Rubrics](#quality-rubrics)
+	- [Project: 5 week personal goals](#project-5-week-personal-goals)
+		- [Objectives](#objectives)
+		- [Time: 1.5 hours](#time-15-hours)
+		- [Players: 1/1](#players-11)
+		- [Skill Level](#skill-level)
+		- [Quality Rubrics](#quality-rubrics)
+	- [Drill: Self-Documenting Twitter Clone](#drill-self-documenting-twitter-clone)
+		- [Overview](#overview)
+		- [Objectives](#objectives)
+		- [Time: 4 hours](#time-4-hours)
+		- [Players: 2/2](#players-22)
+		- [Skill Level](#skill-level)
+		- [Quality Rubrics](#quality-rubrics)
+
+<!-- /TOC -->
 
 ## Overview
 
