@@ -27,7 +27,7 @@ To determine if an aspirant is an ideal candidate for the Learners Guild game, a
 	- [Negotiable](support/Player_Characteristics/Traits_NiceToHave.md)
 - Talent Requirements
 	- [Technical](support/Player_Characteristics/Talent_Requirement_Technical.md)
-	- [Emotional](support/Player_Characteristics/Talent_Requirement_Emotional.md)
+	- [Non-Technical](support/Player_Characteristics/Talent_Requirement_Non-Technical.md)
 
 
 

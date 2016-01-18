@@ -1,5 +1,5 @@
 
-### Emotional Talent Requirement
+### Non-Technical Talent Requirement
 The ideal player should come into the games with the following disposition defined along the following dimensions:
 - Grit
 	- They can share a brief description of a struggle they have faced in their education or career thus far.
