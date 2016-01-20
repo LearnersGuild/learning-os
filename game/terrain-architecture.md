@@ -1,132 +1,180 @@
 # Game Terrain Architecture
 
-The terrain of our applied game is represented as a map of skills, called the Skills Map.
+<!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-It currently lives in the [skills-map repository on GitHub][skills-map-repo].
+- [Overview](#overview)
+- [Skill dependancies](#skill-dependancies)
+- [Challenges](#challenges)
+	- [Overview (optional)](#overview-optional)
+	- [Objective(s)](#objectives)
+	- [Skill Level(s)](#skill-levels)
+- [Quality Rubric(s)](#quality-rubrics)
+- [Time (optional)](#time-optional)
+- [Players (optional)](#players-optional)
+- [Challenge Types](#challenge-types)
+	- [Project](#project)
+	- [Drill](#drill)
+	- [Level Challenge](#level-challenge)
+- [Example Terrain Elements](#example-terrain-elements)
+	- [Project: How the web works presentation](#project-how-the-web-works-presentation)
+		- [Objectives](#objectives)
+		- [Time: 3 hours](#time-3-hours)
+		- [Players: 3/3](#players-33)
+		- [Skill Level](#skill-level)
+		- [Quality Rubrics](#quality-rubrics)
+	- [Project: 5 week personal goals](#project-5-week-personal-goals)
+		- [Objectives](#objectives)
+		- [Time: 1.5 hours](#time-15-hours)
+		- [Players: 1/1](#players-11)
+		- [Skill Level](#skill-level)
+		- [Quality Rubrics](#quality-rubrics)
+	- [Drill: Self-Documenting Twitter Clone](#drill-self-documenting-twitter-clone)
+		- [Overview](#overview)
+		- [Objectives](#objectives)
+		- [Time: 4 hours](#time-4-hours)
+		- [Players: 2/2](#players-22)
+		- [Skill Level](#skill-level)
+		- [Quality Rubrics](#quality-rubrics)
 
-Think of the Skills Map as you would a [trail map][trail-map] or [game map][mario-map]: it shows destinations, paths, and points of interest.
+<!-- /TOC -->
 
-The Skills Map shows learners (and partners, mentors, facilitators, etc.) the missions, exercises, and projects they can complete; what skills are needed to achieve them; how to prove, test, practice, and apply their skills; and which resources are available to help them complete their learning tasks.
+## Overview
 
-Taken together, they chart a grand territory of learnings and offer a map for learners to navigate by with clarity and confidence.
+The terrain of our applied game is represented as a list of Skills, and Quality Rubrics.
 
-## Topography
+Skills are each broken down into Skill Levels.
+Each Skill Level defined by an Abilities Set, and a Challenge Set.
 
-The terrain of the Skills Map is made up of three types of **nodes**:
+The Skill Levels (along with their Abilities Set and Challenge Set) define *what* the player will be engaged in, while the Quality Rubrics defines *how* the player's accomplishments will be evaluated. Quality Rubrics are composed of a Quality Stat, and a Quality Description that spells out how a player's work for that particular challenge is evaluated.
 
-- [**Projects**](#projects): multi-stage group, pair, or solo work with defined outcomes.
-- [**Exercises**](#exercises): simple, short assignments to boost specific capabilities.
-- [**Materials**](#materials): useful resources and information, but without any explicit outcome.
+Players traverse the terrain by working on challenges that are available to them for their current skill levels. As they level up, more challenges are unlocked and are available to them.
 
-These nodes are organized into [**domains**](#domains), or collections of related nodes that build towards particular **skills**.
+## Skill dependancies
 
-They may be grouped into sequenced or semi-sequenced clusters called [**missions**](#missions). Missions usually culminate in one large and difficult project.
+Skill Levels are locked to a player, unless she has achieved its dependancies. A Skill Level dependancies are expressed through other skill levels. Each Skill Level is, by default, dependent on the previous level for that skill.
+Skill Levels can also be optionally dependent on another Skill Level. Skill Level 0s that don't have other Level dependancies are automatically unlocked.
 
-Learners advance through the terrain by **deploying** projects and working through exercises. Projects and exercises have **objectives** which, when completed, give the learner **skill points** (SP) in one or more **capabilities**.
+For example: Full Stack Dev Level 3, is automatically dependent on Full Stack Dev Level 2, but could also be dependent on Front End Level 2, Database Level 1, and Teamwork Level 1. Meanwhile, SQL Level 0, might not be automatically unlocked, because it depends on Database Level 1.
 
-### Projects
+The Skill Level Dependancies are articulated and expressed through the Skills Map.
 
-Projects are the most time-intensive nodes of a technical skills map. They may span multiple days or weeks, and may be worked on in pairs or groups as well as alone.
+## Challenges
 
-Most projects will have a set of specifications defined that project must adhere to. Some will be very open-ended, letting learners choose their own objectives based on a prompt or within a certain theme.
+Challenges are the main way a player interacts with and plays the game. A challenge is made up of the following elements:
 
-Example: "Build a Shopify clone that meets these user stories.", "Use a database you've never worked with to create whatever you want."
+### Overview (optional)
 
-### Exercises
+Describes the context, and big picture of the challenge. Sets the stage for the objectives.
 
-An exercise is like a tutorial without the explanation part or defined steps. Exercises define clear objectives but do not provide structured steps to achieve them.
+Example: "This project is designed to help you to get started with front end css and html skills, while at the same time strengthening your online presence."
 
-Exercises are used to develop habits, build behavior, and to apply and gain knowledge.
+### Objective(s)
+
+An Objective is a demonstrable and specific goal for the challenge. Challenges with multiple objectives usually build on each other.
+
+For example, a "Build online Resume" challenge can have these objectives:
+- Using only html and css, and no html tables, build an online resume
+- Purchase your own domain and host it there
+- Apply responsive design principles to your resume
+
+### Skill Level(s)
+
+A Challenge belongs to at least 1 or more Skill Levels[^1]. Unless a player has achieved that skill level, they cannot unlock the challenge. The Skill Level section of a challenge, describes which abilities the challenge requires/develops for which Skill level(s), and the Skill Points (SP) associated with each skill level. Challenges within a Skill Level's Challenge Set all contribute SP towards that Skill Level.
+
+For example, the "Build Online Resume" can have the following Skill Levels:
+
+**CSS Level 0 (100 SP)**
+
+Abilities:
+- can apply simple responsive design principles
+
+**HTML Level 1 (100 SP)**
+
+Abilities:
+- can build a table structure in html without using html tables
+- can separate html and css files and link them
+
+**Web Ops Level 0 (50 SP)**
+
+Abilities
+- can purchase & setup domain
+- can setup hosting
+
+The above challenge will only be available to players who have leveled up to HTML Level 1.
+
+## Quality Rubric(s)
+
+A Quality Rubric is a Quality Stat, and a Quality Description associated with a certain challenge that determine how a player's work for that particular challenge is evaluated.
+
+For the above challenge, the quality rubrics might look like:
+
+* Completeness: % of objectives that were accomplished
+* Code Readability: proper indentation
+
+## Time (optional)
+
+Some challenges might need to be time bound.
+
+##Players (optional)
+
+Minimum, and Maximum number of players required to attempt this challenge. Some examples:
+* 3/5 : this challenge requires at least 3 players, and no more than 5.
+* 2/2 : pairs only
+* 1/1 : solo players only
+
+## Challenge Types
+
+Challenges can either be Projects, or Drills.
+
+### Project
+
+Projects are the most time-intensive challenges and almost always require a deliverable. They may span multiple days or weeks.
+
+Most Projects will have a set of specifications defined that project must adhere to. Some will be very open-ended, letting learners choose their own objectives based on a prompt or within a certain theme.
+
+Example: "Build a Shopify clone that meets these user stories.", "Use a database you've never worked with to create whatever you want.", "Write a Sudoku Solver"
+
+They can usually be accomplished within 1 day. Projects tend to be for groups or pairs, but can also be solo.
+
+
+### Drill
+
+A Drill is like a tutorial without the explanation part or defined steps. Drills define clear objectives but do not provide structured steps to achieve them. They can usually be accomplished in under 3 hours. Drills are usually for solo players, but can also be for pairs or groups.
+
+Drills are used to develop habits, build behavior, and to apply and gain knowledge.
 
 Examples: "Write a binary search algorithm that passes a provided test suite.", "Outline endpoints for a RESTful API exposing category, product, and shopping cart resources."
 
-### Materials
+### Level Challenge
 
-Materials are used to build knowledge and beliefs, but are less useful for behavior outcomes.
+A Level Challenge is designed to test/exercises the entire Abilities Set for the *one or more* Skill Levels associated with a Challenge.
 
-Seeking and sharing knowledge is a critical part of the learning process, but it is not something that we directly measure.
-
-Materials can be information in one of many forms (text, video, audio, etc.) or a tool that can be used to complete exercises and projects, like a code library or testing framework.
-
-### Domains
-
-Domains are topic-aligned collections of nodes that build towards one or more specific skills.
-
-Learners and pods "explore" and "complete" domains as milestones in their skill training. Think of a domain like a course of learning: it encompasses tasks, projects, and studies, and results in a defined and subject-specific ability.
-
-Examples: "Ruby Land", "Web Apps Mountains", "Mentorship Forest".
-
-### Missions
-
-Missions are sequential or semi-sequential bundles of nodes that frequently culminate in one big group or pair project.
-
-Learners complete missions by working through exercises and deploying projects in a structured order, building up to a difficult final project. In game theory, this missions are akin to "quests" with a final "boss level".
-
-Completing missions gives lots of skill points (SP).
-
-Examples: "Microblogging", "Chat Bot", "Open-Source Expedition".
-
-## Node Attributes
-
-Each node (projects, exercises, materials) has 3 attributes:
-
-- **Title**: descriptive name for the node.
-- **Summary**: text summary of the node's purpose and use.
-- **Source**: link to an external resource (i.e. the "material" for the node).
-
-For example, an _exercise_ node might look like this:
-
-```
-Title: Practice writing basic web servers
-Summary: Build a web app that responds to `GET /ping` with a response `pong`. Write two versions of the app, one with Node.js and the other with Ruby. Deploy each app to Heroku or your platform of choice.
-Source: http://link.to.online/exercise
-```
-
-## Node Relationships
-
-Nodes are _linked_ to each other by different kinds of _paths_ or _relationships_, similar to how sites on a geographic map are linked by roads or trails.
-
-These paths represent relationships of _dependency_ (i.e. a node requires that the learner complete another node) or _support_ (i.e. completing one node will aid the learner to complete another). Other, more nuanced kinds of paths may be discovered as we build out this model.
-
-Paths connect nodes within domains and missions to give learners suggested or mandated courses through the nodes. They also connect domains to each other, showing how learners advance through domains.
-
-For example, within the mission "Web Application Basics" a video on "How a web server works" (material node) might be linked with a _support_ relationship to the tutorial "Deploying to Heroku" (exercise node) and both would be linked with a _dependency_ relationship to the group project "Deploy a web app to remote server".
-
-## Charting a Course
-
-Learners and pods chart their collective and individual courses through the Skills Map to achieve outcomes. Partners, mentors, and facilitators provide suggested courses and also aid learners and pods in charting and navigating their set course.
 
 ## Example Terrain Elements
 
-### Mission: Triad Sourcing
-**Number of players:** 3
-**Objective:** 3 player reading and presentation to pod.
-**Time:** 3 hour
-**XP:** 50
-**Scoring:** (presentation will be graded on content, novelty of presentation, etc. pod grades presentation average)
+### Project: How the web works presentation
+#### Objectives
+* Figure out how the web works
+* Present it to your POD in 5 minutes only using a white board
 
-### Mission: Playing Well With Others
-**Number of players:** 2
-**Objective:** gain points on the “WE” quadrant
-Peer program with someone with whom you have had a previous clearing session.
+#### Time: 3 hours
 
-**Pre-requisite:**
-I have pair programmed with this player before
-I have cleared with this player since pairing with them
+#### Players: 3/3
 
-**Scoring:**
-- Score the experience with your partner
-- Get the average score of the quest
-  - if the average score of the quest is higher than the previous average from previous quest
-    - assign the current average as the final points for the quest
-  - if the average score of the quest is lower than the previous average from previous quest
-    - Decrease the current average by the delta between the two scores and assign as the final points for the quest
+#### Skill Level
+**Networking: Level 0 (100 SP)**
+- can articulate how the internet works
 
-### Mission: 5 week personal goals
-**Time:** 1.5 hour
-**Number:** solo + pod presentation
-**Points:** 100
-**Game Play:**
+**Presentation: Level 0 (50 SP)**
+- can present a complex concept to a group
+
+#### Quality Rubrics
+* **Completeness:** How complete was your research? How much of it was accurately presented?
+* **Work Quality:** How clear was your presentation? How engaging was it?
+
+
+### Project: 5 week personal goals
+#### Objectives
 - Review past XP goals for 4 quadrants: Personal, Social, Technical, Systems
 - Review points disparity between past goal and present location, and resulting bonus points (see goal-location table)
 - Write one paragraph analysis/discussion of past goal and present reality
@@ -140,71 +188,51 @@ I have cleared with this player since pairing with them
 - Update pod on any changes via slack
 - Take first step towards new goals
 
-**Scoring:**
-20 points each for:
-- Aspiration
-- Realism
-- Actionable plan
-- Brevity
-- Novelty
+#### Time: 1.5 hours
 
-### Mission: Twitter Clone (self-documenting)
-**Play Type:** 2 Players, Player vs. Player
-**SPs:** 0 (P) / 100 (So) / 100 (T) / 0 (Sy)
-**Time Limit:** 4 hours
-**Description:**
+#### Players: 1/1
+
+#### Skill Level
+**Goal Setting: Level 0 (100 SP)**
+- can articulate personal goals
+- can demonstrate understanding of four quadrants
+
+#### Quality Rubrics
+* **Completeness:** How many of the objectives did you attempt/complete?
+* **Work Quality:** How brief, actionable, and novel was your work?
+
+### Drill: Self-Documenting Twitter Clone
+#### Overview
 The objective of this challenge is to write code that is self-documenting in order to create a web-based Twitter clone with the following features:
 - Create account
 - Sign-in
 - Follow / unfollow
 - Publish new tweet
 - Read recent tweets
-**Game Play:**
+
+#### Objectives
 - (25 minutes) Read through the challenge and ensure that both players have a shared understanding of the exercise.
 - (90 minutes) Independently code as much of a solution to the problem as you can. Commit frequently.
 - (5 minutes) Switch codebases (clone each other’s repositories).
 - (90 minutes) Complete the code for the challenge using the other person’s codebase as a starting point.
 - (25 minutes) Review each other’s code and score each other in the 3 relevant skill-areas:
 - (5 minutes) Score the other player.
-**Scoring:**
-- (So)cial points should be based on the quality of the feedback received.
-- (T)echnical points should be awarded based on code readability, quality, follow-through on original design, and whether or not the challenge was completed successfully.
 
-### Mission: Booster Shot
-**Play Type:** 2 Players (Player + Mentor), Pair vs. Game
-**SPs:** 0 (P) / 100 (So) / 200 (T) / 0 (Sy)
-**Time Limit:** up to 4 hours
-**Description:**
-The objective of this challenge is to improve the understanding of a previously-completed challenge. The Player should present the code to the Mentor for a challenge that was either (a) not completed successfully, or (b) completed, but scored poorly. The challenge chosen should have a time limit of no more than 2 hours.
-**Game Play:**
-- (15-30 minutes) Mentee presents code for challenge to Mentor.
-- (60-90 minutes) Player and Mentor create a new branch and refactor, reimplement, and / or complete the challenge together.
-- (remaining time) Player redoes original challenge alone, without referring to codebase worked on with Mentor. Mentor then reviews the code.
-**Scoring (Player):**
-- (So)cial points awarded by Mentor for clarity of code presentation, quality of questions asked during pair programming, and willingness to be coached.
-- (T)echnical points awarded by Mentor based on quality and completeness of code for challenge.
-**Scoring (Mentor):**
-- (So)cial points awarded by Player based on teaching capacity of Mentor, patience, and clarity of communication.
-- (T)echnical points awarded to Mentor based on delta in score between the original Player attempt at the challenge and the post-pairing attempt (as a percentage of the delta between original score and total possible score).
+#### Time: 4 hours
 
-### Mission: To-do List
-**Number of players:** 1 Player, Player vs. Game
-**SPs:** 100 (P) / 0 (So) / 100 (T) / 0 (Sy)
-**Time Limit:** 2 hours
-**Description:**
-The objective of this challenge is to implement a console-based to-do list with the following features:
-- Create new task
-- Mark task complete
-- Save tasks to disk
-- Load tasks from disk
-**Game Play:** Implement and submit the code.
+#### Players: 2/2
 
-### Mission: Dragon Boss
-**Number of players:** 2
-**Objective:** Defend strategy and code for problem x in the face of Dragon (expert coder)
-**Time:**  30 mins
-**XP:** 250 Dragon awards points
+#### Skill Level
+**Javascript: Level 2 (200 SP)**
+- can write code that is easily readable by another readable
+- can effectively read other people's code and build on it
 
-[skills-map-repo]:https://github.com/LearnersGuild/skills-map
-[mario-map]:http://static1.1.sqspcdn.com/static/f/485187/22340105/1364869354830/Mario+World+Map.jpg?token=GREp5UDogM2xw1ImmxH%2FQEjb8Rw%3D
-[trail-map]:http://boggsmountain.net/wp-content/uploads/2012/03/BoggsTrailMap2012.jpg
+**Feedback: Level 1 (50 SP)**
+
+#### Quality Rubrics
+* **Completeness:** How much of the twitter-clone feature-set did you complete?
+* **Code Readability:** How easy was it for your partner to read your code? How easy was it for you to read theirs?
+
+---
+
+[^1]: Challenges cannot belong to multiples Skill Levels *for the same Skill*. For example, a Challenge cannot belong to CSS Level 1 AND CSS Level 2.
