@@ -12,7 +12,6 @@
 - [Time (optional)](#time-optional)
 - [Players (optional)](#players-optional)
 - [Challenge Types](#challenge-types)
-	- [Sprints](#sprints)
 	- [Project](#project)
 	- [Drill](#drill)
 	- [Level Challenge](#level-challenge)
@@ -62,6 +61,7 @@ The Skill Level Dependancies are articulated and expressed through the Skills Ma
 ## Challenges
 
 Challenges are the main way a player interacts with and plays the game. A challenge is made up of the following elements:
+
 ### Overview (optional)
 
 Describes the context, and big picture of the challenge. Sets the stage for the objectives.
@@ -79,7 +79,7 @@ For example, a "Build online Resume" challenge can have these objectives:
 
 ### Skill Level(s)
 
-A Challenge belongs to at least 1 or more Skill Levels[^1]. Unless a player has achieved that skill level, they cannot unlock the challenge. The Skill Level section of a challenge, describes which abilities the challenge requires/develops for which Skill level(s), and the Skill Points (SP) associated with each skill level.
+A Challenge belongs to at least 1 or more Skill Levels[^1]. Unless a player has achieved that skill level, they cannot unlock the challenge. The Skill Level section of a challenge, describes which abilities the challenge requires/develops for which Skill level(s), and the Skill Points (SP) associated with each skill level. Challenges within a Skill Level's Challenge Set all contribute SP towards that Skill Level.
 
 For example, the "Build Online Resume" can have the following Skill Levels:
 
@@ -124,21 +124,18 @@ Minimum, and Maximum number of players required to attempt this challenge. Some 
 
 ## Challenge Types
 
-Challenges can either be Sprints, Projects, or Drills.
-
-### Sprints
-
-Sprints are the most time-intensive challenges. They may span multiple days or weeks. Sprints tend to be for groups, but can also be for pairs or solo.
-
-Most sprints will have a set of specifications defined that sprint must adhere to. Some will be very open-ended, letting learners choose their own objectives based on a prompt or within a certain theme.
-
-Example: "Build a Shopify clone that meets these user stories.", "Use a database you've never worked with to create whatever you want."
+Challenges can either be Projects, or Drills.
 
 ### Project
 
-Projects are smaller than sprints. They can usually be accomplished within 1 day. Projects tend to be for pairs, but can also be solo or group projects.
+Projects are the most time-intensive challenges and almost always require a deliverable. They may span multiple days or weeks.
 
-Example: "Write a Sudoku Solver"
+Most Projects will have a set of specifications defined that project must adhere to. Some will be very open-ended, letting learners choose their own objectives based on a prompt or within a certain theme.
+
+Example: "Build a Shopify clone that meets these user stories.", "Use a database you've never worked with to create whatever you want.", "Write a Sudoku Solver"
+
+They can usually be accomplished within 1 day. Projects tend to be for groups or pairs, but can also be solo.
+
 
 ### Drill
 
