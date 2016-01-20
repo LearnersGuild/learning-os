@@ -8,11 +8,11 @@ A collection of abilities belonging to a certain skill level.
 
 # Behavior Set
 
-A collection of behaviors that define a Value Stat.
+A collection of behaviors that define a Health Stat.
 
 # Challenge
 
-A mission, drill or project that is part of the game terrain.
+A drill or project that is part of the game terrain.
 
 # Challenge Set
 
