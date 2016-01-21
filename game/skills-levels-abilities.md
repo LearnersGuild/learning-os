@@ -4,6 +4,7 @@
 
 - [Group: Programming](#group-programming)
 	- [JavaScript](#javascript)
+		- [Level 0](#level-0)
 	- [Ruby](#ruby)
 	- [Python](#python)
 	- [Shell Scripting](#shell-scripting)
@@ -14,6 +15,11 @@
 	- [Go](#go)
 - [Group: Development](#group-development)
 	- [Front-End Web Apps](#front-end-web-apps)
+		- [Level 0 [Static Web Pages]](#level-0-static-web-pages)
+		- [Level 1 [Simple Client-Only Apps]](#level-1-simple-client-only-apps)
+		- [Level 2 [Manage External Resources]](#level-2-manage-external-resources)
+		- [Level 3 [Standalone Apps]](#level-3-standalone-apps)
+		- [Level 4 [Frameworks and Libraries]](#level-4-frameworks-and-libraries)
 	- [Back-End Web Apps](#back-end-web-apps)
 	- [Mobile Apps](#mobile-apps)
 	- [Command-Line Tools](#command-line-tools)
@@ -42,6 +48,8 @@
 ## Group: Programming
 
 ### JavaScript
+
+#### Level 0
 - Identify, explain, and apply variables in JavaScript code
 - Identify, explain, and apply data types in JavaScript code
 - Identify, explain, and apply collections in JavaScript code
@@ -69,7 +77,41 @@
 ## Group: Development
 
 ### Front-End Web Apps
-- Select and integrate development tools, libraries, and frameworks
+
+#### Level 0 [Static Web Pages]
+- Create an HTML template
+- Import local CSS file into HTML page
+- Import remote CSS file into HTML page
+- Build a static single-page site
+- Build a static multi-page site
+
+#### Level 1 [Simple Client-Only Apps]
+- Import local JavaScript file into HTML page
+- Import local JavaScript library into HTML page
+- Import remote JavaScript library into HTML page
+- Build a dynamic single-page site
+- Build a dynamic multi-page site
+- Collect user input with a form
+- Add validation to a form
+- Manage resources with in-browser storage
+
+#### Level 2 [Manage External Resources]
+- Integrate a third-party API
+- Manage resources through a remote API with AJAX
+- Build a resource index page
+- Build a resource detail page
+- Build a page to create a new resource
+- Build a page to edit a resource
+
+#### Level 3 [Standalone Apps]
+- Build a dashboard page
+- Build an admin page page
+- Build a login/signup page
+
+#### Level 4 [Frameworks and Libraries]
+- Import and use a design framework
+- Import and use a front-end application framework
+- Select and integrate appropriate development tools, libraries, and frameworks
 
 ### Back-End Web Apps
 - Select and integrate development tools, libraries, and frameworks
