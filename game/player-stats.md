@@ -66,7 +66,7 @@
 - I contribute to group projects.
 - My group appreciates my contributions.
 
-### Feedback
+#### Feedback
 - I review code at least twice a week.
 - I interview other learners at least once a phase.
 - My technical feedback is kind.
@@ -75,17 +75,17 @@
 - I solicit technical feedback often.
 - I integrate technical feedback often.
 
-### Confidence with Humility
+#### Confidence with Humility
 - I engage in implementation debates with confidence.
 - I win and lose implementation debates with humility.
 
-### Growth Mindset
+#### Growth Mindset
 - I am comfortable in strengths and eager to improve my weaknesses.
 - I engage in implementation debates with an eagerness to learn.
 - I greet mistakes and failures as opportunities for improvement.
 - I support and critique others' actions, not their qualities.
 
-### Professionalism
+#### Professionalism
 - I prioritize optimal solutions over my own opinions.
 - I focus on team or organizational goals when working with others.
 
