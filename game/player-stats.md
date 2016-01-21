@@ -13,37 +13,37 @@
 ### Skill Stats
 
 #### Programming
-  - JavaScript
-  - Ruby
-  - Python
-  - Shell Scripting
-  - Clojure
-  - C
-  - Java
-  - Swift
-  - Go
+- JavaScript
+- Ruby
+- Python
+- Shell Scripting
+- Clojure
+- C
+- Java
+- Swift
+- Go
 
 #### Development
-  - Front-End Web Apps
-  - Back-End Web Apps
-  - Mobile Apps
-  - Command-Line Tools
-  - Document Databases
-  - Relational Databases
-  - Testing
-  - DevOps
-  - Application Frameworks
+- Front-End Web Apps
+- Back-End Web Apps
+- Mobile Apps
+- Command-Line Tools
+- Document Databases
+- Relational Databases
+- Testing
+- DevOps
+- Application Frameworks
 
 #### Engineering
-  - Computer Science
-  - Design Patterns
-  - Systems Architecture
-  - Documentation
+- Computer Science
+- Design Patterns
+- Systems Architecture
+- Documentation
 
 #### Design
-  - UI Design
-  - UX Design
-  - Wireframing
+- UI Design
+- UX Design
+- Wireframing
 
 #### Communication
   - Reasoning
