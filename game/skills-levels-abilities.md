@@ -202,6 +202,26 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Testing
 
+- Write a function to test another function
+- Write a test script to test one or more functions in source code file
+- Run tests in a console
+- Run tests in the browser
+- Run tests from a command shell
+- Install and configure a testing framework for client-side code
+- Install and configure a testing framework for server-side code
+- Write unit tests for client-side code
+- Write unit tests for server-side code
+- Write integration tests
+- Apply a test-driven development practice
+- Utilize test mocks and stubs
+- Configure and use a test database
+- Install and configure an automated test runner tool
+- Use an automated test runner tool
+- Install and configure a test coverage tool
+- Use a test coverage tool
+- Setup and configure a continuous integration tool
+- Use a continuous integration tool
+
 ### DevOps
 
 #### Level 0
