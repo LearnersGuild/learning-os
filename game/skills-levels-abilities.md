@@ -54,6 +54,12 @@
 
 <!-- /TOC -->
 
+_This document lists the skills, the skill levels they contain, and abilities that make up a skill level._
+
+_Skills are grouped into related themes and can have one or many levels._
+
+_Abilities belong to a skill level and are written as declarative statements which complete the phrase "A learner at this skill level is able to..."._
+
 ## Group: Programming
 
 ### JavaScript
