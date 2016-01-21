@@ -8,7 +8,7 @@
 - Development
 - Engineering
 - Design
-- Communication
+- Collaboration
 
 ### Skill Stats
 
@@ -35,6 +35,7 @@
 - Application Frameworks
 
 #### Engineering
+- Reasoning and Logic
 - Computer Science
 - Design Patterns
 - Systems Architecture
@@ -45,10 +46,10 @@
 - UX Design
 - Wireframing
 
-#### Communication
-  - Reasoning
-  - Project Management
-  - Interviewing
+#### Collaboration
+- Project Management
+- Pairing
+- Interviewing
 
 ### Health Stats
 
@@ -112,6 +113,6 @@
 - Intuitiveness
 - Accessibility
 
-#### Communication
+#### Collaboration
 - Team Participation
 - % Commits Reviewed before Merged
