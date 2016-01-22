@@ -20,6 +20,8 @@
 - Shell Scripting
 - Clojure
 - C
+- Objective-C
+- C#
 - Java
 - Swift
 - Go
