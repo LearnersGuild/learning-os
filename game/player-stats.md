@@ -63,6 +63,7 @@
 - Servers
 - Routing
 - Reporting and Analytics
+- Networking
 
 #### Engineering
 - Design Patterns
@@ -104,6 +105,7 @@
 - Browserify
 - Bower
 - Underscore
+- jQuery
 
 #### Software Development
 - Command-Line Tools
@@ -144,17 +146,12 @@
 - I solicit technical feedback often.
 - I integrate technical feedback often.
 
-#### Humble Confidence
-- I engage in implementation debates with confidence.
-- I win and lose implementation debates with humility.
-- I hold strong opinions lightly.
-
 #### Pragmatism
 - I prioritize optimal solutions over my own opinions.
 - I focus on team or organizational goals when working with others.
-
-#### Productivity
-- My pairing sessions are productive.
+- I engage in implementation debates with confidence.
+- I win and lose implementation debates with humility.
+- I hold strong opinions lightly.
 
 ### Quality Stats
 
