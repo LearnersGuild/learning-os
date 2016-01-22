@@ -35,7 +35,28 @@
 - Relational Databases
 - Testing
 - DevOps
-- Application Frameworks
+
+#### Frameworks
+- Express
+- Angular
+- Ember
+- Rails
+- Sinatra
+- Meteor
+- Flask
+
+#### Libraries
+- React
+- Bootstrap
+- Gulp
+- Grunt
+- Async
+- Socket.io
+- Mongoose
+- Mocha
+- Browserify
+- Bower
+- Underscore
 
 #### Engineering
 - Computer Science
