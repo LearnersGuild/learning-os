@@ -4,7 +4,9 @@
 
 - [Group: Programming](#group-programming)
 	- [JavaScript](#javascript)
-		- [Level 0](#level-0)
+		- [Level 0 [Classic JS]](#level-0-classic-js)
+		- [Level 1 [ECMAScript 2015 Basics]](#level-1-ecmascript-2015-basics)
+		- [Level 2 [ECMAScript 2015 Advanced]](#level-2-ecmascript-2015-advanced)
 	- [Ruby](#ruby)
 	- [Python](#python)
 	- [Shell Scripting](#shell-scripting)
@@ -64,14 +66,32 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### JavaScript
 
-#### Level 0
+#### Level 0 [Classic JS]
 - Identify, explain, and apply variables in JavaScript code
 - Identify, explain, and apply data types in JavaScript code
-- Identify, explain, and apply collections in JavaScript code
+- Identify, explain, and apply arrays in JavaScript code
 - Identify, explain, and apply objects in JavaScript code
+- Identify, explain, and apply conditionals in JavaScript code
 - Identify, explain, and apply loops in JavaScript code
-- Identify, explain, and apply conditional in JavaScript code
 - Identify, explain, and apply functions in JavaScript code
+
+#### Level 1 [ECMAScript 2015 Basics]
+- Identify, explain, and apply let statements in JavaScript code
+- Identify, explain, and apply const statements in JavaScript code
+- Identify, explain, and apply for...of... statements in JavaScript code
+- Identify, explain, and apply stand-alone blocks in JavaScript code
+- Identify, explain, and apply arrow functions in JavaScript code
+- Identify, explain, and apply modules in JavaScript code
+- Identify, explain, and apply optional parameters in JavaScript code
+- Identify, explain, and apply classes in JavaScript code
+
+#### Level 2 [ECMAScript 2015 Advanced]
+- Identify, explain, and apply symbols in JavaScript code
+- Identify, explain, and apply destructuring in JavaScript code
+- Identify, explain, and apply maps in JavaScript code
+- Identify, explain, and apply weakmaps in JavaScript code
+- Identify, explain, and apply promises in JavaScript code
+- Identify, explain, and apply generators in JavaScript code
 
 ### Ruby
 
