@@ -120,7 +120,7 @@
 
 ### Health Stats
 
-#### Habitual Practice
+#### Continuous Practice
 - I write code every workday.
 - I read others' code every workday.
 - I deploy a build at least once a week.
