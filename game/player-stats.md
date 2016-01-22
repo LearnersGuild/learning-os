@@ -4,37 +4,64 @@
 
 ### Stat Groups
 
-- Programming
+- Collaboration
+- Computer Science
+- Databases
+- Design
 - Development
 - Engineering
-- Design
-- Collaboration
+- Frameworks
+- Libraries
+- Programming
+- Wetware
 
 ### Skill Stats
 
-#### Programming
-- Typing
-- JavaScript
-- Ruby
-- Python
-- Shell Scripting
-- Clojure
-- C
-- Objective-C
-- C#
-- Java
-- Swift
-- Go
+#### Collaboration
+- Project Management
+- Pairing
+- Interviewing
+- Agile Development
+
+#### Computer Science
+- Circuitry
+- Bitwise Operations
+- Algorithms
+- Data Structures
+- Memory Management
+- Concurrency and Parallelism
+
+#### Databases
+- Relational Database Design
+- Document Database Design
+- SQL
+- SQLite
+- PostgreSQL
+- MySQL
+- MongoDB
+- CouchDB
+- Redis
+- Elastic
+- Neo4j
+- Memcached
+
+#### Design
+- UI Design
+- UX Design
+- Wireframing
 
 #### Development
 - Front-End Web Apps
 - Back-End Web Apps
 - Mobile Apps
 - Command-Line Tools
-- Document Databases
-- Relational Databases
 - Testing
 - DevOps
+
+#### Engineering
+- Design Patterns
+- Systems Architecture
+- Documentation
 
 #### Frameworks
 - Express
@@ -58,21 +85,19 @@
 - Bower
 - Underscore
 
-#### Engineering
-- Computer Science
-- Design Patterns
-- Systems Architecture
-- Documentation
-
-#### Design
-- UI Design
-- UX Design
-- Wireframing
-
-#### Collaboration
-- Project Management
-- Pairing
-- Interviewing
+#### Programming
+- Typing
+- JavaScript
+- Ruby
+- Python
+- Shell Scripting
+- Clojure
+- C
+- Objective-C
+- C#
+- Java
+- Swift
+- Go
 
 #### Wetware
 - Reading
