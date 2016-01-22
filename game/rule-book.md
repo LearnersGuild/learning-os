@@ -169,6 +169,14 @@ Stat Groups can be further organized into Stat Quadrants. There are four Stat Qu
 The highest-level player stats are the Player's rolled up Skill Level, Health, and Quality Percentage.
 The Player Skill level is the sum of all the Player's individual skill levels. The Health is the *lowest* of all their individual Health Stats, and the Player's Quality Percentage is the *average* of all their individual Quality Stats.
 
+### Player Momentum
+
+Player momentum is a composite stat that reflects the pace at which of the player's learning is accelerating. It's calculated using the following formula:
+
+*Total SP Earned in Current Week / (Three Week Moving SP Average * 100)* [^1]
+
+The Player Momentum is expressed as a percentage. Anything over 100% indicates the player's rate of learning is accelerating, anything under 100% means it is decelerating.
+
 ## Game Objects
 
 
@@ -376,3 +384,7 @@ Challenges will include (but not be limited to):
 ### 1 - Ingame
 
 ### 2 - Postgame
+
+---
+
+[^1]: Three Week Moving SP Average = (Total SP earned in the previous 3 weeks) / 3
