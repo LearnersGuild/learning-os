@@ -144,7 +144,7 @@
 - I win and lose implementation debates with humility.
 - I hold strong opinions lightly.
 
-#### Professionalism
+#### Pragmatism
 - I prioritize optimal solutions over my own opinions.
 - I focus on team or organizational goals when working with others.
 
@@ -153,34 +153,31 @@
 
 ### Quality Stats
 
-#### Programming
-- Concision
-- Idiomatic Consistency
-
-#### Development
-- Readability
-- Test Coverage
-- Style Consistency
-- Commit Message Quality
-
-#### Engineering
-- Composition
-- Architecture
-- Documentation
-- Performance
-
-#### Design
-- Usability
-- Originality
-- Intuitiveness
-- Accessibility
-
-#### Collaboration
-- Team Participation
-- % Commits Reviewed before Merged
-- Enjoyable
-
-#### Feedback
-- Kind
-- Actionable
-- Specific
+- Completeness
+- Code Quality
+  - Examples:
+    - Concision
+    - Idiomatic Consistency
+    - Readability
+    - Naming
+    - Object-Oriented Design
+    - Functional Design
+    - Performance
+    - Test Coverage
+    - Style Consistency
+    - Commit Message Quality
+    - Documentation
+- Design Quality
+  - Examples:
+    - Composition
+    - Architecture
+    - Modularity
+    - Usability
+    - Originality
+    - Intuitiveness
+    - Accessibility
+- Collaboration Quality
+  - Examples:
+    - Team Participation
+    - % Commits Reviewed before Merged
+    - Enjoyable
