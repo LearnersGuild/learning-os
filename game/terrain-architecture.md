@@ -159,6 +159,10 @@ In the above Scenario, only Player D can attempt the "Build a twitter clone" sol
 Players A & B can attempt it as a pair, because combined they have the skill level needed.
 Also note that, Player C, can attempt the challenge if they pair with Player D.
 
+### Fungible Skill Points
+
+In the example above, if Player C and Player D pair on the challenge and submit it, they'll both be allocated Database & Javascript Skill Points (SP). Player C will see their SP increase *for the level at which they are*. In other words, unlike abilities sets, SP is not tied to a certain skill level, and is fungible.
+
 ## Example Terrain Elements
 
 ### Project: How the web works presentation
