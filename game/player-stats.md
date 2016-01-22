@@ -121,21 +121,22 @@
 ### Health Stats
 
 #### Continuous Practice
-- I write code every workday.
-- I read others' code every workday.
-- I deploy a build at least once a week.
+- I write code often.
+- I read others' code often.
+- I deploy a build frequently.
 - I actively learn something new everyday.
 
 #### Collaboration
-- I pair at least once a week.
+- I frequently and consistently reach out to others to collaborate on pair and group challenges.
 - My pairing sessions are productive.
 - My pairing sessions are enjoyable.
 - I contribute to group projects.
 - My group appreciates my contributions.
+- I make myself verbally and physically available for collaborative work
 
 #### Feedback
-- I review code at least twice a week.
-- I interview other learners at least once a phase.
+- I review code often.
+- I interview other learners when asked.
 - My technical feedback is kind.
 - My technical feedback is actionable.
 - My technical feedback is specific.
