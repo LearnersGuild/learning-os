@@ -14,7 +14,6 @@
 - [Challenge Types](#challenge-types)
 	- [Project](#project)
 	- [Drill](#drill)
-	- [Level Challenge](#level-challenge)
 - [Example Terrain Elements](#example-terrain-elements)
 	- [Project: How the web works presentation](#project-how-the-web-works-presentation)
 		- [Objectives](#objectives)
@@ -144,10 +143,6 @@ A Drill is like a tutorial without the explanation part or defined steps. Drills
 Drills are used to develop habits, build behavior, and to apply and gain knowledge.
 
 Examples: "Write a binary search algorithm that passes a provided test suite.", "Outline endpoints for a RESTful API exposing category, product, and shopping cart resources."
-
-### Level Challenge
-
-A Level Challenge is designed to test/exercises the entire Abilities Set for the *one or more* Skill Levels associated with a Challenge.
 
 
 ## Example Terrain Elements
