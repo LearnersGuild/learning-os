@@ -78,7 +78,7 @@ For example, a "Build online Resume" challenge can have these objectives:
 
 ### Skill Level(s)
 
-A Challenge belongs to at least 1 or more Skill Levels[^1]. Unless a player has achieved that skill level, they cannot unlock the challenge. The Skill Level section of a challenge, describes which abilities the challenge requires/develops for which Skill level(s), and the Skill Points (SP) associated with each skill level. Challenges within a Skill Level's Challenge Set all contribute SP towards that Skill Level.
+A Challenge belongs to at least 1 or more Skill Levels[^1]. The Skill Level section of a challenge, describes which abilities the challenge requires/develops for which Skill level(s), and the Skill Points (SP) associated with each skill level. Challenges within a Skill Level's Challenge Set all contribute SP towards that Skill Level.
 
 For example, the "Build Online Resume" can have the following Skill Levels:
 
@@ -93,15 +93,7 @@ Abilities:
 - can build a table structure in html without using html tables
 - can separate html and css files and link them
 
-**Web Ops Level 0 (50 SP)**
-
-Abilities
-- can purchase & setup domain
-- can setup hosting
-
-The above challenge will only be available to players who have leveled up to HTML Level 1.
-
-## Quality Rubric(s)
+### Quality Rubric(s)
 
 A Quality Rubric is a Quality Stat, and a Quality Description associated with a certain challenge that determine how a player's work for that particular challenge is evaluated.
 
@@ -110,11 +102,11 @@ For the above challenge, the quality rubrics might look like:
 * Completeness: % of objectives that were accomplished
 * Code Readability: proper indentation
 
-## Time (optional)
+### Time (optional)
 
 Some challenges might need to be time bound.
 
-##Players (optional)
+### Players (optional)
 
 Minimum, and Maximum number of players required to attempt this challenge. Some examples:
 * 3/5 : this challenge requires at least 3 players, and no more than 5.
@@ -144,6 +136,28 @@ Drills are used to develop habits, build behavior, and to apply and gain knowled
 
 Examples: "Write a binary search algorithm that passes a provided test suite.", "Outline endpoints for a RESTful API exposing category, product, and shopping cart resources."
 
+## Challenge Unlocking
+
+All challenges are locked to a player unless:
+
+* They have ALL the skill levels to which a challenge belongs
+
+OR
+
+* They are attempting the challenge as a pair or a group, and *combined* they group has ALL the skill levels to which a challenge belongs.
+
+
+For example, imagine the following scenario:
+
+*Challenge "Build a twitter clone":* Database Level 3, JavaScript Level 4
+*Player A:* Database Level 3, Javascript Level 3
+*Player B:* Database Level 0, Javascript Level 5
+*Player C:* Database Level 0, Javascript Level 1
+*Player D:* Database Level 3, Javascript Level 4
+
+In the above Scenario, only Player D can attempt the "Build a twitter clone" solo.
+Players A & B can attempt it as a pair, because combined they have the skill level needed.
+Also note that, Player C, can attempt the challenge if they pair with Player D.
 
 ## Example Terrain Elements
 
