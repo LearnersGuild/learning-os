@@ -26,9 +26,9 @@ A set of dimensions that are used to evaluate a challenge once it's completed.
 
 A player stat that reflects the player's behavior, habits & value alignment.
 
-# Level Challenge
+# Level Interview
 
-A special required challenge that needs to be accomplished in order for a player to level up for a particular skill.
+A Level Interview happens once a player has signaled that they have acquired all the abilities in a skill level's abilities set, and is ready to level up. Players must be interviewed by at least two other players, and pass, in order to level up.
 
 # Player Skill Level
 
