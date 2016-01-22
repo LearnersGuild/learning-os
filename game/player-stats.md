@@ -13,6 +13,7 @@
 ### Skill Stats
 
 #### Programming
+- Typing
 - JavaScript
 - Ruby
 - Python
@@ -35,7 +36,6 @@
 - Application Frameworks
 
 #### Engineering
-- Reasoning and Logic
 - Computer Science
 - Design Patterns
 - Systems Architecture
@@ -50,6 +50,12 @@
 - Project Management
 - Pairing
 - Interviewing
+
+#### Wetware
+- Reading
+- Researching
+- Experimentation
+- Reasoning and Logic
 
 ### Health Stats
 
