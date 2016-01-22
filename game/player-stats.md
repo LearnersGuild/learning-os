@@ -130,34 +130,26 @@
 
 #### Collaboration
 - I frequently and consistently reach out to others to collaborate on pair and group challenges.
-- My pairing sessions are productive.
-- My pairing sessions are enjoyable.
 - I contribute to group projects.
-- My group appreciates my contributions.
-- I make myself verbally and physically available for collaborative work
+- I make myself verbally and physically available for collaborative work.
+- I interview other learners when asked.
 
 #### Feedback
-- I review code often.
-- I interview other learners when asked.
-- My technical feedback is kind.
-- My technical feedback is actionable.
-- My technical feedback is specific.
+- I frequently and generously give technical feedback to others during group projects, pairing, and through code reviews.
 - I solicit technical feedback often.
 - I integrate technical feedback often.
 
-#### Confidence with Humility
+#### Humble Confidence
 - I engage in implementation debates with confidence.
 - I win and lose implementation debates with humility.
-
-#### Growth Mindset
-- I am comfortable in strengths and eager to improve my weaknesses.
-- I engage in implementation debates with an eagerness to learn.
-- I greet mistakes and failures as opportunities for improvement.
-- I support and critique others' actions, not their qualities.
+- I hold strong opinions lightly.
 
 #### Professionalism
 - I prioritize optimal solutions over my own opinions.
 - I focus on team or organizational goals when working with others.
+
+#### Productivity
+- My pairing sessions are productive.
 
 ### Quality Stats
 
@@ -186,3 +178,9 @@
 #### Collaboration
 - Team Participation
 - % Commits Reviewed before Merged
+- Enjoyable
+
+#### Feedback
+- Kind
+- Actionable
+- Specific
