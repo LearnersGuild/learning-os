@@ -80,7 +80,7 @@
 	- [Clojure](#clojure)
 	- [C](#c)
 	- [Objective-C](#objective-c)
-	- [C#](#c)
+	- [C\#](#c)
 	- [Java](#java)
 	- [Swift](#swift)
 	- [Go](#go)
@@ -388,7 +388,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Objective-C
 
-### C#
+### C\#
 
 ### Java
 
