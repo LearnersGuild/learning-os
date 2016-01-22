@@ -5,6 +5,7 @@
 ### Stat Groups
 
 - Collaboration
+- Computer Basics
 - Computer Science
 - Databases
 - Design
@@ -12,7 +13,7 @@
 - Engineering
 - Frameworks
 - Libraries
-- Programming
+- Languages
 - Software Development
 - Web Application Development
 - Wetware
@@ -24,6 +25,11 @@
 - Pairing
 - Interviewing
 - Agile Development
+
+#### Computer Basics
+- Typing
+- File Management
+- Security and Privacy
 
 #### Computer Science
 - Circuitry
@@ -73,6 +79,19 @@
 - Meteor
 - Flask
 
+#### Languages
+- JavaScript
+- Ruby
+- Python
+- Clojure
+- C
+- Objective-C
+- C#
+- Java
+- Swift
+- Go
+- Bash
+
 #### Libraries
 - React
 - Bootstrap
@@ -85,20 +104,6 @@
 - Browserify
 - Bower
 - Underscore
-
-#### Programming
-- Typing
-- JavaScript
-- Ruby
-- Python
-- Shell Scripting
-- Clojure
-- C
-- Objective-C
-- C#
-- Java
-- Swift
-- Go
 
 #### Software Development
 - Command-Line Tools
