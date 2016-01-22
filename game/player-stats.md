@@ -8,11 +8,13 @@
 - Computer Science
 - Databases
 - Design
-- Development
+- DevOps
 - Engineering
 - Frameworks
 - Libraries
 - Programming
+- Software Development
+- Web Application Development
 - Wetware
 
 ### Skill Stats
