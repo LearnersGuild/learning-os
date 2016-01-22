@@ -48,20 +48,19 @@
 #### Design
 - UI Design
 - UX Design
+- Responsive Design
 - Wireframing
 
-#### Development
-- Front-End Web Apps
-- Back-End Web Apps
-- Mobile Apps
-- Command-Line Tools
-- Testing
-- DevOps
+#### DevOps
+- Servers
+- Routing
+- Reporting and Analytics
 
 #### Engineering
 - Design Patterns
 - Systems Architecture
 - Documentation
+- Network Protocols
 
 #### Frameworks
 - Express
@@ -98,6 +97,20 @@
 - Java
 - Swift
 - Go
+
+#### Software Development
+- Command-Line Tools
+- Testing
+- Environment Management
+- Continuous Integration
+
+#### Web Application Development
+- Web Application Architecture
+- Frontend Development
+- Web Servers
+- Web API Design
+- RESTful Design
+- WebSockets
 
 #### Wetware
 - Reading
