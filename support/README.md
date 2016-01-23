@@ -23,8 +23,8 @@ A Facilitator is an external resource that is called upon if Players and Pods ne
 To determine if an aspirant is an ideal candidate for the Learners Guild game, assess the candidate along the following two dimensions:
 
 - Traits
-	- [Non-negotiable](support/Player_Characteristics/Traits_NonNegotiable.md)
-	- [Negotiable](support/Player_Characteristics/Traits_NiceToHave.md)
+	- [Non-negotiable](/support/Player_Characteristics/Traits_NonNegotiable.md)
+	- [Negotiable](/support/Player_Characteristics/Traits_NiceToHave.md)
 - Talent Requirements
 	- [Technical]
 		- [Non-negotiable](/support/Player_Characteristics/Talent_Requiremen_Technical_NonNegotiable.md)
