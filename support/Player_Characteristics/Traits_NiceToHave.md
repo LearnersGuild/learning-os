@@ -6,3 +6,4 @@ The relative traits of an ideal player are:
 	- LGBTQ, gender non-conforming
 	- Persons with disabilities
 	- Persons from a low-income environment
+- A belief that inclusion is an overall net positive effect in the software engineering field.
