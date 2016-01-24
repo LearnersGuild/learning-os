@@ -4,19 +4,38 @@
 
 - [Group: Collaboration](#group-collaboration)
 	- [Project Management](#project-management)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
+		- [Level 2](#level-2)
 	- [Pairing](#pairing)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
 	- [Interviewing](#interviewing)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
+		- [Level 2](#level-2)
 		- [Level 4](#level-4)
 	- [Agile Development](#agile-development)
 - [Group: Computer Tools](#group-computer-tools)
+	- [Editor](#editor)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
 	- [Keyboard](#keyboard)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
+		- [Level 2](#level-2)
 	- [File Management](#file-management)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
+		- [Level 2](#level-2)
 	- [Security and Privacy](#security-and-privacy)
 - [Group: Computer Science](#group-computer-science)
 	- [Circuitry](#circuitry)
 	- [Bitwise Operations](#bitwise-operations)
 	- [Algorithms](#algorithms)
 	- [Data Structures](#data-structures)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
 	- [Memory Management](#memory-management)
 	- [Concurrency and Parallelism](#concurrency-and-parallelism)
 - [Group: Databases](#group-databases)
@@ -24,6 +43,8 @@
 		- [Level 0](#level-0)
 		- [Level 1](#level-1)
 	- [Document Database Design](#document-database-design)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
 	- [SQL](#sql)
 		- [Level 0 [Simple Queries]](#level-0-simple-queries)
 		- [Level 1 [SQL Basics]](#level-1-sql-basics)
@@ -53,9 +74,16 @@
 	- [Memcached](#memcached)
 - [Group: Design](#group-design)
 	- [UI Design](#ui-design)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
+		- [Level 2](#level-2)
 	- [UX Design](#ux-design)
 	- [Responsive Design](#responsive-design)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
 	- [Wireframing](#wireframing)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
 - [Group: DevOps](#group-devops)
 	- [Servers](#servers)
 		- [Level 0](#level-0)
@@ -137,61 +165,71 @@ _Abilities belong to a skill level and are written as declarative statements whi
 ## Group: Collaboration
 ### Project Management
 
+#### Level 0
 - Identify and explain project development stages
 - Break project down into multiple stages
-- Define and assign roles within group for project development
 - Explain and define MVP
-- Explain and define user stories
-- Explain and define features
-- Explain and define releases
-- Explain and define stand-ups
 - Build an MVP as a part of project development
+
+#### Level 1
+- Explain and apply GitHub flow
+- Explain and define user stories
 - Apply user stories as a part of project development
+- Explain and define features
 - Apply features as a part of project development
+- Explain and define releases
 - Apply releases as a part of project development
+
+#### Level 2
+- Create and explain a project development plan
+- Use project management software to manage a development process
+- Debate implementation strategies and decisions effectively
+- Define and assign roles within group for project development
+- Explain and define stand-ups
 - Apply stand-ups as a part of project development
 
-- Create and explain a project development plan
-- Debate implementation strategies and decisions effectively
-- Explain and apply GitHub flow
-- Use project management software to manage a development process
-
 ### Pairing
+
+#### Level 0
 - Write code with a pair
+- Pair with someone at a higher skill level
+- Pair with someone at your same skill level
+- Pair on the same computer with one keyboard and pointer device
+- Pair on the same computer with two keyboards and pointer devices
+
+#### Level 1
 - Complete a project with a pair
 - Explain the roles of driver and navigator in pair programming
 - Designate and follow the roles of driver and navigator when pair programming
-- Pair with someone at a higher skill level
 - Pair with someone at a lower skill level
-- Pair with someone at your same skill level
 - Pair remotely
 - Pair remotely with video
-- Pair on the same computer with one keyboard and pointer device
-- Pair on the same computer with two keyboards and pointer devices
-- Pair on separate computers without sharing code
 - Pair on separate computers with a shared editor
 - Pair on separate computers with a shared IDE
 - Pair without talking
 
 ### Interviewing
 
-- Identify and explain common interview stages
-- Identify and explain common interview questions
-
-- Prepare for an interview
-- Engage the interviewer
-
-- Clarify questions in an interview
+#### Level 0
 - Describe thought process in an interview
 - Maintain composure in an interview
-- Solve problems in real-time in an interview
 - Demonstrate confidence in an interview
-- Demonstrate humility in an interview
+
+#### Level 1
+- Prepare for an interview
+- Engage the interviewer
+- Clarify questions in an interview
+- Solve problems in real-time in an interview
 - Demonstrate competence in an interview
+- Identify and explain common interview questions
+- Identify and explain common interview stages
+
+#### Level 2
+- Demonstrate humility in an interview
 - Demonstrate personality in an interview
 - Identify and explain common biases in an interview process
-- Identify and explain common stresses for an interviewer
 - Neutralize common biases in an interview process
+- Identify and explain common stresses for an interviewer
 - Manage and counteract common stresses as an interviewee
 
 #### Level 4
@@ -203,32 +241,42 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Apply the Agile development process
 
 ## Group: Computer Tools
-### Keyboard
+### Editor
 
-- Type all 26 alphabetical keys without looking at the keyboard
-- Type all 10 numeric keys without looking at the keyboard
+#### Level 0
+- Find text using a plain text pattern in an editor
+- Find and replace text using a plain text pattern in an editor
+- Navigate a file tree in an editor
 
-- Write plain English at > 60 WPM
-- Write code at > 40 WPM
-- Write plain English at > 80 WPM
-- Write code at > 50 WPM
-- Write plain English at > 100 WPM
-- Write code at > 60 WPM
-
-- Use a multi-line cursor
-- Find text using a plain text pattern
-- Find text using a regular expression pattern
-- Find and replace text using a plain text pattern
-- Find and replace text using a regular expression pattern
-
-- Find and apply keyboard shortcuts in commonly used applications
-- Navigate a text editor without using the mouse
-- Navigate the OS without using the mouse
-- Remap modifier keys for faster use
-
+#### Level 1
+- Find text using a regular expression pattern in an editor
+- Find and replace text using a regular expression pattern in an editor
+- Use a multi-line cursor in an editor
 - Write and use macros for your editor
 
+### Keyboard
+
+#### Level 0
+- Type all 26 alphabetical keys without looking at the keyboard
+- Write plain English at > 60 WPM
+- Write code at > 40 WPM
+
+#### Level 1
+- Type all 10 numeric keys without looking at the keyboard
+- Write plain English at > 80 WPM
+- Write code at > 50 WPM
+- Find and apply keyboard shortcuts in commonly used applications
+- Navigate text without using the mouse
+- Remap modifier keys for faster use
+
+#### Level 2
+- Write plain English at > 100 WPM
+- Write code at > 60 WPM
+- Navigate the OS without using the mouse
+
 ### File Management
+
+#### Level 0
 - Locate files and directories using the default file browser in the OS
 - Create files and directories using the default file browser in the OS
 - Edit files and directories using the default file browser in the OS
@@ -236,11 +284,13 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Move files and directories using the default file browser in the OS
 - Rename files and directories using the default file browser in the OS
 
+#### Level 1
 - Create an organizational schema for your local files and directories
 - Create an organizational schema for your remote files and directories
 - Maintain an organizational schema for your local files and directories
 - Maintain an organizational schema for your remote files and directories
 
+#### Level 2
 - Locate files and directories using a command shell
 - Create files and directories using a command shell
 - Edit files and directories using a command shell
@@ -260,34 +310,24 @@ _Abilities belong to a skill level and are written as declarative statements whi
 ### Algorithms
 
 ### Data Structures
+
+#### Level 0
 - Identify and explain arrays
+- Identify and explain associative arrays
 - Identify and explain lists
 - Identify and explain singly-linked lists
 - Identify and explain doubly-linked lists
-- Identify and explain associative arrays
 - Identify and explain sets
 - Identify and explain stacks
 - Identify and explain queues
-- Identify and explain trees
-- Identify and explain graphs
-- Identify and explain binary trees
-- Identify and explain hashes
-- Identify and explain heaps
-
 - Diagram an array
+- Diagram an associative array
 - Diagram a list
 - Diagram a singly-linked list
 - Diagram a doubly-linked list
-- Diagram an associative array
 - Diagram a set
 - Diagram a stack
 - Diagram a queue
-- Diagram a tree
-- Diagram a graph
-- Diagram a binary tree
-- Diagram a hash
-- Diagram a heap
-
 - Implement an array in code
 - Implement a list in code
 - Implement a singly-linked list in code
@@ -296,6 +336,18 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Implement a set in code
 - Implement a stack in code
 - Implement a queue in code
+
+#### Level 1
+- Identify and explain trees
+- Identify and explain graphs
+- Identify and explain binary trees
+- Identify and explain hashes
+- Identify and explain heaps
+- Diagram a tree
+- Diagram a graph
+- Diagram a binary tree
+- Diagram a hash
+- Diagram a heap
 - Implement a tree in code
 - Implement a graph in code
 - Implement a binary tree in code
@@ -321,12 +373,15 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Design a relational schema with a many-to-many relationship
 
 ### Document Database Design
-- Identify and explain common heuristics for document database design
+
+#### Level 0
 - Develop a model for a document database
 - Develop a schema for a document database
 - List common expected queries for a document database
 - Develop data model to address a set of queries
 
+#### Level 1
+- Identify and explain common heuristics for document database design
 - Explain and apply normalization in a document database
 - Explain and apply denormalization in a document database
 - Explain and apply relations in a document database
@@ -406,7 +461,6 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Configure a remote production PostgreSQL database
 - Connect production app to a remote production PostgreSQL database
 
-
 ### MySQL
 
 ### MongoDB
@@ -476,18 +530,53 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Memcached
 
-
 ## Group: Design
+
 ### UI Design
-- Apply UI design principles to web applications
+
+#### Level 0
+- Identify and describe common UI elements (navigation, headers, containers, tabs, modals, etc.)
+- Explain and apply layout in a UI design
+- Explain and apply color usage in a UI design
+- Explain and apply typography in a UI design
+
+#### Level 1
+- Use a grid for UI design
+- Use Sketch to design a web UI
+- Explain and apply visual hierarchy in a UI design
+- Explain and apply visual weight in a UI design
+- Explain and apply whitespace in a UI design
+- Explain and apply color theory in a UI design
+
+#### Level 2
+- Identify and explain common visual design principles
+- Create a mood board for a project
+- Create style tiles for a project
+- Explain and apply accessibility in a UI design
 
 ### UX Design
 - Apply UX design principles to web applications
 
 ### Responsive Design
 
+#### Level 0
+- Design a web page with functional UI at 2 screen widths
+- Design a web page with functional UI at 3 screen widths
+
+#### Level 1
+- List and explain core principles of responsive design
+- Describe and apply a mobile-first design approach
+- Design a web page with functional UI at 4+ screen widths
+
 ### Wireframing
 
+#### Level 0
+- Wireframe an app on paper or a whiteboard
+- Use common symbols, shapes, and graphics in a wireframe
+
+#### Level 1
+- Wireframe an app using wireframe software
+- Demonstrate user flow in a wireframe
 
 ## Group: DevOps
 
@@ -523,8 +612,8 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Networking
 
-
 ## Group: Engineering
+
 ### Design Patterns
 - Identify and differentiate design patterns in code
 
