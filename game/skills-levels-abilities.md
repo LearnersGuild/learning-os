@@ -73,9 +73,10 @@
 	- [Flask](#flask)
 - [Group: Languages](#group-languages)
 	- [JavaScript](#javascript)
-		- [Level 0 [Classic JS]](#level-0-classic-js)
-		- [Level 1 [ECMAScript 2015 Basics]](#level-1-ecmascript-2015-basics)
-		- [Level 2 [ECMAScript 2015 Advanced]](#level-2-ecmascript-2015-advanced)
+		- [Level 0 [Basic JS]](#level-0-basic-js)
+		- [Level 1 [Advanced JS]](#level-1-advanced-js)
+		- [Level 2 [ECMAScript 2015 Basics]](#level-2-ecmascript-2015-basics)
+		- [Level 3 [ECMAScript 2015 Advanced]](#level-3-ecmascript-2015-advanced)
 	- [Ruby](#ruby)
 	- [Python](#python)
 	- [Clojure](#clojure)
@@ -350,7 +351,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### JavaScript
 
-#### Level 0 [Classic JS]
+#### Level 0 [Basic JS]
 - Identify, explain, and apply variables in JavaScript code
 - Identify, explain, and apply data types in JavaScript code
 - Identify, explain, and apply arrays in JavaScript code
@@ -359,7 +360,15 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify, explain, and apply loops in JavaScript code
 - Identify, explain, and apply functions in JavaScript code
 
-#### Level 1 [ECMAScript 2015 Basics]
+#### Level 1 [Advanced JS]
+- Identify, explain, and apply events in JavaScript code
+- Identify, explain, and apply event handlers in JavaScript code
+- Identify, explain, and apply the event loop in JavaScript code
+- Identify, explain, and apply functions as first-order objects JavaScript code
+- Identify, explain, and apply callbacks in JavaScript code
+- Identify, explain, and apply promises in JavaScript code
+
+#### Level 2 [ECMAScript 2015 Basics]
 - Identify, explain, and apply let statements in JavaScript code
 - Identify, explain, and apply const statements in JavaScript code
 - Identify, explain, and apply for...of... statements in JavaScript code
@@ -369,12 +378,11 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify, explain, and apply optional parameters in JavaScript code
 - Identify, explain, and apply classes in JavaScript code
 
-#### Level 2 [ECMAScript 2015 Advanced]
+#### Level 3 [ECMAScript 2015 Advanced]
 - Identify, explain, and apply symbols in JavaScript code
 - Identify, explain, and apply destructuring in JavaScript code
 - Identify, explain, and apply maps in JavaScript code
 - Identify, explain, and apply weakmaps in JavaScript code
-- Identify, explain, and apply promises in JavaScript code
 - Identify, explain, and apply generators in JavaScript code
 
 ### Ruby
