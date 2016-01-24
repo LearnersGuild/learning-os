@@ -6,9 +6,10 @@
 	- [Project Management](#project-management)
 	- [Pairing](#pairing)
 	- [Interviewing](#interviewing)
+		- [Level 4](#level-4)
 	- [Agile Development](#agile-development)
-- [Group: Computer Basics](#group-computer-basics)
-	- [Typing](#typing)
+- [Group: Computer Tools](#group-computer-tools)
+	- [Keyboard](#keyboard)
 	- [File Management](#file-management)
 	- [Security and Privacy](#security-and-privacy)
 - [Group: Computer Science](#group-computer-science)
@@ -37,9 +38,16 @@
 		- [Level 3](#level-3)
 	- [MySQL](#mysql)
 	- [MongoDB](#mongodb)
+		- [Level 0](#level-0)
 		- [Level 1](#level-1)
+		- [Level 2](#level-2)
+		- [Level 3](#level-3)
 	- [RethinkDB](#rethinkdb)
 	- [Redis](#redis)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
+		- [Level 2](#level-2)
+		- [Level 3](#level-3)
 	- [Elastic](#elastic)
 	- [Neo4j](#neo4j)
 	- [Memcached](#memcached)
@@ -128,21 +136,118 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ## Group: Collaboration
 ### Project Management
-- Plan and manage product development
+
+- Identify and explain project development stages
+- Break project down into multiple stages
+- Define and assign roles within group for project development
+- Explain and define MVP
+- Explain and define user stories
+- Explain and define features
+- Explain and define releases
+- Explain and define stand-ups
+- Build an MVP as a part of project development
+- Apply user stories as a part of project development
+- Apply features as a part of project development
+- Apply releases as a part of project development
+- Apply stand-ups as a part of project development
+
+- Create and explain a project development plan
 - Debate implementation strategies and decisions effectively
+- Explain and apply GitHub flow
+- Use project management software to manage a development process
 
 ### Pairing
+- Write code with a pair
+- Complete a project with a pair
+- Explain the roles of driver and navigator in pair programming
+- Designate and follow the roles of driver and navigator when pair programming
+- Pair with someone at a higher skill level
+- Pair with someone at a lower skill level
+- Pair with someone at your same skill level
+- Pair remotely
+- Pair remotely with video
+- Pair on the same computer with one keyboard and pointer device
+- Pair on the same computer with two keyboards and pointer devices
+- Pair on separate computers without sharing code
+- Pair on separate computers with a shared editor
+- Pair on separate computers with a shared IDE
+- Pair without talking
 
 ### Interviewing
+
+- Identify and explain common interview stages
+- Identify and explain common interview questions
+
+- Prepare for an interview
+- Engage the interviewer
+
+- Clarify questions in an interview
+- Describe thought process in an interview
+- Maintain composure in an interview
+- Solve problems in real-time in an interview
+- Demonstrate confidence in an interview
+- Demonstrate humility in an interview
+- Demonstrate competence in an interview
+- Demonstrate personality in an interview
+- Identify and explain common biases in an interview process
+- Identify and explain common stresses for an interviewer
+- Neutralize common biases in an interview process
+- Manage and counteract common stresses as an interviewee
+
+#### Level 4
 - Interview successfully (get a job offer)
 
 ### Agile Development
+- Explain the Agile development process
+- Identify and explain the roles in an Agile development process
+- Apply the Agile development process
 
+## Group: Computer Tools
+### Keyboard
 
-## Group: Computer Basics
-### Typing
+- Type all 26 alphabetical keys without looking at the keyboard
+- Type all 10 numeric keys without looking at the keyboard
+
+- Write plain English at > 60 WPM
+- Write code at > 40 WPM
+- Write plain English at > 80 WPM
+- Write code at > 50 WPM
+- Write plain English at > 100 WPM
+- Write code at > 60 WPM
+
+- Use a multi-line cursor
+- Find text using a plain text pattern
+- Find text using a regular expression pattern
+- Find and replace text using a plain text pattern
+- Find and replace text using a regular expression pattern
+
+- Find and apply keyboard shortcuts in commonly used applications
+- Navigate a text editor without using the mouse
+- Navigate the OS without using the mouse
+- Remap modifier keys for faster use
+
+- Write and use macros for your editor
 
 ### File Management
+- Locate files and directories using the default file browser in the OS
+- Create files and directories using the default file browser in the OS
+- Edit files and directories using the default file browser in the OS
+- Delete files and directories using the default file browser in the OS
+- Move files and directories using the default file browser in the OS
+- Rename files and directories using the default file browser in the OS
+
+- Create an organizational schema for your local files and directories
+- Create an organizational schema for your remote files and directories
+- Maintain an organizational schema for your local files and directories
+- Maintain an organizational schema for your remote files and directories
+
+- Locate files and directories using a command shell
+- Create files and directories using a command shell
+- Edit files and directories using a command shell
+- Delete files and directories using a command shell
+- Move files and directories using a command shell
+- Rename files and directories using a command shell
+
 
 ### Security and Privacy
 
@@ -155,6 +260,47 @@ _Abilities belong to a skill level and are written as declarative statements whi
 ### Algorithms
 
 ### Data Structures
+- Identify and explain arrays
+- Identify and explain lists
+- Identify and explain singly-linked lists
+- Identify and explain doubly-linked lists
+- Identify and explain associative arrays
+- Identify and explain sets
+- Identify and explain stacks
+- Identify and explain queues
+- Identify and explain trees
+- Identify and explain graphs
+- Identify and explain binary trees
+- Identify and explain hashes
+- Identify and explain heaps
+
+- Diagram an array
+- Diagram a list
+- Diagram a singly-linked list
+- Diagram a doubly-linked list
+- Diagram an associative array
+- Diagram a set
+- Diagram a stack
+- Diagram a queue
+- Diagram a tree
+- Diagram a graph
+- Diagram a binary tree
+- Diagram a hash
+- Diagram a heap
+
+- Implement an array in code
+- Implement a list in code
+- Implement a singly-linked list in code
+- Implement a doubly-linked list in code
+- Implement an associative array in code
+- Implement a set in code
+- Implement a stack in code
+- Implement a queue in code
+- Implement a tree in code
+- Implement a graph in code
+- Implement a binary tree in code
+- Implement a hash in code
+- Implement a heap in code
 
 ### Memory Management
 
@@ -175,6 +321,17 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Design a relational schema with a many-to-many relationship
 
 ### Document Database Design
+- Identify and explain common heuristics for document database design
+- Develop a model for a document database
+- Develop a schema for a document database
+- List common expected queries for a document database
+- Develop data model to address a set of queries
+
+- Explain and apply normalization in a document database
+- Explain and apply denormalization in a document database
+- Explain and apply relations in a document database
+- Explain and apply indexes in a document database
+- Explain and apply schema in a document database
 
 ### SQL
 
@@ -237,7 +394,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Provision a local development PostgreSQL database
 - Configure a local development PostgreSQL database
 - Connect local app to a local development PostgreSQL database
-- Select an integrate an Object-Relational Mapper
+- Select and integrate an Object-Relational Mapper
 
 #### Level 2
 - Provision a local test PostgreSQL database
@@ -254,7 +411,30 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### MongoDB
 
+#### Level 0
+- Install MongoDB locally
+- Configure MongoDB locally
+- Create a MongoDB database
+- Connect to a MongoDB database with a shell
+- Create a document in a MongoDB database
+- Update a document in a MongoDB database
+- Delete a document in a MongoDB database
+- Find a single document by id in a MongoDB database
+- Find a single document by a non-id attribute in a MongoDB database
+- Find multiple documents in a MongoDB database
+
 #### Level 1
+- Provision a local development MongoDB database
+- Configure a local development MongoDB database
+- Connect local app to a local development MongoDB database
+- Select and integrate an Object-Document Mapper (ODM)
+
+#### Level 2
+- Provision a local test MongoDB database
+- Configure a local test MongoDB database
+- Connect local app to a local test MongoDB database
+
+#### Level 3
 - Provision a remote production MongoDB database
 - Configure a remote production MongoDB database
 - Connect production app to a remote production MongoDB database
@@ -262,6 +442,33 @@ _Abilities belong to a skill level and are written as declarative statements whi
 ### RethinkDB
 
 ### Redis
+
+#### Level 0
+- Install Redis locally
+- Configure Redis locally
+- Create a Redis database
+- Connect to a Redis database with a shell
+- Create a record in a Redis database
+- Update a record in a Redis database
+- Delete a record in a Redis database
+- Find a single record by id in a Redis database
+- Find a single record by a non-id attribute in a Redis database
+- Find multiple records in a Redis database
+
+#### Level 1
+- Provision a local development Redis database
+- Configure a local development Redis database
+- Connect local app to a local development Redis database
+
+#### Level 2
+- Provision a local test Redis database
+- Configure a local test Redis database
+- Connect local app to a local test Redis database
+
+#### Level 3
+- Provision a remote production Redis database
+- Configure a remote production Redis database
+- Connect production app to a remote production Redis database
 
 ### Elastic
 
