@@ -38,7 +38,7 @@
 	- [MySQL](#mysql)
 	- [MongoDB](#mongodb)
 		- [Level 1](#level-1)
-	- [CouchDB](#couchdb)
+	- [RethinkDB](#rethinkdb)
 	- [Redis](#redis)
 	- [Elastic](#elastic)
 	- [Neo4j](#neo4j)
@@ -66,6 +66,7 @@
 	- [Express](#express)
 	- [Angular](#angular)
 	- [Ember](#ember)
+	- [React](#react)
 	- [Rails](#rails)
 	- [Sinatra](#sinatra)
 	- [Meteor](#meteor)
@@ -86,16 +87,12 @@
 	- [Go](#go)
 	- [Bash](#bash)
 - [Group: Libraries](#group-libraries)
-	- [React](#react)
 	- [Bootstrap](#bootstrap)
-	- [Gulp](#gulp)
-	- [Grunt](#grunt)
 	- [Async](#async)
 	- [Socket.io](#socketio)
 	- [Mongoose](#mongoose)
 	- [Mocha](#mocha)
 	- [Browserify](#browserify)
-	- [Bower](#bower)
 	- [Underscore](#underscore)
 	- [jQuery](#jquery)
 - [Group: Software Development](#group-software-development)
@@ -261,7 +258,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Configure a remote production MongoDB database
 - Connect production app to a remote production MongoDB database
 
-### CouchDB
+### RethinkDB
 
 ### Redis
 
@@ -338,6 +335,8 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Ember
 
+### React
+
 ### Rails
 
 ### Sinatra
@@ -400,13 +399,8 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 
 ## Group: Libraries
-### React
 
 ### Bootstrap
-
-### Gulp
-
-### Grunt
 
 ### Async
 
@@ -417,8 +411,6 @@ _Abilities belong to a skill level and are written as declarative statements whi
 ### Mocha
 
 ### Browserify
-
-### Bower
 
 ### Underscore
 
