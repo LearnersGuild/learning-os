@@ -113,9 +113,15 @@ Once a player completes this challenge these abilities will show up respectively
 
 #### Leveling Up
 
-In order for a player to achieve a higher level for a skill, they need to complete a Level Challenge. Before they are allowed to attempt the Level Challenge they need to have acquired all of the abilities in that Skill's Ability Set.
+In order for a player to achieve a higher level for a skill, they need to:
 
-Once the Level Challenge is successfully completed, the player moves to the next level for that skill: The SP is reset to 0, and whole new Abilities Set is exposed to them.
+1. Unlock the Abilities Set: Every skill level has a set of abilities associated with it. Players unlock the abilities by attempting and submitting challenges that are connected to these abilities. Even though there may be multiple challenges linked to any particular ability, a player only needs to submit one of them in order to unlock the ability.
+
+2. Check off the Abilities Set: Players can only check off an ability that they have unlocked. When a player checks off an ability they are declaring that they have grocked it and are ready to be interviewed for it. Checking off an ability is equivalent to a Player claiming that ability on their resume.
+
+3. Make it through two Level Interviews: Once a Player has checked off all of the abilities for a particular Skill Level's Abilities Set, they are considered to be applying for the next level. At least two other Players (who have already attained the higher skill level) will conduct a Level Interview.
+
+Once the applying player gets two or more "Hire" decisions, they level up to the next level for that skill: The SP is reset to 0, and whole new Abilities Set is exposed to them for unlocking, checking off, and interviewing.
 
 ### Health Stats
 
