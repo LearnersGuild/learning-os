@@ -89,12 +89,18 @@
 		- [Level 0](#level-0)
 		- [Level 1](#level-1)
 		- [Level 2](#level-2)
+		- [Level 3](#level-3)
 	- [Routing](#routing)
 		- [Level 0](#level-0)
 	- [Reporting and Analytics](#reporting-and-analytics)
 	- [Networking](#networking)
 - [Group: Engineering](#group-engineering)
 	- [Design Patterns](#design-patterns)
+		- [Level 0 [Essential Patterns]](#level-0-essential-patterns)
+		- [Level 1 [Basic Design Patterns]](#level-1-basic-design-patterns)
+		- [Level 2 [Advanced Design Patterns]](#level-2-advanced-design-patterns)
+		- [Level 3 [Behavioral Patterns]](#level-3-behavioral-patterns)
+		- [Level 4 [Concurrency Patterns]](#level-4-concurrency-patterns)
 	- [Systems Architecture](#systems-architecture)
 	- [Documentation](#documentation)
 	- [Network Protocols](#network-protocols)
@@ -594,6 +600,10 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Maintain a production app on Heroku
 
 #### Level 2
+- Setup a staging server on Heroku
+- Create and configure a pipeline on Heroku
+
+#### Level 3
 - Provision a DigitalOcean container
 - Configure a DigitalOcean container
 - Start a DigitalOcean container
@@ -615,10 +625,67 @@ _Abilities belong to a skill level and are written as declarative statements whi
 ## Group: Engineering
 
 ### Design Patterns
-- Identify and differentiate design patterns in code
+
+#### Level 0 [Essential Patterns]
+- Define the term "design pattern"
+- Explain why design patterns are useful for writing software
+- Identify, explain, and implement the Adapter structural design pattern
+- Identify, explain, and implement the Module structural design pattern
+- Identify, explain, and implement the Factory method creational design pattern
+
+#### Level 1 [Basic Design Patterns]
+- Identify, explain, and implement the Abstract factory creational design pattern
+- Identify, explain, and implement the Facade structural design pattern
+- Identify, explain, and implement the Singleton creational design pattern
+- Identify, explain, and implement the Iterator behavioral design pattern
+- Identify, explain, and implement the Null object behavioral design pattern
+- Identify, explain, and implement the Decorator structural design pattern
+- Identify, explain, and implement the Proxy structural design pattern
+- Identify, explain, and implement the Template method behavioral design pattern
+- Identify, explain, and implement the Builder creational design pattern
+
+#### Level 2 [Advanced Design Patterns]
+- Identify, explain, and implement the Bridge structural design pattern
+- Identify, explain, and implement the Composite structural design pattern
+- Identify, explain, and implement the Flyweight structural design pattern
+- Identify, explain, and implement the Front controller structural design pattern
+- Identify, explain, and implement the Lazy initialization creational design pattern
+- Identify, explain, and implement the Prototype creational design pattern
+- Identify, explain, and implement the Observer (publish/subscribe) behavioral design pattern
+- Identify, explain, and implement the Servant behavioral design pattern
+
+#### Level 3 [Behavioral Patterns]
+- Identify, explain, and implement the Chain of responsibility behavioral design pattern
+- Identify, explain, and implement the Command behavioral design pattern
+- Identify, explain, and implement the Interpreter behavioral design pattern
+- Identify, explain, and implement the Mediator behavioral design pattern
+- Identify, explain, and implement the Memento behavioral design pattern
+- Identify, explain, and implement the Specification behavioral design pattern
+- Identify, explain, and implement the Strategy behavioral design pattern
+- Identify, explain, and implement the Visitor behavioral design pattern
+
+#### Level 4 [Concurrency Patterns]
+- Identify, explain, and implement the Active Object concurrency design pattern
+- Identify, explain, and implement the Balking concurrency design pattern
+- Identify, explain, and implement the Binding properties concurrency design pattern
+- Identify, explain, and implement the Block chain concurrency design pattern
+- Identify, explain, and implement the Double-checked locking concurrency design pattern
+- Identify, explain, and implement the Event-based asynchronous concurrency design pattern
+- Identify, explain, and implement the Guarded suspension concurrency design pattern
+- Identify, explain, and implement the Join concurrency design pattern
+- Identify, explain, and implement the Lock concurrency design pattern
+- Identify, explain, and implement the Messaging concurrency design pattern
+- Identify, explain, and implement the Monitor object concurrency design pattern
+- Identify, explain, and implement the Reactor concurrency design pattern
+- Identify, explain, and implement the Read-write lock concurrency design pattern
+- Identify, explain, and implement the Scheduler concurrency design pattern
+- Identify, explain, and implement the Thread pool concurrency design pattern
+- Identify, explain, and implement the Thread-specific storage concurrency design pattern
+
 
 ### Systems Architecture
 - Engineer software for maintainability and asynchronous development
+- Identify, explain and apply a Model-View-Controller architecture pattern
 
 ### Documentation
 
