@@ -121,7 +121,7 @@ In order for a player to achieve a higher level for a skill, they need to:
 
 3. Check off the Ability Set: Once a Player has checked off all of the abilities for a particular Skill Level's Abilities Set, they are ready to "Pair Up" for the next level. At least two other Players (who have already attained the higher skill level) will pair with them on challenges. During these pairing sessions, the higher ranked player will be checking off the aspiring player's abilities. 
 
-Once the player aspiring to pair up gets all of their abilities checked off, they level up to the next level for that skill: The SP is reset to 0, and whole new Ability Set is exposed to them for unlocking, claiming, and checking off.
+Once the player aspiring to pair up gets all of their abilities checked off, they level up to the next level for that skill: The SP is reset to 0, and a whole new Ability Set is exposed to them for unlocking, claiming, and checking off.
 
 ### Health Stats
 
