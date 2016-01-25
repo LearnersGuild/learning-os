@@ -106,7 +106,13 @@
 	- [Network Protocols](#network-protocols)
 - [Group: Frameworks](#group-frameworks)
 	- [Express](#express)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
+		- [Level 2](#level-2)
 	- [Angular](#angular)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
+		- [Level 2](#level-2)
 	- [Ember](#ember)
 	- [React](#react)
 	- [Rails](#rails)
@@ -682,7 +688,6 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify, explain, and implement the Thread pool concurrency design pattern
 - Identify, explain, and implement the Thread-specific storage concurrency design pattern
 
-
 ### Systems Architecture
 - Engineer software for maintainability and asynchronous development
 - Identify, explain and apply a Model-View-Controller architecture pattern
@@ -691,11 +696,63 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Network Protocols
 
-
 ## Group: Frameworks
+
 ### Express
 
+#### Level 0
+- Install the Express package
+- Build a "Hello, world" app with Express
+- Serve static files with Express
+- Integrate routing to an Express app
+- Run a web app using Express
+- Identify, define, and describe the main files used in an Express app
+
+#### Level 1
+- Use template engines to an Express app
+- Add middleware to an Express app
+- Debug an Express app
+- Integrate error handling to an Express app
+- Explain what Express is and how it works
+- Identify, define and use a request object
+- Identify, define and use a response object
+- Use Express in a project
+- Deploy an Express application
+
+#### Level 2
+- Integrate database integration to an Express app
+- Use a process manager in an Express app
+- Identify, define and use an express function
+- Identify, define and use an application object
+- Identify, define and use a router object
+- Use Express in a production app
+
 ### Angular
+
+#### Level 0
+- Install the Angular package
+- Build a basic grocery list app with Angular
+- Identify, explain and apply static templates in an Angular app
+- Identify, explain and apply angular templates in an Angular app
+- Identify, explain and apply filtering repeaters in an Angular app
+- Identify, explain and apply controllers in an Angular app
+
+#### Level 1
+- Explain what Angular is and how it works
+- Debug an Angular app
+- Identify, explain and apply two-way data binding in an Angular app
+- Identify, explain and apply components in an Angular app
+- Identify, explain and apply XHRs & dependency injection in an Angular app
+- Identify, explain and apply templating links and images in an Angular app
+- Identify, explain and apply routing and multiple views in an Angular app
+- Use Angular in a project
+
+#### Level 2
+- Identify, explain and apply filters in an Angular app
+- Identify, explain and apply event handlers in an Angular app
+- Identify, explain and apply REST and custom services in an Angular app
+- Identify, explain and apply animations in an Angular app
+- Use Angular in a production app
 
 ### Ember
 
