@@ -42,9 +42,9 @@
 The terrain of our applied game is represented as a list of Skills, and Quality Rubrics.
 
 Skills are each broken down into Skill Levels.
-Each Skill Level defined by an Abilities Set, and a Challenge Set.
+Each Skill Level defined by an Ability Set, and a Challenge Set.
 
-The Skill Levels (along with their Abilities Set and Challenge Set) define *what* the player will be engaged in, while the Quality Rubrics defines *how* the player's accomplishments will be evaluated. Quality Rubrics are composed of a Quality Stat, and a Quality Description that spells out how a player's work for that particular challenge is evaluated.
+The Skill Levels (along with their Ability Set and Challenge Set) define *what* the player will be engaged in, while the Quality Rubrics defines *how* the player's accomplishments will be evaluated. Quality Rubrics are composed of a Quality Stat, and a Quality Description that spells out how a player's work for that particular challenge is evaluated.
 
 Players traverse the terrain by working on challenges that are available to them for their current skill levels. As they level up, more challenges are unlocked and are available to them.
 
@@ -144,7 +144,7 @@ All challenges are locked to a player unless:
 
 OR
 
-* They are attempting the challenge as a pair or a group, and *combined* they group has ALL the skill levels to which a challenge belongs.
+* They are attempting the challenge as a pair or a group, and *combined* the group has ALL the skill levels to which a challenge belongs.
 
 
 For example, imagine the following scenario:

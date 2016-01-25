@@ -1,6 +1,13 @@
 # Ability
 
-Capacities, knowledge, and beliefs the player acquires through attempting challenges.
+Capacities, knowledge, and beliefs the player acquires through attempting challenges. Abilities belong to an Ability Set, which belongs to a Skill level, which belongs to a Skill. Abilities are also linked from challenges that demand/develop them. 
+
+Abilities have four states (for each player)
+
+* Locked: Meaning the player has not yet attempted any challenges that list this ability. Locked abilities cannot be claimed.
+* Unlocked: The ability has been practiced by the player through a challenge, but the player has not yet claimed it.
+* Claimed: The player is announcing that they have grocked this ability.
+* Checked Off: A higher-ranked player has worked with the player on this ability, and has verified that they have grocked it. 
 
 # Ability Set
 
@@ -26,9 +33,9 @@ A set of dimensions that are used to evaluate a challenge once it's completed.
 
 A player stat that reflects the player's behavior, habits & value alignment.
 
-# Level Interview
+# Pair Up
 
-A Level Interview happens once a player has signaled that they have acquired all the abilities in a skill level's abilities set, and is ready to level up. Players must be interviewed by at least two other players, and pass, in order to level up.
+A Pair Up happens once a player has claimed all the abilities in a skill level's ability set and is ready to level up. A higher ranked player pairs with the player who is claiming a skill level, and checks off their abilities through working together on a challenge, or a code review. Players must pair up at least twice, and have all their abilities checked off in order to level up.
 
 # Player Skill Level
 

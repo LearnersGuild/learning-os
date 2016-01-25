@@ -95,7 +95,7 @@ There are three types of Player Stats: Skill, Health and Quality
 
 Players have many different skills that they are developing throughout the game. Each skill has one or more levels which players advance through. Players start each skill at level 0.
 
-Each skill level is composed of a collection of abilities (Abilities Set). Players level up by acquiring Skill Points and abilities related to that skill. As a player develops a skill past a certain point, they "level up" to a new Skill Level.
+Each skill level is composed of a collection of abilities (Ability Set). Players level up by acquiring Skill Points and abilities related to that skill. As a player develops a skill past a certain point, they "level up" to a new Skill Level.
 
 #### Skill Points (SP)
 
@@ -115,13 +115,13 @@ Once a player completes this challenge these abilities will show up respectively
 
 In order for a player to achieve a higher level for a skill, they need to:
 
-1. Unlock the Abilities Set: Every skill level has a set of abilities associated with it. Players unlock the abilities by attempting and submitting challenges that are connected to these abilities. Even though there may be multiple challenges linked to any particular ability, a player only needs to submit one of them in order to unlock the ability.
+1. Unlock the Ability Set: Every skill level has a set of abilities associated with it. Players unlock the abilities by attempting and submitting challenges that are connected to these abilities. Even though there may be multiple challenges linked to any particular ability, a player only needs to submit one of them in order to unlock the ability.
 
-2. Check off the Abilities Set: Players can only check off an ability that they have unlocked. When a player checks off an ability they are declaring that they have grocked it and are ready to be interviewed for it. Checking off an ability is equivalent to a Player claiming that ability on their resume.
+2. Claim the Ability Set: Players can only claim an ability after they have unlocked it. When a player claims an ability they are declaring that they have grocked it. Claiming an ability is equivalent to a Player listing that ability on their resume.
 
-3. Make it through two Level Interviews: Once a Player has checked off all of the abilities for a particular Skill Level's Abilities Set, they are considered to be applying for the next level. At least two other Players (who have already attained the higher skill level) will conduct a Level Interview.
+3. Check off the Ability Set: Once a Player has checked off all of the abilities for a particular Skill Level's Abilities Set, they are ready to "Pair Up" for the next level. At least two other Players (who have already attained the higher skill level) will pair with them on challenges. During these pairing sessions, the higher ranked player will be checking off the aspiring player's abilities. 
 
-Once the applying player gets two or more "Hire" decisions, they level up to the next level for that skill: The SP is reset to 0, and whole new Abilities Set is exposed to them for unlocking, checking off, and interviewing.
+Once the player aspiring to pair up gets all of their abilities checked off, they level up to the next level for that skill: The SP is reset to 0, and whole new Ability Set is exposed to them for unlocking, claiming, and checking off.
 
 ### Health Stats
 
