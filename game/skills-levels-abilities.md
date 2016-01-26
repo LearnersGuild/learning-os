@@ -1086,17 +1086,17 @@ _Abilities belong to a skill level and are written as declarative statements whi
 ### Experimentation
 
 #### Level 0
-- Pose a question
+- Pose a question for an experiment
 - Make an informed hypothesis
 - Construct an experiment
 - Run an experiment
-- Analyze results
+- Analyze results of an experiment
 
 #### Level 1
-- Articulate assumptions, knowledge, and beliefs
-- Consider variables
-- Determine appropriate sample size
-- Document findings
+- Articulate assumptions, knowledge, and beliefs in an experiment context
+- Consider variables in an experiment
+- Determine appropriate sample size for measuring experiment results
+- Document findings of an experiment
 
 ### Reasoning and Logic
 
