@@ -781,6 +781,8 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify, explain, and apply conditionals in JavaScript code
 - Identify, explain, and apply loops in JavaScript code
 - Identify, explain, and apply functions in JavaScript code
+- Write a for loop in JavaScript
+- Write a while loop in JavaScript
 
 #### Level 1 [Advanced JS]
 - Identify, explain, and apply events in JavaScript code
@@ -789,6 +791,8 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify, explain, and apply functions as first-order objects JavaScript code
 - Identify, explain, and apply callbacks in JavaScript code
 - Identify, explain, and apply promises in JavaScript code
+- Identify, explain, and apply recursive functions in JavaScript code
+- Write a program that reads and writes to a file
 
 #### Level 2 [ECMAScript 2015 Basics]
 - Identify, explain, and apply let statements in JavaScript code
@@ -969,14 +973,17 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Modify default shell environment
 - Install and use a package manager tool
 - Configure a local development environment
+- Define different environments for an application or script
 
 #### Level 2
+- Identify and explain dependency management
 - Configure a cloud development environment
 - Install and use a language runtime installer
 - Inspect and modify the PATH
 - Define the PATH and explain how it works
 - Change the shell prompt
 - Identify and modify shell configuration files
+- Explain why it is important to use different environments
 
 #### Level 3
 - Explain how UNIX organizes users
@@ -1019,6 +1026,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify, explain, and apply client side rendering in a web app
 - Identify, explain, and apply error handling in a web app
 - Identify, explain, and apply helpers in a web app
+- Use OAuth to authenticate with a third-party service
 - Build a web app with user authentication
 - Build a web app with user authorization
 - Build a web app that renders HTML on the client
@@ -1087,6 +1095,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Build a server that responds appropriately to every HTTP verbs
 
 #### Level 2
+- Explain what a web server is and how it works
 - Define and explain how servers route HTTP requests
 - Define and explain the IP suite
 - Define and explain UDP
@@ -1115,6 +1124,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 #### Level 1
 - Identify and compare common web API architecture and design patterns
 - Define and explain RESTful API design
+- Connect to a third-party web API
 - Build a web API that implements associations between resources
 - Build a web API that uses pagination and partial response
 - Build a path-based API
