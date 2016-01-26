@@ -1055,6 +1055,34 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Researching
 
+#### Level 0
+- Define the task with a clear question
+- Locate relevant and useful information
+- Distill knowledge gathered
+- Gather information from peers
+
+#### Level 1
+- Gather information from books
+- Gather information from videos
+- Gather information from mentors
+- Use search engines effectively
+- Discern reliable and applicable information
+
+#### Level 2
+- Check sources for validity, reliability, and applicability
+- Follow a methodical and staged approach when conducting research
+- Gather information from articles
+- Gather information from podcasts
+- Use search engines efficiently
+- Use search operators to refine search results
+
+#### Level 3
+- Demonstrate patience in searching for valuable information
+- Capture knowledge gathered as notes
+- Read and respect IP licenses
+- Cite source material when necessary and appropriate
+- Define and describe good researching strategies
+
 ### Experimentation
 
 #### Level 0
@@ -1071,4 +1099,20 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Document findings
 
 ### Reasoning and Logic
-- Translate game logic into program logic
+
+#### Level 0
+- Apply pattern recognition to a problem
+- Define inputs and outputs in a problem context
+- Define expected and actual outcomes in a problem context
+
+#### Level 1
+- Apply deductive reasoning to a problem
+- Identify differences between mental model and empirical evidence
+- Define variables in a problem context
+- Define unknowns in a problem context
+- Demonstrate your own process of reasoning
+
+#### Level 2
+- Define reasoning
+- Apply inductive reasoning to a problem
+- Define state in a problem context
