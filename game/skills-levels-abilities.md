@@ -832,52 +832,159 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Bootstrap
 
+#### Level 0
+- Install and configure Bootstrap
+- Use Bootstrap in a project
+
 ### Async
+
+#### Level 0
+- Install and configure Async
+- Use Async in a project
 
 ### Socket.io
 
+#### Level 0
+- Install and configure Socket.io
+- Use Socket.io in a project
+
 ### Mongoose
+
+#### Level 0
+- Install and configure Mongoose
+- Use Mongoose in a project
 
 ### Mocha
 
+#### Level 0
+- Install and configure Mocha
+- Use Mocha in a project
+
 ### Browserify
+
+#### Level 0
+- Install and configure Browserify
+- Use Browserify in a project
 
 ### Underscore
 
+#### Level 0
+- Install and configure Underscore
+- Use Underscore in a project
+
 ### jQuery
 
+#### Level 0
+- Install and configure jQuery
+- Use jQuery in a project
 
 ## Group: Software Development
+
 ### Command-Line Tools
 
+#### Level 0
+- Define and use the ls command
+- Define and use the cat command
+- Define and use the cp command
+- Define and use the mv command
+- Define and use the rm command
+
+#### Level 1
+- Define and use the rmdir command
+- Define and use the chmod command
+- Define and use the ln command
+- Define and use the grep command
+- Define and explain command arguments
+- Write a shell script
+- Make a shell script executable
+- Execute a shell script
+
+#### Level 2
+- Install and configure a command-line tool
+- Find documentation for any shell command
+- Define and use the man command
+- Install and use the git command-line tool
+- Install and use a database connection tool
+- Determine the location of the executable for any shell command
+- Define and use the info command
+- Define and use the find command
+- Define and use the sed command
+- Define and use the awk command
+- Define and use the sort command
+- Define and use the wc command
+- Define and use the which command
+
+#### Level 3
+- Install and use an auto jump tool
+- Install and use a tool to watch files for changes
+- Define and explain standard input
+- Define and explain standard output
+- Define and explain standard error
+- Define the pipe operator and how it works
+- Define and explain output redirection
+- Explain how a UNIX pipeline works
+- Define and explain TTY
+- Define and explain a command shell
+- Write a shell script with autocomplete
+- Define and use the xargs command
+- Define and use the expr command
+
 ### Testing
+
+#### Level 0
 - Write a function to test another function
 - Write a test script to test one or more functions in source code file
 - Run tests in a console
-- Run tests in the browser
+
+#### Level 1
 - Run tests from a command shell
-- Install and configure a testing framework for client-side code
-- Install and configure a testing framework for server-side code
+- Display test results on a web page
 - Write unit tests for client-side code
 - Write unit tests for server-side code
-- Write integration tests
-- Apply a test-driven development practice
-- Utilize test mocks and stubs
-- Configure and use a test database
+
+#### Level 2
 - Install and configure an automated test runner tool
 - Use an automated test runner tool
+- Install and configure a testing framework for client-side code
+- Install and configure a testing framework for server-side code
+- Utilize test mocks and stubs
+- Write integration tests
+
+#### Level 3
 - Install and configure a test coverage tool
 - Use a test coverage tool
+- Apply a test-driven development practice
+- Configure and use a test database
 - Setup and configure a continuous integration tool
 - Use a continuous integration tool
 
 ### Environment Management
 
-- Configure a cloud development environment
+#### Level 0
+- View environment variables for a given process
+- Read and write environment variables in a script
+- Read and write environment variables from the shell
+
+#### Level 1
+- Modify default shell environment
+- Install and use a package manager tool
 - Configure a local development environment
 
-### Continuous Integration
+#### Level 2
+- Configure a cloud development environment
+- Install and use a language runtime installer
+- Inspect and modify the PATH
+- Define the PATH and explain how it works
+- Change the shell prompt
+- Identify and modify shell configuration files
 
+#### Level 3
+- Explain how UNIX organizes users
+- Identify, define, and explain file permissions
+- Install another UNIX shell
+- Configure another UNIX shell
+
+### Continuous Integration
 
 ## Group: Web Application Development
 
