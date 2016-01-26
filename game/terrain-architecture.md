@@ -3,7 +3,7 @@
 <!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Overview](#overview)
-- [Skill dependancies](#skill-dependancies)
+- [Skill dependencies](#skill-dependencies)
 - [Challenges](#challenges)
 	- [Overview (optional)](#overview-optional)
 	- [Objective(s)](#objectives)
@@ -48,7 +48,7 @@ The Skill Levels (along with their Ability Set and Challenge Set) define *what* 
 
 Players traverse the terrain by working on challenges that are available to them for their current skill levels. As they level up, more challenges are unlocked and are available to them.
 
-## Skill dependancies
+## Skill dependencies
 
 Skill Levels are locked to a player, unless she has achieved its dependancies. A Skill Level dependancies are expressed through other skill levels. Each Skill Level is, by default, dependent on the previous level for that skill.
 Skill Levels can also be optionally dependent on another Skill Level. Skill Level 0s that don't have other Level dependancies are automatically unlocked.
