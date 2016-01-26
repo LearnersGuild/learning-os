@@ -989,6 +989,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 #### Level 3
 - Define and explain CORS
+- Define and explain CSRF
 - Define and explain load balancer
 - Define and explain different concurrency models for web servers
 - Define and explain how web sockets work
@@ -999,10 +1000,34 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Web API Design
 
-### RESTful Design
+#### Level 0
+- Identify and explain common content types served by a web API
+- Explain how to use nouns and verbs when designing a web API
+- Build a web API that supports multiple response formats
 
-### WebSockets
+#### Level 1
+- Identify and compare common web API architecture and design patterns
+- Define and explain RESTful API design
+- Build a web API that implements associations between resources
+- Build a web API that uses pagination and partial response
+- Build a path-based API
 
+#### Level 2
+- Explain the importance of handling errors in a web API
+- Handle errors gracefully in a web API
+- Build a web API that serves non-resource responses
+- Explain the importance of versioning in a web API
+- Implement a WEB API that uses clear versioning
+- Build a subdomain-based API
+
+#### Level 3
+- Identify, explain, and apply authentication in a web API
+- Explain the importance of stability in a web API
+- Explain the importance of consistency in a web API
+- Build a web API with search capability
+- Build a web API that uses attribute names
+- Implement a WEB API that demonstrates stability and consistency
+- Write an API wrapper library in a common language
 
 ## Group: Wetware
 ### Reading
