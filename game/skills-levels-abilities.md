@@ -220,6 +220,7 @@ _Skills are grouped into related themes and can have one or many levels._
 _Abilities belong to a skill level and are written as declarative statements which complete the phrase "A learner at this skill level is able to..."._
 
 ## Group: Collaboration
+
 ### Project Management
 
 #### Level 0
@@ -298,6 +299,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Apply the Agile development process
 
 ## Group: Computer Tools
+
 ### Editor
 
 #### Level 0
@@ -358,8 +360,8 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Security and Privacy
 
-
 ## Group: Computer Science
+
 ### Circuitry
 
 ### Bitwise Operations
@@ -417,8 +419,8 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Concurrency and Parallelism
 
-
 ## Group: Databases
+
 ### Relational Database Design
 
 #### Level 0
