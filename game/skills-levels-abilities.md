@@ -919,8 +919,39 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Web Servers
 
-- Select and integrate development tools, libraries, and frameworks
-- Architect, design, develop, test, deploy, and maintain an original web application product for a US audience
+#### Level 0
+- Use Curl to make an HTTP request to a remote host
+- Use Curl to make an HTTP request to a local host
+- Use Curl to view HTTP response headers
+- Use browser tools to inspect HTTP requests and responses
+- Build a basic HTTP server
+- Build a basic TCP server
+
+#### Level 1
+- Define, explain, and diagram the request-response cycle
+- Define and explain HTTP
+- Define and explain all HTTP verbs
+- Define and explain HTTP headers
+- Define and explain what an HTTP body is
+- Build a server that responds appropriately to every HTTP verbs
+
+#### Level 2
+- Define and explain how servers route HTTP requests
+- Define and explain the IP suite
+- Define and explain UDP
+- Define and explain TCP
+- Define and explain what the Content-Type header does
+- Build a TCP server that implements a subset of HTTP
+
+#### Level 3
+- Define and explain CORS
+- Define and explain load balancer
+- Define and explain different concurrency models for web servers
+- Define and explain how web sockets work
+- Define and explain packets
+- Define and explain how streaming works
+- Build a server that can stream data to a client
+- Build a load-balancer to balance across a small cluster of servers
 
 ### Web API Design
 
