@@ -50,12 +50,12 @@ Players traverse the terrain by working on challenges that are available to them
 
 ## Skill dependencies
 
-Skill Levels are locked to a player, unless she has achieved its dependancies. A Skill Level dependancies are expressed through other skill levels. Each Skill Level is, by default, dependent on the previous level for that skill.
-Skill Levels can also be optionally dependent on another Skill Level. Skill Level 0s that don't have other Level dependancies are automatically unlocked.
+Skill Levels are locked to a player, unless she has achieved its dependencies. A Skill Level dependencies are expressed through other skill levels. Each Skill Level is, by default, dependent on the previous level for that skill.
+Skill Levels can also be optionally dependent on another Skill Level. Skill Level 0s that don't have other Level dependencies are automatically unlocked.
 
 For example: Full Stack Dev Level 3, is automatically dependent on Full Stack Dev Level 2, but could also be dependent on Front End Level 2, Database Level 1, and Teamwork Level 1. Meanwhile, SQL Level 0, might not be automatically unlocked, because it depends on Database Level 1.
 
-The Skill Level Dependancies are articulated and expressed through the Skills Map.
+The Skill Level dependencies are articulated and expressed through the Skills Map.
 
 ## Challenges
 
