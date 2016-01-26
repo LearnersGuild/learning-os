@@ -14,6 +14,7 @@ Skill level goals, organized by phase.
 	- File Management: Level 1
 - Group: Computer Science
 	- Data Structures: Level 1
+	- Algorithms: Level 1
 - Group: Databases
 	- Document Database Design: Level 2
 	- MongoDB: Level 3

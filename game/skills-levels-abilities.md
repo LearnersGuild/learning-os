@@ -31,8 +31,16 @@
 	- [Security and Privacy](#security-and-privacy)
 - [Group: Computer Science](#group-computer-science)
 	- [Circuitry](#circuitry)
+	- [Event Driven Programming](#event-driven-programming)
+	- [Functions as Data](#functions-as-data)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
 	- [Bitwise Operations](#bitwise-operations)
 	- [Algorithms](#algorithms)
+		- [Level 0](#level-0)
+		- [Level 1](#level-1)
+		- [Level 2](#level-2)
+		- [Level 3](#level-3)
 	- [Data Structures](#data-structures)
 		- [Level 0](#level-0)
 		- [Level 1](#level-1)
@@ -364,23 +372,59 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Circuitry
 
+### Event Driven Programming
+
+### Functions as Data
+
+#### Level 0
+- Identify, explain, and apply loop abstractions
+- Identify, explain, and apply map functions
+
+#### Level 1
+- List and explain different data driven techniques
+- Identify, explain, and apply currying
+
 ### Bitwise Operations
 
 ### Algorithms
 
+#### Level 0
+- Identify and explain tree traversal
+- Diagram tree traversal
+- Implement tree traversal in code
+
+#### Level 1
+- List common search algorithms
+- Diagram a common search algorithm
+- Implement a common search algorithm
+
+#### Level 2
+- List common sorting algorithms
+- Diagram a common sorting algorithm
+- Implement a common sorting algorithm
+- Calculate algorithmic efficiency using Big-Oh notation
+- Explain Big-Oh notation
+
+#### Level 3
+- Implement a recursive function
+- Explain recursion computation
+- Convert a recursive computation to iterative computation
+- Identify, explain, and implement memoization
+- Explain and compare time and space efficiency
+
 ### Data Structures
 
 #### Level 0
+- Identify and explain lists
 - Identify and explain arrays
 - Identify and explain associative arrays
-- Identify and explain lists
 - Identify and explain singly-linked lists
+- Diagram a list
 - Diagram an array
 - Diagram an associative array
-- Diagram a list
 - Diagram a singly-linked list
-- Implement an array in code
 - Implement a list in code
+- Implement an array in code
 - Implement a singly-linked list in code
 - Implement a queue in code
 
@@ -389,30 +433,33 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify and explain sets
 - Identify and explain stacks
 - Identify and explain queues
+- Identify and explain structured data (e.g. JSON)
 - Diagram a doubly-linked list
 - Diagram a set
 - Diagram a stack
 - Diagram a queue
+- Diagram structured data (e.g. JSON)
 - Implement a doubly-linked list in code
 - Implement an associative array in code
 - Implement a set in code
 - Implement a stack in code
+- Implement structured data (e.g. JSON) in code
 
 #### Level 2
 - Identify and explain trees
 - Identify and explain graphs
 - Identify and explain binary trees
-- Identify and explain hashes
+- Identify and explain hash maps
 - Identify and explain heaps
 - Diagram a tree
 - Diagram a graph
 - Diagram a binary tree
-- Diagram a hash
+- Diagram a hash map
 - Diagram a heap
 - Implement a tree in code
 - Implement a graph in code
 - Implement a binary tree in code
-- Implement a hash in code
+- Implement a hash map in code
 - Implement a heap in code
 
 ### Memory Management
