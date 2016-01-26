@@ -328,28 +328,30 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify and explain associative arrays
 - Identify and explain lists
 - Identify and explain singly-linked lists
-- Identify and explain doubly-linked lists
-- Identify and explain sets
-- Identify and explain stacks
-- Identify and explain queues
 - Diagram an array
 - Diagram an associative array
 - Diagram a list
 - Diagram a singly-linked list
+- Implement an array in code
+- Implement a list in code
+- Implement a singly-linked list in code
+- Implement a queue in code
+
+#### Level 1
+- Identify and explain doubly-linked lists
+- Identify and explain sets
+- Identify and explain stacks
+- Identify and explain queues
 - Diagram a doubly-linked list
 - Diagram a set
 - Diagram a stack
 - Diagram a queue
-- Implement an array in code
-- Implement a list in code
-- Implement a singly-linked list in code
 - Implement a doubly-linked list in code
 - Implement an associative array in code
 - Implement a set in code
 - Implement a stack in code
-- Implement a queue in code
 
-#### Level 1
+#### Level 2
 - Identify and explain trees
 - Identify and explain graphs
 - Identify and explain binary trees
