@@ -1030,11 +1030,45 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Write an API wrapper library in a common language
 
 ## Group: Wetware
+
 ### Reading
+
+#### Level 0
+- Use a paraphrasing strategy to check and build comprehension
+- Find and access relevant technical reading material
+
+#### Level 1
+- Guess meaning from context instead of looking up words to save time
+- Use a predicting strategy to build comprehension on top of existing knowledge
+- Read 200 words per minute
+- Use a skimming and scanning strategy to identify the main idea and check predictions
+- Selectively focus on important parts of a text
+
+#### Level 2
+- Use a previewing strategy to build a sense of the structure and content
+- Build vocabulary by keeping a running glossary of important terms
+- Read 300 words per minute
+
+#### Level 3
+- Define and explain good reading strategies
+- Read 400 words per minute
 
 ### Researching
 
 ### Experimentation
+
+#### Level 0
+- Pose a question
+- Make an informed hypothesis
+- Construct an experiment
+- Run an experiment
+- Analyze results
+
+#### Level 1
+- Articulate assumptions, knowledge, and beliefs
+- Consider variables
+- Determine appropriate sample size
+- Document findings
 
 ### Reasoning and Logic
 - Translate game logic into program logic
