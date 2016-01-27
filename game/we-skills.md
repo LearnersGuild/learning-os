@@ -21,8 +21,21 @@
 The abilities needed to work effectively as a pod. 
 
 **Good meetings** 
-* Meeting facilitation  * Creating effective agendas    * Getting input from relevant stakeholders    * Time management during the meeting  * Listening (to participants)   * Keeping participants focused   * Using creative formats (Advanced)   * Fostering full group participation (ability to get everyone to participate effectively)  * Maintaining a good pace and group energy  * Reading the group (advanced)   * Finding clear outcomes          
-* Being a good participant  * Listening  * Articulate information succinctly   * Creating space for others to participate   * I notice who has not spoken and invite them in
+* Meeting facilitation  
+ 	* Creating effective agendas    
+ 		* Getting input from relevant stakeholders    
+ 	* Time management during the meeting  
+ 	* Listening (to participants)   
+ 	* Keeping participants focused  
+ 	* Using creative formats (Advanced)   
+ 	* Fostering full group participation (ability to get everyone to participate effectively)  
+ 	* Maintaining a good pace and group energy  * Reading the group (advanced)   
+ 	* Finding clear outcomes          
+* Being a good participant 
+ 	* Listening  
+ 	* Articulate information succinctly   
+ 	* Creating space for others to participate   
+ 	* I notice who has not spoken and invite them in
 
 
 **Decision making**
