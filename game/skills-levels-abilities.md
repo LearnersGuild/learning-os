@@ -201,21 +201,25 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 #### Level 0
 - Type all 26 alphabetical keys without looking at the keyboard
-- Write plain English at > 60 WPM
-- Write code at > 40 WPM
+- Write plain English at > 30 WPM
+- Write code at > 15 WPM
 
 #### Level 1
 - Type all 10 numeric keys without looking at the keyboard
-- Write plain English at > 80 WPM
-- Write code at > 50 WPM
+- Write plain English at > 45 WPM
+- Write code at > 20 WPM
 - Find and apply keyboard shortcuts in commonly used applications
 - Navigate text without using the mouse
 - Remap modifier keys for faster use
 
 #### Level 2
-- Write plain English at > 100 WPM
-- Write code at > 60 WPM
+- Write plain English at > 70 WPM
+- Write code at > 30 WPM
 - Navigate the OS without using the mouse
+
+#### Level 3
+- Write plain English at > 90 WPM
+- Write code at > 35 WPM
 
 ### File Management
 
