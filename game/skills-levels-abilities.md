@@ -612,27 +612,29 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify, explain, and implement the Factory method creational design pattern
 
 #### Level 1 [Basic Design Patterns]
-- Identify, explain, and implement the Abstract factory creational design pattern
 - Identify, explain, and implement the Facade structural design pattern
 - Identify, explain, and implement the Singleton creational design pattern
 - Identify, explain, and implement the Iterator behavioral design pattern
 - Identify, explain, and implement the Null object behavioral design pattern
+
+#### Level 2
+- Identify, explain, and implement the Abstract factory creational design pattern
 - Identify, explain, and implement the Decorator structural design pattern
 - Identify, explain, and implement the Proxy structural design pattern
 - Identify, explain, and implement the Template method behavioral design pattern
 - Identify, explain, and implement the Builder creational design pattern
+- Identify, explain, and implement the Prototype creational design pattern
 
-#### Level 2 [Advanced Design Patterns]
+#### Level 3
 - Identify, explain, and implement the Bridge structural design pattern
 - Identify, explain, and implement the Composite structural design pattern
 - Identify, explain, and implement the Flyweight structural design pattern
 - Identify, explain, and implement the Front controller structural design pattern
 - Identify, explain, and implement the Lazy initialization creational design pattern
-- Identify, explain, and implement the Prototype creational design pattern
 - Identify, explain, and implement the Observer (publish/subscribe) behavioral design pattern
 - Identify, explain, and implement the Servant behavioral design pattern
 
-#### Level 3 [Behavioral Patterns]
+#### Level 4
 - Identify, explain, and implement the Chain of responsibility behavioral design pattern
 - Identify, explain, and implement the Command behavioral design pattern
 - Identify, explain, and implement the Interpreter behavioral design pattern
