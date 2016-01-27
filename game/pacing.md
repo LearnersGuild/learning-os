@@ -30,6 +30,7 @@ Skill level goals, organized by phase.
 	- Express: Level 2
 	- Angular: Level 2
 - Group: Languages
+	- Language Concepts: Level 3
 	- JavaScript: Level 2
 - Group: Libraries
 	- Bootstrap: Level 0
