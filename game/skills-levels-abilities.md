@@ -71,6 +71,7 @@
 	- [Swift](#swift)
 	- [Go](#go)
 	- [Bash](#bash)
+	- [Regular Expressions](#regular-expressions)
 - [Group: Libraries](#group-libraries)
 	- [Bootstrap](#bootstrap)
 	- [Async](#async)
@@ -851,6 +852,36 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ### Bash
 
+### Regular Expressions
+
+#### Level 0
+- Identify, explain, and apply special characters in a regular expression
+- Identify, explain, and apply non-printable characters in a regular expression
+- Identify, explain, and apply dot in a regular expression
+- Identify, explain, and apply alternation in a regular expression
+- Identify, explain, and apply character classes in a regular expression
+
+#### Level 1
+- Identify, explain, and apply shorthand character classes in a regular expression
+- Identify, explain, and apply anchors in a regular expression
+- Identify, explain, and apply word boundaries in a regular expression
+- Identify, explain, and apply optional items in a regular expression
+- Identify, explain, and apply repetition in a regular expression
+
+#### Level 2
+- Identify, explain, and apply grouping & capturing in a regular expression
+- Identify, explain, and apply named groups in a regular expression
+- Identify, explain, and apply backreferences in a regular expression
+- Identify, explain, and apply mode modifiers in a regular expression
+- Differentiate between regular expressions and a formal programming language
+
+#### Level 3
+- Identify, explain, and apply possessive quantifiers in a regular expression
+- Identify, explain, and apply free-spacing & comments in a regular expression
+- Identify, explain, and apply atomic grouping in a regular expression
+- Identify, explain, and apply lookahead & lookbehind in a regular expression
+- Identify, explain, and apply conditionals in a regular expression
+- Cite differences in regular expression syntax between two or more languages
 
 ## Group: Libraries
 
