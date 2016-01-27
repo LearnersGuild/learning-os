@@ -59,6 +59,7 @@
 	- [Meteor](#meteor)
 	- [Flask](#flask)
 - [Group: Languages](#group-languages)
+	- [Language Concepts](#language-concepts)
 	- [JavaScript](#javascript)
 	- [Ruby](#ruby)
 	- [Python](#python)
@@ -747,6 +748,48 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ## Group: Languages
 
+### Language Concepts
+
+#### Level 0
+- Explain variables and give an example
+- Explain data types and give an example
+- Explain conditionals and give an example
+- Explain iteration and give an example
+
+#### Level 1
+- Explain functions and give an example
+- Explain lists and give an example
+- Explain objects and give an example
+- Explain regular expressions and give an example
+- Explain control flow and give an example
+- Explain function parameters and give an example
+
+#### Level 2
+- Explain statements and give an example
+- Explain expressions and give an example
+- Explain anonymous functions and give an example
+- Explain variable scope and give an example
+- Explain modules and give an example
+- Explain libraries and give an example
+- Explain function arguments and give an example
+
+#### Level 3
+- Explain classes and give an example
+- Explain instances and give an example
+- Explain constants and give an example
+- Explain first-class functions and give an example
+- Explain recursive functions and give an example
+- Explain dynamic typing and give an example
+- Explain static typing and give an example
+
+#### Level 4
+- Explain maps and give an example
+- Explain strong typing and give an example
+- Explain weak typing and give an example
+- Explain callbacks and give an example
+- Explain symbols and give an example
+- Explain destructuring and give an example
+
 ### JavaScript
 
 #### Level 0 [Basic JS]
@@ -764,7 +807,8 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify, explain, and apply events in JavaScript code
 - Identify, explain, and apply event handlers in JavaScript code
 - Identify, explain, and apply the event loop in JavaScript code
-- Identify, explain, and apply functions as first-order objects JavaScript code
+- Identify, explain, and apply regular expressions in JavaScript code
+- Identify, explain, and apply functions as first-order objects in JavaScript code
 - Identify, explain, and apply callbacks in JavaScript code
 - Identify, explain, and apply promises in JavaScript code
 - Identify, explain, and apply recursive functions in JavaScript code
