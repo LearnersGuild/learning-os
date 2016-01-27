@@ -176,6 +176,11 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify and explain common stresses for an interviewer
 - Manage and counteract common stresses as an interviewee
 
+#### Level 3
+- Communicate clearly and professionally with potential employer before interview
+- Follow up after interview to thank interviewers and open up for next steps
+- Dress, behave, and present oneself appropriately for an interview
+
 #### Level 4
 - Interview successfully (get a job offer)
 
