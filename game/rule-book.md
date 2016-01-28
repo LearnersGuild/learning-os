@@ -13,10 +13,18 @@
 		- [Mentor](#mentor)
 	- [Requirements](#requirements)
 	- [Player Name](#player-name)
+- [Player Stats](#player-stats)
+ - [Skill Stats](#skill-stats)
+ 	- [Experience (SP)](#experience-SP)
+	- [Abilities](#abilities)
+	- [Leveling Up](#leveling-up)
+ - [Health Stats](#health-stats)
+ - [Quality Stats](#quality-stats)
+ - [Stat Sheet](#stat-sheet)
+ - [Stat Groups](#stat-groups)
+ - [Stat Quadrants](#stat-quadrants)
+ - [Player Skill Level, Health, & Quality Percentage](#player-skill-level-health--quality-percentage)
 - [Game Objects](#game-objects)
-	- [Skills](#skills)
-	- [Skill Points](#skill-points)
-	- [Levels](#levels)
 	- [Missions](#missions)
 		- [Mission Objectives](#mission-objectives)
 			- [Knowledge](#knowledge)
@@ -79,27 +87,104 @@ Players who have been playing the game for long enough will also be Mentors. Men
 ### Player Name
 Every player has a name that identifies her in group chat rooms and scoreboards. This name may be derived from a player's "given" name, or may be a non-legally-binding "chosen" name. It should, however, be a name that the player is excited about, as other players will use it to address her and interact with her. It must be a single word (i.e., no spaces) and should be comprised of standard alpha-numeric characters and a subset of punctuation symbols: ('.', '-', '\_').
 
+## Player Stats
+
+There are three types of Player Stats: Skill, Health and Quality
+
+### Skill Stats
+
+Players have many different skills that they are developing throughout the game. Each skill has one or more levels which players advance through. Players start each skill at level 0.
+
+Each skill level is composed of a collection of abilities (Ability Set). Players level up by acquiring Skill Points and abilities related to that skill. As a player develops a skill past a certain point, they "level up" to a new Skill Level.
+
+#### Skill Points (SP)
+
+As a player navigates the game terrain, they gain Skill Points (SP) related to specific skills. For example, after a player builds an online profile they might gain 50 SP for the CSS skill, and 40 SP for their HTML skill. SP are meant to track the level of skill a certain player has developed. The higher the SP the more skilled the player.
+
+#### Abilities
+
+While SP tracks *how much* a player has developed a certain skill, Abilities track the exact capacities, knowledge, and beliefs the player has acquired in their practice. Each skill level has a predetermined Ability Set that a player needs to acquire and demonstrate before they can attempt to level up.
+
+To continue with the above example, the "Build online profile" challenge might have 50 CSS SP, and 40 HTML SP, and the following abilities:
+* I can use html rows and columns to display a table
+* I can extract css variables into a separate file
+
+Once a player completes this challenge these abilities will show up respectively under their HTML Skill Stat, and their CSS Skill stat.
+
+#### Leveling Up
+
+In order for a player to achieve a higher level for a skill, they need to:
+
+1. Unlock the Ability Set: Every skill level has a set of abilities associated with it. Players unlock the abilities by attempting and submitting challenges that are connected to these abilities. Even though there may be multiple challenges linked to any particular ability, a player only needs to submit one of them in order to unlock the ability.
+
+2. Claim the Ability Set: Players can only claim an ability after they have unlocked it. When a player claims an ability they are declaring that they have grocked it. Claiming an ability is equivalent to a Player listing that ability on their resume.
+
+3. Check off the Ability Set: Once a Player has checked off all of the abilities for a particular Skill Level's Abilities Set, they are ready to "Pair Up" for the next level. At least two other Players (who have already attained the higher skill level) will pair with them on challenges. During these pairing sessions, the higher ranked player will be checking off the aspiring player's abilities. 
+
+Once the player aspiring to pair up gets all of their abilities checked off, they level up to the next level for that skill: The SP is reset to 0, and a whole new Ability Set is exposed to them for unlocking, claiming, and checking off.
+
+### Health Stats
+
+Health Stats reflect the degree to which the player demonstrates certain values *through their observable behavior*. If Skill Stats are a measure of *where* the player has travelled, and *what* they have acquired along the way in terms of Skill Points and abilities, Health Stats reflect *how the player is behaving* while  traveling and traversing the game terrain.
+
+Health Stats are always expressed through a collection observable and verifiable behaviors (Behavior Set).
+
+For example, an Integrity Health Stat might be composed of the following Behavior Set.
+* I keep my word
+* I show up on time
+* When I'm out of integrity, I quickly name it
+
+Unlike Skill Stats, there are no levels, or leveling up when it comes to Health Stats. Instead Health is represented using a single alignment score from 1 to 5. 5 being the highest demonstration of the behaviors related to the stat, and 1 being the lowest. Each behavior within a Health Stats behavior set is also scored from 1 to 5.
+
+Health Stats changed based on self, peer, and mentor assessment. Health Stats have a "decay factor": the older an assessment is, the less weight it has on the overall Value score, while the recent behavior has more impact on the health stat. This gives players a chance to recover their score from poor behavior and removes the "permanent record" feel of the Value Stat.
+
+### Quality Stats
+
+Different than Skill and Health stats, Quality stats are orthogonal to the terrain traversed, and the behavior that a player demonstrates. They indicate the *quality & precision with which someone is traversing the terrain.*
+
+Most Quality stats are derived from post-challenge evaluation rubrics. For example, a challenge might require that a piece of code be evaluated for Code Readability, Test Coverage, and Commit Quality, and Completeness.
+
+These four evaluation criteria are Quality Stats.
+
+Quality stats are measure as a percentage (0 to 100%), and are weighed based on the challenge's SP. They also have a "decay factor" similar to Health Stats.
+
+While most Quality Stats are derived from challenge rubrics, some Quality stats are built into the game mechanics. For example: Self assessment is a Quality Stat that measures the precision with which a player assesses their contribution to a group or pair project. Other built in Quality Stats might include: Other assessment, Feedback Quality, Mentorship Quality...etc.
+
+### Stat Sheet
+
+Every player has a stat sheet that is visible to them that tracks their progress and success in the game.
+The stat sheet reflects the player's skill levels, their demonstration of values (health), and the quality of their play.
+
+Players start off the game with a minimal stat sheet. They are tracking a handful of skill, health, and quality stats.
+As players advance through they game, they encounter challenges that expose them to new skills, values (health), and quality rubrics. Once they do, that Stat is added to their Stat Sheet for tracking.
+
+### Stat Groups
+
+Stats of the same type can be grouped together in a stat group. For example, there might be a "Front End Skills" Stat Group composed of 3 Skill stats: CSS, HTML & jQuery.
+
+The Stat Group level is the sum of all levels of the underlying Skill Stats. In the above example, if the Player was a CSS Level 1, HTML Level 1, and jQuery Level 2, they would be a Front End Skill level 4.
+
+Another example of a Stat Group might be a Quality Stat Group called "Code Quality", this could be composed of 4 Quality Stats: Commit Quality, Test Coverage, Readability, Modularity. In this case, the Quality Stat Group's percentage would be the average of the 4 Quality Stats that it's composed of.
+
+### Stat Quadrants
+
+Stat Groups can be further organized into Stat Quadrants. There are four Stat Quadrants: Personal, Social, Technical, and Systemic. Stat Quadrants each have a rolled up Level, Quality percentage, and Health Score
+
+### Player Skill Level, Health, & Quality Percentage
+
+The highest-level player stats are the Player's rolled up Skill Level, Health, and Quality Percentage.
+The Player Skill level is the sum of all the Player's individual skill levels. The Health is the *lowest* of all their individual Health Stats, and the Player's Quality Percentage is the *average* of all their individual Quality Stats.
+
+### Player Momentum
+
+Player momentum is a composite stat that reflects the pace at which of the player's learning is accelerating. It's calculated using the following formula:
+
+*Total SP Earned in Current Week / (Three Week Moving SP Average * 100)* [^1]
+
+The Player Momentum is expressed as a percentage. Anything over 100% indicates the player's rate of learning is accelerating, anything under 100% means it is decelerating.
+
 ## Game Objects
 
-### Skills
-
-Skills are the high-level learning outcomes of our Applied Game.
-
-They are similar to a professional skill or field of the kind that would appear on a job description or the learning outcomes as listed on a course syllabus.
-
-Each skill has one or more levels which learners advance through. Generally, skill levels have a one-to-one correlation with a domain on the Skills Map. Learners who complete all of the required nodes in a domain gain the skill level.
-
-Examples: "Skill: Web Developer; Levels: Novice, Apprentice, Practitioner, Expert", "Skill: Learning Mentor; Levels: Novice, Apprentice, Practitioner"
-
-### Skill Points
-
-Skill points, or SP for short, are numeric values representing advancement towards a particular skill. They are akin to XP (experience points) in game design.
-
-**The primary motivator for learners is to accumulate SP.** These are the primary signifiers of learning in our Applied Game, and as such, they should be _accurate_ and _precise_ indicators.
-
-Skill points are gained by completing tasks (as defined on the Skills Map) and are associated with specific _objectives_.
-
-### Levels
 
 ### Missions
 
@@ -271,10 +356,10 @@ Relative:
 
 #### Admission Challenge Mechanism
 
-**Mission: Technical Admission ( 1000 XP)**
+**Mission: Technical Admission ( 1000 SP)**
 Technical: "hard" skills related to the profession of web development
 
-**Mission: Carbon Admission (1000 XP)**
+**Mission: Carbon Admission (1000 SP)**
 Personal: meta-cognitive skills (learning how to learn), self-awareness, self-assessment, etc.
 Social: teamwork, giving and receiving feedback, vulnerability, etc.
 Systemic: capacity to understand, critique, and influence change in larger systems
@@ -305,3 +390,7 @@ Challenges will include (but not be limited to):
 ### 1 - Ingame
 
 ### 2 - Postgame
+
+---
+
+[^1]: Three Week Moving SP Average = (Total SP earned in the previous 3 weeks) / 3
