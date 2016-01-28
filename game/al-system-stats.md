@@ -1,39 +1,51 @@
 # Player Stats - Systemic Quadrant
 
+The Systemic quadrant describes stats that relate to a Player's observations and interactions with systems like Learners Guild, the LG Game, the software development industry, organizations, politics, economies, countries, job markets, etc. Player Stats classified in the systemic quadrant must describe a Player's behaviors, abilities, or performance qualities as they relate to systems that are inherently more complex (and more abstract) than the personal or inter-personal quadrants. 
+
+## System Quadrant Stat Groups
+* Identifying systemic forces and constraints
+* Solving systemic problems
+* Designing new systems
+* Building new systems
+
 ## Skill Stats 
-For the constructions of the following skills stats, I used these two criteria
-* Skill stats can be continuously leveled up, 
-* Skill stats must be measureable by task completion
+
+The following Skill Stats have a Skill title and multiple Skill Levels, each containing an ability set summarized as an amalgamation of multiple abilities. 
 
 ### Systemic Skills
 
 #### Industry Mapping
-* Level 1: I can draw a visual diagram of how the software development industry is laid out, including key organizations, important developers, and popular languages/frameworks.
-* Level 2: Using my diagram, I can mentor others on the opportunities and obstacles in the industry. 
+* Level 1: Ability Set: I can draw a visual diagram of how the software development industry is laid out, including key organizations, important developers, and popular languages/frameworks.
+* Level 2: Ability Set: Using my diagram, I can mentor others on the opportunities and obstacles in the industry. 
 
 #### Historical Contextualization
-* Level 1: I can discuss and/or debate the merits and ramifications of any particular decision made by my company or community based on its historical context
-* Level 2: I can describe the socioeconomic, racial, and gender dynamics at play in society, the technology industry, the software development industry, any given company I’ve worked in, any meeting room I’ve sat in, and any online community I’ve participated in through the lens of historical trends in any of these environments.
-* Level 3: I can use historical contexts to implement meaningful changes in the present
-* Level 4: I can use historical contexts to drive future improvements
+* Level 1: Ability Set: I can discuss and/or debate the merits and ramifications of any particular decision made by my company or community based on its historical context
+* Level 2: Ability Set: I can describe the socioeconomic, racial, and gender dynamics at play in society, the technology industry, the software development industry, any given company I’ve worked in, any meeting room I’ve sat in, and any online community I’ve participated in through the lens of historical trends in any of these environments.
+* Level 3: Ability Set: I can use historical contexts to implement meaningful changes in the present
+* Level 4: Ability Set: I can use historical contexts to drive future improvements
 
 #### Product Generation
-* Level 1: I can create externally valued, useful products 
-* Level 2: I can make contributions to open-source software and get my contributions accepted by the repositories' owners.
+* Level 1: Ability Set: I can create externally valued, useful products 
+* Level 2: Ability Set: I can make contributions to open-source software and get my contributions accepted by the repositories' owners.
 
 #### Linguistic Decoding
-* Level 1: I can translate across linguistic codes used by different entities/populations
-* Level 2: I can draw people into a conversation regardless of who they are, their background knowledge, or the topic of the conversation.
+* Level 1: Ability Set: I can translate across linguistic codes used by different entities/populations
+* Level 2: Ability Set: I can draw people into a conversation regardless of who they are, their background knowledge, or the topic of the conversation.
 
 #### Dignity Propagation
-* Level 1: I can identify dignified behavior in others and appropriately acknowledge and/or reward it.
-* Level 2: I can model dignified behavior for others. 
-* Level 3: I can inspire others to support me, respect me, cooperate and/or compete with me without resorting to typical power dynamics or politics
+* Level 1: Ability Set: I can identify dignified behavior in others and appropriately acknowledge and/or reward it.
+* Level 2: Ability Set: I can model dignified behavior for others. 
+* Level 3: Ability Set: I can inspire others to support me, respect me, cooperate and/or compete with me without resorting to typical power dynamics or politics
+
+#### Oppression Reduction
+* Level 1: Ability Set: I can identify social and systemic oppression as it's happening.
+* Level 2: Ability Set: I can address social and systemic oppression in a constructive manner.
+* Level 3: Ability Set: I can reduce the amount of social or systemic oppression existing in my community or organization.
+* Level 4: Ability Set: I can minimize social and/or systemic oppression wherever I go.
 
 ## Quality Stats 
-For the constructions of the following quality stats, I used these two criteria
-* Qualities can be practiced
-* Qualities can be subjectively and communally quantified based on a person’s (or PODs) output
+
+Each of the following Quality Stats have an adjective describing the quality to be assessed and a generalized rubric for assessing that specific quality.
 
 ### Systemic Qualities
 
@@ -87,11 +99,10 @@ For the constructions of the following quality stats, I used these two criteria
 100 - This is the next Gangnam Style
 
 ## Health Stats
-For the constructions of the following health stats, I used these two criteria
-* Health stat groups can be behaviorally optimized
-* Health stat groups can be objectively assessed through self-reflection and feedback from others
 
-### Systemic Values (Health Stats)
+The following Health Stats have a descriptor of a value (ie. Purpose) and a set of behaviors to be tracked.
+
+### Systemic Values
 
 #### Purpose
 * I maintain a definition of my purpose
