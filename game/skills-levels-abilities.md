@@ -257,6 +257,10 @@ _Abilities belong to a skill level and are written as declarative statements whi
 
 ## Group: Computer Science
 
+### CS Principles
+
+- Identify, explore, explain, and create relationships between different layers of computational abstraction
+
 ### Circuitry
 
 ### Event Driven Programming
