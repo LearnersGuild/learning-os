@@ -1,13 +1,9 @@
-#Personal skills Stats
+#Personal Stats Quadrant
 
-The “I” quadrant describes stats that relate to the player’s individual capacities. The stats describe the player’s abilities, behaviours or performance qualities independent of their interactions with others, systems or their technical skills.
-
-
-
-##Personal Skills
+The “Personal” quadrant describes stats that relate to the player’s personal realm. The stats describe the player’s abilities, behaviours or performance qualities independent of their interactions with others, systems or their technical skills.
 
 
-##Learning how to learn
+##Learning how to learn (Stat Group)
 
 ###Learning Mindset 
 - I am curious about my impact on a challenge
