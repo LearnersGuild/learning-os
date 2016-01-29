@@ -1,6 +1,4 @@
-I stats
-
-#Personal skills Stats #81
+#Personal skills Stats
 
 The “I” quadrant describes stats that relate to the player’s individual capacities. The stats describe the player’s abilities, behaviours or performance qualities independent of their interactions with others, systems or their technical skills.
 
