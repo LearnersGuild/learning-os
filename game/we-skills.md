@@ -15,6 +15,7 @@ There are some connections to feedback and scoring in the way I built these skil
 Looking ahead at levels -- the abilities could appear and disappear based on their level. Learners would work on the baseline abilities first. Once they master them, that ability set goes away and the next level has a new ability. For example, Collaboration has a skill called "Good meetings." A Level 0 ability is creating a good agenda. It disappears once the level up. In Level 1, a new ability appears called "Keeping participants focused." In Level 2, that disappears, and is replaced by "Using creative formats."The key is leveling these abilities so they align with the "Pull" of what is actually happening in the pod at the stage of development they are in. At the beginning, just making a good agenda is a skill. After they master that, they'll start to want to figure out how to facilitate better in the moment, to keep people focused. Once they get that skill, they will be curious about other ways to structure a meeting. That's the idea, anyway. Fitting the ability to the level will depend on how we develop feedback systems. 
 
 ##NTC Core skill sets 
+* Communication 
 * Collaboration
 * Assessment (feedback) 
 * Learning to learn 
@@ -29,6 +30,46 @@ Looking ahead at levels -- the abilities could appear and disappear based on the
 
 
 ##NTC Skill Sets  
+
+###Communication
+
+**Listening**
+* Deep listening
+* Looping back
+
+**Communication Formats** 
+* Spoken 
+* Written 
+* Visual
+* Multimedia  
+* Presentation 
+* Participatory/Dialog  
+
+**Structure** 
+* Organization: flow of ideas, focus  
+* Concision, brevity and efficiency 
+* Accuracy and precision
+* Audience analysis/awareness 
+
+**Communication contexts** 
+Each of these will have a separate category for technical and non-technical (ie technical teaching is a different skill than non-technical teaching) 
+* Teaching/mentoring
+* Presenting 
+* Pitching 
+* Storytelling
+* Interviewing
+
+
+**Tone and emotional range** -- eg. Humor, emotional, professional, casual (This list will need to be developed. I think it will need to be challenge specific. Creating an ability for every possible emotion seems unwieldy. The point is to encourage people to develop their range)  
+	
+**Difficult conversations** 
+* Clearing skills 
+* Using appropriate systems and tools 
+* Seeing multiple perspectives 
+* Working with different ethical frameworks 
+* Empathy 
+ 
+
 
 
 ###Collaboration 
