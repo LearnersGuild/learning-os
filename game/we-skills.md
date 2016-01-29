@@ -250,9 +250,9 @@ This was added to the Brain Dump by Tanner and Sherref. I need more information 
 
 **Integration**  --  The work integrates and balances the many layers at play -- multiple people, dynamics and skills.
 
-**Empathy** 
+**Empathy** -- the learner tracks and integrates the emotional relationships of people impacted by the work. 
 
-**Leadership** 
+**Leadership** -- the learner brings out the best qualities of everyone involved, balances the competing elements, and takes responsability for the outcomes. 
 
 **Participation** -- meaning good followership and engagement, not just showing up. A good indicator would be leadership/participation scores compared. Imbalances would be a red flag on pod functioning. 
 
