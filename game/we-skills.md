@@ -19,6 +19,7 @@ Looking ahead at levels -- the abilities could appear and disappear based on the
 * Collaboration
 * Assessment (feedback) 
 * Learning to learn 
+* Relational Intelligence
 
 
 ##Technical Core Skill Sets 
@@ -207,6 +208,17 @@ At this point, I am putting mentorship under assessment to creates parallels. I 
 (This one needs more development)
 * Understanding the imprints of school on the pod   * Mental   * Emotional   * Habits of mind  * Work habits 
 	
+
+###Relational Intelligence
+
+* Listen to different levels of a conversation, narrative, emotions, body language
+* Ability to loop back what I have heard 
+* Checking out perceptions regularly as a conversation progresses 
+* Clarifying assumptions and misinterpretations
+* Asking open ended questions
+* Checking Assumptions
+* Empathy
+
 
 ##Technical Skill Sets  
 **Information Systems** 
