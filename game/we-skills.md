@@ -6,7 +6,7 @@ Skills in this catagory are defined by being used with people the learner is in 
 
 
 
-##NTC Core skill sets 
+##NTC Skill Sets 
 * Communication 
 * Collaboration
 * Assessment (feedback) 
@@ -14,13 +14,18 @@ Skills in this catagory are defined by being used with people the learner is in 
 * Relational Intelligence
 
 
-##Technical Core Skill Sets 
+##Technical Skill Sets 
 * Organizing Information 
 * Interviewing
 * Mentorship
 
+The formatting for this document:  
 
-
+###Skill Set 
+**Skill**
+* Ability 
+* Ability 
+ 
 
 ##NTC Skill Sets  
 
