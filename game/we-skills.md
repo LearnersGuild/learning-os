@@ -1,18 +1,5 @@
 #Overview
 
-I built this skill set by basing it on the skills learners will need to use to function in LG and then function in a professional evnironment. Because every pod is a start-up, there is a lot of overlap between those two.  
-
-I have not defined levels. I see that as a game mechanic question. We should also define our feedback and assessment systems before we define levels. At this stage, I am just defining what all of the We skills are.
-
-Each skill has a detailed list of abilities. There are a lot. Maybe too many. But, consider this -- these are the abilities learners need to have in order to function in LG successfully. Many of the skills are necessary from the first week. Running meetings, making decisions as a group, making learning plans, giving and receiving feedback -- all happen in the first week and they impact the pod's success. Many will have important impacts at the beginning. For example, if their meetings are disorganized all of the time, it impacts the pods' viability and their ability to learn. 
-
-You will see that there is a lot of parallels and even repetition in abilities under different skills. For example problem solving, decision making and conflict resolution have a lot of similarity. That made me realize that even though there are "a lot" of skills and abilities, there are actually a set of core skills and habits that learners can master and then apply in many situations with some adaptation to the context. 
-
-We could collapse those into one skill. Or we could leave them seperate for learners to see how they need to master the core set of abilities and then learn to adapt them. 
-
-There are some connections to feedback and scoring in the way I built these skills. By making a detailed list of abilities that learners are scored on, we get learners into the habit of thinking through all of the steps to a challenge (or a regular task like meetings) before they start. After the challenge/task, they automatically take a few minutes to score how they did. My current idea is that reflection and scoring can become second nature and very quick. This builds a habit of self reflection and self awarness into all of the work they are doing. Rapid feedback is one of the key elements of people learning a skill. It increases the likelyhood of success before they do something. I am not sure how often they score themselves. It could be after each activity or at the end of the day. 
-
-Looking ahead at levels -- the abilities could appear and disappear based on their level. Learners would work on the baseline abilities first. Once they master them, that ability set goes away and the next level has a new ability. For example, Collaboration has a skill called "Good meetings." A Level 0 ability is creating a good agenda. It disappears once the level up. In Level 1, a new ability appears called "Keeping participants focused." In Level 2, that disappears, and is replaced by "Using creative formats."The key is leveling these abilities so they align with the "Pull" of what is actually happening in the pod at the stage of development they are in. At the beginning, just making a good agenda is a skill. After they master that, they'll start to want to figure out how to facilitate better in the moment, to keep people focused. Once they get that skill, they will be curious about other ways to structure a meeting. That's the idea, anyway. Fitting the ability to the level will depend on how we develop feedback systems. 
 
 ##NTC Core skill sets 
 * Communication 
