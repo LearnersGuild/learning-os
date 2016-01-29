@@ -1,5 +1,10 @@
 #Overview
 
+The We Skills quadrant defines the interpersonal and group skills that learners use with other people, eg small group work, pairing, mentoring, their teams, also their families. This can also be called the "Social" skills quadrant. 
+
+Skills in this catagory are defined by being used with people the learner is in contact with. There can be a blurry line with the systemic qudrant. For example, the line between having difficult conversations (We Skill) blurs with navigating discussions about oppression (Systemic Quadrant). The distinction is that Systemic skills focus on large scale groups/systems that the player does not have direct contact with at the time of the interaction. So, in a conversation with a teammate about sexism, knowing how to have a difficult conversation is a We skill -- the skill is navigating the conversation with the teammate -- while understanding how sexism is influencing the conversation is a Systemic skill because both people in the converation have been shaped by historic forces. 
+
+
 
 ##NTC Core skill sets 
 * Communication 
