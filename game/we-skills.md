@@ -52,6 +52,7 @@ Looking ahead at levels -- the abilities could appear and disappear based on the
 * Audience analysis/awareness 
 
 **Communication contexts** 
+
 Each of these will have a separate category for technical and non-technical (ie technical teaching is a different skill than non-technical teaching) 
 * Teaching/mentoring
 * Presenting 
