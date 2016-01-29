@@ -61,14 +61,6 @@ Each of these will have a separate category for technical and non-technical (ie 
 
 **Tone and emotional range** -- eg. Humor, emotional, professional, casual (This list will need to be developed. I think it will need to be challenge specific. Creating an ability for every possible emotion seems unwieldy. The point is to encourage people to develop their range)  
 	
-**Difficult conversations** 
-* Clearing skills 
-* Using appropriate systems and tools 
-* Seeing multiple perspectives 
-* Working with different ethical frameworks 
-* Empathy 
- 
-
 
 
 ###Collaboration 
@@ -96,10 +88,15 @@ The abilities needed to work effectively as a pod.
 **Decision making**
 * Gathering input, evidence and people’s feelings  
 * Effectively using input, evidence and people’s feelings towards a good decision
-* Organizing issues  * Before the DMP   * During the DMP (requires constant adjustment as the discussion evolves)  
-* Structuring a decision making process     * Using decision methods appropriate to the situation (advanced) 
+* Organizing issues  
+	* Before the DMP   
+	* During the DMP (requires constant adjustment as the discussion evolves)  
+* Structuring a decision making process     
+	* Using decision methods appropriate to the situation (advanced) 
 * Balancing people’s needs and desires 
 * Coming to clear outcomes  
+
+**Team Brainstorming** 
 
 **Problem solving** 
 * Gathering input, evidence and people’s feelings  
@@ -114,7 +111,16 @@ The abilities needed to work effectively as a pod.
 * Coming to clear solutions 
 * Tracking solution effectiveness over time 
 
+**Difficult conversations** 
+* Clearing skills 
+* Using appropriate systems and tools 
+* Seeing multiple perspectives 
+* Working with different ethical frameworks 
+* Empathy 
+
+
 **Conflict resolution**	
+(Distinct from the above because not all difficult conversations are conflicts) 
 * Gathering input, evidence and people’s feelings  
 * Effectively using input, evidence and people’s feelings
 * Defining the conflict  
@@ -128,11 +134,11 @@ The abilities needed to work effectively as a pod.
 * Tracking resolution effectiveness over time 
 	
 **Co-working** 
-(would call this collaboration but that’s the skill title)   
 * Setting clear work goals 
 * Integrating work with teammates 
-* Listening 
+* Adapting to teammates work styles 
 	
+
 **Developing pod culture/ team building** 
 * Tracking the feel of the pod (Health, effectiveness, mood) aka listening 
 * Increasing pod’s self-awareness
@@ -140,7 +146,6 @@ The abilities needed to work effectively as a pod.
 * Working with podmates’ growth edges, learning curves and struggles (aka teammates’ shit, shadow, and shortcomings)
 * Contributing to pod health, vibrancy, mood 
 * Supporting pod member’s success 
-* Empathy with pod members and the pod as a whole 
 * Optimizing learning of the Pod 
 	
 
