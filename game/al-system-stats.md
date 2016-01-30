@@ -2,17 +2,11 @@
 
 The Systemic quadrant describes stats that relate to a Player's observations and interactions with systems like Learners Guild, the LG Game, the software development industry, organizations, politics, economies, countries, job markets, etc. Player Stats classified in the systemic quadrant must describe a Player's behaviors, abilities, or performance qualities as they relate to systems that are inherently more complex (and more abstract) than the personal or inter-personal quadrants. 
 
-## System Quadrant Stat Groups
-* Identifying systemic forces and constraints
-* Solving systemic problems
-* Designing new systems
-* Building new systems
-
 ## Skill Stats 
 
-The following Skill Stats have a Skill title and multiple Skill Levels, each containing an ability set summarized as an amalgamation of multiple abilities. 
+The following Skill Stats belong to a Skill Stat Group and multiple Skill Levels, each containing an ability set summarized as an amalgamation of multiple abilities. 
 
-### Systemic Skills
+### Systemic Skill Stat Group - Identifying systemic forces and constraints
 
 #### Industry Mapping
 * Level 1: Ability Set: I can draw a visual diagram of how the software development industry is laid out, including key organizations, important developers, and popular languages/frameworks.
@@ -24,13 +18,11 @@ The following Skill Stats have a Skill title and multiple Skill Levels, each con
 * Level 3: Ability Set: I can use historical contexts to implement meaningful changes in the present
 * Level 4: Ability Set: I can use historical contexts to drive future improvements
 
-#### Product Generation
-* Level 1: Ability Set: I can create externally valued, useful products 
-* Level 2: Ability Set: I can make contributions to open-source software and get my contributions accepted by the repositories' owners.
-
 #### Linguistic Decoding
 * Level 1: Ability Set: I can translate across linguistic codes used by different entities/populations
 * Level 2: Ability Set: I can draw people into a conversation regardless of who they are, their background knowledge, or the topic of the conversation.
+
+### Systemic Skill Stat Group - Solving Systemic Problems
 
 #### Dignity Propagation
 * Level 1: Ability Set: I can identify dignified behavior in others and appropriately acknowledge and/or reward it.
@@ -43,11 +35,19 @@ The following Skill Stats have a Skill title and multiple Skill Levels, each con
 * Level 3: Ability Set: I can reduce the amount of social or systemic oppression existing in my community or organization.
 * Level 4: Ability Set: I can minimize social and/or systemic oppression wherever I go.
 
+### Systemic Skill Stat Group - Designing & Building New Systems
+
+#### Product Design - Levels TBD
+
+#### Product Generation
+* Level 1: Ability Set: I can create externally valued, useful products 
+* Level 2: Ability Set: I can make contributions to open-source software and get my contributions accepted by the repositories' owners.
+
 ## Quality Stats 
 
 Each of the following Quality Stats have an adjective describing the quality to be assessed and a generalized rubric for assessing that specific quality.
 
-### Systemic Qualities
+### Systemic Quality Stat Group - Usefulness
 
 #### Considerate (Thoughtful)
 0 - No obvious thought demonstrated in this person’s work or presenting behavior
@@ -70,6 +70,8 @@ Each of the following Quality Stats have an adjective describing the quality to 
 75 - This output is very actionable and can easily be incorporated into other people’s efforts. 
 100 - This output is so easy to act on that it feels effortless to instantly incorporate it into my own practice.
 
+### Systemic Quality Stat Group - Maintainability
+
 #### Economic
 0 - Way more effort went into this than the value of the output warranted
 25 - Some attention was paid to achieving equal work input to value output, but it missed.
@@ -83,6 +85,8 @@ Each of the following Quality Stats have an adjective describing the quality to 
 50 - It would be taxing but we could continuously sustain using and applying this output.
 75 - This output is relatively easy to maintain. It also contributes to the sustainability of other people’s output.
 100 - This output represents a significant infrastructural improvement to our organization and possibly even the industry. I’m not sure how we survived without it.
+
+### Systemic Quality Stat Group - Empowerment
 
 #### Innovative
 0 - This output is completely contrived and derivative. There’s almost no new value here.
@@ -102,7 +106,7 @@ Each of the following Quality Stats have an adjective describing the quality to 
 
 The following Health Stats have a descriptor of a value (ie. Purpose) and a set of behaviors to be tracked.
 
-### Systemic Values
+### Health Stat Group - Systemic Values
 
 #### Purpose
 * I maintain a definition of my purpose
@@ -125,7 +129,7 @@ The following Health Stats have a descriptor of a value (ie. Purpose) and a set 
 * I simulate my own interactions to predict how they will dynamically change the system of people and machines into which I apply them.
 * I consciously and deliberately consider predicted results and outcomes before interacting with a system.
 
-### Nuance
+### Simplicity & Complexity
 * I look for complex details in what appears to be simple
 * I simplify things that are overly complex
 * I notice details and reflect on them
