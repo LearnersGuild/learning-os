@@ -143,5 +143,5 @@ The following Health Stats have a descriptor of a value (ie. Purpose) and a set 
 * I regularly ask and answer the question: How can I optimize these impacts on my industry?
 * I blog and read other people’s blogs
 * I follow open source, and other major projects/initiatives that have global impact.
-* Before submitting code, I ask myself if it will benefit the world or harm it.
+* Before releasing software, I ask myself if it will benefit the world or harm it.
 * I actively decide how I want to contribute to the world.
