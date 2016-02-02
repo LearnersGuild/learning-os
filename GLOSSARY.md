@@ -33,12 +33,6 @@ A set of dimensions that are used to evaluate a challenge once it's completed.
 
 A player stat that reflects the player's behavior, habits & value alignment.
 
-# Meta-Learning
-
-Learning how to learn.
-
-As defined by [John Biggs][john-biggs-cite]: "being aware of and taking control of one’s own learning". Meta-learning is how learners develop agency in their own growth, and how they become effective mentors for other learners.
-
 # Pair Up
 
 A Pair Up happens once a player has claimed all the abilities in a skill level's ability set and is ready to level up. A higher ranked player pairs with the player who is claiming a skill level, and checks off their abilities through working together on a challenge, or a code review. Players must pair up at least twice, and have all their abilities checked off in order to level up.

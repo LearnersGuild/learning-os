@@ -942,6 +942,12 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Install and configure jQuery
 - Use jQuery in a project
 
+## Group: Metacognition
+
+### Meta-Learning
+
+> Learning how to learn. As defined by [John Biggs][john-biggs-cite]: "being aware of and taking control of one’s own learning". Meta-learning is how learners develop agency in their own growth, and how they become effective mentors for other learners.
+
 ## Group: Software Development
 
 ### Command-Line Tools
