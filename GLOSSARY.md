@@ -1,13 +1,13 @@
 # Ability
 
-Capacities, knowledge, and beliefs the player acquires through attempting challenges. Abilities belong to an Ability Set, which belongs to a Skill level, which belongs to a Skill. Abilities are also linked from challenges that demand/develop them. 
+Capacities, knowledge, and beliefs the player acquires through attempting challenges. Abilities belong to an Ability Set, which belongs to a Skill level, which belongs to a Skill. Abilities are also linked from challenges that demand/develop them.
 
 Abilities have four states (for each player)
 
 * Locked: Meaning the player has not yet attempted any challenges that list this ability. Locked abilities cannot be claimed.
 * Unlocked: The ability has been practiced by the player through a challenge, but the player has not yet claimed it.
 * Claimed: The player is announcing that they have grocked this ability.
-* Checked Off: A higher-ranked player has worked with the player on this ability, and has verified that they have grocked it. 
+* Checked Off: A higher-ranked player has worked with the player on this ability, and has verified that they have grocked it.
 
 # Ability Set
 
@@ -32,6 +32,12 @@ A set of dimensions that are used to evaluate a challenge once it's completed.
 # Health Stat
 
 A player stat that reflects the player's behavior, habits & value alignment.
+
+# Meta-Learning
+
+Learning how to learn.
+
+As defined by [John Biggs][john-biggs-cite]: "being aware of and taking control of one’s own learning". Meta-learning is how learners develop agency in their own growth, and how they become effective mentors for other learners.
 
 # Pair Up
 
@@ -80,3 +86,5 @@ A Quality Stat, and Quality Description associated with a certain challenge that
 # Quality Stat
 
 A player stat that tracks the quality/precision of play for that player.
+
+[john-biggs-cite]:https://en.wikipedia.org/wiki/Meta_learning#cite_note-2
