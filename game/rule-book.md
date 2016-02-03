@@ -72,7 +72,7 @@ Under this theme, the primary goal of the game for learners to get paid to be a 
 
 To win the game, learners work on their own and with their agency to win contracts and develop projects for clients, in the process building both an **agency portfolio** and a **personal portfolio** of completed work.
 
-Agencies can apply for a spot in the 40-week guild **incubator program**. In this program, an agency receives an **advisory board** consisting of a **learning facilitator**, a **techincal practitioner**, and several **mentors**. The advisors are agents within the game who may or may not belong to an agency.
+Agencies can apply for a spot in the 40-week guild **incubator program**. In this program, an agency receives an **advisory board** consisting of a **learning facilitator**, a **technical practitioner**, and several **mentors**. The advisors are agents within the game who may or may not belong to an agency.
 
 ### Dramatic Arc
 
@@ -121,7 +121,23 @@ The strategies a particular agent or agency chooses depends on their own individ
 
 ### Thematic Language
 
-<!-- TODO: write thematic language -->
+_The language we use to establish a consistent theme across the game_.
+
+- **Agent**
+- **Free agent**
+- **Agency**
+- **Guild**
+- **Contract**
+- **Client**
+- **Project**
+- **Portfolio**
+- **Agency portfolio**
+- **Personal portfolio**
+- **Incubator program**
+- **Advisory board**
+- **Learning facilitator**
+- **Technical practitioner**
+- **Mentor**
 
 ## Objectives
 
