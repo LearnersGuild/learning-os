@@ -64,7 +64,64 @@ You will be supported, asked to support others, and you will be challenged.
 
 ### Theme
 
-> TODO: What is the theme of the game?
+The theme of the game is a _professional agency_.
+
+Learners are **agents** who join the **guild**. Agents then form **agencies** to win **contracts** from **clients** and work on increasingly complex, difficult, and meaningful **projects**.
+
+Under this theme, the primary goal of the game for learners to get paid to be a practitioner of their technical/professional skill. That is the primary _win condition_, although this is a never-ending game; learners may continue to play as long as they want.
+
+To win the game, learners work on their own and with their agency to win contracts and develop projects for clients, in the process building both an **agency portfolio** and a **personal portfolio** of completed work.
+
+Agencies can apply for a spot in the 40-week guild **incubator program**. In this program, an agency receives an **advisory board** consisting of a **learning facilitator**, a **techincal practitioner**, and several **mentors**. The advisors are agents within the game who may or may not belong to an agency.
+
+### Dramatic Arc
+
+The dramatic arc is composed of one long arc of a **dignified challenge**, with many smaller fractal cycles of dignified challenges that make up the rhythm of the game.
+
+The grand dignified challenge is to be paid to work at a high-skills profession in a position that affords stability and agency, and in a field that is meaningful.
+
+In this way we define dignity as a balance of _power_, _responsibility_, and _meaning_. A **dignified challenge** is one in which learners are challenged to increase their power, responsibility, or sense of meaning, in a way that is balanced and creates more dignity for themselves and their peers.
+
+Over time, learners are challenged to build their power (abilities, skills, knowledge), their responsibility to others (collaboration, mentorship, leadership), and their sense of meaning (personal purpose, career orientation).
+
+### Narrative
+
+The narrative starts with an invitation to become a **learning agent** in the **guild**.
+
+Players/learners who accept this invitation become **agents**. All learners start the game as a **free agent**, i.e. an agent who doesn't belong to an agency.
+
+Free agents start the game in the **open market**, where they meet other free agents as well as agents who work within agencies. Some of these agents will be more skilled and will be able to provide mentorship, others will be less skilled and will be seeking support.
+
+To move forward in the game, agents bid on client-defined contracts for projects that will build their portfolio and resume. Contracts are awarded to agents based on their current portfolio and the skills they have on their resume.
+
+Free agents, with small portfolios and few skills, will have a limited set of contracts available to them. In order to complete more meaningful and interesting projects and drills, free agents will need to band together. By combining their skills, free agents can bid on more interesting contracts.
+
+Eventually, agents will encounter clients who will only award contracts to an **agency**. In order to win these contracts, free agents will have to join together and form their own self-governing, self-organizing, learning-focused, evolving agency.
+
+Acting as an agency, agents will be able to win more complicated contracts from more interesting clients. Successfully completing projects will further build the agency's portfolio, as well as the portfolios and resumes of the agents within.
+
+At some point, an agency might decide to enter the **incubator program** in order to accelerate their learning, gain access to useful resources and mentors, and rapidly advance their path towards a dignified livelihood.
+
+The incubator program is designed to support agencies and agents to become highly skilled learners through expert feedback, facilitation, and mentorship.
+
+While the ultimate win condition is to be paid in the profession of a learners choice, there are multiple definitions of that win condition and paths to arrive there.
+
+Learners may win by:
+- Getting hired as an employee of a company
+- Securing a paying client for themselves or their agency
+- Becoming an entrepreneur and raising money to start a company
+
+In addition, learners/agents/agencies may choose multiple strategies or paths to win:
+- Building an incredible portfolio of client work
+- Contributing amazing work to open source
+- Becoming a thought leader in their industry
+- Mentoring other agents/agencies and aiding in their success
+
+The strategies a particular agent or agency chooses depends on their own individual and shared values and motivations.
+
+### Thematic Language
+
+<!-- TODO: write thematic language -->
 
 ## Objectives
 
