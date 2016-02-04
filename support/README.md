@@ -20,27 +20,41 @@ A Facilitator is an external resource that is called upon if Players and Pods ne
 
 ## Player Characteristics
 
-To determine if an aspirant is an ideal candidate for the Learners Guild game, assess the candidate along the following two dimensions:
+While anyone can join the game, there are requirements to create or join a Pod and thus be eligible for player support. These requirements are expressed in terms of the skills and skill levels contained within the game.
+
+In order for a team to create a Pod, or for a player to join a pod, they must have achieved the following skill levels:
+
+- Group: Character
+	- Grit: Level 0
+	- Distance Travelled: Level 0
+	- Adaptability: Level 0
+	- Creativity and Resourcefulness: Level 0
+- Group: Collaboration
+	- Group Spirit: Level 0
+	- Leadership: Level 0
+	- Pairing: Level 0
+- Group: Computer Tools
+	- Editor: Level 0
+	- Keyboard: Level 0
+	- File Management: Level 0
+- Group: Languages (Computer)
+	- Language Concepts: Level 1
+	- JavaScript: Level 0
+- Group: Languages (Human)
+	- English: Level 0
+- Group: Service
+	- Community Service: Level 0
+- Group: Software Development
+	- Command-Line Tools: Level 0
+	- Testing: Level 0
+- Group: Web Application Development
+	- Frontend Development: Level 0
+- Group: Wetware
+	- Reading: Level 0
+	- Researching: Level 0
+	- Reasoning and Logic: Level 0
+	- Computational Thinking: Level 1
 
 - Traits
 	- [Non-negotiable](/support/Player_Characteristics/Traits_NonNegotiable.md)
 	- [Negotiable](/support/Player_Characteristics/Traits_NiceToHave.md)
-- Talent Requirements
-	- [Technical]
-		- [Non-negotiable](/support/Player_Characteristics/Talent_Requiremen_Technical_NonNegotiable.md)
-		- [Negotiable](/support/Player_Characteristics/Talent_Requiremen_Technical_NiceToHave.md)
-	- [Non-Technical]
-		- [Non-negotiable](/support/Player_Characteristics/Talent_Requiremen_NonTechnical_NonNegotiable.md)
-		- [Negotiable](/support/Player_Characteristics/Talent_Requiremen_NonTechnical_NiceToHave.md)
-
-
-
-
-
-
-
-
-
-
-
-

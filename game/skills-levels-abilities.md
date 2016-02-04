@@ -2,7 +2,14 @@
 
 <!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
 
+- [Group: Character](#group-character)
+  - [Grit](#grit)
+  - [Distance Travelled](#distance-travelled)
+  - [Adaptability](#adaptability)
+  - [Creativity and Resourcefulness](#creativity-and-resourcefulness)
 - [Group: Collaboration](#group-collaboration)
+  - [Group Spirit](#group-spirit)
+  - [Leadership](#leadership)
   - [Project Management](#project-management)
   - [Pairing](#pairing)
   - [Interviewing](#interviewing)
@@ -84,6 +91,11 @@
   - [Browserify](#browserify)
   - [Underscore](#underscore)
   - [jQuery](#jquery)
+- [Group: Metacognition](#group-metacognition)
+  - [Growth Mindset](#growth-mindset)
+  - [Self-Reflection](#self-reflection)
+- [Group: Service](#group-service)
+  - [Community Service](#community-service)
 - [Group: Software Development](#group-software-development)
   - [Command-Line Tools](#command-line-tools)
   - [Testing](#testing)
@@ -109,7 +121,52 @@ _Skills are grouped into related themes and can have one or many levels._
 
 _Abilities belong to a skill level and are written as declarative statements which complete the phrase "A learner at this skill level is able to..."._
 
+## Group: Character
+
+### Grit
+
+#### Level 0
+- Share a brief description of a struggle faced in education or career thus far.
+- Discuss motivations and goals, and share a personal story of putting in serious, sustained effort towards an outcome.
+- Overcome setbacks to conquer an important challenge.
+
+### Distance Travelled
+
+Distance travelled is a concept that seeks to quantify the path of a potential aspirant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Aspirants’ achievements.
+
+#### Level 0
+- Share where you came from to where you are in terms of your knowledge
+  - Example: "I dropped out of high school in the 10th grade, with a 2.4 GPA. Since then, I have taken the GED, applied to community college, and finished with a 3.0 GPA."
+
+### Adaptability
+
+#### Level 0
+- Know your boundaries, and how/when to extend them.
+- Be open and tolerant of ideas and approaches different from your own.
+- Draw from the unique nature of individual cultural backgrounds.
+
+### Creativity and Resourcefulness
+
+#### Level 0
+- Demonstrate a sense of play and spirit of playfulness.
+
+#### Level 1
+- Seek solutions without being constrained by the way you were initially taught.
+- Identify and explain different forms of creativity.
+
 ## Group: Collaboration
+
+### Group Spirit
+
+#### Level 0
+- Understand doing things in a collaborative mode.
+- Understand the compromises and inconveniences that are required to be a part of a group.
+- Willing to slow down in order to go farther together.
+
+### Leadership
+
+#### Level 0
+- Tell of a time when you took it upon yourself to get something done.
 
 ### Project Management
 
@@ -963,6 +1020,28 @@ _Abilities belong to a skill level and are written as declarative statements whi
 #### Level 0
 - Install and configure jQuery
 - Use jQuery in a project
+
+## Group: Metacognition
+
+### Growth Mindset
+
+#### Level 0
+- Cite evidence for and discuss how intelligence is malleable.
+- Cite evidence for and discuss how deliberate practice expands intelligence.
+
+### Self-Reflection
+
+#### Level 0
+- Tell of a time when you were proud of your actions
+- Tell of a time when you were disappointed in your own conduct.
+  - Elaborate on that disappointment by sharing what action(s) you wished you had taken.
+
+## Group: Service
+
+### Community Service
+
+#### Level 0
+- Cite and discuss a prior experience of community service.
 
 ## Group: Software Development
 
