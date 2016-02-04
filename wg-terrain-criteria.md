@@ -109,7 +109,7 @@ What do learners need to succeed in LG?
 
 
 ##Success as a Player at Learners Guild means… 
-These are the skills learners need to succeed at Learners Guild that are not included in the professional list. These are skills that may be useful in a professional setting, but not necessary. They **are** skills that are necessary to succeed in LG. Some of these skills appear in the professional world list. They are repeated here because in order for learners to succeed in LG, learners have to master these skills, not just acquire them (e.g. feedback).  
+These are the skills learners need to succeed at Learners Guild. These are skills that may be useful in a professional setting, but not necessary. They **are** skills that are necessary to succeed in LG. Some of these skills appear in the professional world list. They are repeated here because in order for learners to succeed in LG, learners have to do more than acquire them, they have to become fully comfortable and effective at using them (e.g. feedback). 
 
 **You are comfortable with direct communication  -- giving and receiving** 
 
