@@ -37,6 +37,19 @@ A player stat that reflects the player's behavior, habits & value alignment.
 
 A Pair Up happens once a player has claimed all the abilities in a skill level's ability set and is ready to level up. A higher ranked player pairs with the player who is claiming a skill level, and checks off their abilities through working together on a challenge, or a code review. Players must pair up at least twice, and have all their abilities checked off in order to level up.
 
+# Quality Description
+
+A Quality Description is part of a Quality Rubric. It describes how a particular challenge should be evaluated for a particular Quality Stat. While the list of Quality Stats in the game is relatively stable, as the player advances through challenges, the Quality Descriptions for the same rubric will change.
+
+For example, the Quality Stat "Code Readability" might initially have the Quality Description "Has good indentation." As the player levels up, a more advanced Quality Rubric for a challenge might describe "Code Readability" as "No obvious comments. Short, precise comments where needed. Consistent naming scheme. Limited line length. Files and folders well organized."
+
+# Quality Rubric
+
+A Quality Stat, and Quality Description associated with a certain challenge that determine how a player's work for that particular challenge is evaluated.
+
+# Quality Stat
+
+A player stat that tracks the quality/precision of play for that player.
 # Player Skill Level
 
 The sum of all the skill levels for the player.
@@ -67,16 +80,6 @@ A collection of related player stats of the same type.
 
 A collection of related Stat Groups.
 
-# Quality Description
+# Unlearning
 
-A Quality Description is part of a Quality Rubric. It describes how a particular challenge should be evaluated for a particular Quality Stat. While the list of Quality Stats in the game is relatively stable, as the player advances through challenges, the Quality Descriptions for the same rubric will change.
-
-For example, the Quality Stat "Code Readability" might initially have the Quality Description "Has good indentation." As the player levels up, a more advanced Quality Rubric for a challenge might describe "Code Readability" as "No obvious comments. Short, precise comments where needed. Consistent naming scheme. Limited line length. Files and folders well organized."
-
-# Quality Rubric
-
-A Quality Stat, and Quality Description associated with a certain challenge that determine how a player's work for that particular challenge is evaluated.
-
-# Quality Stat
-
-A player stat that tracks the quality/precision of play for that player.
+Learning is happening all the time, in both functional and dysfunctional ways and is influenced by past experiences of learning, both functional and dysfunctional. Unlearning is to examine the way that one learns, explore what has influenced the ways that one learns, examine the efficacy of the ways that one learns, and discard, or unlearn, those ways that are not effective. 
