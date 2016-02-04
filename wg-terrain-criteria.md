@@ -120,7 +120,7 @@ These are the skills learners need to succeed at Learners Guild that are not inc
 * You are self-reflective about your learning and your social-emotional skills. 
 * You can adapt to new challenges 
 * You can give and receive feedback
-* You can analyze outcomes for yourself to make meaning of my success or failures
+* You can analyze outcomes for yourself to make meaning of your success or failures
 * You can fail forward by analyzing failures to find lessons, places for improvement, and possible paths forward
 
 **You can mentor others** 
