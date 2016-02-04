@@ -59,7 +59,7 @@
   - [Sinatra](#sinatra)
   - [Meteor](#meteor)
   - [Flask](#flask)
-- [Group: Languages](#group-languages)
+- [Group: Languages (Computer)](#group-languages-computer)
   - [Language Concepts](#language-concepts)
   - [JavaScript](#javascript)
   - [Ruby](#ruby)
@@ -73,6 +73,8 @@
   - [Go](#go)
   - [Bash](#bash)
   - [Regular Expressions](#regular-expressions)
+- [Group: Languages (Human)](#group-languages-human)
+  - [English](#english)
 - [Group: Libraries](#group-libraries)
   - [Bootstrap](#bootstrap)
   - [Async](#async)
@@ -97,6 +99,7 @@
   - [Researching](#researching)
   - [Experimentation](#experimentation)
   - [Reasoning and Logic](#reasoning-and-logic)
+  - [Computational Thinking](#computational-thinking)
 
 <!-- /TOC -->
 
@@ -757,7 +760,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 ### Flask
 
 
-## Group: Languages
+## Group: Languages (Computer)
 
 ### Language Concepts
 
@@ -892,6 +895,24 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify, explain, and apply lookahead & lookbehind in a regular expression
 - Identify, explain, and apply conditionals in a regular expression
 - Cite differences in regular expression syntax between two or more languages
+
+## Group: Languages (Human)
+
+### English
+
+#### Level 0
+
+- Understand spoken, colloquial English
+- Understand written, colloquial English
+- Speak intelligible and correct colloquial English
+- Write intelligible and correct colloquial English
+
+#### Level 1
+
+- Understand spoken, formal English
+- Understand written, formal English
+- Speak intelligible and correct formal English
+- Write intelligible and correct formal English
 
 ## Group: Libraries
 
@@ -1294,3 +1315,29 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Define reasoning
 - Apply inductive reasoning to a problem
 - Define state in a problem context
+
+### Computational Thinking
+
+#### Level 0
+- Apply algorithmic notions of control flow
+  - Example: Successfully [traversing](https://www.dropbox.com/s/cqddqb3mbad04pk/thoughtWorks%20006.jpg?dl=0) a flow chart
+- Use conditional thinking
+  - Example: Successfully traversing a flow chart with logic based decisions
+
+#### Level 1
+- Decompose problems
+  - Example: how would you tell someone to draw a face
+    - Level 1: Tell them to draw a face. The problem cannot be abstracted much more than this.
+    - Level 2: Divide the face into components (eyes, ears, nose, mouth) and tell them to draw the specific components. Note that you need instructions to describe spatial relationships.
+    - Level 3: Describe the face as a series of line segments or arcs in particular locations, lengths and orientations.
+    - Level 4: Describe the face as a set of points that are drawn (stippling). Each point is defined by an (x, y) position.
+- Identify, explain, and apply symbol systems and representation
+  - Example: A simple translation task based on a given code system, for example translating from emojis to full sentences
+
+#### Level 2
+- Navigate and analyze at different levels of abstraction
+  - Example: Finding the common pattern in different groups of concepts
+- Explain and apply iterative thinking
+  - Some have argued the addition of recursive and parallel thinking, but I believe these can be scaffolded on iterative thinking
+
+Examples of assessment materials can be found at [CS unplugged](http://csunplugged.org/), [Bebras](http://www.bebraschallenge.org/), as well as other resources that cater to a development of computational thinking. Similar assessment of "algorithmic notions of control flow" have been developed by ThoughtWorks corporation. These assessments have proved to be a strong indicator of software engineering aptitude.
