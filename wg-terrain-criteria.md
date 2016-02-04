@@ -1,8 +1,7 @@
 #Criteria for Terrain 
  
-The goal of this is to develop a clear, concrete list of what learners have to learn in order to succeed in the LG system and in the professional world. 
+This list defines what learners **have to** learn in order to succeed in the LG system and in the professional world. 
 Comparing terrain elements to these lists gives us criteria to focus our work on the essentials. If a terrain element does not help learners learn one of these skills, it is not essential. If our terrains, in combination, miss one of these elements, they are incomplete. 
-One factor is that LG may not provide all of this training directly, but we need to have a plan to connect Learners to ways to gain these skills (eg interview skills). 
 
 ##Key Questions:
 What do learners need to succeed in the professional world?
@@ -20,7 +19,7 @@ What do learners need to succeed in LG?
 
 **1.) Other coders want to work with you**
 * You can collaborate effectively 
- *Your communication and negotiation are clear 
+ * Your communication and negotiation are clear 
  * You can give and receive feedback   
  * You can work skillfully with conflict
  * You can work with others to generate inquiry and insights 
@@ -110,7 +109,7 @@ What do learners need to succeed in LG?
 
 
 ##Success as a Player at Learners Guild means… 
-These are the skills learners need to succeed at Learners Guild that are not included in the professional list. These are skills that may be useful in a professional setting, but not necessary. They are skills that are necessary to succeed in LG. 
+These are the skills learners need to succeed at Learners Guild that are not included in the professional list. These are skills that may be useful in a professional setting, but not necessary. They **are** skills that are necessary to succeed in LG. Some of these skills appear in the professional world list. They are repeated here because in order for learners to succeed in LG, learners have to master these skills, not just acquire them (e.g. feedback).  
 
 **You are comfortable with direct communication  -- giving and receiving** 
 
