@@ -52,93 +52,88 @@ What do learners need to succeed in LG?
 
 **2.) You find your work valuable and sustainable**
 
-You can find and acquire work that meets your financial needs
-You can navigate the industry to find companies that match your values and are financially viable. 
-You can analyze when a job/team/company is not a good fit and leave with dignity. 
-You can regularly generate your own sense of
-Autonomy
-Mastery
-Purpose
-You are clear about your professional vision for the medium term
-You can describe why you get up in the morning
-You can make career choices and follow through on them
-You can manage your work/life balance in ways that keep both thriving
+* You can find and acquire work that meets your financial needs
+ * You can navigate the industry to find companies that match your values and are financially viable. 
+ * You can analyze when a job/team/company is not a good fit and leave with dignity. 
+* You can regularly generate your own sense of
+ * Autonomy
+ * Mastery
+ * Purpose
+* You are clear about your professional vision for the medium term
+ * You can describe why you get up in the morning
+ * You can make career choices and follow through on them
+* You can manage your work/life balance in ways that keep both thriving
 
-3.) You are successful at job Interviews
-You can get a job interview
-You can construct a resume/application
-You can write a cover letter/email
-You can craft a github commit history
-You can craft a portfolio of work
-You can identify the right positions for you 
-You can network your way into the interviews for those positions
-You can communicate your problem solving process
-on a whiteboard (or pen and paper)
-online
-over a screenshare
-You can solve a coding challenge under pressure/time constraint
-You can convince other people that you can fit in with them
-You can convince other people that you’re reliable and/or they can trust you with work they are currently doing.
-You can negotiate an employment contract
-You know how to present yourself well in a professional environment (dress, comportment, speech) 
-
-4.) You are perceived as valuable to the business/company you work for
-You can demonstrate your contributions to your boss/co-workers
-You can make meaningful contributions to the bottom line 
-You can function within work constraints - show up on time
-You can identify and describe your contributions to the company’s OKRs, KPIs, or other metrics
-You can negotiate regular work reviews
-You can maintain a high level of productivity
-You can convince your superiors that you are consistently improving/growing your skills
-You can describe your company’s fit in its own industry
-You can state why your company/org exists
+**3.) You are successful at job Interviews**
+* You can get a job interview
+ * You can identify the right positions for you 
+ * You can network your way into the interviews for those positions
+ * You can construct a resume/application
+ * You can write a cover letter/email
+ * You can craft a github commit history
+ * You can craft a portfolio of work
+* You can communicate your problem solving process
+ * on a whiteboard (or pen and paper)
+ * online
+ * over a screenshare
+* You can solve a coding challenge under pressure/time constraint
+* You can convince other people that you can fit in with them
+* You can convince other people that you’re reliable and/or they can trust you with work they are currently doing.
+* You can negotiate an employment contract
+* You know how to present yourself well in a professional environment (dress, comportment, speech) 
 
 
-5.) You can create a sense of belonging within the industry of software development 
-You can identify and skillfully navigate cultural dynamics relating to race, gender, class, and privilege
-You can find peers with which you share a desire to solve the same “technical” challenges
-You can find and develop relationships with mentors in your company and industry who will guide you towards a successful career.  
-You can successfully impact the culture of an organization for the better.	
-You can combine the authentic communication, relationship building, and systemic awareness skills necessary to create belonging in a company.   
+**4.) You are perceived as valuable to the business/company you work for**
+* You can demonstrate your contributions to your boss/co-workers
+* You can make meaningful contributions to the bottom line 
+* You can function within work constraints - show up on time
+* You can identify and describe your contributions to the company’s OKRs, KPIs, or other metrics
+* You can negotiate regular work reviews
+* You can maintain a high level of productivity
+* You can convince your superiors that you are consistently improving/growing your skills
+* You can describe your company’s fit in its own industry
+ * You can state why your company/org exists
 
-6.) You are always learning 
-You can identify what you need to learn to advance your career and your effectiveness.
-You can find the resources that enable you to consciously increase your rate of learning.
-You can make a learning plan tailored to your learning styles, the available resources, and your timeline. 
-You can remove obstacles that stand in the way of your advancement both professionally and personally.
-Success as a Player at Learners Guild means… 
+
+**5.) You can create a sense of belonging within the industry of software development** 
+* You can identify and skillfully navigate cultural dynamics relating to race, gender, class, and privilege
+* You can find peers with which you share a desire to solve the same “technical” challenges
+* You can find and develop relationships with mentors in your company and industry who will guide you towards a successful career.  
+* You can successfully impact the culture of an organization for the better.	
+* You can combine the authentic communication, relationship building, and systemic awareness skills necessary to create belonging in a company.   
+
+**6.) You are always learning** 
+* You can identify what you need to learn to advance your career and your effectiveness.
+* You can find the resources that enable you to consciously increase your rate of learning.
+* You can make a learning plan tailored to your learning styles, the available resources, and your timeline. 
+* You can remove obstacles that stand in the way of your advancement both professionally and personally.
+
+
+##Success as a Player at Learners Guild means… 
 These are the skills learners need to succeed at Learners Guild that are not included in the professional list. These are skills that may be useful in a professional setting, but not necessary. They are skills that are necessary to succeed in LG. 
 
-You are comfortable with direct communication  -- giving and receiving 
+**You are comfortable with direct communication  -- giving and receiving** 
 
-You are both self-directed and able to work in a team. 
+**You can be both self-directed and work in a team.** 
 
-You can be successfully challenged to grow professionally and personally.
+**You can be successfully challenged to grow professionally and personally.**
+* You are self-reflective about your learning and your social-emotional skills. 
+* You can adapt to new challenges 
+* You can give and receive feedback
+* You can analyze outcomes for yourself to make meaning of my success or failures
+* You can fail forward by analyzing failures to find lessons, places for improvement, and possible paths forward
 
-You cultivate a growth mindset 
-You are self-reflective about your learning and your social-emotional skills. 
-You can adapt to new challenges 
-You can give and receive feedback
-You can analyze outcomes for yourself to make meaning of my success or failures
-You can fail forward by analyzing failures to find lessons, places for improvement, and possible paths forward
+**You can mentor others** 
 
-You can mentor others 
+**You are kind**
 
-You are kind
-
-You can contribute to your team’s collective success 
-You can track and positively contribute to your team’s the health, effectiveness, and mood 
-You can leverage the advantages and skills of your team members 
-You can work with your teammates’ growth edges, learning curves and struggles
-You can put your needs and desires aside to help your teammates 
+**You can contribute to your team’s collective success** 
+* You can track and positively contribute to your team’s the health, effectiveness, and mood 
+* You can leverage the advantages and skills of your team members 
+* You can work with your teammates’ growth edges, learning curves and struggles
+* You can put your needs and desires aside to help your teammates 
  
 
 
-Differences between success at LG and Professional Success:
 
-You are self-educated
-Are we creating independent learners, or are we creating a new system of learning with a defined structure that replaces existing school structure? 
-If we are going to develop self-education training/gaming, it is a Value question that will then have skills that will derive from it. 
-
-Some of the LG skills are included in the “professional world” list, but the emphasis that LG puts on them is so much stronger than the common working world that I think we should mark them clearly. For example, our emphasis on self-reflection and direct communication. 
 
