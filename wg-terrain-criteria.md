@@ -25,28 +25,32 @@ What do learners need to succeed in LG?
  * You can work skillfully with conflict
  * You can work with others to generate inquiry and insights 
  * You can regulate drama/emotional intensity
+ 
 * You can adapt to your teammates’ work and communication styles 
  * You can integrate your work with other people’s work
  * You can discuss their work with them
  * You can discuss your work with them
  * You can reliably take on another person’s work with minimum loss in efficiency/progress 
  * You can make your own unique and valuable contributions to the technical craft of your team
+ 
 * You can function effectively in meetings
  * You understand meeting processes and can be a useful participant 
- * You can facilitate a meeting  
+ * You can facilitate a meeting
+ 
 * You have the ability to learn new info/systems/apps efficiently 
-You can research topics you need to learn 
-You can make a learning plan 
-You can track your learning and make continuous improvements 
-You can manage projects and workload
-You can concentrate on a specific task
-You can budget your time 
-You use resources effectively 
-You have systems to track your projects and work tasks  
-You can convince people that they are better off with you on their team
-You can think creatively, laterally and outside the box
+ * You can research topics you need to learn 
+ * You can make a learning plan 
+ * You can track your learning and make continuous improvements
+ 
+* You can manage projects and workload
+ * You can concentrate on a specific task
+ * You can budget your time 
+ * You use resources effectively 
+ * You have systems to track your projects and work tasks  
+ * You can convince people that they are better off with you on their team
+ * You can think creatively, laterally and outside the box
 
-2.) You find your work valuable and sustainable
+**2.) You find your work valuable and sustainable**
 
 You can find and acquire work that meets your financial needs
 You can navigate the industry to find companies that match your values and are financially viable. 
