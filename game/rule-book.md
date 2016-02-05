@@ -1,50 +1,51 @@
 # Game Rule Book
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [Story](#story)
-	- [Premise](#premise)
-	- [Theme](#theme)
+  - [Premise](#premise)
+  - [Theme](#theme)
 - [Objectives](#objectives)
 - [Players](#players)
-	- [Roles](#roles)
-		- [Aspirant](#aspirant)
-		- [Learner](#learner)
-		- [Mentor](#mentor)
-	- [Requirements](#requirements)
-	- [Player Name](#player-name)
+  - [Roles](#roles)
+    - [Aspirant](#aspirant)
+    - [Learner](#learner)
+    - [Mentor](#mentor)
+  - [Requirements](#requirements)
+  - [Player Name](#player-name)
 - [Player Stats](#player-stats)
- - [Skill Stats](#skill-stats)
- 	- [Experience (SP)](#experience-SP)
-	- [Abilities](#abilities)
-	- [Leveling Up](#leveling-up)
- - [Health Stats](#health-stats)
- - [Quality Stats](#quality-stats)
- - [Stat Sheet](#stat-sheet)
- - [Stat Groups](#stat-groups)
- - [Stat Quadrants](#stat-quadrants)
- - [Player Skill Level, Health, & Quality Percentage](#player-skill-level-health--quality-percentage)
+  - [Skill Stats](#skill-stats)
+    - [Skill Points (SP)](#skill-points-sp)
+    - [Abilities](#abilities)
+    - [Leveling Up](#leveling-up)
+  - [Health Stats](#health-stats)
+  - [Quality Stats](#quality-stats)
+  - [Stat Sheet](#stat-sheet)
+  - [Stat Groups](#stat-groups)
+  - [Stat Quadrants](#stat-quadrants)
+  - [Player Skill Level, Health, & Quality Percentage](#player-skill-level-health-quality-percentage)
+  - [Player Momentum](#player-momentum)
 - [Game Objects](#game-objects)
-	- [Missions](#missions)
-		- [Mission Objectives](#mission-objectives)
-			- [Knowledge](#knowledge)
-			- [Habits](#habits)
-			- [Beliefs](#beliefs)
+  - [Missions](#missions)
+    - [Mission Objectives](#mission-objectives)
+      - [Knowledge](#knowledge)
+      - [Habits](#habits)
+      - [Beliefs](#beliefs)
 - [Resources](#resources)
 - [Boundaries](#boundaries)
 - [Timing](#timing)
 - [Advancement](#advancement)
-	- [Challenges](#challenges)
+  - [Challenges](#challenges)
 - [Victory Conditions](#victory-conditions)
 - [Stages](#stages)
-	- [0 - Admissions](#0-admissions)
-		- [Technical Talent Requirement](#technical-talent-requirement)
-		- [Emotional Talent Requirement](#emotional-talent-requirement)
-		- [Necessary Admission Challenge Criteria](#necessary-admission-challenge-criteria)
-		- [Admission Challenge Mechanism](#admission-challenge-mechanism)
-		- [Admittance to the Game](#admittance-to-the-game)
-	- [1 - Ingame](#1-ingame)
-	- [2 - Postgame](#2-postgame)
+  - [0 - Admissions](#0-admissions)
+    - [Technical Talent Requirement](#technical-talent-requirement)
+    - [Emotional Talent Requirement](#emotional-talent-requirement)
+    - [Necessary Admission Challenge Criteria](#necessary-admission-challenge-criteria)
+    - [Admission Challenge Mechanism](#admission-challenge-mechanism)
+    - [Admittance to the Game](#admittance-to-the-game)
+  - [1 - Ingame](#1-ingame)
+  - [2 - Postgame](#2-postgame)
 
 <!-- /TOC -->
 
@@ -119,7 +120,7 @@ In order for a player to achieve a higher level for a skill, they need to:
 
 2. Claim the Ability Set: Players can only claim an ability after they have unlocked it. When a player claims an ability they are declaring that they have grocked it. Claiming an ability is equivalent to a Player listing that ability on their resume.
 
-3. Check off the Ability Set: Once a Player has checked off all of the abilities for a particular Skill Level's Abilities Set, they are ready to "Pair Up" for the next level. At least two other Players (who have already attained the higher skill level) will pair with them on challenges. During these pairing sessions, the higher ranked player will be checking off the aspiring player's abilities. 
+3. Check off the Ability Set: Once a Player has checked off all of the abilities for a particular Skill Level's Abilities Set, they are ready to "Pair Up" for the next level. At least two other Players (who have already attained the higher skill level) will pair with them on challenges. During these pairing sessions, the higher ranked player will be checking off the aspiring player's abilities.
 
 Once the player aspiring to pair up gets all of their abilities checked off, they level up to the next level for that skill: The SP is reset to 0, and a whole new Ability Set is exposed to them for unlocking, claiming, and checking off.
 
