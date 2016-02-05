@@ -29,35 +29,35 @@ In addition to the skills requirements, players/pods must possess and/or demonst
 In order for a team to create a Pod, or for a player to join a pod, they must have achieved the following skill levels:
 
 - Group: Character
-	- Grit: Level 0
-	- Distance Travelled: Level 0
-	- Adaptability: Level 0
-	- Creativity and Resourcefulness: Level 0
+  - Grit: Level 0
+  - Distance Travelled: Level 0
+  - Adaptability: Level 0
+  - Creativity and Resourcefulness: Level 0
 - Group: Collaboration
-	- Group Spirit: Level 0
-	- Leadership: Level 0
-	- Pairing: Level 0
+  - Group Spirit: Level 0
+  - Leadership: Level 0
+  - Pairing: Level 0
 - Group: Computer Tools
-	- Editor: Level 0
-	- Keyboard: Level 0
-	- File Management: Level 0
+  - Editor: Level 0
+  - Keyboard: Level 0
+  - File Management: Level 0
 - Group: Languages (Computer)
-	- Language Concepts: Level 1
-	- JavaScript: Level 0
+  - Language Concepts: Level 1
+  - JavaScript: Level 0
 - Group: Languages (Human)
-	- English: Level 0
+  - English: Level 0
 - Group: Service
-	- Community Service: Level 0
+  - Community Service: Level 0
 - Group: Software Development
-	- Command-Line Tools: Level 0
-	- Testing: Level 0
+  - Command-Line Tools: Level 0
+  - Testing: Level 0
 - Group: Web Application Development
-	- Frontend Development: Level 0
+  - Frontend Development: Level 0
 - Group: Wetware
-	- Reading: Level 0
-	- Researching: Level 0
-	- Reasoning and Logic: Level 0
-	- Computational Thinking: Level 1
+  - Reading: Level 0
+  - Researching: Level 0
+  - Reasoning and Logic: Level 0
+  - Computational Thinking: Level 1
 
 ### Traits Requirements
 
@@ -67,9 +67,9 @@ The non-negotiable traits of all pod-eligible players are:
 - A desire to be a software engineer in a supportive but challenging environment.
 - A willingness to making a commitment to self-transformation through social-emotional training.
 - An attainment of a minimum age of 25 years.
-	- This gives the pilot pod for the LG game a few less hurdles to face. With the understanding that players who are leveling up from to placed web developers are going to face challenges around race, gender, income and so on. To mitigate the risk of pod failure, we have decided to punt to v1, the challenge of 'ageism.'
+  - This gives the pilot pod for the LG game a few less hurdles to face. With the understanding that players who are leveling up from to placed web developers are going to face challenges around race, gender, income and so on. To mitigate the risk of pod failure, we have decided to punt to v1, the challenge of 'ageism.'
 - Previous employment history or an alternate demonstration of responsibility
-	- We are specifically interested in a demonstration of responsibility that indicates a players ability to navigate family needs, transportation, housing, and co-worker dynamics.
+  - We are specifically interested in a demonstration of responsibility that indicates a players ability to navigate family needs, transportation, housing, and co-worker dynamics.
 - Availability to participate full-time for 40 weeks
 
 #### For version 1
@@ -79,9 +79,9 @@ The non-negotiable traits of all pod-eligible players are:
 In addition, the negotiable (non-required, but nice to have) traits of pod-eligible players are:
 
 - An identification with a historically underrepresented group in the software engineering workforce like:
-	- Women
-	- Ethnic-minority
-	- LGBTQ, gender non-conforming
-	- Persons with disabilities
-	- Persons from a low-income environment
+  - Women
+  - Ethnic-minority
+  - LGBTQ, gender non-conforming
+  - Persons with disabilities
+  - Persons from a low-income environment
 - A belief that inclusion is an overall net positive effect in the software engineering field.
