@@ -86,7 +86,7 @@ Under this theme, the primary goal of the game for learners to get paid to be a 
 
 To win the game, learners work on their own and with their agency to win contracts and develop projects for clients, in the process building both an **agency portfolio** and a **personal portfolio** of completed work.
 
-Agencies can apply for a spot in the 40-week guild **incubator program**. In this program, an agency receives an **advisory board** consisting of a **learning facilitator**, a **technical practitioner**, and several **mentors**. The advisors are agents within the game who may or may not belong to an agency.
+Agencies can apply for a spot in the 40-week guild **incubator program**. In this program, an agency receives an **advisory board** consisting of a **learning facilitator**, a **technical practitioner**, and several **industry mentors**. The advisors are agents within the game who may or may not belong to an agency.
 
 ### Dramatic Arc
 
@@ -104,7 +104,7 @@ The narrative starts with an invitation to become a **learning agent** in the **
 
 Players/learners who accept this invitation become **agents**. All learners start the game as a **free agent**, i.e. an agent who doesn't belong to an agency.
 
-Free agents start the game in the **open market**, where they meet other free agents as well as agents who work within agencies. Some of these agents will be more skilled and will be able to provide mentorship, others will be less skilled and will be seeking support.
+Free agents start the game in the **open market**, where they meet other free agents as well as agents who work within agencies. Some of these agents will be more skilled and act as **mentor agents**, others will be less skilled and will be seeking support.
 
 To move forward in the game, agents bid on client-defined contracts for projects that will build their portfolio and resume. Contracts are awarded to agents based on their current portfolio and the skills they have on their resume.
 
@@ -139,6 +139,7 @@ _The language we use to establish a consistent theme across the game_.
 
 - **Agent**: a learner/player's character in the game. All agents are part of the guild.
 - **Free agent**: an agent who doesn't belong to an agency, but is still within the guild.
+- **Mentor agent**: a skilled learner and craftsperson who provides general mentorship and support to other agents.
 - **Agency**: a team of agents who work together. Only agencies can apply to the incubator program.
 - **Guild**: the collective of agents and agencies. The guild encompasses all learners/players in the game.
 - **Contract**: a statement of work for a particular project. Contracts are issued and awarded by clients to agents and agencies.
@@ -151,7 +152,7 @@ _The language we use to establish a consistent theme across the game_.
 - **Advisory board**: a group of skilled learners/teachers and professionals who advise, guide, and give feedback to an agency. Only agencies within the incubator program have advisory boards.
 - **Learning facilitator**: a master learner who facilitates and nurtures a safe, healthy, and highly effective learning environment for an incubated agency.
 - **Technical practitioner**: a highly-skilled, professional practitioner of the craft most relevant to an incubated agency. They provide expert feedback, knowledge, and advice to the agency.
-- **Mentor**: a skilled learner and craftsperson with industry-relevant knowledge who provides general mentorship to an incubated agency.
+- **Industry mentor**: a skilled learner and practitioner with industry-relevant knowledge who provides general mentorship to an incubated agency.
 
 ## Objectives
 
