@@ -20,11 +20,9 @@ A Facilitator is an external resource that is called upon if Players and Pods ne
 
 ## Player & Pod Characteristics
 
-While anyone can join the game, there are skill requirements to create or join a Pod and thus be eligible for player support. These requirements are expressed in terms of the skills and skill levels contained within the game.
+While anyone can join the game, there are skill and health requirements to create or join a Pod and thus be eligible for player support. These requirements are expressed in terms of the skills, skill levels, and health stats contained within the game.
 
-In addition to the skills requirements, players/pods must possess and/or demonstrate particular traits.
-
-### Skills Requirements
+### Skill Requirements
 
 In order for a team to create a Pod, or for a player to join a pod, they must have achieved the following skill levels:
 
@@ -59,13 +57,24 @@ In order for a team to create a Pod, or for a player to join a pod, they must ha
   - Reasoning and Logic: Level 0
   - Computational Thinking: Level 1
 
-### Traits Requirements
+### Health Requirements
 
-The non-negotiable traits of all pod-eligible players are:
+In order for a team to create a Pod, or for a player to join a pod, they must have the following health stats (assuming a 5-point scale):
+
+- Collaboration: >= 3.5
+- Continuous Practice: >= 3
+- Feedback: >= 3
+- Impact: >= 3.0
+- Pragmatism: >= 3.5
+- Purpose: >= 3.5
+
+### General Terms for Acceptance
+
+The non-negotiable acceptance terms for all Pod-eligible players are:
 
 #### For version 0
-- A desire to be a software engineer in a supportive but challenging environment.
-- A willingness to making a commitment to self-transformation through social-emotional training.
+- An expressed desire to be a software engineer in a supportive but challenging environment.
+- An expressed willingness to making a commitment to self-transformation through social-emotional training.
 - An attainment of a minimum age of 25 years.
   - This gives the pilot pod for the LG game a few less hurdles to face. With the understanding that players who are leveling up from to placed web developers are going to face challenges around race, gender, income and so on. To mitigate the risk of pod failure, we have decided to punt to v1, the challenge of 'ageism.'
 - Previous employment history or an alternate demonstration of responsibility
