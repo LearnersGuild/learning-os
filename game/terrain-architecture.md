@@ -1,6 +1,6 @@
 # Game Terrain Architecture
 
-<!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:0 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [Overview](#overview)
 - [Skill dependencies](#skill-dependencies)
@@ -8,12 +8,14 @@
   - [Overview (optional)](#overview-optional)
   - [Objective(s)](#objectives)
   - [Skill Level(s)](#skill-levels)
-- [Quality Rubric(s)](#quality-rubrics)
-- [Time (optional)](#time-optional)
-- [Players (optional)](#players-optional)
+  - [Quality Rubric(s)](#quality-rubrics)
+  - [Time (optional)](#time-optional)
+  - [Players (optional)](#players-optional)
 - [Challenge Types](#challenge-types)
   - [Project](#project)
   - [Drill](#drill)
+- [Challenge Unlocking](#challenge-unlocking)
+  - [Fungible Skill Points](#fungible-skill-points)
 - [Example Terrain Elements](#example-terrain-elements)
   - [Project: How the web works presentation](#project-how-the-web-works-presentation)
     - [Objectives](#objectives)

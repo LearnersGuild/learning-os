@@ -7,7 +7,7 @@
     - [Example Pre-Game Challenges](#example-pre-game-challenges)
       - [Challenge: JS Tic-Tac-Toe](#challenge-js-tic-tac-toe)
   - [Game Finish](#game-finish)
-    - [Level Challenge: Acquire Dignified Employment](#level-challenge-acquire-dignified-employment)
+    - [Final Level Challenge: Acquire Dignified Employment](#final-level-challenge-acquire-dignified-employment)
 - [Internal Boundaries: Skill Levels](#internal-boundaries-skill-levels)
   - [Progression through Skill Levels](#progression-through-skill-levels)
 - [Timeline: Themes and Phases](#timeline-themes-and-phases)
