@@ -68,7 +68,7 @@ You will be supported, asked to support others, and you will be challenged.
 
 ## Objectives
 
-The objective of the game is to secure a livelihood with dignity and continuous learning for my both my pod and myself, in an organization where people are excited to work with me.
+The objective of the game is to secure a livelihood with dignity and continuous learning for both my pod and myself, in an organization where people are excited to work with me.
 
 ## Players
 
