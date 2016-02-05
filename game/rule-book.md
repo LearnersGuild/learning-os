@@ -137,21 +137,21 @@ The strategies a particular agent or agency chooses depends on their own individ
 
 _The language we use to establish a consistent theme across the game_.
 
-- **Agent**
-- **Free agent**
-- **Agency**
-- **Guild**
-- **Contract**
-- **Client**
-- **Project**
-- **Portfolio**
-- **Agency portfolio**
-- **Personal portfolio**
-- **Incubator program**
-- **Advisory board**
-- **Learning facilitator**
-- **Technical practitioner**
-- **Mentor**
+- **Agent**: a learner/player's character in the game. All agents are part of the guild.
+- **Free agent**: an agent who doesn't belong to an agency, but is still within the guild.
+- **Agency**: a team of agents who work together. Only agencies can apply to the incubator program.
+- **Guild**: the collective of agents and agencies. The guild encompasses all learners/players in the game.
+- **Contract**: a statement of work for a particular project. Contracts are issued and awarded by clients to agents and agencies.
+- **Client**: a non-player character who defines and awards contracts for projects to agents and agencies.
+- **Project**: an individual or collective enterprise to achieve a particular aim, with specific and measurable deliverables. Clients specify projects through contracts, and agents/agencies complete projects when they win a contract.
+- **Portfolio**: a collection of all projects completed and contracts earned.
+- **Agency portfolio**: the portfolio of work completed by an agency, along with the skills and abilities the work demonstrates.
+- **Personal portfolio**: the portfolio of work completed by an agent, along with the skills and abilities the work demonstrates.
+- **Incubator program**: a funded, supported 40-week incubator for agencies to rapidly scale their collective and individual skills and gain access to bigger, more meaningful contracts. Incubation includes financial and logistical support for an agency, access to elite clients, and an agency's very own, highly-skilled advisory board.
+- **Advisory board**: a group of skilled learners/teachers and professionals who advise, guide, and give feedback to an agency. Only agencies within the incubator program have advisory boards.
+- **Learning facilitator**: a master learner who facilitates and nurtures a safe, healthy, and highly effective learning environment for an incubated agency.
+- **Technical practitioner**: a highly-skilled, professional practitioner of the craft most relevant to an incubated agency. They provide expert feedback, knowledge, and advice to the agency.
+- **Mentor**: a skilled learner and craftsperson with industry-relevant knowledge who provides general mentorship to an incubated agency.
 
 ## Objectives
 
