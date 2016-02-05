@@ -98,6 +98,31 @@ In this way we define dignity as a balance of _power_, _responsibility_, and _me
 
 Over time, learners are challenged to build their power (abilities, skills, knowledge), their responsibility to others (collaboration, mentorship, leadership), and their sense of meaning (personal purpose, career orientation).
 
+#### Celebrating Transitions
+
+There are various transitions throughout the life of the game, and they are celebrated differently. In all cases, however, transformation and transition should be acknowledged as a rite of passage.
+
+**Transitions**:
+
+- Invitation: non-player => free agent
+- Menteeship: 0 => 1 mentors for agent
+- Contract Won: 0 => 1 contracts won
+- Project Completed: 0 => 1 completed projects
+- Project Accepted: 0 => 1 accepted projects
+- Agent Level Up: new agent skill level acquired
+- Agency Created: agency formed by agents
+- Agency Joined: free agent => agent with agency
+- Agency Level Up: new agency skill level acquired
+- Mentorship: 0 => 1 mentees for agent
+- Incubator-Ready: agency leveled up, ready to apply to incubator
+- Incubator Application Accepted: agency accepted into incubator
+- Incubator Started: agency starts incubation program
+- Incubator Completed: agency completes incubation program
+- Paid Contract Won: 0 => 1 paid contracts won
+- Paid Project Completed: 0 => 1 completed projects for paid contracts
+- Paid Project Accepted: 0 => 1 accepted projects for paid contracts
+- Paid Job Acquired: 0 => 1 paid jobs earned
+
 ### Narrative
 
 The narrative starts with an invitation to become a **learning agent** in the **guild**.
