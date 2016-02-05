@@ -24,6 +24,8 @@ What do learners need to succeed in LG?
  * You can work skillfully with conflict
  * You can work with others to generate inquiry and insights 
  * You can regulate drama/emotional intensity
+ * You can pair up
+ * You can pair down
  
 * You can adapt to your teammates’ work and communication styles 
  * You can integrate your work with other people’s work
@@ -83,9 +85,10 @@ What do learners need to succeed in LG?
 
 
 **4.) You are perceived as valuable to the business/company you work for**
+* You can state your role's purpose in the company
 * You can demonstrate your contributions to your boss/co-workers
 * You can make meaningful contributions to the bottom line 
-* You can function within work constraints - show up on time
+* You can function within work constraint -- e.g., show up on time
 * You can identify and describe your contributions to the company’s OKRs, KPIs, or other metrics
 * You can negotiate regular work reviews
 * You can maintain a high level of productivity
@@ -105,7 +108,7 @@ What do learners need to succeed in LG?
 * You can identify what you need to learn to advance your career and your effectiveness.
 * You can find the resources that enable you to consciously increase your rate of learning.
 * You can make a learning plan tailored to your learning styles, the available resources, and your timeline. 
-* You can remove obstacles that stand in the way of your advancement both professionally and personally.
+* You can address obstacles that stand in the way of your advancement both professionally and personally.
 
 
 ##Success as a Player at Learners Guild means… 
