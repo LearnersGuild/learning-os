@@ -1,5 +1,16 @@
 # Player Stats
 
+## Personal Quadrant
+
+### Stat Groups
+
+- Metacognition
+
+### Skill Stats
+
+#### Metacognition
+- Meta-Learning
+
 ## Technical Quadrant
 
 ### Stat Groups
