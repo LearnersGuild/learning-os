@@ -297,39 +297,6 @@ Player momentum is a composite stat that reflects the pace at which of the playe
 
 The Player Momentum is expressed as a percentage. Anything over 100% indicates the player's rate of learning is accelerating, anything under 100% means it is decelerating.
 
-## Game Objects
-
-
-### Missions
-
-Missions are defined tasks with learning outcomes that, when completed, advance a learner's (or pod's) skills. Learners complete missions to earn SP.
-
-#### Mission Objectives
-
-Mission objectives are higher-resolution learning outcomes that have a particular SP value. They are associated with one mission.
-
-**To complete a mission is to achieve its objectives, and SP is earned for each objective.**
-
-Objectives can be described as one of three types: knowledge, behavior, and beliefs.
-
-##### Knowledge
-
-Knowledge units constitute what people know when they are done with the program.
-
-Example: "I know that HTML is used for creating the DOM, while JavaScript is used to manipulate it"
-
-##### Habits
-
-A habit or behavioral response defines how learners behave in a specific scenario.
-
-Example: "When I'm pair programming with someone, I speak openly and freely as things come to my mind."
-
-##### Beliefs
-
-Operating beliefs are what people believe about themselves, the craft, other people, and the world.
-
-Example: "As a software developer, I believe I can tackle any problem I'm faced with; I may not come up with a solution, but I will definitely come up with a better definition of the problem."
-
 ## Resources
 
 See player support resources. <!-- TODO: needs link. -->
