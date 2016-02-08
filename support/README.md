@@ -26,15 +26,15 @@ A person who has gained acceptance to the LG game, but is presently confined to 
 To determine if an aspirant is an ideal candidate for the Learners Guild game, assess the candidate along the following two dimensions:
 
 - Traits
-	- [Non-negotiable](/support/Player_Characteristics/Traits_NonNegotiable.md)
-	- [Negotiable](/support/Player_Characteristics/Traits_NiceToHave.md)
+  - [Non-negotiable](/support/Player_Characteristics/Traits_NonNegotiable.md)
+  - [Negotiable](/support/Player_Characteristics/Traits_NiceToHave.md)
 - Talent Requirements
-	- [Technical]
-		- [Non-negotiable](/support/Player_Characteristics/Talent_Requiremen_Technical_NonNegotiable.md)
-		- [Negotiable](/support/Player_Characteristics/Talent_Requiremen_Technical_NiceToHave.md)
-	- [Non-Technical]
-		- [Non-negotiable](/support/Player_Characteristics/Talent_Requiremen_NonTechnical_NonNegotiable.md)
-		- [Negotiable](/support/Player_Characteristics/Talent_Requiremen_NonTechnical_NiceToHave.md)
+  - [Technical]
+    - [Non-negotiable](/support/Player_Characteristics/Talent_Requiremen_Technical_NonNegotiable.md)
+    - [Negotiable](/support/Player_Characteristics/Talent_Requiremen_Technical_NiceToHave.md)
+  - [Non-Technical]
+    - [Non-negotiable](/support/Player_Characteristics/Talent_Requiremen_NonTechnical_NonNegotiable.md)
+    - [Negotiable](/support/Player_Characteristics/Talent_Requiremen_NonTechnical_NiceToHave.md)
 
 
 ## Prep
