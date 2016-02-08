@@ -15,6 +15,10 @@ The ideal player should come into the games with the following non-negotiable di
 - Growth Mindset
 	- They should have a an understanding that intelligence is malleable.
 	- They should have a an understanding that deliberate practice expands intelligence.
+	 
+- Passion
+	- They have an insatiable excitement and curiosity regarding the craft of software development.
+
 
 - Distance Travelled
 Distance travelled is a concept that seeks to quantify the path of a potential aspirant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Aspirants’ achievements.
