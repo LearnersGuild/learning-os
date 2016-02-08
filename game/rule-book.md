@@ -1,50 +1,65 @@
 # Game Rule Book
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [Story](#story)
-	- [Premise](#premise)
-	- [Theme](#theme)
+  - [Premise](#premise)
+  - [Theme](#theme)
+  - [Dramatic Arc](#dramatic-arc)
+  - [Narrative](#narrative)
+  - [Thematic Language](#thematic-language)
 - [Objectives](#objectives)
 - [Players](#players)
-	- [Roles](#roles)
-		- [Aspirant](#aspirant)
-		- [Learner](#learner)
-		- [Mentor](#mentor)
-	- [Requirements](#requirements)
-	- [Player Name](#player-name)
+  - [Roles](#roles)
+    - [Aspirant](#aspirant)
+    - [Learner](#learner)
+    - [Mentor](#mentor)
+  - [Requirements](#requirements)
+  - [Player Name](#player-name)
 - [Player Stats](#player-stats)
- - [Skill Stats](#skill-stats)
- 	- [Experience (SP)](#experience-SP)
-	- [Abilities](#abilities)
-	- [Leveling Up](#leveling-up)
- - [Health Stats](#health-stats)
- - [Quality Stats](#quality-stats)
- - [Stat Sheet](#stat-sheet)
- - [Stat Groups](#stat-groups)
- - [Stat Quadrants](#stat-quadrants)
- - [Player Skill Level, Health, & Quality Percentage](#player-skill-level-health--quality-percentage)
+  - [Skill Stats](#skill-stats)
+    - [Skill Points (SP)](#skill-points-sp)
+    - [Abilities](#abilities)
+    - [Leveling Up](#leveling-up)
+  - [Health Stats](#health-stats)
+  - [Quality Stats](#quality-stats)
+  - [Stat Sheet](#stat-sheet)
+  - [Stat Groups](#stat-groups)
+  - [Stat Quadrants](#stat-quadrants)
+  - [Player Skill Level, Health, & Quality Percentage](#player-skill-level-health-quality-percentage)
+  - [Player Momentum](#player-momentum)
+  - [Skill Stats](#skill-stats)
+    - [Skill Points (SP)](#skill-points-sp)
+    - [Abilities](#abilities)
+    - [Leveling Up](#leveling-up)
+  - [Health Stats](#health-stats)
+  - [Quality Stats](#quality-stats)
+  - [Stat Sheet](#stat-sheet)
+  - [Stat Groups](#stat-groups)
+  - [Stat Quadrants](#stat-quadrants)
+  - [Player Skill Level, Health, & Quality Percentage](#player-skill-level-health-quality-percentage)
+  - [Player Momentum](#player-momentum)
 - [Game Objects](#game-objects)
-	- [Missions](#missions)
-		- [Mission Objectives](#mission-objectives)
-			- [Knowledge](#knowledge)
-			- [Habits](#habits)
-			- [Beliefs](#beliefs)
+  - [Missions](#missions)
+    - [Mission Objectives](#mission-objectives)
+      - [Knowledge](#knowledge)
+      - [Habits](#habits)
+      - [Beliefs](#beliefs)
 - [Resources](#resources)
 - [Boundaries](#boundaries)
 - [Timing](#timing)
 - [Advancement](#advancement)
-	- [Challenges](#challenges)
+  - [Challenges](#challenges)
 - [Victory Conditions](#victory-conditions)
 - [Stages](#stages)
-	- [0 - Admissions](#0-admissions)
-		- [Technical Talent Requirement](#technical-talent-requirement)
-		- [Emotional Talent Requirement](#emotional-talent-requirement)
-		- [Necessary Admission Challenge Criteria](#necessary-admission-challenge-criteria)
-		- [Admission Challenge Mechanism](#admission-challenge-mechanism)
-		- [Admittance to the Game](#admittance-to-the-game)
-	- [1 - Ingame](#1-ingame)
-	- [2 - Postgame](#2-postgame)
+  - [0 - Admissions](#0-admissions)
+    - [Technical Talent Requirement](#technical-talent-requirement)
+    - [Emotional Talent Requirement](#emotional-talent-requirement)
+    - [Necessary Admission Challenge Criteria](#necessary-admission-challenge-criteria)
+    - [Admission Challenge Mechanism](#admission-challenge-mechanism)
+    - [Admittance to the Game](#admittance-to-the-game)
+  - [1 - Ingame](#1-ingame)
+  - [2 - Postgame](#2-postgame)
 
 <!-- /TOC -->
 
@@ -63,11 +78,110 @@ You will be supported, asked to support others, and you will be challenged.
 
 ### Theme
 
-> TODO: What is the theme of the game?
+The theme of the game is a _professional agency_.
+
+Learners are **agents** who join the **guild**. Agents then form **agencies** to win **contracts** from **clients** and work on increasingly complex, difficult, and meaningful **projects**.
+
+Under this theme, the primary goal of the game for learners to get paid to be a practitioner of their technical/professional skill. That is the primary _win condition_, although this is a never-ending game; learners may continue to play as long as they want.
+
+To win the game, learners work on their own and with their agency to win contracts and develop projects for clients, in the process building both an **agency portfolio** and a **personal portfolio** of completed work.
+
+Agencies can apply for a spot in the 40-week guild **incubator program**. In this program, an agency receives an **advisory board** consisting of a **learning facilitator**, a **technical practitioner**, and several **industry mentors**. The advisors are agents within the game who may or may not belong to an agency.
+
+### Dramatic Arc
+
+The dramatic arc is composed of one long arc of a **dignified challenge**, with many smaller fractal cycles of dignified challenges that make up the rhythm of the game.
+
+The grand dignified challenge is to be paid to work at a high-skills profession in a position that affords stability and agency, and in a field that is meaningful.
+
+In this way we define dignity as a balance of _power_, _responsibility_, and _meaning_. A **dignified challenge** is one in which learners are challenged to increase their power, responsibility, or sense of meaning, in a way that is balanced and creates more dignity for themselves and their peers.
+
+Over time, learners are challenged to build their power (abilities, skills, knowledge), their responsibility to others (collaboration, mentorship, leadership), and their sense of meaning (personal purpose, career orientation).
+
+#### Celebrating Transitions
+
+There are various transitions throughout the life of the game, and they are celebrated differently. In all cases, however, transformation and transition should be acknowledged as a rite of passage.
+
+**Transitions**:
+
+- Invitation: non-player => free agent
+- Menteeship: 0 => 1 mentors for agent
+- Contract Won: 0 => 1 contracts won
+- Project Completed: 0 => 1 completed projects
+- Project Accepted: 0 => 1 accepted projects
+- Agent Level Up: new agent skill level acquired
+- Agency Created: agency formed by agents
+- Agency Joined: free agent => agent with agency
+- Agency Level Up: new agency skill level acquired
+- Mentorship: 0 => 1 mentees for agent
+- Incubator-Ready: agency leveled up, ready to apply to incubator
+- Incubator Application Accepted: agency accepted into incubator
+- Incubator Started: agency starts incubation program
+- Incubator Completed: agency completes incubation program
+- Paid Contract Won: 0 => 1 paid contracts won
+- Paid Project Completed: 0 => 1 completed projects for paid contracts
+- Paid Project Accepted: 0 => 1 accepted projects for paid contracts
+- Paid Job Acquired: 0 => 1 paid jobs earned
+
+### Narrative
+
+The narrative starts with an invitation to become a **learning agent** in the **guild**.
+
+Players/learners who accept this invitation become **agents**. All learners start the game as a **free agent**, i.e. an agent who doesn't belong to an agency.
+
+Free agents start the game in the **open market**, where they meet other free agents as well as agents who work within agencies. Some of these agents will be more skilled and act as **mentor agents**, others will be less skilled and will be seeking support.
+
+To move forward in the game, agents bid on client-defined contracts for projects that will build their portfolio and resume. Contracts are awarded to agents based on their current portfolio and the skills they have on their resume.
+
+Free agents, with small portfolios and few skills, will have a limited set of contracts available to them. In order to complete more meaningful and interesting projects and drills, free agents will need to band together. By combining their skills, free agents can bid on more interesting contracts.
+
+Eventually, agents will encounter clients who will only award contracts to an **agency**. In order to win these contracts, free agents will have to join together and form their own self-governing, self-organizing, learning-focused, evolving agency.
+
+Acting as an agency, agents will be able to win more complicated contracts from more interesting clients. Successfully completing projects will further build the agency's portfolio, as well as the portfolios and resumes of the agents within.
+
+At some point, an agency might decide to enter the **incubator program** in order to accelerate their learning, gain access to useful resources and mentors, and rapidly advance their path towards a dignified livelihood.
+
+The incubator program is designed to support agencies and agents to become highly skilled learners through expert feedback, facilitation, and mentorship.
+
+While the ultimate win condition is to be paid in the profession of a learners choice, there are multiple definitions of that win condition and paths to arrive there.
+
+Learners may win by:
+- Getting hired as an employee of a company
+- Securing a paying client for themselves or their agency
+- Becoming an entrepreneur and raising money to start a company
+
+In addition, learners/agents/agencies may choose multiple strategies or paths to win:
+- Building an incredible portfolio of client work
+- Contributing amazing work to open source
+- Becoming a thought leader in their industry
+- Mentoring other agents/agencies and aiding in their success
+
+The strategies a particular agent or agency chooses depends on their own individual and shared values and motivations.
+
+### Thematic Language
+
+_The language we use to establish a consistent theme across the game_.
+
+- **Agent**: a learner/player's character in the game. All agents are part of the guild.
+- **Free agent**: an agent who doesn't belong to an agency, but is still within the guild.
+- **Mentor agent**: a skilled learner and craftsperson who provides general mentorship and support to other agents.
+- **Agency**: a team of agents who work together. Only agencies can apply to the incubator program.
+- **Guild**: the collective of agents and agencies. The guild encompasses all learners/players in the game.
+- **Contract**: a statement of work for a particular project. Contracts are issued and awarded by clients to agents and agencies.
+- **Client**: a non-player character who defines and awards contracts for projects to agents and agencies.
+- **Project**: an individual or collective enterprise to achieve a particular aim, with specific and measurable deliverables. Clients specify projects through contracts, and agents/agencies complete projects when they win a contract.
+- **Portfolio**: a collection of all projects completed and contracts earned.
+- **Agency portfolio**: the portfolio of work completed by an agency, along with the skills and abilities the work demonstrates.
+- **Personal portfolio**: the portfolio of work completed by an agent, along with the skills and abilities the work demonstrates.
+- **Incubator program**: a funded, supported 40-week incubator for agencies to rapidly scale their collective and individual skills and gain access to bigger, more meaningful contracts. Incubation includes financial and logistical support for an agency, access to elite clients, and an agency's very own, highly-skilled advisory board.
+- **Advisory board**: a group of skilled learners/teachers and professionals who advise, guide, and give feedback to an agency. Only agencies within the incubator program have advisory boards.
+- **Learning facilitator**: a master learner who facilitates and nurtures a safe, healthy, and highly effective learning environment for an incubated agency.
+- **Technical practitioner**: a highly-skilled, professional practitioner of the craft most relevant to an incubated agency. They provide expert feedback, knowledge, and advice to the agency.
+- **Industry mentor**: a skilled learner and practitioner with industry-relevant knowledge who provides general mentorship to an incubated agency.
 
 ## Objectives
 
-The objective of the game is to secure a livelihood with dignity and continuous learning for my both my pod and myself, in an organization where people are excited to work with me.
+The objective of the game is to secure a livelihood with dignity and continuous learning for both my pod and myself, in an organization where people are excited to work with me.
 
 ## Players
 
@@ -119,7 +233,7 @@ In order for a player to achieve a higher level for a skill, they need to:
 
 2. Claim the Ability Set: Players can only claim an ability after they have unlocked it. When a player claims an ability they are declaring that they have grocked it. Claiming an ability is equivalent to a Player listing that ability on their resume.
 
-3. Check off the Ability Set: Once a Player has checked off all of the abilities for a particular Skill Level's Abilities Set, they are ready to "Pair Up" for the next level. At least two other Players (who have already attained the higher skill level) will pair with them on challenges. During these pairing sessions, the higher ranked player will be checking off the aspiring player's abilities. 
+3. Check off the Ability Set: Once a Player has checked off all of the abilities for a particular Skill Level's Abilities Set, they are ready to "Pair Up" for the next level. At least two other Players (who have already attained the higher skill level) will pair with them on challenges. During these pairing sessions, the higher ranked player will be checking off the aspiring player's abilities.
 
 Once the player aspiring to pair up gets all of their abilities checked off, they level up to the next level for that skill: The SP is reset to 0, and a whole new Ability Set is exposed to them for unlocking, claiming, and checking off.
 
