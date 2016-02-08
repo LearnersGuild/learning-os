@@ -1,5 +1,22 @@
 # Support: Resources
 
+## Prep Resources
+
+1. Pod application form
+2. Learners Guild communication software, e.g. chat room
+3. Physical geme-play space
+4. A Mentor per 15-20 **PlayersInPrep**, to be deprecated post v2.
+	- Mentor's sole job is to find out what support is needed for **PlayersInPrep** to succeed, and to help find or create the resources they need.
+	- After v2, these supports would be grafted as Player Support materials for Admission’s Game.
+5. Assistance to **PlayerInPrep**s based on *need* to be trigger when **PlayerInPrep** reaches a certain level in the admission’s game
+	- v0
+		- Child care voucher
+		- Loaner laptops for in person game-play
+	-  v2 and on
+		- Child care voucher
+		- Use of Guild computers for a specified number of hours
+
+## Game Resources
 - Technical curriculum
   - Some material are necessary to level up
   - Materials should reflect LG values of inclusion, diversity, and social impacts
@@ -11,6 +28,7 @@
 - Stipend ($2,000 / month per Player)
 - Physical game-play space (e.g.,  stations for Pairs, whiteboards, meeting areas, tables, chairs, etc.)
 - Software systems (e.g., group chat, remote-collaboration software, scoreboards)
+
 
 ## Player Resource System
 
