@@ -18,6 +18,11 @@ The ideal player should come into the games with the following non-negotiable di
 	 
 - Passion
 	- They have an insatiable excitement and curiosity regarding the craft of software development.
+	
+- Team Player
+	- They enjoy learning with others
+	- They enjoy working with others
+	- They can make a commitment to forming and nurturing teams
 
 
 - Distance Travelled
