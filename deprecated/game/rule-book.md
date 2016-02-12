@@ -203,25 +203,13 @@ Every player has a name that identifies her in group chat rooms and scoreboards.
 
 ## Player Stats
 
-Player Stats exist to provide actionable feedback to players and their supporters by constructively tracking a player’s progress towards a dignified livelihood.
+There are three types of Player Stats: Skill, Health and Quality
 
-Player Stats measure a player's healthy acquisition and application of skills to produce quality work.
+### Skill Stats
 
-There are three types of Player Stats:
-1. Skill Stats - Tracking a player’s acquired abilities and the level at which they practice certain skills while playing the game.
-2. Quality Stats - Tracking the qualities that describe a player’s performance and work output while playing the game.
-3. Health Stats - Tracking the degree to which a player demonstrates certain values through their behavior while playing the game.
-
-Each of these Stats can be tagged (or clustered) in two ways
-
-
-1. By group (stats that are related to each other)
-Example: The Quality Stats Commit Quality and Code Readability could be clustered under the stat group: “Code Quality”
-2. By quadrant (Personal, Social, Technical, and Systemic)
-Example: The health stat Kindness could be tagged as a Personal stat
+Players have many different skills that they are developing throughout the game. Each skill has one or more levels which players advance through. Players start each skill at level 0.
 
 Each skill level is composed of a collection of abilities (Ability Set). Players level up by acquiring Skill Points and abilities related to that skill. As a player develops a skill past a certain point, they "level up" to a new Skill Level.
-
 
 #### Skill Points (SP)
 
@@ -249,111 +237,32 @@ In order for a player to achieve a higher level for a skill, they need to:
 
 Once the player aspiring to pair up gets all of their abilities checked off, they level up to the next level for that skill: The SP is reset to 0, and a whole new Ability Set is exposed to them for unlocking, claiming, and checking off.
 
-### Skill Stats
-
-Skills Stats are acquired or modified when a Player completes a challenge
-
-Skills Stats have the following architecture:
-
-Skill Stats are comprised of levels. (Example: CSS Level 1, CSS Level 2, etc.)
-Each level describes an ability set and the skill points a Player earns by completing the level
-Ability sets are comprised of multiple Abilities.
-Abilities are the fundamental unit of Player actions. They describe what a Player can do, make, or build.
-
-Skill stats can show up on a resume.
-
-You can complete the sentence: "can you master ……." with the name of the skill stat.
-
-Each skill level should have more SP than the one before it.
-
-Skill stats can be continuously leveled up,
-
-Skill stats must be measurable by task completion
-
-### Quality Stats
-
-Quality Stats are acquired or modified when a Player’s work output or performance during a challenge is assessed.
-
-When a player does, makes, or builds something (through completing a challenge) that work output or performance is judged based on its quality.
-
-Most Quality stats are derived from post-challenge evaluation rubrics. For example, a challenge might require that a piece of code be evaluated for Code Readability, Test Coverage, and Commit Quality, and Completeness.
-
-These four evaluation criteria are Quality Stats.
-
-Quality stats are measured as a percentage (0 to 100%), and are weighted based on the challenge's SP. They also have a "decay factor" similar to Health Stats.
-
-While most Quality Stats are derived from challenge rubrics, some Quality stats are built into the game mechanics. For example: Self assessment is a Quality Stat that measures the precision with which a player assesses their contribution to a group or pair project. Other built in Quality Stats might include: Other assessment, Feedback Quality, Mentorship Quality...etc.
-
-Quality Stats are
-* Added to pre-defined qualities (qualities upon which work output/performance will be judged are indicated in challenges)
-* A weighted average, with more weight ascribed to more recent challenges, and more sizeable challenges.
-* Assessed and added to using a 0-100 scale based on a predefined rubric.
-
-Quality stats apply across a wide range of challenges. You should be able to imagine them as a dimension of evaluating someone's work NOT as a way to evaluate behavior.
-Quality stats can be labeled using adjectives but not verbs
-
 ### Health Stats
 
-Health Stats are acquired or modified when a Player’s behaviors are assessed.
+Health Stats reflect the degree to which the player demonstrates certain values *through their observable behavior*. If Skill Stats are a measure of *where* the player has travelled, and *what* they have acquired along the way in terms of Skill Points and abilities, Health Stats reflect *how the player is behaving* while  traveling and traversing the game terrain.
 
-Healthy behaviors are aligned with a dignified player's values. To track this alignment, player behaviors are grouped into Health Stats and measured using a 1-5 scale.
-
-Health Stats track a player’s behavior in and out of alignment with their values.
-
-Health Stats are always expressed through a collection of observable and verifiable behaviors (Behavior Set).
+Health Stats are always expressed through a collection observable and verifiable behaviors (Behavior Set).
 
 For example, an Integrity Health Stat might be composed of the following Behavior Set.
 * I keep my word
 * I show up on time
 * When I'm out of integrity, I quickly name it
 
-Unlike Skill Stats, there are no levels, or leveling up when it comes to Health Stats. Instead Health is represented using a single alignment score from 1 to 5. 5 being the highest demonstration of the behaviors related to the stat, and 1 being the lowest. Each behavior within a Health Stat’s behavior set is also scored from 1 to 5.
+Unlike Skill Stats, there are no levels, or leveling up when it comes to Health Stats. Instead Health is represented using a single alignment score from 1 to 5. 5 being the highest demonstration of the behaviors related to the stat, and 1 being the lowest. Each behavior within a Health Stats behavior set is also scored from 1 to 5.
 
-Health Stats change based on self, peer, and mentor assessment. Health Stats have a "decay factor": the older an assessment is, the less weight it has on the overall Value score, while the recent behavior has more impact on the health stat. This gives players a chance to recover their score from poor behavior and removes the "permanent record" feel of the Value Stat.
+Health Stats changed based on self, peer, and mentor assessment. Health Stats have a "decay factor": the older an assessment is, the less weight it has on the overall Value score, while the recent behavior has more impact on the health stat. This gives players a chance to recover their score from poor behavior and removes the "permanent record" feel of the Value Stat.
 
-Health stats describe a value. They are set of behaviors that reflect an internal attitude or position.
+### Quality Stats
 
-For health stats, complete the sentence: “This person is behaving like they value…….”
+Different than Skill and Health stats, Quality stats are orthogonal to the terrain traversed, and the behavior that a player demonstrates. They indicate the *quality & precision with which someone is traversing the terrain.*
 
-### What kind of stat is this???
+Most Quality stats are derived from post-challenge evaluation rubrics. For example, a challenge might require that a piece of code be evaluated for Code Readability, Test Coverage, and Commit Quality, and Completeness.
 
-Here’s a quick strategy for determining what kind of stat you’re working with...
+These four evaluation criteria are Quality Stats.
 
-Ask yourself: “Is this…”
-1. A way to describe a thing someone can do? (Skill Stat)
-2. A way to describe how (or how well) someone did something? (Quality Stat)
-3. A way to describe a person based on their behavior? (Health Stat)
+Quality stats are measure as a percentage (0 to 100%), and are weighed based on the challenge's SP. They also have a "decay factor" similar to Health Stats.
 
-1) If 1. Skill Stat, then…
-
-Which quadrant(s) is it in?
-* Personal
-* Social (Interpersonal Interactions)
-* Technical (Software Development)
-* Systemic (Interacting with Systems)
-
-Is it a skill stat group? or is it a skill?
-* Skills could show up on a resume, be discussed amongst developers, and have linguistic meaning within the industry and/or within Learners Guild (Example: Styling a webpage using CSS)
-* Skill Stat Groups are large collections of multiple skills each with its own levels and abilities. (Example: Collaboration)
-
-Is it an ability?
-* Is this a more granular action or construction? Maybe it’s an ability and not a complete skill. (Example: Identifies code blocks using syntactic clues)
-
-2) If 2. Quality Stat, then…
-
-Is it a Quality Stat Group? As in, can it be subdivided into multiple qualities each one being assessed on a 100 point scale? (Example: Code Quality)
-* If yes, then articulate those individual quality stats
-* If no, then tag it with it’s appropriate quality stat group
-
-Also, tag the Quality Stat with a quadrant tag. Is it personal, interpersonal, technical, or systemic?
-
-3) If 3. Health Stat, then…
-
-Is it a Health Stat Group? Does it have multiple behavior sets or values that are distinct but related? (Example: Freedom)
-* If yes, then describe the related health stats (Example: Freedom -> {Activism, Empowerment, Choice, etc.}
-* If no, then articulate the behavior set you’d expect to see. (Example: For Health Stat: Kindness -> {I am welcoming, I am generous, I use my vulnerability to connect with others, ...etc.}
-
-Also, tag the Health Stat with a quadrant tag. Is it personal, interpersonal, technical, or systemic?
+While most Quality Stats are derived from challenge rubrics, some Quality stats are built into the game mechanics. For example: Self assessment is a Quality Stat that measures the precision with which a player assesses their contribution to a group or pair project. Other built in Quality Stats might include: Other assessment, Feedback Quality, Mentorship Quality...etc.
 
 ### Stat Sheet
 
