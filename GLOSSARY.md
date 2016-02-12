@@ -1,3 +1,5 @@
+{% include book.guide_glossary %}
+
 # Ability
 
 Capacities, knowledge, and beliefs the player acquires through attempting challenges. Abilities belong to an Ability Set, which belongs to a Skill level, which belongs to a Skill. Abilities are also linked from challenges that demand/develop them.

@@ -1,10 +1,11 @@
-# Learning Operating System: Blueprint
+# LOS Blueprint
 
 The blueprint for our Learning Operating System (LOS).
 
-This repository serves as both a guide to our design and development process. The actual OS itself lives at https://github.com/LearnersGuild/learning-os.
+This folder serves as both a guide to our design and development process.
 
 The design guide addresses questions such as:
+
 - Which beliefs, philosophies, principles, concepts, strategies, and elements make up our learning design?
 - How do we design learning? What is our learning design process?
 - Why do we use the language and processes we use?
