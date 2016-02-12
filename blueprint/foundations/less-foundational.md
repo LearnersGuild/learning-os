@@ -1,4 +1,21 @@
-# Didn't make the cut / Still digesting
+# Didn't make the cut / Still digesting / Second class citizens
+
+## Create culture through feedback
+- Create culture through feedback
+- Create a culture of feedback
+- Feedback creates culture
+- Real. Immediate. Unfiltered Feedback
+- Transparency
+- Directness
+- Focus on the feedback loops
+- Feedback should flow like wine
+- Radical honesty
+- Let everyone in back stage
+- Give people the truth so they can make good decisions
+- Culture is created by Feedback
+- The only wrong with our world is broken feedback systems
+- Immediate, direct, physical, somatic experience of our Feedback
+- Consequence is a feedback
 
 ## Individual and collective tensions
 There is a significant and difficult to measure value that comes from human connection and belonging.
@@ -23,7 +40,12 @@ There is a significant and difficult to measure value that comes from human conn
   - I can’t prepare the future for my kids, but I can prepare the kids for the future
   - Rift between individuals dignity and the professional worlds ability to recognize that dignity. The learners need to be able to teach the professional world to acknowledge and honor their dignity.
 
+## Focus on the meta, process over product
+- We are more concerned about meta learning and learning than about product and production because our faith is that when people focus on the learning the product will take care of itself
+- Invest in meta-learning and non tech skills
+
 ## Misc
+  - Low stakes learning about high stakes issues
   - Minimize the cost of switching crafts
   - Ecosystem not factory
   - Failure is positive and supported.

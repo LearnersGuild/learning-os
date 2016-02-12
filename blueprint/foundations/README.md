@@ -14,6 +14,7 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 6. [Enable self-organization](#enable-self-organization)
 7. [Optimize for agility](#optimize-for-agility)
 8. [Simulation not preparation](#simulation-not-preparation)
+9. [Create culture through feedback](#create-culture-through-feedback)
 
 <!-- /TOC -->
 
@@ -78,6 +79,7 @@ Education should be built on a fundamental trust in people. People will rise or 
   - We are not the learners' heroes or rescuers. Resist the temptation to save them.
   - Don’t demand that people be good. Assume they are, and create rules of engagement and a culture that organically bring the best OUT of people."
   - While we're at it, also trust the learning facilitator, and the practitioner
+  - Resist the urge to blame the learner
 
 ## Enable self-organization
 
@@ -134,11 +136,26 @@ For example, apprentice programmers should receive feedback on their code throug
 - Simulation not replication
 - Simulate "real life" work in the professional world
 - Co-create dignified livelihood from day 1
-- Learners Guild should be the experience of dignified livelihood from beginning to end.
+- Learners Guild should be the experience of dignified livelihood from beginning to end. Don't simulate dignified livelihood, be an ACTUAL dignified livelihood
 
 Can we create/support an environment that does not shield learners from the possible dysfunctions of work life, and enables them to become so familiar with another mode of life that when they encounter dysfunction they are not thrown off, and also do not become part of it?
 
-
+## Create culture through feedback
+- Create culture through feedback
+- Create a culture of feedback
+- Feedback creates culture
+- Real. Immediate. Unfiltered Feedback
+- Transparency
+- Directness
+- Focus on the feedback loops
+- Feedback should flow like wine
+- Radical honesty
+- Let everyone in back stage
+- Give people the truth so they can make good decisions
+- Culture is created by Feedback
+- The only wrong with our world is broken feedback systems
+- Immediate, direct, physical, somatic experience of our Feedback
+- Consequence is a feedback
 
 ---
 
