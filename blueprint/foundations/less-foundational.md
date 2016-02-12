@@ -1,4 +1,4 @@
-# Didn't make the cut / Still digesting
+# Didn't make the cut / Still digesting / Second class citizens
 
 ## Individual and collective tensions
 There is a significant and difficult to measure value that comes from human connection and belonging.
@@ -23,7 +23,12 @@ There is a significant and difficult to measure value that comes from human conn
   - I can’t prepare the future for my kids, but I can prepare the kids for the future
   - Rift between individuals dignity and the professional worlds ability to recognize that dignity. The learners need to be able to teach the professional world to acknowledge and honor their dignity.
 
+## Focus on the meta, process over product
+- We are more concerned about meta learning and learning than about product and production because our faith is that when people focus on the learning the product will take care of itself
+- Invest in meta-learning and non tech skills
+
 ## Misc
+  - Low stakes learning about high stakes issues
   - Minimize the cost of switching crafts
   - Ecosystem not factory
   - Failure is positive and supported.
