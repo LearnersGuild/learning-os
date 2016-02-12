@@ -1,40 +1,41 @@
 # Game Terrain Architecture
 
-<!-- TOC depthFrom:2 depthTo:4 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [Overview](#overview)
-- [Skill dependancies](#skill-dependancies)
+- [Skill dependencies](#skill-dependencies)
 - [Challenges](#challenges)
-	- [Overview (optional)](#overview-optional)
-	- [Objective(s)](#objectives)
-	- [Skill Level(s)](#skill-levels)
-- [Quality Rubric(s)](#quality-rubrics)
-- [Time (optional)](#time-optional)
-- [Players (optional)](#players-optional)
+  - [Overview (optional)](#overview-optional)
+  - [Objective(s)](#objectives)
+  - [Skill Level(s)](#skill-levels)
+  - [Quality Rubric(s)](#quality-rubrics)
+  - [Time (optional)](#time-optional)
+  - [Players (optional)](#players-optional)
 - [Challenge Types](#challenge-types)
-	- [Project](#project)
-	- [Drill](#drill)
-	- [Level Challenge](#level-challenge)
+  - [Project](#project)
+  - [Drill](#drill)
+- [Challenge Unlocking](#challenge-unlocking)
+  - [Fungible Skill Points](#fungible-skill-points)
 - [Example Terrain Elements](#example-terrain-elements)
-	- [Project: How the web works presentation](#project-how-the-web-works-presentation)
-		- [Objectives](#objectives)
-		- [Time: 3 hours](#time-3-hours)
-		- [Players: 3/3](#players-33)
-		- [Skill Level](#skill-level)
-		- [Quality Rubrics](#quality-rubrics)
-	- [Project: 5 week personal goals](#project-5-week-personal-goals)
-		- [Objectives](#objectives)
-		- [Time: 1.5 hours](#time-15-hours)
-		- [Players: 1/1](#players-11)
-		- [Skill Level](#skill-level)
-		- [Quality Rubrics](#quality-rubrics)
-	- [Drill: Self-Documenting Twitter Clone](#drill-self-documenting-twitter-clone)
-		- [Overview](#overview)
-		- [Objectives](#objectives)
-		- [Time: 4 hours](#time-4-hours)
-		- [Players: 2/2](#players-22)
-		- [Skill Level](#skill-level)
-		- [Quality Rubrics](#quality-rubrics)
+  - [Project: How the web works presentation](#project-how-the-web-works-presentation)
+    - [Objectives](#objectives)
+    - [Time: 3 hours](#time-3-hours)
+    - [Players: 3/3](#players-33)
+    - [Skill Level](#skill-level)
+    - [Quality Rubrics](#quality-rubrics)
+  - [Project: 5 week personal goals](#project-5-week-personal-goals)
+    - [Objectives](#objectives)
+    - [Time: 1.5 hours](#time-15-hours)
+    - [Players: 1/1](#players-11)
+    - [Skill Level](#skill-level)
+    - [Quality Rubrics](#quality-rubrics)
+  - [Drill: Self-Documenting Twitter Clone](#drill-self-documenting-twitter-clone)
+    - [Overview](#overview)
+    - [Objectives](#objectives)
+    - [Time: 4 hours](#time-4-hours)
+    - [Players: 2/2](#players-22)
+    - [Skill Level](#skill-level)
+    - [Quality Rubrics](#quality-rubrics)
 
 <!-- /TOC -->
 
@@ -43,20 +44,20 @@
 The terrain of our applied game is represented as a list of Skills, and Quality Rubrics.
 
 Skills are each broken down into Skill Levels.
-Each Skill Level defined by an Abilities Set, and a Challenge Set.
+Each Skill Level defined by an Ability Set, and a Challenge Set.
 
-The Skill Levels (along with their Abilities Set and Challenge Set) define *what* the player will be engaged in, while the Quality Rubrics defines *how* the player's accomplishments will be evaluated. Quality Rubrics are composed of a Quality Stat, and a Quality Description that spells out how a player's work for that particular challenge is evaluated.
+The Skill Levels (along with their Ability Set and Challenge Set) define *what* the player will be engaged in, while the Quality Rubrics defines *how* the player's accomplishments will be evaluated. Quality Rubrics are composed of a Quality Stat, and a Quality Description that spells out how a player's work for that particular challenge is evaluated.
 
 Players traverse the terrain by working on challenges that are available to them for their current skill levels. As they level up, more challenges are unlocked and are available to them.
 
-## Skill dependancies
+## Skill dependencies
 
-Skill Levels are locked to a player, unless she has achieved its dependancies. A Skill Level dependancies are expressed through other skill levels. Each Skill Level is, by default, dependent on the previous level for that skill.
-Skill Levels can also be optionally dependent on another Skill Level. Skill Level 0s that don't have other Level dependancies are automatically unlocked.
+Skill Levels are locked to a player, unless she has achieved its dependencies. A Skill Level dependencies are expressed through other skill levels. Each Skill Level is, by default, dependent on the previous level for that skill.
+Skill Levels can also be optionally dependent on another Skill Level. Skill Level 0s that don't have other Level dependencies are automatically unlocked.
 
 For example: Full Stack Dev Level 3, is automatically dependent on Full Stack Dev Level 2, but could also be dependent on Front End Level 2, Database Level 1, and Teamwork Level 1. Meanwhile, SQL Level 0, might not be automatically unlocked, because it depends on Database Level 1.
 
-The Skill Level Dependancies are articulated and expressed through the Skills Map.
+The Skill Level dependencies are articulated and expressed through the Skills Map.
 
 ## Challenges
 
@@ -79,7 +80,7 @@ For example, a "Build online Resume" challenge can have these objectives:
 
 ### Skill Level(s)
 
-A Challenge belongs to at least 1 or more Skill Levels[^1]. Unless a player has achieved that skill level, they cannot unlock the challenge. The Skill Level section of a challenge, describes which abilities the challenge requires/develops for which Skill level(s), and the Skill Points (SP) associated with each skill level. Challenges within a Skill Level's Challenge Set all contribute SP towards that Skill Level.
+A Challenge belongs to at least 1 or more Skill Levels[^1]. The Skill Level section of a challenge, describes which abilities the challenge requires/develops for which Skill level(s), and the Skill Points (SP) associated with each skill level. Challenges within a Skill Level's Challenge Set all contribute SP towards that Skill Level.
 
 For example, the "Build Online Resume" can have the following Skill Levels:
 
@@ -94,15 +95,7 @@ Abilities:
 - can build a table structure in html without using html tables
 - can separate html and css files and link them
 
-**Web Ops Level 0 (50 SP)**
-
-Abilities
-- can purchase & setup domain
-- can setup hosting
-
-The above challenge will only be available to players who have leveled up to HTML Level 1.
-
-## Quality Rubric(s)
+### Quality Rubric(s)
 
 A Quality Rubric is a Quality Stat, and a Quality Description associated with a certain challenge that determine how a player's work for that particular challenge is evaluated.
 
@@ -111,11 +104,11 @@ For the above challenge, the quality rubrics might look like:
 * Completeness: % of objectives that were accomplished
 * Code Readability: proper indentation
 
-## Time (optional)
+### Time (optional)
 
 Some challenges might need to be time bound.
 
-##Players (optional)
+### Players (optional)
 
 Minimum, and Maximum number of players required to attempt this challenge. Some examples:
 * 3/5 : this challenge requires at least 3 players, and no more than 5.
@@ -145,10 +138,32 @@ Drills are used to develop habits, build behavior, and to apply and gain knowled
 
 Examples: "Write a binary search algorithm that passes a provided test suite.", "Outline endpoints for a RESTful API exposing category, product, and shopping cart resources."
 
-### Level Challenge
+## Challenge Unlocking
 
-A Level Challenge is designed to test/exercises the entire Abilities Set for the *one or more* Skill Levels associated with a Challenge.
+All challenges are locked to a player unless:
 
+* They have ALL the skill levels to which a challenge belongs
+
+OR
+
+* They are attempting the challenge as a pair or a group, and *combined* the group has ALL the skill levels to which a challenge belongs.
+
+
+For example, imagine the following scenario:
+
+*Challenge "Build a twitter clone":* Database Level 3, JavaScript Level 4
+*Player A:* Database Level 3, Javascript Level 3
+*Player B:* Database Level 0, Javascript Level 5
+*Player C:* Database Level 0, Javascript Level 1
+*Player D:* Database Level 3, Javascript Level 4
+
+In the above Scenario, only Player D can attempt the "Build a twitter clone" solo.
+Players A & B can attempt it as a pair, because combined they have the skill level needed.
+Also note that, Player C, can attempt the challenge if they pair with Player D.
+
+### Fungible Skill Points
+
+In the example above, if Player C and Player D pair on the challenge and submit it, they'll both be allocated Database & Javascript Skill Points (SP). Player C will see their SP increase *for the level at which they are*. In other words, unlike abilities sets, SP is not tied to a certain skill level, and is fungible.
 
 ## Example Terrain Elements
 

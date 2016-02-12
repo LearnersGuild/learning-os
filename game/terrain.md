@@ -1,18 +1,19 @@
 # Game Terrain
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [External Boundaries: Start and Finish](#external-boundaries-start-and-finish)
-	- [Game Start](#game-start)
-		- [Example Pre-Game Challenges](#example-pre-game-challenges)
-			- [Challenge: JS Tic-Tac-Toe](#challenge-js-tic-tac-toe)
-	- [Game Finish](#game-finish)
-		- [Level Challenge: Acquire Dignified Employment](#level-challenge-acquire-dignified-employment)
+  - [Game Start](#game-start)
+    - [Example Pre-Game Challenges](#example-pre-game-challenges)
+      - [Challenge: JS Tic-Tac-Toe](#challenge-js-tic-tac-toe)
+  - [Game Finish](#game-finish)
+    - [Final Level Challenge: Acquire Dignified Employment](#final-level-challenge-acquire-dignified-employment)
 - [Internal Boundaries: Skill Levels](#internal-boundaries-skill-levels)
-	- [Progression through Skill Levels](#progression-through-skill-levels)
+  - [Progression through Skill Levels](#progression-through-skill-levels)
 - [Timeline: Themes and Phases](#timeline-themes-and-phases)
-	- [The Four Themes](#the-four-themes)
-	- [Progression through Themes](#progression-through-themes)
-	- [Progression through Phases](#progression-through-phases)
+  - [The Four Themes](#the-four-themes)
+  - [Progression through Themes](#progression-through-themes)
+  - [Progression through Phases](#progression-through-phases)
 
 <!-- /TOC -->
 
@@ -55,15 +56,15 @@ Submit the URL of the published website.
 
 **Skills:**
 - Programming (150 SP - Technical)
-	- Identify, explain, and apply variables in JavaScript code
-	- Identify, explain, and apply data types in JavaScript code
-	- Identify, explain, and apply collections in JavaScript code
-	- Identify, explain, and apply loops in JavaScript code
-	- Identify, explain, and apply conditional in JavaScript code
-	- Identify, explain, and apply functions in JavaScript code
+  - Identify, explain, and apply variables in JavaScript code
+  - Identify, explain, and apply data types in JavaScript code
+  - Identify, explain, and apply collections in JavaScript code
+  - Identify, explain, and apply loops in JavaScript code
+  - Identify, explain, and apply conditional in JavaScript code
+  - Identify, explain, and apply functions in JavaScript code
 - Problem Solving (150 SP - Technical)
-	- Translate game logic into program logic
-	- Program a complete and correct tic-tac-toe game
+  - Translate game logic into program logic
+  - Program a complete and correct tic-tac-toe game
 
 **Rubric:**
 
@@ -96,17 +97,17 @@ This challenge is complete when every learner in the pod has secured a job as a 
 
 **Skills:**
 - Self-Awareness (2000 SP - Personal)
-	- Select job opportunities based on own interest and abilities
-	- Negotiate appropriate terms and compensation for job
+  - Select job opportunities based on own interest and abilities
+  - Negotiate appropriate terms and compensation for job
 - Career Literacy (10000 SP - Social)
-	- Discover appropriate job openings
-	- Prepare for a job interview
-	- Navigate a hiring process
-	- Get a job as a software developer
+  - Discover appropriate job openings
+  - Prepare for a job interview
+  - Navigate a hiring process
+  - Get a job as a software developer
 - Teamwork (2000 SP - Social)
-	- Seek support and feedback in job application process from peers and mentors
-	- Provide support and feedback to peers as they apply and interview for jobs
-	- Share information and tips about applying and interviewing for jobs
+  - Seek support and feedback in job application process from peers and mentors
+  - Provide support and feedback to peers as they apply and interview for jobs
+  - Share information and tips about applying and interviewing for jobs
 
 **Rubric:**
 
@@ -133,7 +134,7 @@ There are both final solo and a final pod challenge, which must be completed ind
 
 Listed below are suggested progressions in the type and duration of Level Challenges, along with their suggested durations:
 
-| Final Solo Challenge        | Final Pod Challenge                                   |
+| Final Solo Challenge      | Final Pod Challenge                                 |
 |:--------------------------|:----------------------------------------------------|
 | Online profile (2 days)   | Client-side app - 3 groups, defined specs (1 wk)    |
 | Personal site (1 wk)      | Full-stack web app - 3 groups, defined specs (1 wk) |
