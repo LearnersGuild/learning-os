@@ -1,12 +1,12 @@
 # Summary
 
 
+- [Development Process](process/README.md)
+  - [Seven Levels of Thought](process/seven-levels-of-thought.md)
+  - [Versions](process/versions.md)
+  - [Game Design](process/game-design.md)
+  - [Scrum](process/scrum.md)
 - [Blue Print](blueprint/README.md)
-  - [Development Process](blueprint/process/README.md)
-    - [Seven Levels of Thought](blueprint/process/seven-levels-of-thought.md)
-    - [Versions](blueprint/process/versions.md)
-    - [Game Design](blueprint/process/game-design.md)
-    - [Scrum](blueprint/process/scrum.md)
   - [Foundations](blueprint/foundations/README.md)
     - [Less Foundational](blueprint/foundations/less-foundational.md)
   - [Goals](blueprint/goals/README.md)
