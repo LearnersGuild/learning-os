@@ -1,22 +1,5 @@
 # Didn't make the cut / Still digesting / Second class citizens
 
-## Create culture through feedback
-- Create culture through feedback
-- Create a culture of feedback
-- Feedback creates culture
-- Real. Immediate. Unfiltered Feedback
-- Transparency
-- Directness
-- Focus on the feedback loops
-- Feedback should flow like wine
-- Radical honesty
-- Let everyone in back stage
-- Give people the truth so they can make good decisions
-- Culture is created by Feedback
-- The only wrong with our world is broken feedback systems
-- Immediate, direct, physical, somatic experience of our Feedback
-- Consequence is a feedback
-
 ## Individual and collective tensions
 There is a significant and difficult to measure value that comes from human connection and belonging.
 

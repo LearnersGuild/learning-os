@@ -12,9 +12,9 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 4. [Build it as a team game](#build-it-as-a-team-game)
 5. [Trust the learner](#trust-the-learner)
 6. [Enable self-organization](#enable-self-organization)
-7. [Optimize for agility](#optimize-for-agility)
-8. [Simulation not preparation](#simulation-not-preparation)
-9. [Create culture through feedback](#create-culture-through-feedback)
+7. [Feedback should flow like wine](#feedback-should-flow-like-wine)
+8. [Optimize for agility](#optimize-for-agility)
+9. [Simulation not preparation](#simulation-not-preparation)
 
 <!-- /TOC -->
 
@@ -104,6 +104,20 @@ Humans are motivated most strongly by the need for autonomy, growth, and purpose
   - Prioritize learners’ abilities to self-teach, develop mindfulness, and organize within their pod over their adherence to a defined set of instructions.
   - Provide guidance and mentorship not content delivery and enforcement of predefined linear progress.
 
+## Feedback should flow like wine
+  - Focus on the feedback loops
+  - Create culture through feedback
+  - Create a culture of feedback
+  - Real. Immediate. Unfiltered.
+  - Transparency
+  - Directness
+  - Radical honesty
+  - Let everyone in back stage
+  - Give people the truth so they can make good decisions
+  - The only wrong with our world is broken feedback systems
+  - Consequence is a form of feedback
+
+
 ## Optimize for agility
   - Keep things simple. Complexity is the enemy
   - OS should be craft [^2] agnostic
@@ -139,23 +153,6 @@ For example, apprentice programmers should receive feedback on their code throug
 - Learners Guild should be the experience of dignified livelihood from beginning to end. Don't simulate dignified livelihood, be an ACTUAL dignified livelihood
 
 Can we create/support an environment that does not shield learners from the possible dysfunctions of work life, and enables them to become so familiar with another mode of life that when they encounter dysfunction they are not thrown off, and also do not become part of it?
-
-## Create culture through feedback
-- Create culture through feedback
-- Create a culture of feedback
-- Feedback creates culture
-- Real. Immediate. Unfiltered Feedback
-- Transparency
-- Directness
-- Focus on the feedback loops
-- Feedback should flow like wine
-- Radical honesty
-- Let everyone in back stage
-- Give people the truth so they can make good decisions
-- Culture is created by Feedback
-- The only wrong with our world is broken feedback systems
-- Immediate, direct, physical, somatic experience of our Feedback
-- Consequence is a feedback
 
 ---
 
