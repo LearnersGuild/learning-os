@@ -6,16 +6,34 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
 
-1. [Prioritize Scale over quality](#prioritize-scale-over-quality)
-2. [Align incentives](#align-incentives)
-3. [Build it as a team game](#build-it-as-a-team-game)
-4. [Trust the learner](#trust-the-learner)
-5. [Maximize autonomy](#maximize-autonomy)
-6. [Optimize for agility](#optimize-for-agility)
-7. [Don't build a faster horse](#dont-build-a-faster-horse)
+1. [Don't build a school. Grow a learning community.](#dont-build-a-school-grow-a-learning-community)
+2. [Prioritize Scale over quality](#prioritize-scale-over-quality)
+3. [Align incentives](#align-incentives)
+4. [Build it as a team game](#build-it-as-a-team-game)
+5. [Trust the learner](#trust-the-learner)
+6. [Enable self-organization](#enable-self-organization)
+7. [Optimize for agility](#optimize-for-agility)
 8. [Simulation not preparation](#simulation-not-preparation)
 
 <!-- /TOC -->
+
+> "Be bold, and mighty forces will come to your aid."
+
+## Don't build a school. Grow a learning community.
+
+The OS is the soil in which a learning community grows and thrives. Not a factory/machine that makes workers.
+
+  - Don't iterate on what's out there. We need a radical solution. A different category. A paradigm shift
+  - Don't build a bigger better bootcamp. A school, by any other name, would smell as bad
+  - Schools are built. Communities are grown
+  - Schools have central control. Communities have distributed control
+  - Schools are organized by administration and teachers. Communities are self organizing
+  - Conceptualize our learning community as distributed across multiple locations
+  - Think of the practitioners and learning facilitators as paid members of the community, not LG staff
+  - Take a risk with your design
+    - Examine and eliminate all assumptions. Resist the gravitational pull of what's been done before
+    - Start at first principles, and change things at the roots
+    - Be bold. The design should feel dangerous. It should inspire you, and slightly scare you
 
 ## Prioritize Scale over quality
 At the core of a for profit education business is a trade off between quality and scale. Learners Guild's mission is to build highly scalable learning communities. We approach our design with the question: “How can this highly scalable design be of excellent quality?” rather than “How can this excellent quality design scale?”.
@@ -59,18 +77,19 @@ Education should be built on a fundamental trust in people. People will rise or 
   - Assume the learner’s experience is a rich resource for learning
   - We are not the learners' heroes or rescuers. Resist the temptation to save them.
   - Don’t demand that people be good. Assume they are, and create rules of engagement and a culture that organically bring the best OUT of people."
+  - While we're at it, also trust the learning facilitator, and the practitioner
 
+## Enable self-organization
 
-## Maximize autonomy
-Humans are motivated most strongly by the need for autonomy, growth, and purpose. Autonomy means that one can and does set one's own rules, and can choose for oneself the norms one will respect and what has value.
+Humans are motivated most strongly by the need for autonomy, growth, and purpose. Autonomy means that one can and does set one's own rules, and can choose for oneself the norms one will respect and what has value
 
-  - We are not the learners' parents. Resist the parental approach to education.
+- Maximize autonomy, personal agency and responsibility
+  - Maximize learners capacity to participate in shaping their experience
+  - Learners should decide when, where and how they learn, and what they are learning
+  - Authorship of the education falls on the learner
+  - Community should be largely self-organizing
+- We are not the learners' parents. Resist the parental approach to education.
   - We are a kitchen, not a restaurant. Resist the "education as a service" orientation.
-  - Maximize personal agency and responsibility
-    - Maximize learners capacity to participate in shaping their experience
-    - Learners should decide when, where and how they learn, and what they are learning
-    - Authorship of the education falls on the learner
-    - Community should be largely self-organizing
   - No coercion
     - Resist the urge to coerce, direct, manipulate, force, reward & punish
     - No required curriculum, mandates or forced support
@@ -98,16 +117,6 @@ Humans are motivated most strongly by the need for autonomy, growth, and purpose
   - Unbundle roles: Design each role with the minimum viable set of accountabilities (single responsibility principle)
   - Modular design
 
-## Don't build a faster horse
-
-> "Be bold, and mighty forces will come to your aid."
-
-  - Don't iterate on what's out there. We need a radical solution. A different category. A paradigm shift
-  - Don't build a bigger better bootcamp. A school, by any other name, would smell as bad
-  - Examine and eliminate all assumptions. Resist the gravitational pull of what's been done before
-  - Start at first principles, and change things at the roots
-  - Be bold. The design should feel dangerous. It should inspire you, and slightly scare you.
-
 ## Simulation not preparation
 We learn by doing. When training in a craft, the skills being practiced should approximate/simulate the "real world" as closely as possible.
 
@@ -123,6 +132,13 @@ For example, apprentice programmers should receive feedback on their code throug
 - Simulate real world situations, projects and problems.
 - Learners should know how to deliver in a work environment.
 - Simulation not replication
+- Simulate "real life" work in the professional world
+- Co-create dignified livelihood from day 1
+- Learners Guild should be the experience of dignified livelihood from beginning to end.
+
+Can we create/support an environment that does not shield learners from the possible dysfunctions of work life, and enables them to become so familiar with another mode of life that when they encounter dysfunction they are not thrown off, and also do not become part of it?
+
+
 
 ---
 
