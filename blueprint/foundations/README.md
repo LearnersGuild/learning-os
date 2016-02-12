@@ -6,16 +6,50 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
 
-1. [Prioritize Scale over quality](#prioritize-scale-over-quality)
-2. [Align incentives](#align-incentives)
-3. [Build it as a team game](#build-it-as-a-team-game)
-4. [Trust the learner](#trust-the-learner)
-5. [Maximize autonomy](#maximize-autonomy)
-6. [Optimize for agility](#optimize-for-agility)
-7. [Don't build a faster horse](#dont-build-a-faster-horse)
+1. [Don't build a school. Grow a learning community.](#dont-build-a-school-grow-a-learning-community)
+2. [Prioritize Scale over quality](#prioritize-scale-over-quality)
+3. [Align incentives](#align-incentives)
+4. [Build it as a team game](#build-it-as-a-team-game)
+5. [Trust the learner](#trust-the-learner)
+6. [Maximize autonomy](#maximize-autonomy)
+7. [Optimize for agility](#optimize-for-agility)
 8. [Simulation not preparation](#simulation-not-preparation)
 
 <!-- /TOC -->
+
+> "Be bold, and mighty forces will come to your aid."
+
+## Don't build a school. Grow a learning community.
+
+The OS is the soil in which a learning community grows and thrives. Not a factory.
+
+  - Don't iterate on what's out there. We need a radical solution. A different category. A paradigm shift
+  - Don't build a bigger better bootcamp. A school, by any other name, would smell as bad
+  - Examine and eliminate all assumptions. Resist the gravitational pull of what's been done before
+  - Start at first principles, and change things at the roots
+  - Be bold. The design should feel dangerous. It should inspire you, and slightly scare you.
+
+  - self organizing
+  - distributed
+  - high expectation/ developmental challenge
+    - goal setting
+    - accomplishment / skill goals
+    - values / behavior goals
+    - aim setting
+    - peer to peer accountability structures
+  - feedback on progress
+  - contracts
+  - high support
+  - feedback flows like wine
+  - fractals of challenge/support
+  - safe
+  - low drama
+  - distraction free
+
+Teach super ego, and drama triangle
+Community builders/facilitators instead of learning facilitators
+Practitioners are part of the learning community
+Group identity
 
 ## Prioritize Scale over quality
 At the core of a for profit education business is a trade off between quality and scale. Learners Guild's mission is to build highly scalable learning communities. We approach our design with the question: “How can this highly scalable design be of excellent quality?” rather than “How can this excellent quality design scale?”.
@@ -98,16 +132,6 @@ Humans are motivated most strongly by the need for autonomy, growth, and purpose
   - Unbundle roles: Design each role with the minimum viable set of accountabilities (single responsibility principle)
   - Modular design
 
-## Don't build a faster horse
-
-> "Be bold, and mighty forces will come to your aid."
-
-  - Don't iterate on what's out there. We need a radical solution. A different category. A paradigm shift
-  - Don't build a bigger better bootcamp. A school, by any other name, would smell as bad
-  - Examine and eliminate all assumptions. Resist the gravitational pull of what's been done before
-  - Start at first principles, and change things at the roots
-  - Be bold. The design should feel dangerous. It should inspire you, and slightly scare you.
-
 ## Simulation not preparation
 We learn by doing. When training in a craft, the skills being practiced should approximate/simulate the "real world" as closely as possible.
 
@@ -123,6 +147,18 @@ For example, apprentice programmers should receive feedback on their code throug
 - Simulate real world situations, projects and problems.
 - Learners should know how to deliver in a work environment.
 - Simulation not replication
+
+
+
+Shereef -- one thought to add is to think about what we are simulating. We are simulating "real life" work in the professional coding world. But we are also learning dignified livelihood by being in dignified livelihood. The structures we are creating around emotional intelligence, feedback, systemic awareness -- all of those are elements of a dignified livelihood.
+[2:18 PM]
+We don't have controlling bosses and exploitative employers because those are not part of a dignified livelihood. But, I think we should offer those as learning experiences -- like the idea of a contract simulation where the team has to deal with a difficult product owner who messes with them. The transition to the real world power dynamics are important and we should make them explicit through challenge simulations we offer learners.
+[2:20 PM]
+Learners Guild should be the experience of dignified livelihood from beginning to end. From the initial contact with them to our relationship when they get a job.  (That does not mean we have to be perfect at it, b/c dignity is working with mistakes) The experience of dignified community is how people can create their own internal register of what is dignified as they go out into the coding world. I think the only way to learn that is to live it.
+[2:58 PM]
+simon @shereef: @willgrant: -- Simulation not preparation. Simulation not replication. If I spend time in a functional environment (LG), and am steeped in that environment, and become intimate with my own dysfunction, then when I spend time in a dysfunctional environment (Work) I do not get caught with it, as much - I do not land into the role of victim, or perpetrator, or hero. The roles can be picked up but not identified with.  A question: How can we create/support an environment that does not shield learners from the possible dysfunctions of work life, and enables them to become so familiar with another mode of life that when they encounter dysfunction they are not thrown off, and also do not become part of it.
+
+
 
 ---
 
