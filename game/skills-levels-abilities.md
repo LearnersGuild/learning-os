@@ -1043,6 +1043,10 @@ Distance travelled is a concept that seeks to quantify the path of a potential a
 #### Level 0
 - Cite and discuss a prior experience of community service.
 
+### Meta-Learning
+
+> Learning how to learn. As defined by [John Biggs][john-biggs-cite]: "being aware of and taking control of one’s own learning". Meta-learning is how learners develop agency in their own growth, and how they become effective mentors for other learners.
+
 ## Group: Software Development
 
 ### Command-Line Tools
