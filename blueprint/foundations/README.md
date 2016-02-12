@@ -21,35 +21,19 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 
 ## Don't build a school. Grow a learning community.
 
-The OS is the soil in which a learning community grows and thrives. Not a factory.
+The OS is the soil in which a learning community grows and thrives. Not a factory/machine that makes workers.
 
   - Don't iterate on what's out there. We need a radical solution. A different category. A paradigm shift
   - Don't build a bigger better bootcamp. A school, by any other name, would smell as bad
-  - Examine and eliminate all assumptions. Resist the gravitational pull of what's been done before
-  - Start at first principles, and change things at the roots
-  - Be bold. The design should feel dangerous. It should inspire you, and slightly scare you.
-
-  - self organizing
-  - distributed
-  - high expectation/ developmental challenge
-    - goal setting
-    - accomplishment / skill goals
-    - values / behavior goals
-    - aim setting
-    - peer to peer accountability structures
-  - feedback on progress
-  - contracts
-  - high support
-  - feedback flows like wine
-  - fractals of challenge/support
-  - safe
-  - low drama
-  - distraction free
-
-Teach super ego, and drama triangle
-Community builders/facilitators instead of learning facilitators
-Practitioners are part of the learning community
-Group identity
+  - Schools are built. Communities are grown
+  - Schools have central control. Communities have distributed control
+  - Schools are organized by administration and teachers. Communities are self organizing
+  - Conceptualize our learning community as distributed across multiple locations
+  - Think of the practitioners and learning facilitators as paid members of the community, not LG staff
+  - Take a risk with your design
+    - Examine and eliminate all assumptions. Resist the gravitational pull of what's been done before
+    - Start at first principles, and change things at the roots
+    - Be bold. The design should feel dangerous. It should inspire you, and slightly scare you
 
 ## Prioritize Scale over quality
 At the core of a for profit education business is a trade off between quality and scale. Learners Guild's mission is to build highly scalable learning communities. We approach our design with the question: “How can this highly scalable design be of excellent quality?” rather than “How can this excellent quality design scale?”.
@@ -93,6 +77,7 @@ Education should be built on a fundamental trust in people. People will rise or 
   - Assume the learner’s experience is a rich resource for learning
   - We are not the learners' heroes or rescuers. Resist the temptation to save them.
   - Don’t demand that people be good. Assume they are, and create rules of engagement and a culture that organically bring the best OUT of people."
+  - While we're at it, also trust the learning facilitator, and the practitioner
 
 
 ## Maximize autonomy
