@@ -11,7 +11,7 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 3. [Align incentives](#align-incentives)
 4. [Build it as a team game](#build-it-as-a-team-game)
 5. [Trust the learner](#trust-the-learner)
-6. [Maximize autonomy](#maximize-autonomy)
+6. [Enable self-organization](#enable-self-organization)
 7. [Optimize for agility](#optimize-for-agility)
 8. [Simulation not preparation](#simulation-not-preparation)
 
@@ -79,17 +79,17 @@ Education should be built on a fundamental trust in people. People will rise or 
   - Don’t demand that people be good. Assume they are, and create rules of engagement and a culture that organically bring the best OUT of people."
   - While we're at it, also trust the learning facilitator, and the practitioner
 
+## Enable self-organization
 
-## Maximize autonomy
-Humans are motivated most strongly by the need for autonomy, growth, and purpose. Autonomy means that one can and does set one's own rules, and can choose for oneself the norms one will respect and what has value.
+Humans are motivated most strongly by the need for autonomy, growth, and purpose. Autonomy means that one can and does set one's own rules, and can choose for oneself the norms one will respect and what has value
 
-  - We are not the learners' parents. Resist the parental approach to education.
+- Maximize autonomy, personal agency and responsibility
+  - Maximize learners capacity to participate in shaping their experience
+  - Learners should decide when, where and how they learn, and what they are learning
+  - Authorship of the education falls on the learner
+  - Community should be largely self-organizing
+- We are not the learners' parents. Resist the parental approach to education.
   - We are a kitchen, not a restaurant. Resist the "education as a service" orientation.
-  - Maximize personal agency and responsibility
-    - Maximize learners capacity to participate in shaping their experience
-    - Learners should decide when, where and how they learn, and what they are learning
-    - Authorship of the education falls on the learner
-    - Community should be largely self-organizing
   - No coercion
     - Resist the urge to coerce, direct, manipulate, force, reward & punish
     - No required curriculum, mandates or forced support
