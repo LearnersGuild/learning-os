@@ -2,7 +2,14 @@
 
 <!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
 
+- [Group: Character](#group-character)
+  - [Grit](#grit)
+  - [Distance Travelled](#distance-travelled)
+  - [Adaptability](#adaptability)
+  - [Creativity and Resourcefulness](#creativity-and-resourcefulness)
 - [Group: Collaboration](#group-collaboration)
+  - [Group Spirit](#group-spirit)
+  - [Leadership](#leadership)
   - [Project Management](#project-management)
   - [Pairing](#pairing)
   - [Interviewing](#interviewing)
@@ -59,7 +66,7 @@
   - [Sinatra](#sinatra)
   - [Meteor](#meteor)
   - [Flask](#flask)
-- [Group: Languages](#group-languages)
+- [Group: Languages (Computer)](#group-languages-computer)
   - [Language Concepts](#language-concepts)
   - [JavaScript](#javascript)
   - [Ruby](#ruby)
@@ -73,6 +80,8 @@
   - [Go](#go)
   - [Bash](#bash)
   - [Regular Expressions](#regular-expressions)
+- [Group: Languages (Human)](#group-languages-human)
+  - [English](#english)
 - [Group: Libraries](#group-libraries)
   - [Bootstrap](#bootstrap)
   - [Async](#async)
@@ -82,6 +91,11 @@
   - [Browserify](#browserify)
   - [Underscore](#underscore)
   - [jQuery](#jquery)
+- [Group: Metacognition](#group-metacognition)
+  - [Growth Mindset](#growth-mindset)
+  - [Self-Reflection](#self-reflection)
+- [Group: Service](#group-service)
+  - [Community Service](#community-service)
 - [Group: Software Development](#group-software-development)
   - [Command-Line Tools](#command-line-tools)
   - [Testing](#testing)
@@ -97,6 +111,7 @@
   - [Researching](#researching)
   - [Experimentation](#experimentation)
   - [Reasoning and Logic](#reasoning-and-logic)
+  - [Computational Thinking](#computational-thinking)
 
 <!-- /TOC -->
 
@@ -106,7 +121,52 @@ _Skills are grouped into related themes and can have one or many levels._
 
 _Abilities belong to a skill level and are written as declarative statements which complete the phrase "A learner at this skill level is able to..."._
 
+## Group: Character
+
+### Grit
+
+#### Level 0
+- Share a brief description of a struggle faced in education or career thus far.
+- Discuss motivations and goals, and share a personal story of putting in serious, sustained effort towards an outcome.
+- Overcome setbacks to conquer an important challenge.
+
+### Distance Travelled
+
+Distance travelled is a concept that seeks to quantify the path of a potential aspirant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Aspirants’ achievements.
+
+#### Level 0
+- Share where you came from to where you are in terms of your knowledge
+  - Example: "I dropped out of high school in the 10th grade, with a 2.4 GPA. Since then, I have taken the GED, applied to community college, and finished with a 3.0 GPA."
+
+### Adaptability
+
+#### Level 0
+- Know your boundaries, and how/when to extend them.
+- Be open and tolerant of ideas and approaches different from your own.
+- Draw from the unique nature of individual cultural backgrounds.
+
+### Creativity and Resourcefulness
+
+#### Level 0
+- Demonstrate a sense of play and spirit of playfulness.
+
+#### Level 1
+- Seek solutions without being constrained by the way you were initially taught.
+- Identify and explain different forms of creativity.
+
 ## Group: Collaboration
+
+### Group Spirit
+
+#### Level 0
+- Understand doing things in a collaborative mode.
+- Understand the compromises and inconveniences that are required to be a part of a group.
+- Willing to slow down in order to go farther together.
+
+### Leadership
+
+#### Level 0
+- Tell of a time when you took it upon yourself to get something done.
 
 ### Project Management
 
@@ -757,7 +817,7 @@ _Abilities belong to a skill level and are written as declarative statements whi
 ### Flask
 
 
-## Group: Languages
+## Group: Languages (Computer)
 
 ### Language Concepts
 
@@ -893,6 +953,24 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Identify, explain, and apply conditionals in a regular expression
 - Cite differences in regular expression syntax between two or more languages
 
+## Group: Languages (Human)
+
+### English
+
+#### Level 0
+
+- Understand spoken, colloquial English
+- Understand written, colloquial English
+- Speak intelligible and correct colloquial English
+- Write intelligible and correct colloquial English
+
+#### Level 1
+
+- Understand spoken, formal English
+- Understand written, formal English
+- Speak intelligible and correct formal English
+- Write intelligible and correct formal English
+
 ## Group: Libraries
 
 ### Bootstrap
@@ -944,6 +1022,26 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Use jQuery in a project
 
 ## Group: Metacognition
+
+### Growth Mindset
+
+#### Level 0
+- Cite evidence for and discuss how intelligence is malleable.
+- Cite evidence for and discuss how deliberate practice expands intelligence.
+
+### Self-Reflection
+
+#### Level 0
+- Tell of a time when you were proud of your actions
+- Tell of a time when you were disappointed in your own conduct.
+  - Elaborate on that disappointment by sharing what action(s) you wished you had taken.
+
+## Group: Service
+
+### Community Service
+
+#### Level 0
+- Cite and discuss a prior experience of community service.
 
 ### Meta-Learning
 
@@ -1300,3 +1398,29 @@ _Abilities belong to a skill level and are written as declarative statements whi
 - Define reasoning
 - Apply inductive reasoning to a problem
 - Define state in a problem context
+
+### Computational Thinking
+
+#### Level 0
+- Apply algorithmic notions of control flow
+  - Example: Successfully [traversing](https://www.dropbox.com/s/cqddqb3mbad04pk/thoughtWorks%20006.jpg?dl=0) a flow chart
+- Use conditional thinking
+  - Example: Successfully traversing a flow chart with logic based decisions
+
+#### Level 1
+- Decompose problems
+  - Example: how would you tell someone to draw a face
+    - Level 1: Tell them to draw a face. The problem cannot be abstracted much more than this.
+    - Level 2: Divide the face into components (eyes, ears, nose, mouth) and tell them to draw the specific components. Note that you need instructions to describe spatial relationships.
+    - Level 3: Describe the face as a series of line segments or arcs in particular locations, lengths and orientations.
+    - Level 4: Describe the face as a set of points that are drawn (stippling). Each point is defined by an (x, y) position.
+- Identify, explain, and apply symbol systems and representation
+  - Example: A simple translation task based on a given code system, for example translating from emojis to full sentences
+
+#### Level 2
+- Navigate and analyze at different levels of abstraction
+  - Example: Finding the common pattern in different groups of concepts
+- Explain and apply iterative thinking
+  - Some have argued the addition of recursive and parallel thinking, but I believe these can be scaffolded on iterative thinking
+
+Examples of assessment materials can be found at [CS unplugged](http://csunplugged.org/), [Bebras](http://www.bebraschallenge.org/), as well as other resources that cater to a development of computational thinking. Similar assessment of "algorithmic notions of control flow" have been developed by ThoughtWorks corporation. These assessments have proved to be a strong indicator of software engineering aptitude.
