@@ -132,16 +132,11 @@ For example, apprentice programmers should receive feedback on their code throug
 - Simulate real world situations, projects and problems.
 - Learners should know how to deliver in a work environment.
 - Simulation not replication
+- Simulate "real life" work in the professional world
+- Co-create dignified livelihood from day 1
+- Learners Guild should be the experience of dignified livelihood from beginning to end.
 
-
-
-Shereef -- one thought to add is to think about what we are simulating. We are simulating "real life" work in the professional coding world. But we are also learning dignified livelihood by being in dignified livelihood. The structures we are creating around emotional intelligence, feedback, systemic awareness -- all of those are elements of a dignified livelihood.
-[2:18 PM]
-We don't have controlling bosses and exploitative employers because those are not part of a dignified livelihood. But, I think we should offer those as learning experiences -- like the idea of a contract simulation where the team has to deal with a difficult product owner who messes with them. The transition to the real world power dynamics are important and we should make them explicit through challenge simulations we offer learners.
-[2:20 PM]
-Learners Guild should be the experience of dignified livelihood from beginning to end. From the initial contact with them to our relationship when they get a job.  (That does not mean we have to be perfect at it, b/c dignity is working with mistakes) The experience of dignified community is how people can create their own internal register of what is dignified as they go out into the coding world. I think the only way to learn that is to live it.
-[2:58 PM]
-simon @shereef: @willgrant: -- Simulation not preparation. Simulation not replication. If I spend time in a functional environment (LG), and am steeped in that environment, and become intimate with my own dysfunction, then when I spend time in a dysfunctional environment (Work) I do not get caught with it, as much - I do not land into the role of victim, or perpetrator, or hero. The roles can be picked up but not identified with.  A question: How can we create/support an environment that does not shield learners from the possible dysfunctions of work life, and enables them to become so familiar with another mode of life that when they encounter dysfunction they are not thrown off, and also do not become part of it.
+Can we create/support an environment that does not shield learners from the possible dysfunctions of work life, and enables them to become so familiar with another mode of life that when they encounter dysfunction they are not thrown off, and also do not become part of it?
 
 
 
