@@ -4,6 +4,7 @@
   - [Seven Levels of Thought](process/seven-levels-of-thought.md)
   - [Versions](process/versions.md)
   - [Game Design](process/game-design.md)
+  - [Game v.s. Player Support](process/game-and-player-support.md)
   - [Scrum](process/scrum.md)
 - [Blue Print](blueprint/README.md)
   - [Foundations](blueprint/foundations.md)

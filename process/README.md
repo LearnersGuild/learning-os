@@ -17,11 +17,12 @@ Design issues are stored and managed through [Github Issues][github-issues].
 - Read about the [Seven Levels of Thought](seven-levels-of-thought.md) in which a design issue may exist.
 - Read about the [Versions](versions.md) of our pedagogy, and when they'll be rolled out.
 - Read about how we use [Game Design](game-design.md) as a framework.
+- Read about [Game v.s. Player Support](game-and-player-support.md)
 - Read about how we use [Scrum](scrum.md) to manage our work together.
 
 ### Submitting an issue for acceptance
 
-Any designer can take an issue an start working on it by:
+Any developer can take an issue an start working on it by:
 
 1. Create a new branch
 2. Add the content from the issue, making new files and directories as needed
