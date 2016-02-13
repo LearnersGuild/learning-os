@@ -83,13 +83,17 @@ Education should be built on a fundamental trust in people. People will rise or 
 
 ## Enable self-organization
 
-Humans are motivated most strongly by the need for autonomy, growth, and purpose. Autonomy means that one can and does set one's own rules, and can choose for oneself the norms one will respect and what has value
+Humans are motivated most strongly by the need for autonomy, growth, and purpose. Autonomy means that one can and does set one's own rules, and can choose for oneself the norms one will respect and what has value.  
+
+Ensure tools support personal choice and freedom as well as responsibility for those choices. Everyone should have the opportunity to participate in designing and upgrading the structures which guide them.
+
 
 - Maximize autonomy, personal agency and responsibility
   - Maximize learners capacity to participate in shaping their experience
   - Learners should decide when, where and how they learn, and what they are learning
   - Authorship of the education falls on the learner
   - Community should be largely self-organizing
+  - Amplify Agency
 - We are not the learners' parents. Resist the parental approach to education.
   - We are a kitchen, not a restaurant. Resist the "education as a service" orientation.
   - No coercion
