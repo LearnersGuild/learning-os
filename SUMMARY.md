@@ -12,5 +12,11 @@
   - [Player Experience Goals](blueprint/player-experience-goals.md)
   - [Player Objectives](blueprint/player-objectives.md)
   - [Player Narratives](blueprint/player-narratives.md)
+- [Player](player/README.md)
+  - [Player Characteristics](player/player-characteristics.md)
+  - [Player Experience Goals](player/player-experience-goals.md)
+  - [Player Narratives](player/player-narratives.md)
+  - [Player Objectives](player/player-objectives.md)
+  - [Player Roles](player/player-roles.md)
 
 - [Glossary](GLOSSARY.md)
