@@ -75,3 +75,46 @@ So, if you have a very very loose definition of "data" then yes. Otherwise, we a
 
 ## Beliefs
   - Learning is a process of integrating and adapting new information into existing knowledge.
+
+
+## Agile Learning Centers Principles
+
+### Infinite Play: Play infinitely, grow infinitely..
+
+Play is one of the most powerful paths to growth. The concept of infinite play reminds us that games aren’t about winning; changing rules and boundaries is part of playing, letting players constantly expand the game of outrageous personal growth to incorporate new players and new frontiers.
+
+### Be Agile:
+
+Make tools and practices flexible, adaptable, easy to change… or change back again. Too much change all at once can be disorienting -- try gentle changes over multiple iterations to see what’s working.
+
+### Amplify Agency
+
+Ensure tools support personal choice and freedom as well as responsibility for those choices. Everyone should have the opportunity to participate in designing and upgrading the structures which guide them.
+
+### Culture Creation
+Acknowledge and use the water you’re swimming in. We shape culture; culture shapes us. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.  Develop collective mastery rather than restrictive rule-making. Intentional culture building supports intentionality in other domains as well.
+
+### Visible Feedback
+Make choices, patterns, and outcomes visible to participants so they can tune their future behavior accordingly. Make the implicit explicit and expand transparency. These practices empower and build trust among community members.
+
+### Facilitate
+
+Clarify, simplify, and connect. Don’t introduce unnecessary complexity. Hold coherence for personal growth in an empowered cultural context. Connect kids to the larger social capital of their community as they seek learning resources. Combine many principles and intentions into a single tool or practice, instead of trying to maintain more of them.
+
+### Support
+Provide maximum support with minimal interference. As adults, we often need support reaching our goals and fulfilling our intentions; so do children. We create supportive structures, practices, culture, and environments. However it’s important to remember that support is not direction -- it does not mean making their decisions for them or intervening and managing their processes. Support that takes up too much space becomes counterproductive.
+
+### Respect each other’s time and space
+Hold no unnecessary meetings. Keep all meetings tight, productive and participatory. Honor commitments, as well as scheduled start and end times for happenings. Check-in before creating work for someone else. Be thoughtful about taking up shared space.
+
+### Relationship
+Be real. Be accepting. Respect differences. Authentic relationship is the basis of partnership, communication, collaboration, and trust between students and staff. Support self-expression, self-knowledge and self-acceptance, letting the experience of nurturing relationship teach the power of interrelatedness and community.
+
+### Full-spectrum Fluency
+Embrace multiple intelligences, modes of expression, and learning styles. Nurture multiple literacies. A functional education for today’s world needs to focus on more than just “book-learning” textual, numerical, analytical, or memorization skills. Social, relational, digital, and a variety of other skill sets are now essential; recognize and develop them as such.
+
+### Shareable Value
+Make value received from learning visible and sharable. Use tracking systems, record measurable progress, generate documentation (blogs, portfolios, images), and teach others.
+
+### Safe Space-making
+Provide an environment of physical, social, and emotional safety. Set and keep critical boundaries. Foster great freedom within an appropriate frame of safety and legality, so that kids’ energy can be freed up to focus on learning instead of protecting themselves.
