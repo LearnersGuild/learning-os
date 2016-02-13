@@ -95,9 +95,6 @@ In addition, the negotiable (non-required, but nice to have) traits of pod-eligi
   - Persons from a low-income environment
 - A belief that inclusion is an overall net positive effect in the software engineering field.
 
-### PlayerInPrep
-A person who has gained acceptance to the LG game, but is presently confined to prep challenges. This person starts out at Level 0, upon completing all prep challenges advances to Level 1.
-
 
 ## Prep
 Prep is designed to be no more than **a month**.
