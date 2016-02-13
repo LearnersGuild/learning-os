@@ -1,5 +1,7 @@
 # Didn't make the cut / Still digesting / Second class citizens
 
+## Separate support and evaluation
+
 ## Individual and collective tensions
 There is a significant and difficult to measure value that comes from human connection and belonging.
 
@@ -39,7 +41,8 @@ There is a significant and difficult to measure value that comes from human conn
   - Daniel needs to not be dependant on Mr. Miagi.
   - High expectation high support
   - Balance competition and collaboration
-  - Encourage and prioritize conceptual understanding.
+  - Encourage and prioritize conceptual understanding
+  - Support Collaborative Knowledge Construction
 
 ## Theoretical accuracy over implementation precision
 
@@ -118,3 +121,21 @@ Make value received from learning visible and sharable. Use tracking systems, re
 
 ### Safe Space-making
 Provide an environment of physical, social, and emotional safety. Set and keep critical boundaries. Foster great freedom within an appropriate frame of safety and legality, so that kids’ energy can be freed up to focus on learning instead of protecting themselves.
+
+## Life Long learning
+
+- Learning should take place in the context of authentic, complex problems (because
+learners will refuse to quietly listen to someone else’s answers to someone else’s
+questions) [Bruner, 1996].
+- Learning should be embedded in the pursuit of intrinsically rewarding activities
+[Csikszentmihalyi, 1990].
+- Informal learning activities are equally important in lifelong learning and in formal
+learning activities [Bransford, 2005].
+- Learning often takes place without teaching [Illich, 1971; Wenger, 1998].
+- Learning-on-demand needs to be supported because change is inevitable, complete
+coverage is impossible, and obsolescence is unavoidable [Fischer, 1991].
+- Organizational and collaborative learning must be supported because the individual
+human mind is limited [Arias et al., 2000].
+- Skills and processes that support learning as a lifetime habit must be developed
+[Gardner, 1991].
+- Lifelong learning is more than training and more than school learning [Fischer, 2000]
