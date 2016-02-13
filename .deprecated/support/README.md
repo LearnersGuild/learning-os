@@ -95,24 +95,6 @@ In addition, the negotiable (non-required, but nice to have) traits of pod-eligi
   - Persons from a low-income environment
 - A belief that inclusion is an overall net positive effect in the software engineering field.
 
-### PlayerInPrep
-A person who has gained acceptance to the LG game, but is presently confined to prep challenges. This person starts out at Level 0, upon completing all prep challenges advances to Level 1.
-
-## Player Characteristics
-
-To determine if an aspirant is an ideal candidate for the Learners Guild game, assess the candidate along the following two dimensions:
-
-- Traits
-  - [Non-negotiable](/support/Player_Characteristics/Traits_NonNegotiable.md)
-  - [Negotiable](/support/Player_Characteristics/Traits_NiceToHave.md)
-- Talent Requirements
-  - [Technical]
-    - [Non-negotiable](/support/Player_Characteristics/Talent_Requiremen_Technical_NonNegotiable.md)
-    - [Negotiable](/support/Player_Characteristics/Talent_Requiremen_Technical_NiceToHave.md)
-  - [Non-Technical]
-    - [Non-negotiable](/support/Player_Characteristics/Talent_Requiremen_NonTechnical_NonNegotiable.md)
-    - [Negotiable](/support/Player_Characteristics/Talent_Requiremen_NonTechnical_NiceToHave.md)
-
 
 ## Prep
 Prep is designed to be no more than **a month**.
