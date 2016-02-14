@@ -24,10 +24,11 @@ There is a tension between personal freedom and social restraint, but to be in b
 - Balance aimless play and the relentless pursuit of a predetermined goal
 - Balance free exploration/play and directed rigor
 
+> "Too much hierarchical control, and participants become passive and dependent or hostile and resistant. They wane in self-direction, which is the core of all learning. Too much cooperative guidance may degenerate into a subtle kind of nurturing oppression, and may deny the group the benefits of totally autonomous learning. Too much autonomy for participants and laissez-faire on your part, and they may wallow in ignorance, misconception, and chaos." ~ John Heron
 
 ## Sustain the tension between Individual freedom and collective responsibility
 
-other. There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the communal whole above our personal desires. Total individualism (as found inAyn Rand’s writings, for example) views society only as an oppressive force— any collaborative communal endeavor is rejected as a mindless “collectivism.” This is an imbalanced and partial perspective, because many vitally important endeavors require collaborative effort— a generous give and take rather than unyielding self-assertion. But too much emphasis on social, cultural or political unification gives us standardization and technocracy, if not outright dictatorship. Dewey had it right: Genuine democracy is a dynamic tension between self and society, a continual rebalancing and reconstruction that honors both authentic individuality and a common good that asks individuals to look beyond
+There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the communal whole above our personal desires. Total individualism (as found inAyn Rand’s writings, for example) views society only as an oppressive force— any collaborative communal endeavor is rejected as a mindless “collectivism.” This is an imbalanced and partial perspective, because many vitally important endeavors require collaborative effort— a generous give and take rather than unyielding self-assertion. But too much emphasis on social, cultural or political unification gives us standardization and technocracy, if not outright dictatorship. Dewey had it right: Genuine democracy is a dynamic tension between self and society, a continual rebalancing and reconstruction that honors both authentic individuality and a common good that asks individuals to look beyond
 themselves. It is engaged intelligence, not fixed ideology, that enables us to judge how much emphasis to give to one aspect or another in each situation.
 
 
@@ -133,6 +134,7 @@ Ensure tools support personal choice and freedom as well as responsibility for t
 ### Culture Creation
 Acknowledge and use the water you’re swimming in. We shape culture; culture shapes us. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.  Develop collective mastery rather than restrictive rule-making. Intentional culture building supports intentionality in other domains as well.
 
+
 ### Visible Feedback
 Make choices, patterns, and outcomes visible to participants so they can tune their future behavior accordingly. Make the implicit explicit and expand transparency. These practices empower and build trust among community members.
 
@@ -211,3 +213,16 @@ Constructivism describes a range of teaching/learning approaches which have at t
 
 1. Learning is a process rather than an event, in which learners construct (versus acquire) new knowledge and skills;
 2. Teaching involves supporting that construction, as opposed to didactic,lecture-based imparting of information or knowledge
+
+> The educational situation which most effectively promotes significant learning is one in which (1) threat to the self of the learner is reduced a minimum, and (2) differentiated perception of the field of experience is facilitated. ~Godfrey Barrett-Lennard
+
+## Principles of connectivism:
+
+- Learning and knowledge rests in diversity of opinions.
+- Learning is a process of connecting specialized nodes or information sources.
+- Learning may reside in non-human appliances.
+- Capacity to know more is more critical than what is currently known
+- Nurturing and maintaining connections is needed to facilitate continual learning.
+- Ability to see connections between fields, ideas, and concepts is a core skill.
+- Currency (accurate, up-to-date knowledge) is the intent of all connectivist learning activities.
+- Decision-making is itself a learning process. Choosing what to learn and the meaning of incoming information is seen through the lens of a shifting reality. While there is a right answer now, it may be wrong tomorrow due to alterations in the information climate affecting the decision.
