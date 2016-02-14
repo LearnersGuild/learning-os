@@ -2,7 +2,7 @@
 
 ## Separate support and evaluation
 
-## Individual and collective tensions
+## Sustain the tension between Individual freedom and collective responsibility
 There is a significant and difficult to measure value that comes from human connection and belonging.
 
   - Dignity is derived from human connection & belonging
@@ -43,6 +43,7 @@ There is a significant and difficult to measure value that comes from human conn
   - Balance competition and collaboration
   - Encourage and prioritize conceptual understanding
   - Support Collaborative Knowledge Construction
+
 
 ## Theoretical accuracy over implementation precision
 

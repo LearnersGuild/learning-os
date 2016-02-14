@@ -31,6 +31,7 @@ The OS is the soil in which a learning community grows and thrives. Not a factor
   - Schools are organized by administration and teachers. Communities are self organizing
   - Conceptualize our learning community as distributed across multiple locations
   - Think of the practitioners and learning facilitators as paid members of the community, not LG staff
+  - Design for transformation not transmission
   - Take a risk with your design
     - Examine and eliminate all assumptions. Resist the gravitational pull of what's been done before
     - Start at first principles, and change things at the roots
