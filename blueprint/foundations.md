@@ -20,7 +20,7 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 
 > "Be bold, and mighty forces will come to your aid."
 
-## Don't build a school. Grow a learning community.
+## Don't build a school. Cultivate a learning community.
 
 The OS is the soil in which a learning community grows and thrives. Not a factory/machine that makes workers.
 
@@ -82,6 +82,8 @@ Education should be built on a fundamental trust in people. People will rise or 
   - Don’t demand that people be good. Assume they are, and create rules of engagement and a culture that organically bring the best OUT of people."
   - While we're at it, also trust the learning facilitator, the practitioner, the investor...etc.
   - Resist the urge to blame the learner
+  - Trust in each person’s ability and right to manage their own life,
+
 
 ## Enable self-organization
 

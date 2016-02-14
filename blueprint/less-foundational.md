@@ -1,6 +1,6 @@
 # Didn't make the cut / Still digesting / Second class citizens
 
-## Sustain creative tensions
+## Balance and Sustain creative tensions
 
 We want answers to life’s mysteries and incompleteness, and find them in beliefs, abstractions, and ideologies. Then we hold onto these answers firmly, desperately, and often obsessively, even in the face of new evidence or experience.
 
@@ -10,11 +10,20 @@ To hold onto rigid beliefs because they’re comforting is to forfeit our intell
 
 Any theory or method that we hold too tightly will give us a partial vision of the whole and limit our ability to respond authentically to the spontaneity of the teaching moment.
 
+Balance does not mean compromise. It is not a static blend of opposites that washes the vitality out of them all, but a dynamic relationship between them. It is holding the tension between choices that appear incompatible in order to achieve wholeness or integration at higher levels.
+
+There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the communal whole above our personal desires.
+
 - Resist the “quest for certainty”
-- Balance individual freedom and collective good
+- Balance individual autonomy and collective identity/cohesivness
+- Balance individual and collective interest
 - Balance facilitation and instruction
 - Balance innovation with what has worked in the past
 - Balance transformation with transmission
+- Balance freedom and structure
+- Balance aimless play and the relentless pursuit of a predetermined goal
+- Balance free exploration/play and directed rigor
+
 
 ## Sustain the tension between Individual freedom and collective responsibility
 
@@ -67,8 +76,8 @@ There is a significant and difficult to measure value that comes from human conn
   - Decentralization of authority (human scale democracy)
   - A holistic or integral perspective
   - Separate support and evaluation
-
-
+  - We are a vocational learning community. Resist the urge to sneak in a liberal arts agenda.
+  - Don't teach a person to fish, create a community where she can learn to learn anything.
 
 
 ## Theoretical accuracy over implementation precision
@@ -166,3 +175,39 @@ human mind is limited [Arias et al., 2000].
 - Skills and processes that support learning as a lifetime habit must be developed
 [Gardner, 1991].
 - Lifelong learning is more than training and more than school learning [Fischer, 2000]
+
+
+## Paragogical principles
+Each of these principles adjusts one of Knowles's  ve principles to the peer-based learning context, often by turning the original by 90°. This is not because we particularly disagree with Knowles about how to teach (see Section 2.2), but because paragogy deals with a very di erent challenge, that of analyzing and co-creating the educational environment as a whole.
+
+1. Context as a decentered center.  For learning design in a peer-to-peer context, understanding the learner's self-concept   in particular, whether they see themselves as self-directed or not   may be less important than understanding the concept of shared context in motion'.  (See Section 2.3.)
+
+2. Meta-learning as a font of knowledge.  We all have a lot to learn about learning.
+
+3. Peers are equals, but different.  The learner mustn't seek only to concern what they already know, and must therefor confront and make sense of difference as part of the learning experience.
+
+4. Learning is distributed and nonlinear.  Side-tracking is OK, but dissipation isn't likely to work. Part of paragogy is learning how to  find one's way around a given social  eld.
+
+5. Realize the dream, then wake up!  Paragogy is the art of fullling motivations when this is possible, and then going on to the next thing.
+
+## New Culture of learning
+- the culture emerges from the environment—and grows along with it
+- learning through engagement within the world
+- In a world of near-constant flux,play becomes a strategy for embracing change, rather than a way
+for growing out of it
+- The world is changing faster than ever and our skill sets have a shorter life
+- Understanding play is critical to understanding learning
+- The world is getting more connected that ever before – can that be a resource?
+- In this connected world, mentorship takes on new importance and meaning
+- Challenges we face are multi-faceted requiring systems thinking & socio-technical sensibilities
+- Skills are important but so are mind sets and dispositions
+- Innovation is more important than ever – but turns on our ability to cultivate imagination
+- A new culture of learning needs to leverage social & technical infrastructures in new ways
+- Play is the basis for cultivating imagination and innovation
+
+
+## Constructivist Paradigm
+Constructivism describes a range of teaching/learning approaches which have at their centre two main principles:
+
+1. Learning is a process rather than an event, in which learners construct (versus acquire) new knowledge and skills;
+2. Teaching involves supporting that construction, as opposed to didactic,lecture-based imparting of information or knowledge
