@@ -1,8 +1,27 @@
 # Didn't make the cut / Still digesting / Second class citizens
 
-## Separate support and evaluation
+## Sustain creative tensions
+
+We want answers to life’s mysteries and incompleteness, and find them in beliefs, abstractions, and ideologies. Then we hold onto these answers firmly, desperately, and often obsessively, even in the face of new evidence or experience.
+
+The world as we experience it is not fixed but fluid, not absolute but contingent, and when we harden our suppositions and beliefs into rigid ideological positions, we become incapable of growing, learning, or adapting,
+
+To hold onto rigid beliefs because they’re comforting is to forfeit our intelligence.
+
+Any theory or method that we hold too tightly will give us a partial vision of the whole and limit our ability to respond authentically to the spontaneity of the teaching moment.
+
+- Resist the “quest for certainty”
+- Balance individual freedom and collective good
+- Balance facilitation and instruction
+- Balance innovation with what has worked in the past
+- Balance transformation with transmission
 
 ## Sustain the tension between Individual freedom and collective responsibility
+
+other. There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the communal whole above our personal desires. Total individualism (as found inAyn Rand’s writings, for example) views society only as an oppressive force— any collaborative communal endeavor is rejected as a mindless “collectivism.” This is an imbalanced and partial perspective, because many vitally important endeavors require collaborative effort— a generous give and take rather than unyielding self-assertion. But too much emphasis on social, cultural or political unification gives us standardization and technocracy, if not outright dictatorship. Dewey had it right: Genuine democracy is a dynamic tension between self and society, a continual rebalancing and reconstruction that honors both authentic individuality and a common good that asks individuals to look beyond
+themselves. It is engaged intelligence, not fixed ideology, that enables us to judge how much emphasis to give to one aspect or another in each situation.
+
+
 There is a significant and difficult to measure value that comes from human connection and belonging.
 
   - Dignity is derived from human connection & belonging
@@ -43,6 +62,13 @@ There is a significant and difficult to measure value that comes from human conn
   - Balance competition and collaboration
   - Encourage and prioritize conceptual understanding
   - Support Collaborative Knowledge Construction
+  - Respect for every person, including children (human rights)
+  - Balance (openness rather than fixed ideology)
+  - Decentralization of authority (human scale democracy)
+  - A holistic or integral perspective
+  - Separate support and evaluation
+
+
 
 
 ## Theoretical accuracy over implementation precision

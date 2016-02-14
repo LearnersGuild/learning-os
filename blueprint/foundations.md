@@ -71,15 +71,16 @@ Since the OS is optimized for skills that require people to build things togethe
 ## Trust the learner
 The dominant education paradigm is built on a fear and mistrust of the learner. A more generative and effective approach is to assume the fundamental trustworthiness and goodness of people and design accordingly.
 
-Education should be built on a fundamental trust in people. People will rise or fall to the degree that they feel trusted. We approach everything with a developmental mindset. We believe that everyone has inherent potential that may not yet have been realized.
+Education should be built on a fundamental trust in people. People will rise or fall to the degree that they feel trusted. We approach everything with a developmental mindset. Design a system based on the belief that everyone has inherent potential that may not yet have been realized.
 
   - Assume that they are willing and able to learn and take responsibility for their own learning
   - Embrace the view that human nature is basically good and design for earnest, well intentioned and honest players
+  - Trusting in the natural unfolding of human development
   - Assume individuals possess virtually unlimited potential for growth
   - Assume the learner’s experience is a rich resource for learning
   - We are not the learners' heroes or rescuers. Resist the temptation to save them.
   - Don’t demand that people be good. Assume they are, and create rules of engagement and a culture that organically bring the best OUT of people."
-  - While we're at it, also trust the learning facilitator, and the practitioner
+  - While we're at it, also trust the learning facilitator, the practitioner, the investor...etc.
   - Resist the urge to blame the learner
 
 ## Enable self-organization
@@ -88,7 +89,7 @@ Humans are motivated most strongly by the need for autonomy, growth, and purpose
 
 Ensure tools support personal choice and freedom as well as responsibility for those choices. Everyone should have the opportunity to participate in designing and upgrading the structures which guide them.
 
-
+- Decentralize authority
 - Maximize autonomy, personal agency and responsibility
   - Maximize learners capacity to participate in shaping their experience
   - Learners should decide when, where and how they learn, and what they are learning
