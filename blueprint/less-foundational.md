@@ -1,8 +1,39 @@
 # Didn't make the cut / Still digesting / Second class citizens
 
-## Separate support and evaluation
+## Balance and Sustain creative tensions
 
-## Individual and collective tensions
+We want answers to life’s mysteries and incompleteness, and find them in beliefs, abstractions, and ideologies. Then we hold onto these answers firmly, desperately, and often obsessively, even in the face of new evidence or experience.
+
+The world as we experience it is not fixed but fluid, not absolute but contingent, and when we harden our suppositions and beliefs into rigid ideological positions, we become incapable of growing, learning, or adapting,
+
+To hold onto rigid beliefs because they’re comforting is to forfeit our intelligence.
+
+Any theory or method that we hold too tightly will give us a partial vision of the whole and limit our ability to respond authentically to the spontaneity of the teaching moment.
+
+Balance does not mean compromise. It is not a static blend of opposites that washes the vitality out of them all, but a dynamic relationship between them. It is holding the tension between choices that appear incompatible in order to achieve wholeness or integration at higher levels.
+
+There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the communal whole above our personal desires.
+
+- Resist the “quest for certainty”
+- Balance individual autonomy and collective identity/cohesivness
+- Balance individual self-interest and collective gain
+- Balance facilitation and instruction
+- Balance innovation with what has worked in the past
+- Balance transformation with transmission
+- Balance freedom and structure
+- Balance aimless play and the relentless pursuit of a predetermined goal
+- Balance free exploration/play and directed rigor
+- Balance chaos and order
+- Balance Autonomy and Alignment
+
+> "Too much hierarchical control, and participants become passive and dependent or hostile and resistant. They wane in self-direction, which is the core of all learning. Too much cooperative guidance may degenerate into a subtle kind of nurturing oppression, and may deny the group the benefits of totally autonomous learning. Too much autonomy for participants and laissez-faire on your part, and they may wallow in ignorance, misconception, and chaos." ~ John Heron
+
+## Sustain the social dilemma (tension between Individual self-interest and collective gain)
+
+There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the communal whole above our personal desires. Total individualism (as found inAyn Rand’s writings, for example) views society only as an oppressive force— any collaborative communal endeavor is rejected as a mindless “collectivism.” This is an imbalanced and partial perspective, because many vitally important endeavors require collaborative effort— a generous give and take rather than unyielding self-assertion. But too much emphasis on social, cultural or political unification gives us standardization and technocracy, if not outright dictatorship. Dewey had it right: Genuine democracy is a dynamic tension between self and society, a continual rebalancing and reconstruction that honors both authentic individuality and a common good that asks individuals to look beyond
+themselves. It is engaged intelligence, not fixed ideology, that enables us to judge how much emphasis to give to one aspect or another in each situation.
+
+
 There is a significant and difficult to measure value that comes from human connection and belonging.
 
   - Dignity is derived from human connection & belonging
@@ -43,6 +74,17 @@ There is a significant and difficult to measure value that comes from human conn
   - Balance competition and collaboration
   - Encourage and prioritize conceptual understanding
   - Support Collaborative Knowledge Construction
+  - Respect for every person, including children (human rights)
+  - Balance (openness rather than fixed ideology)
+  - Decentralization of authority (human scale democracy)
+  - A holistic or integral perspective
+  - Separate support and evaluation
+  - We are a vocational learning community. Resist the urge to sneak in a liberal arts agenda.
+  - Don't teach a person to fish, create a community where she can learn to learn anything.
+  - Don’t Just Teach Content, Explain the Learning Process
+  - Learners create the learning map, and practitioners serve as the compass
+  - Self determination, and self direction
+
 
 ## Theoretical accuracy over implementation precision
 
@@ -97,6 +139,7 @@ Ensure tools support personal choice and freedom as well as responsibility for t
 ### Culture Creation
 Acknowledge and use the water you’re swimming in. We shape culture; culture shapes us. A powerful, positive culture is the strongest, most pervasive support structure a learning community can have.  Develop collective mastery rather than restrictive rule-making. Intentional culture building supports intentionality in other domains as well.
 
+
 ### Visible Feedback
 Make choices, patterns, and outcomes visible to participants so they can tune their future behavior accordingly. Make the implicit explicit and expand transparency. These practices empower and build trust among community members.
 
@@ -139,3 +182,85 @@ human mind is limited [Arias et al., 2000].
 - Skills and processes that support learning as a lifetime habit must be developed
 [Gardner, 1991].
 - Lifelong learning is more than training and more than school learning [Fischer, 2000]
+
+
+## Paragogical principles
+Each of these principles adjusts one of Knowles's  ve principles to the peer-based learning context, often by turning the original by 90°. This is not because we particularly disagree with Knowles about how to teach (see Section 2.2), but because paragogy deals with a very di erent challenge, that of analyzing and co-creating the educational environment as a whole.
+
+1. Context as a decentered center.  For learning design in a peer-to-peer context, understanding the learner's self-concept   in particular, whether they see themselves as self-directed or not   may be less important than understanding the concept of shared context in motion'.  (See Section 2.3.)
+
+2. Meta-learning as a font of knowledge.  We all have a lot to learn about learning.
+
+3. Peers are equals, but different.  The learner mustn't seek only to concern what they already know, and must therefor confront and make sense of difference as part of the learning experience.
+
+4. Learning is distributed and nonlinear.  Side-tracking is OK, but dissipation isn't likely to work. Part of paragogy is learning how to  find one's way around a given social  eld.
+
+5. Realize the dream, then wake up!  Paragogy is the art of fullling motivations when this is possible, and then going on to the next thing.
+
+## New Culture of learning
+- the culture emerges from the environment—and grows along with it
+- learning through engagement within the world
+- In a world of near-constant flux,play becomes a strategy for embracing change, rather than a way
+for growing out of it
+- The world is changing faster than ever and our skill sets have a shorter life
+- Understanding play is critical to understanding learning
+- The world is getting more connected that ever before – can that be a resource?
+- In this connected world, mentorship takes on new importance and meaning
+- Challenges we face are multi-faceted requiring systems thinking & socio-technical sensibilities
+- Skills are important but so are mind sets and dispositions
+- Innovation is more important than ever – but turns on our ability to cultivate imagination
+- A new culture of learning needs to leverage social & technical infrastructures in new ways
+- Play is the basis for cultivating imagination and innovation
+
+
+## Constructivist Paradigm
+Constructivism describes a range of teaching/learning approaches which have at their centre two main principles:
+
+1. Learning is a process rather than an event, in which learners construct (versus acquire) new knowledge and skills;
+2. Teaching involves supporting that construction, as opposed to didactic,lecture-based imparting of information or knowledge
+
+> The educational situation which most effectively promotes significant learning is one in which (1) threat to the self of the learner is reduced a minimum, and (2) differentiated perception of the field of experience is facilitated. ~Godfrey Barrett-Lennard
+
+## Principles of connectivism:
+
+- Learning and knowledge rests in diversity of opinions.
+- Learning is a process of connecting specialized nodes or information sources.
+- Learning may reside in non-human appliances.
+- Capacity to know more is more critical than what is currently known
+- Nurturing and maintaining connections is needed to facilitate continual learning.
+- Ability to see connections between fields, ideas, and concepts is a core skill.
+- Currency (accurate, up-to-date knowledge) is the intent of all connectivist learning activities.
+- Decision-making is itself a learning process. Choosing what to learn and the meaning of incoming information is seen through the lens of a shifting reality. While there is a right answer now, it may be wrong tomorrow due to alterations in the information climate affecting the decision.
+
+## Lists of Design Principles for Communities
+### Axelrod's (1984) requirements for the possibility of cooperation:
+- Arrange that individuals will meet each other again
+- They must be able to recognize each other
+- They must have information about how the other has behaved until now (reputation)
+
+### Ostrom's (1990) design principles of successful communities:
+- Group boundaries are clearly defined
+- Rules governing the use of collective goods are well matched to local needs and conditions
+- Most individuals affected by these rules can participate in modifying the rules
+- The right of community members to devise their own rules is respected by external authorities
+- A system for monitoring members' behavior exists; this monitoring is undertaken by the community members themselves
+- A graduated system of sanctions is used
+- Community members have access to low-cost conflict resolution mechanisms
+
+### Godwin's (1994) principles for making virtual communities work:
+- Use software that promotes good discussion
+- Don't impose a length limitation on postings
+- Front-load your system with talkative, diverse people
+- Let the users resolve their own disputes
+- Provide institutional memory
+- Promote continuity
+- Confront the users with a crisis
+
+## Heutagogy foundations
+
+- Flexible and negotiated assessment
+- Having the learner generate contextually relevant content
+- True collaboration regarding content and process between teacher and learner
+- The involvement of the environment in the learning
+- Spontaneous and organic learning experiences
+- Flexible curricula

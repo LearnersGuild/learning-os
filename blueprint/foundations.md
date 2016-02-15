@@ -20,7 +20,7 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 
 > "Be bold, and mighty forces will come to your aid."
 
-## Don't build a school. Grow a learning community.
+## Don't build a school. Cultivate a learning community.
 
 The OS is the soil in which a learning community grows and thrives. Not a factory/machine that makes workers.
 
@@ -31,6 +31,7 @@ The OS is the soil in which a learning community grows and thrives. Not a factor
   - Schools are organized by administration and teachers. Communities are self organizing
   - Conceptualize our learning community as distributed across multiple locations
   - Think of the practitioners and learning facilitators as paid members of the community, not LG staff
+  - Design for transformation not transmission
   - Take a risk with your design
     - Examine and eliminate all assumptions. Resist the gravitational pull of what's been done before
     - Start at first principles, and change things at the roots
@@ -70,24 +71,27 @@ Since the OS is optimized for skills that require people to build things togethe
 ## Trust the learner
 The dominant education paradigm is built on a fear and mistrust of the learner. A more generative and effective approach is to assume the fundamental trustworthiness and goodness of people and design accordingly.
 
-Education should be built on a fundamental trust in people. People will rise or fall to the degree that they feel trusted. We approach everything with a developmental mindset. We believe that everyone has inherent potential that may not yet have been realized.
+Education should be built on a fundamental trust in people. People will rise or fall to the degree that they feel trusted. We approach everything with a developmental mindset. Design a system based on the belief that everyone has inherent potential that may not yet have been realized.
 
   - Assume that they are willing and able to learn and take responsibility for their own learning
   - Embrace the view that human nature is basically good and design for earnest, well intentioned and honest players
+  - Trusting in the natural unfolding of human development
   - Assume individuals possess virtually unlimited potential for growth
   - Assume the learner’s experience is a rich resource for learning
   - We are not the learners' heroes or rescuers. Resist the temptation to save them.
   - Don’t demand that people be good. Assume they are, and create rules of engagement and a culture that organically bring the best OUT of people."
-  - While we're at it, also trust the learning facilitator, and the practitioner
+  - While we're at it, also trust the learning facilitator, the practitioner, the investor...etc.
   - Resist the urge to blame the learner
+  - Trust in each person’s ability and right to manage their own life,
 
-## Enable self-organization
+
+## Enable self-organization & self-determination
 
 Humans are motivated most strongly by the need for autonomy, growth, and purpose. Autonomy means that one can and does set one's own rules, and can choose for oneself the norms one will respect and what has value.  
 
 Ensure tools support personal choice and freedom as well as responsibility for those choices. Everyone should have the opportunity to participate in designing and upgrading the structures which guide them.
 
-
+- Decentralize authority
 - Maximize autonomy, personal agency and responsibility
   - Maximize learners capacity to participate in shaping their experience
   - Learners should decide when, where and how they learn, and what they are learning
@@ -107,6 +111,7 @@ Ensure tools support personal choice and freedom as well as responsibility for t
   - Design for a large solution space
   - Prioritize learners’ abilities to self-teach, develop mindfulness, and organize within their pod over their adherence to a defined set of instructions.
   - Provide guidance and mentorship not content delivery and enforcement of predefined linear progress.
+  - Don’t abdicate your authority. Own your authority while supporting their autonomy. 
 
 ## Feedback should flow like wine
   - Focus on the feedback loops
