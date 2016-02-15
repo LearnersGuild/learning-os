@@ -85,7 +85,7 @@ Education should be built on a fundamental trust in people. People will rise or 
   - Trust in each person’s ability and right to manage their own life,
 
 
-## Enable self-organization
+## Enable self-organization & self-determination
 
 Humans are motivated most strongly by the need for autonomy, growth, and purpose. Autonomy means that one can and does set one's own rules, and can choose for oneself the norms one will respect and what has value.  
 
@@ -111,6 +111,7 @@ Ensure tools support personal choice and freedom as well as responsibility for t
   - Design for a large solution space
   - Prioritize learners’ abilities to self-teach, develop mindfulness, and organize within their pod over their adherence to a defined set of instructions.
   - Provide guidance and mentorship not content delivery and enforcement of predefined linear progress.
+  - Don’t abdicate your authority. Own your authority while supporting their autonomy. 
 
 ## Feedback should flow like wine
   - Focus on the feedback loops

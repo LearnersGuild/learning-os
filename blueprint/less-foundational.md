@@ -16,17 +16,19 @@ There is a tension between personal freedom and social restraint, but to be in b
 
 - Resist the “quest for certainty”
 - Balance individual autonomy and collective identity/cohesivness
-- Balance individual and collective interest
+- Balance individual self-interest and collective gain
 - Balance facilitation and instruction
 - Balance innovation with what has worked in the past
 - Balance transformation with transmission
 - Balance freedom and structure
 - Balance aimless play and the relentless pursuit of a predetermined goal
 - Balance free exploration/play and directed rigor
+- Balance chaos and order
+- Balance Autonomy and Alignment
 
 > "Too much hierarchical control, and participants become passive and dependent or hostile and resistant. They wane in self-direction, which is the core of all learning. Too much cooperative guidance may degenerate into a subtle kind of nurturing oppression, and may deny the group the benefits of totally autonomous learning. Too much autonomy for participants and laissez-faire on your part, and they may wallow in ignorance, misconception, and chaos." ~ John Heron
 
-## Sustain the tension between Individual freedom and collective responsibility
+## Sustain the social dilemma (tension between Individual self-interest and collective gain)
 
 There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the communal whole above our personal desires. Total individualism (as found inAyn Rand’s writings, for example) views society only as an oppressive force— any collaborative communal endeavor is rejected as a mindless “collectivism.” This is an imbalanced and partial perspective, because many vitally important endeavors require collaborative effort— a generous give and take rather than unyielding self-assertion. But too much emphasis on social, cultural or political unification gives us standardization and technocracy, if not outright dictatorship. Dewey had it right: Genuine democracy is a dynamic tension between self and society, a continual rebalancing and reconstruction that honors both authentic individuality and a common good that asks individuals to look beyond
 themselves. It is engaged intelligence, not fixed ideology, that enables us to judge how much emphasis to give to one aspect or another in each situation.
@@ -79,6 +81,9 @@ There is a significant and difficult to measure value that comes from human conn
   - Separate support and evaluation
   - We are a vocational learning community. Resist the urge to sneak in a liberal arts agenda.
   - Don't teach a person to fish, create a community where she can learn to learn anything.
+  - Don’t Just Teach Content, Explain the Learning Process
+  - Learners create the learning map, and practitioners serve as the compass
+  - Self determination, and self direction
 
 
 ## Theoretical accuracy over implementation precision
@@ -226,3 +231,36 @@ Constructivism describes a range of teaching/learning approaches which have at t
 - Ability to see connections between fields, ideas, and concepts is a core skill.
 - Currency (accurate, up-to-date knowledge) is the intent of all connectivist learning activities.
 - Decision-making is itself a learning process. Choosing what to learn and the meaning of incoming information is seen through the lens of a shifting reality. While there is a right answer now, it may be wrong tomorrow due to alterations in the information climate affecting the decision.
+
+## Lists of Design Principles for Communities
+### Axelrod's (1984) requirements for the possibility of cooperation:
+- Arrange that individuals will meet each other again
+- They must be able to recognize each other
+- They must have information about how the other has behaved until now (reputation)
+
+### Ostrom's (1990) design principles of successful communities:
+- Group boundaries are clearly defined
+- Rules governing the use of collective goods are well matched to local needs and conditions
+- Most individuals affected by these rules can participate in modifying the rules
+- The right of community members to devise their own rules is respected by external authorities
+- A system for monitoring members' behavior exists; this monitoring is undertaken by the community members themselves
+- A graduated system of sanctions is used
+- Community members have access to low-cost conflict resolution mechanisms
+
+### Godwin's (1994) principles for making virtual communities work:
+- Use software that promotes good discussion
+- Don't impose a length limitation on postings
+- Front-load your system with talkative, diverse people
+- Let the users resolve their own disputes
+- Provide institutional memory
+- Promote continuity
+- Confront the users with a crisis
+
+## Heutagogy foundations
+
+- Flexible and negotiated assessment
+- Having the learner generate contextually relevant content
+- True collaboration regarding content and process between teacher and learner
+- The involvement of the environment in the learning
+- Spontaneous and organic learning experiences
+- Flexible curricula
