@@ -6,7 +6,7 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
 
-1. [Don't build a school. Grow a learning community.](#dont-build-a-school-grow-a-learning-community)
+1. [Don't build a school. Cultivate a learning community.](#dont-build-a-school-cultivate-a-learning-community)
 2. [Prioritize Scale over quality](#prioritize-scale-over-quality)
 3. [Align incentives](#align-incentives)
 4. [Build it as a team game](#build-it-as-a-team-game)
