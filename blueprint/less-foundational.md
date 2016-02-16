@@ -283,3 +283,12 @@ Principle 5 – Context. Learning is facilitated by a context of practice that i
 Principle 6 – Engagement. Learners will often engage in certain activities as a matter of habit, though they are also influenced by their current capacity to engage, as well as factors of motivation and inhibition related to the activity as a whole, part of the activity, its circumstances, or its expected results.
 
 Principle 7 – Agency. Learners are not passive recipients of learning, but active agents with the ability to choose how they will apply their attention and effort, and to choose what learning activities they will engage in. Others may exercise their agency to promote or inhibit the agency of the learner, and may play a role in facilitating or impeding successful learning.
+
+## Principles of distributed learning communities
+
+- Distributed control
+- Commitment to the generation and sharing of new knowledge
+- Flexible and negotiated learning activities
+- Autonomous community members
+- High levels of dialogue, interaction and collaboration
+- A shared goal, problem or project that brings a common focus and incentive to work together
