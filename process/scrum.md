@@ -81,12 +81,12 @@ When moving an issue into review, copy and paste the following into a comment on
 
 _In order for an issue to be marked as `passing`, the proposed solution must be aligned with our foundations. Check off the foundations that this solution is consistent with._
 
-- [ ] Don't build a school. Grow a learning community.
+- [ ] Don't build a school. Cultivate a learning community.
 - [ ] Prioritize Scale over quality
 - [ ] Align incentives
 - [ ] Build it as a team game
 - [ ] Trust the learner
-- [ ] Enable self-organization
+- [ ] Enable self-organization & self-determination
 - [ ] Feedback should flow like wine
 - [ ] Optimize for agility
 - [ ] Simulation not preparation
