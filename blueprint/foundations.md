@@ -11,7 +11,7 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 3. [Align incentives](#align-incentives)
 4. [Build it as a team game](#build-it-as-a-team-game)
 5. [Trust the learner](#trust-the-learner)
-6. [Enable self-organization](#enable-self-organization--self-determination)
+6. [Enable self-organization & self-determination](#enable-self-organization--self-determination)
 7. [Feedback should flow like wine](#feedback-should-flow-like-wine)
 8. [Optimize for agility](#optimize-for-agility)
 9. [Simulation not preparation](#simulation-not-preparation)
