@@ -264,3 +264,22 @@ Constructivism describes a range of teaching/learning approaches which have at t
 - The involvement of the environment in the learning
 - Spontaneous and organic learning experiences
 - Flexible curricula
+
+
+
+## 7 PRINCIPLES OF LEARNING – THE SHORT VERSION
+Seven principles of learning, the foundation of a Principles-of-Learning Framework (Weibell, 2011),
+
+Principle 1 – Potential. Humans are endowed with an inherent potential for increase in capacity, the establishment of habit, and the definition of being.
+
+Principle 2 – Target. Human potential may be channeled intentionally toward a specific, predetermined target of learning, or will otherwise follow incidentally from the conditions to which a person is subjected.
+
+Principle 3 – Change. Learning is a specific type of change, which is governed by principles of (a) repetition, (b) time, (c) step size, (d) sequence, (e) contrast, (f) significance, and (g) feedback.
+
+Principle 4 – Practice. Principles of change are activated and aligned with learning targets through models of practice, exercise, or experience.
+
+Principle 5 – Context. Learning is facilitated by a context of practice that is the same as, or accurately represents, the context of performance.
+
+Principle 6 – Engagement. Learners will often engage in certain activities as a matter of habit, though they are also influenced by their current capacity to engage, as well as factors of motivation and inhibition related to the activity as a whole, part of the activity, its circumstances, or its expected results.
+
+Principle 7 – Agency. Learners are not passive recipients of learning, but active agents with the ability to choose how they will apply their attention and effort, and to choose what learning activities they will engage in. Others may exercise their agency to promote or inhibit the agency of the learner, and may play a role in facilitating or impeding successful learning.
