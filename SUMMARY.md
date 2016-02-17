@@ -10,6 +10,7 @@
   - [Foundations](blueprint/foundations.md)
   - [Less Foundational](blueprint/less-foundational.md)
   - [Meta Goals](blueprint/meta-goals.md)
+- [Documentation](docs/README.md)
 - [Player](player/README.md)
   - [Player Characteristics](player/player-characteristics.md)
   - [Player Experience Goals](player/player-experience-goals.md)
