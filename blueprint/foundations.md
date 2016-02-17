@@ -107,7 +107,7 @@ Ensure tools support personal choice and freedom as well as responsibility for t
     - Induce behavior through feedback, offers and suggestions
     - Player Support and challenges are always offered, never imposed
   - Build peer to peer accountability structures
-  - Learners are responsible for their physical environment
+  - Learners are responsible for their physical environment (they won't sign leases, by they should do their own dishes)
   - Give learners autonomy over their pace
   - Design for a large solution space
   - Prioritize learners’ abilities to self-teach, develop mindfulness, and organize within their pod over their adherence to a defined set of instructions.
