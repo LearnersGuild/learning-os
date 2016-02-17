@@ -10,9 +10,9 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 2. [Prioritize Scale over quality](#prioritize-scale-over-quality)
 3. [Align incentives](#align-incentives)
 4. [Build it as a team game](#build-it-as-a-team-game)
-5. [Trust the learner](#trust-the-learner)
+5. [Trust people's intentions and potential](#trust-peoples-intentions-and-potential)
 6. [Enable self-organization & self-determination](#enable-self-organization-self-determination)
-7. [Feedback should flow like wine](#feedback-should-flow-like-wine)
+7. [Map feedback loops](#map-feedback-loops)
 8. [Optimize for agility](#optimize-for-agility)
 9. [Simulation not preparation](#simulation-not-preparation)
 
@@ -67,8 +67,9 @@ Since the OS is optimized for skills that require people to build things togethe
   - Reality is the assessor
 	- Design for team play
 	- Foster teamwork
+  - Design for flux, dynamism and tension between individual self interest and collective gain
 
-## Trust the learner
+## Trust people's intentions and potential
 The dominant education paradigm is built on a fear and mistrust of the learner. A more generative and effective approach is to assume the fundamental trustworthiness and goodness of people and design accordingly.
 
 Education should be built on a fundamental trust in people. People will rise or fall to the degree that they feel trusted. We approach everything with a developmental mindset. Design a system based on the belief that everyone has inherent potential that may not yet have been realized.
@@ -112,8 +113,9 @@ Ensure tools support personal choice and freedom as well as responsibility for t
   - Prioritize learners’ abilities to self-teach, develop mindfulness, and organize within their pod over their adherence to a defined set of instructions.
   - Provide guidance and mentorship not content delivery and enforcement of predefined linear progress.
   - Don’t abdicate your authority. Own your authority while supporting their autonomy.
+  - Doesn't mean no structure. Just that participants get to co-create it, and structure is offered not imposed.
 
-## Feedback should flow like wine
+## Map feedback loops
   - Focus on the feedback loops
   - Create culture through feedback
   - Create a culture of feedback
