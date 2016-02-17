@@ -1,8 +1,8 @@
-# Foundations
+# Design Principles
 
-Foundations should guide why and how a feature is added, and should serve as an integration test before any new features are accepted.
+Design Principles should guide why and how a feature is added, and should serve as an integration test before any new features are accepted.
 
-They are the foundations upon which our entire design rests. The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** and **design guidelines** that underlie our LOS? [^1]
+The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** and **design guidelines** that underlie our LOS? [^1]
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
 
