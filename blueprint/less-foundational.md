@@ -245,7 +245,7 @@ Constructivism describes a range of teaching/learning approaches which have at t
 - The right of community members to devise their own rules is respected by external authorities
 - A system for monitoring members' behavior exists; this monitoring is undertaken by the community members themselves
 - A graduated system of sanctions is used
-- Community members have access to low-cost conflict resolution mechanisms
+- Members have access to low-cost conflict resolution mechanisms
 
 ### Godwin's (1994) principles for making virtual communities work:
 - Use software that promotes good discussion

@@ -1,8 +1,8 @@
-# Foundations
+# Design Principles
 
-Foundations should guide why and how a feature is added, and should serve as an integration test before any new features are accepted.
+Design Principles should guide why and how a feature is added, and should serve as an integration test before any new features are accepted.
 
-They are the foundations upon which our entire design rests. The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** and **design guidelines** that underlie our LOS? [^1]
+The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** and **design guidelines** that underlie our LOS? [^1]
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
 
@@ -15,22 +15,23 @@ They are the foundations upon which our entire design rests. The **beliefs**, **
 7. [Feedback should flow like wine](#feedback-should-flow-like-wine)
 8. [Optimize for agility](#optimize-for-agility)
 9. [Simulation not preparation](#simulation-not-preparation)
+10. [Sustain the social dilemma (tension between Individual self-interest and collective gain)](#sustain-the-social-dilemma-tension-between-individual-self-interest-and-collective-gain)
 
 <!-- /TOC -->
 
 > "Be bold, and mighty forces will come to your aid."
 
-## Don't build a school. Cultivate a learning community.
+## Don't build a school. Cultivate a learning collective.
 
-The OS is the soil in which a learning community grows and thrives. Not a factory/machine that makes workers.
+The OS is the soil in which a learning collective grows and thrives. Not a factory/machine that makes workers.
 
   - Don't iterate on what's out there. We need a radical solution. A different category. A paradigm shift
   - Don't build a bigger better bootcamp. A school, by any other name, would smell as bad
-  - Schools are built. Communities are grown
-  - Schools have central control. Communities have distributed control
-  - Schools are organized by administration and teachers. Communities are self organizing
-  - Conceptualize our learning community as distributed across multiple locations
-  - Think of the practitioners and learning facilitators as paid members of the community, not LG staff
+  - Schools are built. Collectives are grown
+  - Schools have central control. Collectives have distributed control
+  - Schools are organized by administration and teachers. Collectives are self organizing
+  - Conceptualize our learning collective as distributed across multiple locations
+  - Think of the practitioners and learning facilitators as paid members of the collective, not LG staff
   - Design for transformation not transmission
   - Take a risk with your design
     - Examine and eliminate all assumptions. Resist the gravitational pull of what's been done before
@@ -38,7 +39,7 @@ The OS is the soil in which a learning community grows and thrives. Not a factor
     - Be bold. The design should feel dangerous. It should inspire you, and slightly scare you
 
 ## Prioritize Scale over quality
-At the core of a for profit education business is a trade off between quality and scale. Learners Guild's mission is to build highly scalable learning communities. We approach our design with the question: “How can this highly scalable design be of excellent quality?” rather than “How can this excellent quality design scale?”.
+At the core of a for profit education business is a trade off between quality and scale. Learners Guild's mission is to build highly scalable learning collectives. We approach our design with the question: “How can this highly scalable design be of excellent quality?” rather than “How can this excellent quality design scale?”.
 
 Any feature too complex to scale (for example, if it depends on rockstar, highly talented individuals) should be cut.
 
@@ -54,7 +55,7 @@ As much as possible, the design should align the success of learners and LG. The
   - Align individual objectives, with what's good for the learning environment. Instead of demanding benevolence of our learners, the system should align with personal self interest to create a benevolent emergent environment.
 	- Success on the job and success at LG are the same thing
     "It’s basically covered by taking the responsibility on us to create the benevolent culture, not asking learners to necessarily be benevolent.  Meaning any skill that we require of them to learn/demonstrate needs to be for their own good with the express purpose of attaining a dignified livelihood, and not bleed in other purposes, eg: Disrupting education, creating a learning environment for everyone, making Learner’s Guild an awesome place.  These things are our responsibility, not the players'"
-  - The business and community support each other
+  - The business and collective support each other
 
 ## Build it as a team game
 Play is the optimal state for learning. We have been making up games, playing them, and learning from them since before we could talk or walk! So, let's build a game.
@@ -67,8 +68,9 @@ Since the OS is optimized for skills that require people to build things togethe
   - Reality is the assessor
 	- Design for team play
 	- Foster teamwork
+  - Design for flux, dynamism and tension between individual self interest and collective gain
 
-## Trust the learner
+## Trust people's intentions and potential
 The dominant education paradigm is built on a fear and mistrust of the learner. A more generative and effective approach is to assume the fundamental trustworthiness and goodness of people and design accordingly.
 
 Education should be built on a fundamental trust in people. People will rise or fall to the degree that they feel trusted. We approach everything with a developmental mindset. Design a system based on the belief that everyone has inherent potential that may not yet have been realized.
@@ -91,12 +93,14 @@ Humans are motivated most strongly by the need for autonomy, growth, and purpose
 
 Ensure tools support personal choice and freedom as well as responsibility for those choices. Everyone should have the opportunity to participate in designing and upgrading the structures which guide them.
 
-- Decentralize authority
+- Decentralize authority: Self organizing doesn't mean there is no authority. It means that authority is earned rather than conferred.
+- Decentralize power. Doesn't mean no power differentials.  
+- Doesn't mean no structure. Just that players get to co-create it, and structure is offered not imposed
 - Maximize autonomy, personal agency and responsibility
   - Maximize learners capacity to participate in shaping their experience
   - Learners should decide when, where and how they learn, and what they are learning
   - Authorship of the education falls on the learner
-  - Community should be largely self-organizing
+  - Collective should be largely self-organizing
   - Amplify Agency
 - We are not the learners' parents. Resist the parental approach to education.
   - We are a kitchen, not a restaurant. Resist the "education as a service" orientation.
@@ -106,14 +110,15 @@ Ensure tools support personal choice and freedom as well as responsibility for t
     - Induce behavior through feedback, offers and suggestions
     - Player Support and challenges are always offered, never imposed
   - Build peer to peer accountability structures
-  - Learners are responsible for their physical environment
+  - Learners are responsible for their physical environment (they won't sign leases, by they should do their own dishes)
   - Give learners autonomy over their pace
   - Design for a large solution space
   - Prioritize learners’ abilities to self-teach, develop mindfulness, and organize within their pod over their adherence to a defined set of instructions.
   - Provide guidance and mentorship not content delivery and enforcement of predefined linear progress.
-  - Don’t abdicate your authority. Own your authority while supporting their autonomy. 
+- Don’t abdicate your authority. Own your authority while supporting their autonomy.
+- Allow for expertise, skill differentials, and power differentials. Just don't force them.
 
-## Feedback should flow like wine
+## Map feedback loops
   - Focus on the feedback loops
   - Create culture through feedback
   - Create a culture of feedback
@@ -163,6 +168,28 @@ For example, apprentice programmers should receive feedback on their code throug
 
 Can we create/support an environment that does not shield learners from the possible dysfunctions of work life, and enables them to become so familiar with another mode of life that when they encounter dysfunction they are not thrown off, and also do not become part of it?
 
+## Sustain the social dilemma (tension between Individual self-interest and collective gain)
+
+- Minimize self-sacrifice required for collective [^3] learning
+- Don't sacrifice the collective for the individual
+- Use and hold the tension between the individual and the collective. resist the urge to choose one side or another.
+- Dignity is derived from human connection & belonging
+- Balance Collaboration over individual excellence
+- "I can succeed without you. Your success and mine are related and connected."
+- "I could learn without you. I learn better with you."
+- Value/valorize human connection
+
+There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the collective whole above personal desires.
+
+Total individualism views society only as an oppressive force— any collaborative communal endeavor is rejected as a mindless “collectivism.” This is an imbalanced and partial perspective, because many vitally important endeavors require collaborative effort— a generous give and take rather than unyielding self-assertion. But too much emphasis on social, cultural or political unification gives us standardization and technocracy, if not outright dictatorship.
+
+Dewey had it right: Genuine democracy is a dynamic tension between self and society, a continual rebalancing and reconstruction that honors both authentic individuality and a common good that asks individuals to look beyond
+themselves. It is engaged intelligence, not fixed ideology, that enables us to judge how much emphasis to give to one aspect or another in each situation.
+
+There is a significant and difficult to measure value that comes from human connection and belonging.
+
+
+
 ---
 
 [More less foundational foundations here](less-foundational)
@@ -174,3 +201,5 @@ Can we create/support an environment that does not shield learners from the poss
 
 [seven-levels-of-thought]:../process/seven-levels-of-thought.md
 [less-foundational]:lessfoundational.md
+
+[^3]: http://www.newcultureoflearning.com/community2collective.pdf
