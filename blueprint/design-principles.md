@@ -6,13 +6,13 @@ The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** 
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
 
-1. [Don't build a school. Cultivate a learning collective.](#dont-build-a-school-cultivate-a-learning-collective)
+1. [Don't build a school. Cultivate a learning community.](#dont-build-a-school-cultivate-a-learning-community)
 2. [Prioritize Scale over quality](#prioritize-scale-over-quality)
 3. [Align incentives](#align-incentives)
 4. [Build it as a team game](#build-it-as-a-team-game)
-5. [Trust people's intentions and potential](#trust-peoples-intentions-and-potential)
-6. [Enable self-organization & self-determination](#enable-self-organization-self-determination)
-7. [Map feedback loops](#map-feedback-loops)
+5. [Trust the learner](#trust-the-learner)
+6. [Enable self-organization & self-determination](#enable-self-organization--self-determination)
+7. [Feedback should flow like wine](#feedback-should-flow-like-wine)
 8. [Optimize for agility](#optimize-for-agility)
 9. [Simulation not preparation](#simulation-not-preparation)
 10. [Sustain the social dilemma (tension between Individual self-interest and collective gain)](#sustain-the-social-dilemma-tension-between-individual-self-interest-and-collective-gain)

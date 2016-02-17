@@ -1,1 +1,2 @@
-{% include book.guide_glossary %}
+
+# Glossary
