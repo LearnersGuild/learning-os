@@ -6,7 +6,7 @@ The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** 
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
 
-1. [Don't build a school. Cultivate a learning community.](#dont-build-a-school-cultivate-a-learning-community)
+1. [Cultivate a learning collective](#dont-build-a-school-cultivate-a-learning-community)
 2. [Prioritize Scale over quality](#prioritize-scale-over-quality)
 3. [Align incentives](#align-incentives)
 4. [Build it as a team game](#build-it-as-a-team-game)
@@ -21,22 +21,19 @@ The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** 
 
 > "Be bold, and mighty forces will come to your aid."
 
-## Don't build a school. Cultivate a learning collective.
+## Cultivate a learning collective
 
 The OS is the soil in which a learning collective grows and thrives. Not a factory/machine that makes workers.
 
   - Don't iterate on what's out there. We need a radical solution. A different category. A paradigm shift
-  - Don't build a bigger better bootcamp. A school, by any other name, would smell as bad
-  - Schools are built. Collectives are grown
-  - Schools have central control. Collectives have distributed control
-  - Schools are organized by administration and teachers. Collectives are self organizing
-  - Conceptualize our learning collective as distributed across multiple locations
-  - Think of the practitioners and learning facilitators as paid members of the collective, not LG staff
-  - Design for transformation not transmission
-  - Take a risk with your design
+    - Take a risk with your design
     - Examine and eliminate all assumptions. Resist the gravitational pull of what's been done before
     - Start at first principles, and change things at the roots
-    - Be bold. The design should feel dangerous. It should inspire you, and slightly scare you
+    - Be bold. The design should feel dangerous. It should inspire you, and slightly scare you    
+  - Don't get stuck building a bigger better bootcamp
+  - Conceptualize our learning collective as distributed across multiple locations
+  - Design for transformation not transmission
+
 
 ## Prioritize Scale over quality
 At the core of a for profit education business is a trade off between quality and scale. Learners Guild's mission is to build highly scalable learning collectives. We approach our design with the question: “How can this highly scalable design be of excellent quality?” rather than “How can this excellent quality design scale?”.
@@ -65,10 +62,8 @@ Since the OS is optimized for skills that require people to build things togethe
   - Follow a Game Enhanced Learning design methodology
   - Express the protocols, agents, artifacts, environments, and goals using game mechanics like player stats, discoverables, collectibles, maps, quests, challenges, rapid feedback loops, etc.
   - Design Tight feedback loops
-  - Reality is the assessor
-	- Design for team play
+  - Design for team play
 	- Foster teamwork
-  - Design for flux, dynamism and tension between individual self interest and collective gain
 
 ## Trust people's intentions and potential
 The dominant education paradigm is built on a fear and mistrust of the learner. A more generative and effective approach is to assume the fundamental trustworthiness and goodness of people and design accordingly.
@@ -164,11 +159,12 @@ For example, apprentice programmers should receive feedback on their code throug
 - Simulation not replication
 - Simulate "real life" work in the professional world
 - Co-create dignified livelihood from day 1
+- Real world performance is the assessment
 - Learners Guild should be the experience of dignified livelihood from beginning to end. Don't simulate dignified livelihood, be an ACTUAL dignified livelihood
 
 Can we create/support an environment that does not shield learners from the possible dysfunctions of work life, and enables them to become so familiar with another mode of life that when they encounter dysfunction they are not thrown off, and also do not become part of it?
 
-## Sustain the social dilemma (tension between Individual self-interest and collective gain)
+## Sustain the tension between individual self-interest and collective gain
 
 - Minimize self-sacrifice required for collective [^3] learning
 - Don't sacrifice the collective for the individual
@@ -178,6 +174,8 @@ Can we create/support an environment that does not shield learners from the poss
 - "I can succeed without you. Your success and mine are related and connected."
 - "I could learn without you. I learn better with you."
 - Value/valorize human connection
+- Design for flux, dynamism and tension between individual self interest and collective gain
+
 
 There is a tension between personal freedom and social restraint, but to be in balance we must maintain this tension, knowing that some circumstances call for an emphasis on individuality while in different situations we need to place the good (or the wisdom) of the collective whole above personal desires.
 
