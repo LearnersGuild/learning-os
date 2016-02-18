@@ -45,6 +45,8 @@ The purpose of the Investor-Learner contract is to codify the relationship betwe
 
 #### Values
 
+TBD
+
 <!-- TODO: figure out values -->
 
 #### Terms
@@ -98,6 +100,7 @@ The assessment that happens during the 8 month _reevaluation_ will be an objecti
 
 #### Statistics
 
+TBD
 <!-- TODO: depends on in-game statistics, yet to be determined --->
 
 
