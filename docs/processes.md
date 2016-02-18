@@ -1,5 +1,25 @@
 # Documentation: Processes
 
+Processes that dictate how players interact with the game.
+
+The most basic processes are those that cover the ways roles interact with contracts, and how contract states change:
+
+- Definition process
+- Commitment process
+- Engagement process
+- Closing process
+- Assessment process
+- Amendment process
+- Voiding process
+
+In addition, there may be specific processes that define how roles interact with each other:
+
+- Feedback process (for roles to give feedback to each other)
+- Help request process (for roles to request help from each other)
+- ...
+
+In other words, as a player interacting with the LOS, you can only take action via the available processes. They are the rules which govern the system.
+
 A process is defined by four simple attributes:
 
 - Purpose
