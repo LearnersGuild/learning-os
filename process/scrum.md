@@ -72,22 +72,23 @@ During a sprint review, every developer shares their work from the sprint. At mi
 ## Retrospective
 Not yet implemented.
 
-## Foundations Razor (Issue Tests)
+## Principles Razor (Issue Tests)
 
-When moving an issue into review, copy and paste the following into a comment on the issue (making sure to use the latest list of foundations):
+When moving an issue into review, copy and paste the following into a comment on the issue (making sure to use the latest list of principles):
 
 ```
-**Foundations razor:**
+**Principles razor:**
 
-_In order for an issue to be marked as `passing`, the proposed solution must be aligned with our foundations. Check off the foundations that this solution is consistent with._
+_In order for an issue to be marked as `passing`, the proposed solution must be aligned with our principles. Check off the foundations that this solution is consistent with._
 
-- [ ] Don't build a school. Cultivate a learning community.
+- [ ] Cultivate a learning community.
 - [ ] Prioritize Scale over quality
 - [ ] Align incentives
-- [ ] Build it as a team game
-- [ ] Trust the learner
+- [ ] Build a team game
+- [ ] Trust people's intentions and potential
 - [ ] Enable self-organization & self-determination
-- [ ] Feedback should flow like wine
+- [ ] Map feedback loops
 - [ ] Optimize for agility
 - [ ] Simulation not preparation
+- [ ] Sustain the tension between individual and collective gain
 ```
