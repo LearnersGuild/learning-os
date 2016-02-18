@@ -10,7 +10,7 @@ The LOS is comprised of five components:
 4. [Statistics](statistics.md)
 5. [Game Objects](game-objects.md)
 
-Together these form the structure of the LOS and allow for our learning environment to flourish according to the design principles defined in our [blueprint](../blueprint/principles.md).
+Together these form the structure of the LOS and allow for our learning environment to flourish according to the design principles defined in our [blueprint](../blueprint/design-principles.md).
 
 ## Overview
 
@@ -33,4 +33,4 @@ In addition, there are processes for roles to _assess_, _amend_, and _review_ a 
 
 The system also tracks **statistics** about many of the activities happening within. For example, there could be statistics that track the abilities a Learner role has achieved through their work completing contracts (Skill Stat). Similarly, there could be statistics about how many contracts a Mentor role has completed (Mentorship Stat).
 
-Finally, **game objects** are persistent artifacts used by players that span multiple processes and contracts. 
+Finally, **game objects** are persistent artifacts used by players that span multiple processes and contracts.
