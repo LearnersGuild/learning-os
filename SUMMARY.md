@@ -15,6 +15,7 @@
   - [Contracts](docs/contracts.md)
   - [Processes](docs/processes.md)
   - [Statistics](docs/stats.md)
+  - [Game Objects](docs/game-objects.md)
 - [Player](player/README.md)
   - [Player Characteristics](player/player-characteristics.md)
   - [Player Experience Goals](player/player-experience-goals.md)
