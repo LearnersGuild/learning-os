@@ -7,7 +7,7 @@
   - [Game v.s. Player Support](process/game-and-player-support.md)
   - [Scrum](process/scrum.md)
 - [Blue Print](blueprint/README.md)
-  - [Foundations](blueprint/foundations.md)
+  - [Design Principles](blueprint/design-principles.md)
   - [Less Foundational](blueprint/less-foundational.md)
   - [Meta Goals](blueprint/meta-goals.md)
 - [Documentation](docs/README.md)

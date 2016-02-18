@@ -71,3 +71,24 @@ During a sprint review, every developer shares their work from the sprint. At mi
 
 ## Retrospective
 Not yet implemented.
+
+## Principles Razor (Issue Tests)
+
+When moving an issue into review, copy and paste the following into a comment on the issue (making sure to use the latest list of principles):
+
+```
+**Principles razor:**
+
+_In order for an issue to be marked as `passing`, the proposed solution must be aligned with our principles. Check off the foundations that this solution is consistent with._
+
+- [ ] Cultivate a learning community.
+- [ ] Prioritize Scale over quality
+- [ ] Align incentives
+- [ ] Build a team game
+- [ ] Trust people's intentions and potential
+- [ ] Enable self-organization & self-determination
+- [ ] Map feedback loops
+- [ ] Optimize for agility
+- [ ] Simulation not preparation
+- [ ] Sustain the tension between individual and collective gain
+```

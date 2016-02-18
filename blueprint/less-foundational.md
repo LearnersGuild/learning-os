@@ -84,6 +84,8 @@ There is a significant and difficult to measure value that comes from human conn
   - Don’t Just Teach Content, Explain the Learning Process
   - Learners create the learning map, and practitioners serve as the compass
   - Self determination, and self direction
+  - We are not the learners' heroes or rescuers. Resist the temptation to save them.
+  
 
 
 ## Theoretical accuracy over implementation precision
@@ -245,7 +247,7 @@ Constructivism describes a range of teaching/learning approaches which have at t
 - The right of community members to devise their own rules is respected by external authorities
 - A system for monitoring members' behavior exists; this monitoring is undertaken by the community members themselves
 - A graduated system of sanctions is used
-- Community members have access to low-cost conflict resolution mechanisms
+- Members have access to low-cost conflict resolution mechanisms
 
 ### Godwin's (1994) principles for making virtual communities work:
 - Use software that promotes good discussion
