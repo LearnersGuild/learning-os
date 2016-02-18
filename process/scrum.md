@@ -74,21 +74,6 @@ Not yet implemented.
 
 ## Principles Razor (Issue Tests)
 
-When moving an issue into review, copy and paste the following into a comment on the issue (making sure to use the latest list of principles):
+When moving an issue into review, make sure to apply the principles razor - the solution should be aligned with our [design principles](../blueprint/design-principles.md).
 
-```
-**Principles razor:**
-
-_In order for an issue to be marked as `passing`, the proposed solution must be aligned with our principles. Check off the foundations that this solution is consistent with._
-
-- [ ] Cultivate a learning community.
-- [ ] Prioritize Scale over quality
-- [ ] Align incentives
-- [ ] Build a team game
-- [ ] Trust people's intentions and potential
-- [ ] Enable self-organization & self-determination
-- [ ] Map feedback loops
-- [ ] Optimize for agility
-- [ ] Simulation not preparation
-- [ ] Sustain the tension between individual and collective gain
-```
+By default, all issues should have the razor copied over (via the [issue template](../.github/ISSUE_TEMPLATE.md)), but it's good to be sure that the ones included in your issue are accurate and up-to-date.
