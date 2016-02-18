@@ -20,7 +20,7 @@ In addition, there may be specific processes that define how roles interact with
 
 In other words, as a player interacting with the LOS, you can only take action via the available processes. They are the rules which govern the system.
 
-A process is defined by four simple attributes:
+A process is defined by three simple attributes:
 
 - Purpose
 - Steps
