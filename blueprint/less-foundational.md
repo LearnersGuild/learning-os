@@ -84,6 +84,8 @@ There is a significant and difficult to measure value that comes from human conn
   - Don’t Just Teach Content, Explain the Learning Process
   - Learners create the learning map, and practitioners serve as the compass
   - Self determination, and self direction
+  - We are not the learners' heroes or rescuers. Resist the temptation to save them.
+  
 
 
 ## Theoretical accuracy over implementation precision
