@@ -36,27 +36,6 @@ Finally, the system tracks **statistics** about many of the activities happening
 
 ## Interacting with the LOS
 
-### Using Processes
-
-There are processes that dictate how roles interact with the system. These processes constrain and guide how people interact with the LOS.
-
-The most basic processes are those that cover the ways roles interact with contracts:
-
-- Definition process
-- Commitment process
-- Engagement process
-- Closing process
-- Assessment process
-- Amendment process
-- Voiding process
-
-In addition, there may be specific processes that define how roles interact with each other:
-
-- Feedback process (for roles to give feedback to each other)
-- Help request process (for roles to request help from each other)
-- ...
-
-In other words, as a person interacting with the LOS, you can only take action via the available processes. They are the rules which govern the system.
 
 ### Measuring Statistics
 
