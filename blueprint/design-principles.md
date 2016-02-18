@@ -5,6 +5,20 @@ They describe the outcome of the design. The OS itself. They are used as things 
 
 The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** and **design guidelines** that underlie our LOS? [^1]
 
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
+
+1. [Cultivate a learning collective](#cultivate-a-learning-collective)
+2. [Prioritize Scale over quality](#prioritize-scale-over-quality)
+3. [Align incentives](#align-incentives)
+4. [Build a team game](#build-a-team-game)
+5. [Trust people's intentions and potential](#trust-peoples-intentions-and-potential)
+6. [Enable self-organization & self-determination](#enable-self-organization-self-determination)
+7. [Map feedback loops](#map-feedback-loops)
+8. [Optimize for agility](#optimize-for-agility)
+9. [Simulation not preparation](#simulation-not-preparation)
+10. [Sustain the tension between individual and collective gain](#sustain-the-tension-between-individual-and-collective-gain)
+
+<!-- /TOC -->
 
 > "Be bold, and mighty forces will come to your aid."
 
