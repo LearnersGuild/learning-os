@@ -32,18 +32,3 @@ In order to work with contracts, there are several defined **processes**. At min
 In addition, there are processes for roles to _assess_, _amend_, and _review_ a contract. These processes are not a part of the lifecycle, but are available for roles to use when necessary and appropriate.
 
 Finally, the system tracks **statistics** about many of the activities happening within. For example, there could be statistics that track the abilities a Learner role has achieved through their work completing contracts (Skill Stat). Similarly, there could be statistics about how many contracts a Mentor role has completed (Mentorship Stat).
-
-
-## Interacting with the LOS
-
-
-### Measuring Statistics
-
-Statistics are gathered from many places within the system. Their primary purpose is to give feedback to roles, in order to help roles answer questions like:
-
-- What is my current state?
-- How am I progressing toward my contract goals?
-- Where am I in relation to other people in the system?
-- How is the overall system doing?
-
-Statistics, when used correctly, are the fuel that powers learning.
