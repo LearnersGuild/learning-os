@@ -56,13 +56,13 @@ The investor learner contract goes through 7 stages:
   - During the _trial period_, a Learner must be on-site, playing the game for a minimum of 40 hours per week.
 - Learner commits to remain in the _engagement period_ until either:
   - a minimum of 8 months have passed, or
-  - until a full-time employment position as a software engineer is accepted.
+  - until a full-time employment position appying their craft is accepted.
   - During the _engagement period_, a Learner must commit to being on-site, playing the game for a minimum of 40 hours per week.
 - Learner commits to repaying the money borrowed, plus interest, once the contract is in  _dignified livelihood_.
 
 ## Success criteria
 
-To successfully complete and _close_ the contract, a Learner must attain a full-time employment position as a software engineer and fully repay their debt.
+To successfully complete and _close_ the contract, a Learner must attain a full-time employment position applying their craft and fully repay their debt.
 
 ## Assessment method
 
