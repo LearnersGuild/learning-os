@@ -40,7 +40,7 @@ Every contract contains (at minimum) the following attributes:
 ### Role Contracts
 A contract for committing to a role.
 
-[Investor Learner Contract](/contracts/investor-learner.md)
+[Investor Learner Contract](contracts/investor-learner.md)
 
 <!-- TODO: define contract -->
 
