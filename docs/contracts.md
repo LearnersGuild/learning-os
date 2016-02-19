@@ -62,7 +62,7 @@ If the contract is _voided_ at any time during the _trial period_, any grant mon
 
 The duration of _engagement period_ is flexible. The contract is deemed _closed_ when the Learner stops playing the game in order to pursue a full-time position of employment as a software engineer.
 
-Once the contract is _closed_, Learners must repay any money borrowed during the _engagement period_, plus interest.
+Once the contract is _closed_, Learners must repay any money borrowed during the _engagement period_, plus interest, as described in "Commitments" below.
 
 Continuing in the _engagement period_ for 8 months will trigger a _reassessment_. This _reassessment_ of the Learner's statistics may render them ineligible to receive further funding. At such a point, the contract will be deemed _closed_.
 
