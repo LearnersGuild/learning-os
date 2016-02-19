@@ -12,18 +12,17 @@ TBD
 
 ## Terms
 
-The investor learner contract goes through 7 stages:
+The Investor-Learner contract may exist in any of 8 different stages:
 
 1. Trial
-  - Trial state lasts 2 months.
-  - During trial state the investor gives a $1000 a month grant to the learner.
-
+  - Trial stage lasts 2 months.
+  - During trial stage the investor gives a grant of $1,000 per month to the Learner.
 
 2. Engagement
   - At the end of the _trial_, the Learner will go through an _assessment_ to determine wether or not they move on to  _engagement_.
-  - During _engagement_ the investor loans the Learner $2000 a month
+  - During _engagement_ the investor loans the Learner $2,000 a month
   - Engagement state has a flexible duration
-  - If a Learner wants to continue to receive $2000 in stipend past 8 months, they need to pass a _reassessment_.
+  - If a Learner wants to continue to receive $2,000 in stipend past 8 months, they need to pass a _reassessment_.
   - If they don't pass _reassessment_ they may still continue to play the game but the investor will no longer be giving them a loan.
 
 3. Job Hunt
