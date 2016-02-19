@@ -76,7 +76,7 @@ Continuing in the _engagement period_ for 8 months will trigger a _reassessment_
   - until a full-time employment position as a software engineer is accepted.
   - During the _engagement period_, a Learner must commit to being on-site, playing the game for a minimum of 40 hours per week.
 - A Learner must commit to repaying the money borrowed, plus interest, once the contract is _closed_.
-  - Interest will be calculated at an APR of 10%.
+  - Interest will be calculated at a fixed APR of 10%.
   - No interest will be accumulated until such time as the Learner obtains a full-time employment position with a salary at or above $50,000 per annum.
 
 ##### Success criteria
