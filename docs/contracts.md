@@ -64,7 +64,7 @@ The duration of _engagement period_ is flexible. The contract is deemed _closed_
 
 Once the contract is _closed_, Learners must repay any money borrowed during the _engagement period_, plus interest, as described in "Commitments" below.
 
-Continuing in the _engagement period_ for 8 months will trigger a _reassessment_. This _reassessment_ of the Learner's statistics may render them ineligible to receive further funding. At such a point, the contract will be deemed _closed_.
+Continuing in the _engagement period_ for 8 months will trigger a _reassessment_. This _reassessment_ of the Learner may render them ineligible to receive further funding. At such a point, the contract will be deemed _closed_.
 
 ##### Commitments
 
