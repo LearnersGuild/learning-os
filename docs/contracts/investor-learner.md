@@ -14,20 +14,23 @@ TBD
 
 The investor learner contract goes through 7 stages:
 
-1. Trial Period
+1. Trial
+  - Trial state lasts 2 months.
+  - During trial state the investor gives a $1000 a month grant to the learner.
 
+2. Engagement
+  - At the end of the _trial_, the Learner will go through an _assessment_ to determine wether or not they move on to  _engagement_.
+  - During _engagement_ the investor loans the Learner $2000 a month
+  - Engagement state has a flexible duration
+  - If a Learner wants to continue to receive $2000 in stipend past 8 months, they need to pass a _reassessment_.
+  - If they don't pass _reassessment_ they may still continue to play the game but the investor will no longer be giving them a loan.
 
-Any Learner invited to enroll into Learners Guild will receive from the Investor:
+3. Job Hunt
+  - A contract moves to job hunt when a Learner leaves the game
+  - During Job Hunt the investor stops loaning the Learner
 
-- A grant of $1,000 per month for the participation in the 2 month _trial period_.
-- A loan of $2,000 per month for each month that they participate beyond the _trial period_, called the _engagement period_.
-
-At the end of the _trial period_, the Learner will go through an _assessment_ to determine wether or not they move on to the _engagement period_.
-
-The duration of _engagement period_ is flexible.
-
-If a Learner wants to continue in the _engagement period_ for more than 8 months, they need to pass a _reassessment_. This _reassessment_ of the Learner may render them ineligible to receive further funding. At such a point, the contract will be deemed _closed_.
-
+4.   
+3. Closed
 The contract is also _closed_ when the Learner stops playing the game in order to start working as a full time software engineer.
 
 Once the contract is _closed_, Learners must repay any money borrowed during the _engagement period_, plus interest (see "Commitments" below).

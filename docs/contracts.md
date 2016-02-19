@@ -37,11 +37,10 @@ Every contract contains (at minimum) the following attributes:
 
 ## Contracts
 
-[Investor Learner Contract](/contracts/investor-learner.md)
-
-
-### Role Contract
+### Role Contracts
 A contract for committing to a role.
+
+[Investor Learner Contract](/contracts/investor-learner.md)
 
 <!-- TODO: define contract -->
 
