@@ -18,6 +18,7 @@ The investor learner contract goes through 7 stages:
   - Trial state lasts 2 months.
   - During trial state the investor gives a $1000 a month grant to the learner.
 
+
 2. Engagement
   - At the end of the _trial_, the Learner will go through an _assessment_ to determine wether or not they move on to  _engagement_.
   - During _engagement_ the investor loans the Learner $2000 a month
@@ -28,33 +29,44 @@ The investor learner contract goes through 7 stages:
 3. Job Hunt
   - A contract moves to job hunt when a Learner leaves the game
   - During Job Hunt the investor stops loaning the Learner
+  - No interest is added to the learner's loan during this time
 
-4.   
-3. Closed
-The contract is also _closed_ when the Learner stops playing the game in order to start working as a full time software engineer.
+4. Employed
+  - A contract moves to _employed_ once a Learner gets a full time job using their craft
+  - No interest is added to the learner's loan during this time
 
-Once the contract is _closed_, Learners must repay any money borrowed during the _engagement period_, plus interest (see "Commitments" below).
+5. Dignified Livelihood
+  - A contract moves to _dignified livelihood_ once a Learner gets a full time job using their craft, with an annual salary of $50,000 or more.
+  - During _dignified livelihood_ the learner starts paying back their loan and interest starts to accumulated (see "Commitments" below).
+  - Payback is over 7 years with a fixed APR of 6%
+
+6. Closed - Success
+  - Learner debt is paid off and contract is closed
+
+7. Closed - Fail
+  - Over 12 months pass from the end of _engagement period_ and learner was not able to gain  _dignified livelihood_ despite their best and sincere effort
+  - Investor forgives all learner debt
+
+8. Voided
+  - If a Learner leaves the _trial period_ before 2 months have passed, the contract will be _voided_ and any grant money received by the Learner must be refunded to the Investor
 
 ## Commitments
 
-- A Learner must commit to the _trial period_ for the full 2 months.
-  - If a Learner leaves the _trial period_ before 2 months have passed, the contract will be _voided_ and any grant money received by the Learner must be refunded to the Investor
+- Learner commits to the _trial period_ for the full 2 months.
   - During the _trial period_, a Learner must be on-site, playing the game for a minimum of 40 hours per week.
-- A Learner must commit to remain in the _engagement period_ until either:
+- Learner commits to remain in the _engagement period_ until either:
   - a minimum of 8 months have passed, or
   - until a full-time employment position as a software engineer is accepted.
   - During the _engagement period_, a Learner must commit to being on-site, playing the game for a minimum of 40 hours per week.
-- A Learner must commit to repaying the money borrowed, plus interest, once the contract is _closed_.
-  - Interest will be calculated at a fixed APR of 10%.
-  - No interest will be accumulated until such time as the Learner obtains a full-time employment position with a salary at or above $50,000 per annum.
+- Learner commits to repaying the money borrowed, plus interest, once the contract is in  _dignified livelihood_.
 
 ## Success criteria
 
-To transition from the _trial period_ to the _engagement period_, a Learner must demonstrate a minimum aptitude in the profession of software engineering. This aptitude will be assessed as described in "Assessment method" below.
-
-Once a Learner has entered the _engagement period_, to successfully complete and _close_ the contract, a Learner must attain a full-time employment position as a software engineer.
+To successfully complete and _close_ the contract, a Learner must attain a full-time employment position as a software engineer and fully repay their debt.
 
 ## Assessment method
+
+A Learner must demonstrate a minimum aptitude in their craft to pass the assessment.
 
 The assessment of a Learner interested in transitioning from the _trial period_ to the _engagement period_ will be comprised of two components:
 
