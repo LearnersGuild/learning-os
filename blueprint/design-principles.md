@@ -1,7 +1,7 @@
 # Design Principles
 
 Design Principles should guide why and how a feature is added, and should serve as an integration test before any new features are accepted.
-They describe the outcome of the design. The OS itself. They are used as things that must not be violated, it doesn't mean that every issue that is merged needs to inculde all of these. They are not design elements they are principles.
+They describe the outcome of the design. The OS itself. They are used as things that must not be violated, it doesn't mean that every issue that is merged needs to include all of these. They are not design elements they are principles.
 
 The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** and **design guidelines** that underlie our LOS? [^1]
 
@@ -58,7 +58,7 @@ Since the OS is optimized for skills that require people to build things togethe
 
   - Follow a Game Enhanced Learning design methodology
   - Design for team play
-	- Foster teamwork
+  - Foster teamwork
 
 ## Trust people's intentions and potential
 
