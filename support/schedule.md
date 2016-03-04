@@ -13,7 +13,7 @@ The way the schedule is structured is meant to achieve the following goals:
 - Some facilitator pairing: Skill sharing. Prevent isolation and burnout. Create slack
 - Support maker time: Long chunks of distraction free time
 - Create a heartbeat: Sustained, consistent, reliable rhythm
-- Make it work for parents
+- Makes the game work for players who are parents
 - Prevents burnout (marathon not sprint)
 - 40 hours of deliberate coding practice per week
 
