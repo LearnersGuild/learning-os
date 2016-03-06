@@ -10,7 +10,10 @@ When playtesting, use these as a rubric against which to assess playtest experie
 
 ---
 
-## Primary Goals: players will experience..
+## Primary Goals
+
+Players will experience...
+
 - …what it feels like to rapidly acquire new skills.
 - …transformation by breaking through their self-perceived capabilities.
 - …feelings of belonging and acceptance.
@@ -21,7 +24,7 @@ When playtesting, use these as a rubric against which to assess playtest experie
 
 ## Secondary Goals
 
-Players will experience..
+Players will experience...
 
 ### Learning and Mentorship
 - Players will feel challenged.
