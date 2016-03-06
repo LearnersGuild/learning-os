@@ -40,6 +40,9 @@ Every contract contains (at minimum) the following attributes:
 ### Investor Contract
 A contract by which players receive investment in the form of a monthly stipend, and player support.
 
+#### Terms
+
+##### Success Criteria
 This contract is fulfilled when a player has...
 
 - Applied to and accepted to a job.
