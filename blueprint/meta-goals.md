@@ -10,16 +10,28 @@ As we reflect on our progress and achievements as an organization, we should use
 
 ### Evolves continuously
 
-We are a constantly evolving learning organization. The game is ongoing.
+This is the primary goal. We are a constantly evolving learning organization. The game is ongoing.
 
 These metrics should be consistently improving:
-- Majority of players would highly recommend LG to their friends
-- Player NPS is greater than 70
-- Completion rate should rate
-- Lower and lower skill bar to entry
-- The filter for coming in through the door is getting better and better
-  - The relationship between completion rate and application rate
-  - After initial contact and filtering, the rate at which people trends upwards/
+- Player NPS
+- Completion rate
+- Players in dignified employment upon finishing
+- Players in dignified employment 1 year after finishing
+- Low skill bar for entry
+- Accurate enrollment filter
+
+## Other Goals
+
+### Prepares for Dignified Employment
+- Learners guild is dignified livelihood from day one.
+- Earliest possible dignified employment. Employability upon completion.
+  - Success is measured by employability and retaining dignified employment. (As opposed to how much learning happened).
+- Percentage job placement accuracy
+- Percentage of graduate still practicing software engineering in 5 years time
+- Percentage of graduates working as in their technical field of choice after 3 months, 1 year, and 3 years.
+- Every player attains self-efficacy in their engineering life.
+- Participants experience minimal friction transitioning from the LG environment to their employer's environment
+- The environment/culture teaches you how to reproduce the environment/culture. The dignity that comes out teaches how to bring it to any other environment that you enter into.
 
 ### Attracts Ongoing Mentorship
 - Percentage of graduates who continuing to mentor
@@ -38,26 +50,20 @@ These metrics should be consistently improving:
 - Number of cities with LG Chapters
 - Number of players being placed per year
 
-### Prepares for Dignified Employment
-- Learners guild is dignified livelihood from day one
-- Percentage job placement accuracy
-- Percentage of graduate still practicing software engineering in 5 years time
-- Percentage of graduates working as in their technical field of choice after 3 months, 1 year, and 3 years.
-- Every player attains self-efficacy in their engineering life
-- Participants experience minimal friction transitioning from the LG environment to their employer's environment
-
 ### Generates Positive Player Experiences
-- Majority of players would highly recommend LG to their friends
-- Player NPS is greater than 70
-- Players feel transformed
+- Majority of players would highly recommend LG to their friends.
+- Player NPS is greater than 70.
+- Players feel transformed.
 
 ### Produces Well-Rounded Players and Practitioners
 - Majority of players attain Leadership positions in Engineering
 - We would be excited to hire anyone who completes the game onto our own software team
 - Players want to work with each other
+- Increase the learners stamina for feedback and risk over time.
+- Increase the learners resiliency over time.
 
 ### Evolves Towards Higher Level Goals
-- Lower and lower "skill" bar to entry
+- We adopt lower and lower "skill" bars for entry
 - "Leveling-up" feels attainable for every player at every level
 - Completion rate > 90%
 
