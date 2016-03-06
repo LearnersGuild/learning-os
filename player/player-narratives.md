@@ -1,5 +1,13 @@
 # Player Narratives
 
+#### Purpose
+Player narratives answer the question "for whom are we designing this game?" They are organized into archetypes based upon real people we know and for whom we design.
+
+#### Usage
+Use these narratives when designing game mechanics and player support as a guide and a check to make sure that our game is aligned with the motivations of our players.
+
+---
+
 ## The Disaffected Revolutionary
 This player has a very acute sense of justice and injustice. They want to be a force for justice in the world. Manifested that by following and reading about Che Guevara and other Latin American revolutionaries. They have a keen awareness of oppressive systems.
 
