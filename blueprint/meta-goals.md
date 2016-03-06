@@ -1,6 +1,12 @@
 # Meta Goals
 
-The organizational "meta" goals for Learners Guild are listed below. They each complete the sentence "Learners Guild..."
+#### Purpose
+These are the organizational "meta" goals for Learners Guild. They each complete the sentence "Learners Guild..."
+
+#### Usage
+As we reflect on our progress and achievements as an organization, we should use these to determine whether or not we are headed in the right direction.
+
+---
 
 ### Evolves continuously
 
