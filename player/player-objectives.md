@@ -1,24 +1,29 @@
 # Player Objectives
 
-We consistently seek our own (personal, collective) proximal zones of development.
+#### Purpose
+Player objectives define what we want player to achieve at the end of the game. They are the real outcomes of our applied/serious game.
 
-## LG Objectives for player
-- Earliest possible dignified employment. Employability upon completion.
-- Increase the learners stamina for feedback and risk over time
-- Increase the learners resiliency over time
-- Teach learners the skill of integrity in the face of consequence
-- Environment/culture teaches you how to reproduce the environment/culture. The dignity that comes out teaches how to bring it to any other environment that you enter into.
-- measure success by employability. retaining dignified employment. period. as opposed to how much did you learn
+#### Usage
+When designing game mechanics or player support, use these as both inspiration and razor.
 
-## First Objective: Master the Craft: I will create and sustain a dignified livelihood for myself as a practitioner of my craft
-- I can build software that I and others find valuable in a sustainable way
-- I can create and sustain demand for my work from other practitioners
-- I can get and pass job interviews (I can get through the door)
-- I can create a place of belonging for myself in the industry (I can make the house my home)
-- I am a badass collaborator/team player. I can work effectively in a team. 4 people + me = 7 person team.
-- I can continuously develop myself, and my craftsmanship
-- I can mentor people: I can challenge & support others to learn
+Design with these objectives in mind, and check implementations against them. If a contract, process, statistic, or player support offering doesn't drive learners towards these objectives, it should probably be removed.
 
-## Second Objective: Master Individual and Collective Learning
-Learners should have a clear and stated purpose related to owning and co creating the learning culture and systems in which they are participating
-- I can co-create a thriving learning community where I and others belong
+---
+
+## Objective 1: Create and sustain dignified livelihood in the craft.
+
+I will create and sustain a dignified livelihood for myself as a practitioner of my craft.
+
+- I can practice my craft to create valued work in a sustainable way.
+- I can create and sustain demand for my work from other practitioners.
+- I can get and pass job interviews (I can get through the door).
+- I can create a place of belonging for myself in the industry (I can make the house my home).
+- I can collaborate effectively with a team. 4 people + me = 7 person team.
+
+## Objective 2: Learn how to learn and to cultivate a learning collective.
+
+I own and co-create the learning culture and learning systems in which I participate.
+
+- I can continuously develop myself and my craft.
+- I can mentor people: I can challenge & support others to learn.
+- I can co-create a thriving learning community where I and others belong.
