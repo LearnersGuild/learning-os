@@ -8,7 +8,7 @@ The way the schedule is structured is meant to achieve the following goals:
 
 - Maximize cross phase pollination: Allows relationship building across phases, supports the culture being maintained and passed on, and mitigates the risk and work of re-creating the culture with every new cohort
 - Accommodate facilitator availability: Our facilitators are a rare and precious resource. They are the bottle neck of our scaling and how/when player support curriculum can be delivered/facilitated
-- No whiplash effect: After emotional work, learners might just want to go home and could have a tough time context switching back to coding
+- No whiplash effect: After heavy emotional and cognitive lift, learners might just want to go home and could have a tough time context switching back to coding, or might want to choose to spend time reflecting and integrating
 - Same phase bonding: There is a shared arc of experience for a group of the same cohort. The schedule & format is meant to nurture this bond and build on it
 - Some facilitator pairing: Skill sharing. Prevent isolation and burnout. Create slack
 - Support maker time: Long chunks of distraction free time
