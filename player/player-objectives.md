@@ -27,4 +27,3 @@ I own and co-create the learning culture and learning systems in which I partici
 - I can continuously develop myself and my craft.
 - I can mentor people: I can challenge & support others to learn.
 - I can co-create a thriving learning community where I and others belong.
-- I can stay in integrity in the face of consequence.
