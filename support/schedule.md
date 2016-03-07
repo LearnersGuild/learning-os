@@ -59,4 +59,8 @@ Each facilitator is responsible for facilitating 4 groups at any one time:
 - Thursday: Phase 4.a, 4.b (self-facilitated)
 
 ## Check-in Groups
-Once a week, during lunch, there is a check-in group. Check-in groups are cross-phase, and have 3 to 5 people from each phase in them. Over lunch, players take turns checking in for 2 minutes each about their lives. Check-in groups are optional, and a facilitator may or may not be there. It's also possible that there will be an assigned mentor/mentee per learner from their check-in group. 
+Once a week, during lunch, there is a check-in group. Check-in groups are cross-phase, and have 3 to 5 people from each phase in them.
+
+Over lunch, players take turns checking in for 2 minutes each about their lives. Check-in groups are optional, and a facilitator may or may not be there. It's also possible that there will be an assigned mentor/mentee per learner from their check-in group.
+
+Check-in groups will be trained on an LG-checkin protocol. 
