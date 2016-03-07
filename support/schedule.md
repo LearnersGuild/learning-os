@@ -48,7 +48,7 @@ The home group meets once a week at the end of the day starting at 5 o'clock. Me
 Each facilitator is responsible for facilitating 4 groups at any one time:
 
 - Two home groups in phase 1 (pairing)
-- One home group in phase 1 (solo)
+- One home group in phase 2 (solo)
 - One home group in phase 3 (solo)
 
 ### Weekly Home Group Schedule for 8 pods spread across 4 phases
@@ -59,4 +59,4 @@ Each facilitator is responsible for facilitating 4 groups at any one time:
 - Thursday: Phase 4.a, 4.b (self-facilitated)
 
 ## Check-in Groups
-Once a week, during lunch, there is pizza and a check-in group. Check-in groups are cross-phase, and have 3 to 5 people from each phase in them. Over lunch, players take turns checking in for 2 minutes each about their lives. Check-in groups are optional, and a facilitator may or may not be there.
+Once a week, during lunch, there is a check-in group. Check-in groups are cross-phase, and have 3 to 5 people from each phase in them. Over lunch, players take turns checking in for 2 minutes each about their lives. Check-in groups are optional, and a facilitator may or may not be there. It's also possible that there will be an assigned mentor/mentee per learner from their check-in group. 
