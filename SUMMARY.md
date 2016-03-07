@@ -21,5 +21,7 @@
   - [Player Narratives](player/player-narratives.md)
   - [Player Objectives](player/player-objectives.md)
   - [Player Roles](player/player-roles.md)
-
+- [Player Support](support/README.md)
+  - [Schedule and Format](support/schedule.md)
+  - [Module](support/module.md)
 - [Glossary](GLOSSARY.md)
