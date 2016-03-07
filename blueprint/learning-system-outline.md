@@ -89,7 +89,7 @@ Could also have Cross-phase homegroup (mandatory/not?)
 
 **Retrospective system and meetings** 
 
-Many good ideas developed. The docs are collected in this file on the retrospectives. 
+Many good ideas developed. The docs are collected in this file on the [retrospectives.](https://drive.google.com/drive/folders/0B4oMg-7e8w7fMTVzWVFjR0M2V1k) 
 
 
 <br />
