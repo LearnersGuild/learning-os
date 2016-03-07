@@ -37,21 +37,10 @@ Every contract contains (at minimum) the following attributes:
 
 ## Contracts
 
-### Investor Contract
-A contract by which players receive investment in the form of a monthly stipend, and player support.
-
-#### Terms
-
-##### Success Criteria
-This contract is fulfilled when a player has...
-
-- Applied to and accepted to a job.
-- Paid off their debt (if any) to the collective.
-
-These are the "victory conditions" for invested players in the game.
-
-### Role Contract
+### Role Contracts
 A contract for committing to a role.
+
+[Investor Learner Contract](contracts/investor-learner.md)
 
 <!-- TODO: define contract -->
 
