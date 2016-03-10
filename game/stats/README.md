@@ -11,5 +11,20 @@ Their primary purpose is to give feedback to roles, in order to help roles answe
 
 Statistics, when used correctly, are the fuel that powers learning.
 
+## Assessment Accuracy
+
+## Lead Days
+
+## Membership Days
+
+## Lead to Membership Ratio: LMR
+
+## Relative Contribution
+
+## Relative Contribution Delta
+
+
+
+
 
 <!-- TODO: figure out how stats work -->
