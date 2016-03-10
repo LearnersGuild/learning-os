@@ -13,7 +13,7 @@ A knowledge skill that people need to build things together. Examples: Dot net w
 # Cycle
 
 TODO: Define Cycle
-1 Team works on 1 Goal for 1 Cycle. Game object.
+1 Team works on 1 Goal for 1 Cycle. Game structure (process).
 
 # Deliberate Practice
 
@@ -25,13 +25,15 @@ A Goal Instance is an instantiation of a Goal Template.
 It belongs to a specific cycle, and a specific team.
 One Team works on one Goal instance for one Cycle.
 
+A goal is a game structure (contract).
+
 # Goal Template
 
 TODO: Define Goal template
 
 # POD
 
-12 to 15 players that are part of the same cohort. PODS are a Game structure.
+12 to 15 players that are part of the same cohort. PODS are a Player Support structure.
 
 # Phase
 
@@ -47,16 +49,17 @@ Player support structure. 1 stage is 10 weeks (2 phases)
 
 A team is composed of 3 or more players working on a specific Goal Instance for a specific goal cycle. Teams form around a Goal instance when the cycle begins and dissolve at the end of the cycle.
 
-Teams are a game structure.
+Teams are a game structure (game object).
 
 ## Team Member
 
-A role on a team of 3 or more
-Team Member is a game structure.
+TODO: Define team membership in relationship to team lead based on build days
+Team Member is a game mechanic (role).
 
 ## Team Lead
 
-Team Lead is a game structure.
+TODO: Define team lead in terms of build days in relationship to average team build days (or perhaps max lead days??)
+Team Lead is a game mechanic (role).
 
 # Unlearning
 

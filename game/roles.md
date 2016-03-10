@@ -30,6 +30,12 @@ Every role contains (at minimum) the following attributes:
 
 ## Roles
 
+### Team Lead
+<!-- TODO: define role -->
+
+### Team Member
+<!-- TODO: define role -->
+
 ### Learner
 <!-- TODO: define role -->
 
