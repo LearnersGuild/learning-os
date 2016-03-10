@@ -1,4 +1,4 @@
-# Documentation: Statistics
+# Statistics
 
 Statistics aggregate information from the [Contract Ledger](game-objects.md).
 
@@ -17,15 +17,15 @@ TODO: Flesh out assessment Accuracy
 
 ## Build Days
 
-Total number of days a player led a team of 3 or more in Deliberate Practice as a Team Member or Team Lead. (Lead Days + Membership Days = Build Days)
+Total number of days a player led a team in Deliberate Practice as a Team Member or Team Lead. (Lead Days + Membership Days = Build Days)
 
 ## Lead Days
 
-Total number of days a player led a team of 3 or more in Deliberate Practice as a Team Lead
+Total number of days a player led a team in Deliberate Practice as a Team Lead
 
 ## Membership Days
 
-Total number of days a player joined a team of 3 or more in Deliberate Practice as a Team Member
+Total number of days a player joined a team in Deliberate Practice as a Team Member
 
 ## Lead to Membership Ratio (LMR)
 
