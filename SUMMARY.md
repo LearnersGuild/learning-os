@@ -23,5 +23,5 @@
   - [Player Roles](player/player-roles.md)
 - [Player Support](support/README.md)
   - [Schedule and Format](support/schedule.md)
-  - [Module](support/module.md)
+  - [Module](support/modules/README.md)
 - [Glossary](GLOSSARY.md)
