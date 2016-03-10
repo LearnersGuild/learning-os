@@ -6,10 +6,18 @@ TODO: Define Challenge
 
 A group of players starting at the same location, on the same day. Cohorts can be made up of  1 or more pods. They are a game object.
 
+# Craft
+
+A knowledge skill that people need to build things together. Examples: Dot net web developer, IOS developer, android developer, devops, data science, UX design, game development
+
 # Cycle
 
 TODO: Define Cycle
 1 Team works on 1 Goal for 1 Cycle. Game object.
+
+# Deliberate Practice
+
+Building something in a context that approximates/simulates the "real world" as much as possible with the intention of deliberately practicing the craft.
 
 # Goal Instance
 
@@ -37,8 +45,18 @@ Player support structure. 1 stage is 10 weeks (2 phases)
 
 # Team
 
-TODO: Flesh out team
-1 Team works on 1 Goal for 1 Cycle. Game agent.
+A team is composed of 3 or more players working on a specific Goal Instance for a specific goal cycle. Teams form around a Goal instance when the cycle begins and dissolve at the end of the cycle.
+
+Teams are a game structure.
+
+## Team Member
+
+A role on a team of 3 or more
+Team Member is a game structure.
+
+## Team Lead
+
+Team Lead is a game structure.
 
 # Unlearning
 
