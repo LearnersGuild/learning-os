@@ -12,7 +12,7 @@
 - [Game](game/README.md)
   - [Roles](game/roles.md)
   - [Contracts](game/contracts/README.md)
-  - [Processes](game/processes.md)
+  - [Processes](game/processes/README.md)
   - [Statistics](game/statistics/README.md)
   - [Game Objects](game/game-objects.md)
 - [Player](player/README.md)
