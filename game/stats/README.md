@@ -43,8 +43,18 @@ TODO: Flesh out relative Contribution
 ## Relative Contribution Delta (RCD)
 
 TODO: Flesh out RCD
+Should team size be a factor in it? +10% on a team of 2 is different than +10% on a team of 5
 
+## Total Contribution
 
+TODO: Flesh out Total Contribution
 
+If RCD calculates their relative contribution compared to teams they've worked on. It is a relative number.
+Total Contribution is a cumulative number. It is a function of the total Build Days and the Relative Contribution Delta.
 
-<!-- TODO: figure out how stats work -->
+For example, Karim might have 100 BD, and an RCD of +5%. Meanwhile Omoju has 50 BD and an RCD of +10%.
+
+Karim's Total Contribution is 105 (100 * (1 + 5%))
+Omoju's Total Contribution is 55 (100 * (1 + 10%))
+
+Karim has more experience, while Omoju on average, contributes more of her fair share on Goals on a relative basis than Karim.

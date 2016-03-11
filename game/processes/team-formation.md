@@ -48,7 +48,7 @@ After a cycle starts, and before the next cycle begins there is a process of Goa
 - Calculate the average Build Days for the selected Team Members from Step 1
 - If average is more than 150 skip Step 2 and repeat step 1
 
-### Step 2: Select team lead
+### Step 2: Select Team Leads
 
 - Order all players in ascending order of Build Days, followed by descending order LMR, followed by descending order PGSP
 - Filter out any players whose Build Days is less than 50 higher than than the Team Members' average BD
