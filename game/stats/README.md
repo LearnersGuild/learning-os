@@ -59,3 +59,6 @@ Karim's Total Contribution is 105 (100 * (1 + 5%))
 Omoju's Total Contribution is 55 (100 * (1 + 10%))
 
 Karim has more experience, while Omoju on average, contributes more of her fair share on Goals on a relative basis than Karim.
+
+
+TODO: Maybe get rid of build days? Or make Build days what Total contribution is supposed to be

@@ -69,3 +69,6 @@ After a cycle starts, and before the next cycle begins there is a process of Goa
 
 ## Results
 - Teams formed around Goal Instances
+
+
+TODO: Order by total contribution not build days
