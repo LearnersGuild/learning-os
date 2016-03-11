@@ -59,7 +59,7 @@ A new guidance request is added to a request queue. This queue is used in the Of
 
 ## Contract Processes
 
-[Cycles](cycle.md)
+[Cycle](cycle.md)
 [Goal Selection](goal-selection.md)
 [Team Formation](team-formation.md)
 
