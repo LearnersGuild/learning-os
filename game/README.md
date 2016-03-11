@@ -6,13 +6,11 @@ The LOS is comprised of five components:
 
 1. [Roles](roles.md)
 2. [Contracts](contracts/README.md)
-3. [Processes](processes.md)
+3. [Processes](processes/README.md)
 4. [Statistics](stats/README.md)
 5. [Game Objects](game-objects.md)
 
 Together these form the structure of the LOS and allow for our learning environment to flourish according to the design principles defined in our [blueprint](../blueprint/design-principles.md).
-
-The lifecycle of the game follows defined stages and a rhythm, as articulated in the section [Rhythm & Stages](#rhythm-&-stages) below.
 
 ## Overview
 
