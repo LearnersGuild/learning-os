@@ -14,6 +14,7 @@ A knowledge skill that people need to build things together. Examples: Dot net w
 
 TODO: Define Cycle
 1 Team works on 1 Goal for 1 Cycle. Game structure (process).
+Goal selection -> Team Formation -> Deliberate Practice -> Retrospective
 
 # Deliberate Practice
 

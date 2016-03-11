@@ -13,6 +13,8 @@
   - [Roles](game/roles.md)
   - [Contracts](game/contracts/README.md)
   - [Processes](game/processes/README.md)
+    - [Goal Selection](game/processes/goal-selection.md)
+    - [Team Formation](game/processes/team-formation.md)
   - [Statistics](game/statistics/README.md)
   - [Game Objects](game/game-objects.md)
 - [Player](player/README.md)
