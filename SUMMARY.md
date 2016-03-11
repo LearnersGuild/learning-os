@@ -16,6 +16,7 @@
     - [Cycle](game/processes/cycle.md)
     - [Goal Selection](game/processes/goal-selection.md)
     - [Team Formation](game/processes/team-formation.md)
+    - [Retrospective](game/processes/retro.md)
   - [Statistics](game/statistics/README.md)
   - [Game Objects](game/game-objects.md)
 - [Player](player/README.md)

@@ -44,6 +44,7 @@ TODO: Flesh out relative Contribution
 
 TODO: Flesh out RCD
 Should team size be a factor in it? +10% on a team of 2 is different than +10% on a team of 5
+Related to assessment accuracy
 
 ## Total Contribution
 

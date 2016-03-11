@@ -41,7 +41,7 @@ After a cycle starts, and before the next cycle begins there is a process of Goa
   - Create a Goal Instance off of that template
   - Create a Team and assign this player to it
   - Assign the Team to the Goal Instance
-- Of the _other_ players that voted for this Goal Template, rate them ascending by PGSP and select the top (TEAM_MEMBERS_SIZE - 1).
+- Of the _other_ players that voted for this Goal Template, rate them ascending by PGSP and select the top (TEAM_MEMBERS_SIZE - 1)
 - You now have TEAM_MEMBERS_SIZE team members, for each of these members:
   - Update their PGSP
   - Remove their votes from this goal and other goals they have voted for in this cycle
@@ -50,7 +50,7 @@ After a cycle starts, and before the next cycle begins there is a process of Goa
 
 ### Step 2: Select Team Leads
 
-- Order all players in ascending order of Build Days, followed by descending order LMR, followed by descending order PGSP
+- Order all players in ascending order of Total Contribution, followed by descending order LMR, followed by descending order PGSP
 - Filter out any players whose Build Days is less than 50 higher than than the Team Members' average BD
 - Filter out any players whose LMR is less than 3
 - If there are still players on the list
