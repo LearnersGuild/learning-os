@@ -36,9 +36,9 @@ A goal is a game structure (contract).
 
 TODO: Define Goal template
 
-# POD
+# Pod
 
-12 to 15 players that are part of the same cohort. PODS are a Player Support structure.
+12 to 15 players that are part of the same cohort. PodS are a Player Support structure.
 
 # Phase
 
