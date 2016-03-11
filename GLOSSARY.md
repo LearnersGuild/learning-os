@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Challenge
 
 TODO: Define Challenge
@@ -13,6 +14,9 @@ A knowledge skill that people need to build things together. Examples: Dot net w
 # Cycle
 
 TODO: Define Cycle
+
+The primary unit of time by which progress is measured. Cycles start with goal-setting, and end with a reflection/retrospective. Player support may wish to define set cycle durations to create consistency across players and teams. Game Structure.
+
 1 Team works on 1 Goal for 1 Cycle. Game structure (process).
 Goal selection -> Team Formation -> Deliberate Practice -> Retrospective
 
@@ -45,6 +49,8 @@ Player support structure. 1 phase is 5 weeks.
 
 TODO: Define stage.
 Player support structure. 1 stage is 10 weeks (2 phases)
+
+A section of the game through which players advance towards victory. Stages correspond to roles; moving a higher stage is analogous to acquiring a role with greater power and responsibility.
 
 # Team
 

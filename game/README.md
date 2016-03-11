@@ -12,6 +12,8 @@ The LOS is comprised of five components:
 
 Together these form the structure of the LOS and allow for our learning environment to flourish according to the design principles defined in our [blueprint](../blueprint/design-principles.md).
 
+The lifecycle of the game follows defined stages and a rhythm, as articulated in the section [Rhythm & Stages](#rhythm-&-stages) below.
+
 ## Overview
 
 Every person who interacts with the LOS takes on one or more **roles**.
