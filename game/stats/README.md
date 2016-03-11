@@ -19,6 +19,10 @@ TODO: Flesh out assessment Accuracy
 
 Total number of days a player led a team in Deliberate Practice as a Team Member or Team Lead. (Lead Days + Membership Days = Build Days)
 
+## Preferred Goal Selection Percentage (PGSP)
+
+Percentage of time that a player voted for a goal and got assigned to it.
+
 ## Lead Days (LD)
 
 Total number of days a player led a team in Deliberate Practice as a Team Lead
