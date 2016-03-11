@@ -42,6 +42,10 @@ After a cycle starts, and before the next cycle begins there is a process of Goa
   - Create a Team and assign this player to it
   - Assign the Team to the Goal Instance
 - Of the _other_ players that voted for this Goal Template, rate them ascending by PGSP and select the top (TEAM_MEMBERS_SIZE - 1)
+- If you didn't get enough players from the previous step to reach TEAM_MEMBERS_SIZE
+  - Find the 10 players who are not yet on a team who are closest to this teams average Build Days
+  - Order these players ascending by LMR followed by PGSP
+  - Select to the top players from that list until you've reached TEAM_MEMBERS_SIZE
 - You now have TEAM_MEMBERS_SIZE team members, for each of these members:
   - Update their PGSP
   - Remove their votes from this goal and other goals they have voted for in this cycle
