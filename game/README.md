@@ -6,7 +6,7 @@ The LOS is comprised of five components:
 
 1. [Roles](roles.md)
 2. [Contracts](contracts/README.md)
-3. [Processes](processes.md)
+3. [Processes](processes/README.md)
 4. [Statistics](stats/README.md)
 5. [Game Objects](game-objects.md)
 
