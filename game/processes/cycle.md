@@ -5,6 +5,10 @@
 All game play happens within a cycle. It is the primary game loop.
 Cycles have a specific start date, and end date.
 
+Cycles belong to a Chapter.
+
+TODO: describe base time unit per cycle. is that a support structure? are cycles defined by goals or the other way around? there's a missing concept here
+
 
 ## Purpose
 
