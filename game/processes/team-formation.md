@@ -2,7 +2,7 @@
 
 ## Context
 
-After a cycle starts, and before the next cycle begins there is a process of Goal Selection [goal-selection.md] followed by Team Formation. Team formation kicks in when a cycle's vote cutoff time arrives.
+After a cycle starts, and before the next cycle begins there is a process of [Goal Selection](goal-selection.md) followed by Team Formation. Team formation kicks in when a cycle's vote cutoff time arrives.
 
 ## Purpose
 
@@ -10,10 +10,11 @@ After a cycle starts, and before the next cycle begins there is a process of Goa
 - Team experience and skill level should be approximately equal, with the exception of 1 player who should be more experienced and skilled (Team Lead)
 - No team should be without a lead
 - Team members can only be on one team
-- Teams should be no less than 3 and no more than 5 players
-- A Team Lead's Build Days (BD) should be higher than their Team Members' average BD by 50 (10 weeks)
-- If a Team Lead is assigned to two teams their BD should be higher than their Team Members' average BD by 100 (20 weeks)
-- If a Team Lead is assigned to three teams their BD should be higher than their Team Members' average BD by 150 (30 weeks)
+- Teams should be no fewer than 3 and no more than 5 players
+- <no teams leading> * 50 >= <my BD> - <avg team BD>
+  - A Team Lead's Build Days (BD) should be higher than their Team Members' average BD by 50 (10 weeks)
+  - If a Team Lead is assigned to two teams their BD should be higher than their Team Members' average BD by 100 (20 weeks)
+  - If a Team Lead is assigned to three teams their BD should be higher than their Team Members' average BD by 150 (30 weeks)
 - A Team Lead should not belong to more than 3 teams
 - Teams with an average BD of 150 or more don't need a team lead
 

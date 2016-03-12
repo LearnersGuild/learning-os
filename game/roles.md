@@ -30,7 +30,6 @@ Every role contains (at minimum) the following attributes:
 
 ## Roles
 
-<<<<<<< HEAD
 ### Team Lead
 <!-- TODO: define role -->
 
@@ -39,10 +38,9 @@ Every role contains (at minimum) the following attributes:
 
 ### Learner
 <!-- TODO: define role -->
-=======
+
 ### Aspirant
 Applied, but unfunded player. Can play the game, but has no livelihood component.
->>>>>>> sb/rhythm
 
 Has power to:
 - Join & form teams.
