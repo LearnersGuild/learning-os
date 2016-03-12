@@ -18,6 +18,8 @@ After a cycle starts, and before the next cycle begins there is a process of [Go
 - A Team Lead should not belong to more than 3 teams
 - Teams with an average BD of 150 or more don't need a team lead
 
+TODO: Simplify formula above
+
 ### Optimize for the following in order
 - Team leads should be on as few teams as possible
 - Players Lead to Membership Ratio (LMR) should be as close to 3 as possible
@@ -65,6 +67,8 @@ After a cycle starts, and before the next cycle begins there is a process of [Go
 - Else (we ran out of team leads)
   - Reset all teams, goals, and votes, and redo the whole process, this time with TEAM_MEMBERS_SIZE increased by 1
 
+
+
 ## Stats Impacted
 - PGSP
 
@@ -73,3 +77,5 @@ After a cycle starts, and before the next cycle begins there is a process of [Go
 
 
 TODO: Order by total contribution not build days
+TODO: More plain english here in steps
+TODO: Simplify the algorithm
