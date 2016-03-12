@@ -100,3 +100,7 @@ Has power to:
 
 ### Facilitator
 <!-- TODO: define role -->
+
+### Game Moderator
+
+Defines cycle times for a chapter

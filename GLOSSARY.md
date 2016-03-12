@@ -3,9 +3,14 @@
 
 TODO: Define Challenge
 
+# Chapter
+
+A group of cohorts that share their skills with each other. Chapter is a game object.
+
+
 # Cohort
 
-A group of players starting at the same location, on the same day. Cohorts can be made up of  1 or more pods. They are a game object.
+A group of players starting at the same location, on the same day. Cohorts can be made up of 1 or more pods. A cohort belongs to one Chapter. They are a game object.
 
 # Craft
 
@@ -13,12 +18,10 @@ A knowledge skill that people need to build things together. Examples: Dot net w
 
 # Cycle
 
-TODO: Define Cycle
+The primary game loop. Cycles are a Game Structure (Process). 
+Cycles have four steps: Goal selection -> Team Formation -> Deliberate Practice -> Retrospective
 
-The primary unit of time by which progress is measured. Cycles start with goal-setting, and end with a reflection/retrospective. Player support may wish to define set cycle durations to create consistency across players and teams. Game Structure.
-
-1 Team works on 1 Goal for 1 Cycle. Game structure (process).
-Goal selection -> Team Formation -> Deliberate Practice -> Retrospective
+More on cycles [here](game/processes/cycle.md).
 
 # Deliberate Practice
 
