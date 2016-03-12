@@ -17,7 +17,7 @@ TODO: Flesh out assessment Accuracy
 
 ## Build Days (BD)
 
-Total number of days a player led a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Days + Membership Days)
+Total number of days a player worked on a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Days + Membership Days)
 
 ## Preferred Goal Selection Percentage (PGSP)
 
@@ -34,7 +34,7 @@ Total number of days a player joined a team in Deliberate Practice as a Team Mem
 ## Lead to Membership Ratio (LMR)
 
 Ratio of Lead Days to Membership Days expressed as 1 number.
-For example, if a player had 5 lead days, and 20 membership days, her ration would be 1:4, and her LMR would be expressed as 4.
+For example, if a player had 5 lead days, and 20 membership days, her ratio would be 1:4, and her LMR would be expressed as 4.
 
 ## Relative Contribution
 
@@ -56,7 +56,7 @@ Total Contribution is a cumulative number. It is a function of the total Build D
 For example, Karim might have 100 BD, and an RCD of +5%. Meanwhile Omoju has 50 BD and an RCD of +10%.
 
 Karim's Total Contribution is 105 (100 * (1 + 5%))
-Omoju's Total Contribution is 55 (100 * (1 + 10%))
+Omoju's Total Contribution is 55 (50 * (1 + 10%))
 
 Karim has more experience, while Omoju on average, contributes more of her fair share on Goals on a relative basis than Karim.
 
