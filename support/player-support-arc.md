@@ -33,7 +33,7 @@ This is also built on a system where learners can break from their Home Group an
 
 ##Stage 1 
 
-Player support starts front-loads Enculturation. See the Human Systems Stage 1 doc for a more detailed initial outline of the weeks’ schedule
+Player support starts front-loads Enculturation. [See the Human Systems Stage 1 doc] (https://docs.google.com/document/d/14xaLbKJPhv9vdemu8m0ufhUDfh4ZoMdjjfSOHhZ1XyQ/edit) for a more detailed initial outline of the weeks’ schedule
 
 While these are outlines as individual modules, the first two weeks are our Enculturation Jam. The overarching goal is to give Learners an experience of a highly functional, authentic, communicative and supportive collective. There is a lot of information, but they do not have to remember it all as if they were in a workshop and were going home afterwards. The material in the first 2 weeks are the culture of LG. Learners will be practicing them with each other and see them modeled by LG staff and Learners ahead of them. 
 <br />
