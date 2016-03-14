@@ -3,6 +3,8 @@
 Design Principles should guide why and how a feature is added, and should serve as an integration test before any new features are accepted.
 They describe the outcome of the design. The OS itself. They are used as things that must not be violated, it doesn't mean that every issue that is merged needs to include all of these. They are not design elements they are principles.
 
+Our design principles are meant to guide the design in conjunction with the design's [Meta Goals](meta-goals.md) and our [Guiding Principles](http://guide.learnersguild.org)
+
 The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** and **design guidelines** that underlie our LOS? [^1]
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
