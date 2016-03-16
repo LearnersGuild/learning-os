@@ -81,12 +81,23 @@ A new guidance request is added to a request queue. This queue is used in the Of
 <!-- TODO: define process -->
 
 
-## General Processes
+## Requests and Offerings
 
-### Requesting Guidance
+In the game, there are two types of explicit **requests** and **offerings** that a player can make:
+
+1. _Help_ requests and offerings
+1. _Feedback_ requests and offerings
+
+Help can be requested/offered _before an action or decision is taken_ and _during a practice event_.
+
+Feedback can be requested/offered _after an action or decision is taken_ and _after a practice event_.
+
+For example, a team deciding which RSGs to commit to for a cycle may _request help_ from a Mentor. Once they've completed the decision making process, the Mentor may _offer feedback_ on the team's behavior during the decision making process.
+
+### Requesting Help
 <!-- TODO: define process -->
 
-### Offering Guidance
+### Offering Help
 <!-- TODO: define process -->
 
 ### Requesting Feedback
