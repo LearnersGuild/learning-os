@@ -101,6 +101,18 @@ Requesting help contributes to the __ stat of the requesting player/team.
 
 <!-- TODO: determine stats gained for requesting help; players should be incentivized to both request and respond to help requests -->
 
+##### Command
+
+```
+/request help <question>
+```
+
+Example:
+
+```
+/request help "How do I style a table in HTML?"
+```
+
 ### Offering Help
 Any player can offer help by logging a [help offering](./game-objects.md#help-offering).
 
@@ -110,12 +122,48 @@ Offering help contributes to the __ stat of the offering player.
 
 <!-- TODO: determine stats gained for offering help; players should be incentivized to offer help -->
 
+##### Command
+
+```
+/offer help [<player>...]
+```
+
+Examples:
+
+```
+/offer help
+```
+
+```
+/offer help @harry @sally
+```
+
 ### Requesting Feedback
 Any player or team can request feedback at any time by logging a [feedback request](./game-objects.md#feedback-request).
 
 Requesting feedback contributes to the __ stat of the requesting player/team.
 
 <!-- TODO: determine stats gained for requesting feedback; players should be incentivized to both request and respond to feedback requests -->
+
+##### Command
+
+```
+/request feedback [<link>] [<message>]
+```
+
+Examples:
+
+```
+/request feedback https://github.com/sally/mycode/pull/231
+```
+
+```
+/request feedback "listening skills"
+```
+
+```
+/request feedback https://github.com/sally/mycode/pull/231 "object-oriented design"
+```
 
 ### Offering Feedback
 Any player can offer feedback by logging a [feedback offering](./game-objects.md#feedback-offering).
@@ -125,6 +173,30 @@ When offering feedback, players can either make a _directed_ offer to a particul
 Offering feedback contributes to the __ stat of the offering player.
 
 <!-- TODO: determine stats gained for offering feedback; players should be incentivized to offer feedback -->
+
+##### Command
+
+```
+/offer feedback [<topic>] [<player>...]
+```
+
+Examples:
+
+```
+/offer feedback
+```
+
+```
+/offer feedback "self-awareness"
+```
+
+```
+/offer feedback @harry @sally
+```
+
+```
+/offer feedback "semantic versioning" @harry @sally
+```
 
 ### Request Bubbling
 <!-- TODO: define process -->
