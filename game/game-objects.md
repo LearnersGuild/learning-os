@@ -27,6 +27,23 @@ Attributes:
 
 ## Help Offering
 
+An offering of help. Created with the [offering help process](./processes.md#offering-help).
+
+Attributes:
+
+- `Offerer` [type: Player, required]
+  - Who is offering help.
+- `Acceptors` [type: list of Players, defaults to empty]
+  - Who accepted the help offering.
+- `Offering` [type: text]
+  - Prompt: "What are you offering help for? What question can you help answer? Please be as specific as possible."
+- `Purpose` [type: text]
+  - Prompt: "Why is this help useful?"
+- `Created At` [type: timestamp]
+  - When the offering was created.
+- `Accepted At` [type: timestamp, defaults to null value]
+  - Whether or not the offering has been accepted.
+
 ## Feedback Request
 
 ## Feedback Offering

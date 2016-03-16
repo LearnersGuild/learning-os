@@ -98,10 +98,18 @@ For example, a team deciding which RSGs to commit to for a cycle may _request he
 
 Any player or team can request help at any time by logging a [help request](./game-objects.md#help-request).
 
+Requesting help contributes to the __ stat of the requesting player/team.
+
 <!-- TODO: determine stats gained for requesting help; players should be incentivized to both request and respond to help requests -->
 
 ### Offering Help
-<!-- TODO: define process -->
+Any player can offer help by logging a [help offering](./game-objects.md#help-offering).
+
+When offering help, players can either make a _directed_ offer to a particular player or team or a _general_ offer to any player/team who wishes to accept it.
+
+Offering help contributes to the __ stat of the offering player.
+
+<!-- TODO: determine stats gained for offering help; players should be incentivized to offer help -->
 
 ### Requesting Feedback
 <!-- TODO: define process -->
