@@ -95,7 +95,10 @@ Feedback can be requested/offered _after an action or decision is taken_ and _af
 For example, a team deciding which RSGs to commit to for a cycle may _request help_ from a Mentor. Once they've completed the decision making process, the Mentor may _offer feedback_ on the team's behavior during the decision making process.
 
 ### Requesting Help
-<!-- TODO: define process -->
+
+Any player or team can request help at any time by logging a [help request](./game-objects.md#help-request).
+
+<!-- TODO: determine stats gained for requesting help; players should be incentivized to both request and respond to help requests -->
 
 ### Offering Help
 <!-- TODO: define process -->
@@ -104,4 +107,7 @@ For example, a team deciding which RSGs to commit to for a cycle may _request he
 <!-- TODO: define process -->
 
 ### Offering Feedback
+<!-- TODO: define process -->
+
+### Request Bubbling
 <!-- TODO: define process -->
