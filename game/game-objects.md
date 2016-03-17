@@ -17,7 +17,7 @@ Attributes:
 - `Question` [type: text]
   - Prompt: "What do you need help with? What question do you have that needs answering? Please be as specific as possible."
 - `Context` [type: text]
-  - Prompt: "Please provide any useful contextual information. For example, a link to the code you're working on, an error message, or a description of why you need this help."
+  - Prompt: "Please provide any useful contextual information. For example, a description of the type of conflict (with context) that you are wanting help with, a link to the code you're working on, or an error message you're stuck on."
 - `Priority` [type: integer, default: 0]
   - Requests start with a 0 priority, which means that they are only visible to players with the same level of experience. The request can get bubbled to players with higher levels of experience if one or more players attempts to help and is unable to resolve it.
 - `Created At` [type: timestamp]
