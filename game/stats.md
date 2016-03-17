@@ -54,3 +54,22 @@ BD (build days) for goal spent in stretch zone / total BD spent on goal
 ```
 
 To stay in their PZD, players should aim to keep their GSR as close to 100% as possible.
+
+## Aggregate Relevancy Estimation (ARE)
+
+A measure of goal relevancy across all of a player's goals.
+
+This stat is a composite of two numbers:
+
+- Aggregate relevancy score (mean of all relevancy scores for goals)
+- Aggregate probability of accuracy (mean of all probabilities for goals)
+
+## Aggregate Stretchiness Ranking (ASR)
+
+A measure of goal stretchiness across all of a player's goals.
+
+Formula:
+
+```
+BD (build days) spent in stretch zone / number of BDs
+```
