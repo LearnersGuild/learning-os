@@ -20,9 +20,12 @@ A knowledge skill that people need to build things together. Examples: Dot net w
 # Cycle
 
 The primary game loop. Cycles are a Game Structure (Process).
-Cycles have four steps: Goal selection -> Team Formation -> Deliberate Practice -> Retrospective
+Life of a cycle: Goal selection -> Team Formation -> Deliberate Practice -> Retrospective
+
+TODO: define how cycles are basic time unit and everything is expressed int terms of cycles. They are our tick.
 
 More on cycles [here](game/processes/cycle.md).
+
 
 # Deliberate Practice
 
@@ -30,15 +33,21 @@ Building something in a context that approximates/simulates the "real world" as 
 
 # Goal Instance
 
-A Goal Instance is an instantiation of a Goal Template.
-It belongs to a specific cycle, and a specific team.
-One Team works on one Goal instance for one Cycle.
+TODO: Clean this up
 
+A Goal Instance is an instantiation of a Goal Template.
+It belongs to a specific team.
+
+One Team works on one Goal instance for one or more Cycles.
 A goal is a game structure (contract).
 
 # Goal Template
 
 TODO: Define Goal template
+
+Goals Templates can be single cycle, or multi-cycle.
+
+A goal is a game structure (contract template).
 
 # Guild
 
@@ -54,6 +63,12 @@ A group of collectives. A game object.
 TODO: Define phase.
 Player support structure. 1 phase is 5 weeks.
 
+# Retrospective
+
+TODO: define retro
+End of every cycle
+goal progress, relative contribution, professional demand, goal quality, team behavior...etc.
+
 # Stage
 
 TODO: Define stage.
@@ -63,7 +78,9 @@ A section of the game through which players advance towards victory. Stages corr
 
 # Team
 
-A team is composed of 3 or more players working on a specific Goal Instance for a specific goal cycle. Teams form around a Goal instance when the cycle begins and dissolve at the end of the cycle.
+A team is composed of 3 or more players working on a specific Goal Instance for one or more  cycles. Teams form around a Goal instance when the goal begins and dissolve at the end of the goal.
+
+Team composition can change in between cycles in multi-cycle goals.
 
 Teams are a game structure (game object).
 
