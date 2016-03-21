@@ -19,6 +19,11 @@ TODO: Flesh out assessment Accuracy
 
 Total number of days a player worked on a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Days + Membership Days)
 
+## Effective Contribution (EC)
+
+TODO: flesh out (explain man cycles)
+Relative Contribution X Cycles per goal X Team Members
+
 ## Preferred Goal Selection Percentage (PGSP)
 
 Percentage of time that a player voted for a goal and got assigned to it.
@@ -40,11 +45,21 @@ For example, if a player had 5 lead days, and 20 membership days, her ratio woul
 
 TODO: Flesh out relative Contribution
 
-## Relative Contribution Delta (RCD)
+## Target LMR
 
-TODO: Flesh out RCD
-Should team size be a factor in it? +10% on a team of 2 is different than +10% on a team of 5
-Related to assessment accuracy
+TODO: describe better
+Draw a line, from 0 to 25% on the y scale, x scale is 4 X Team Lead Threshold.
+Target LMR is the point at that line for how many cycles you've been playing.
+
+## Effective Contribution
+
+TODO: describe better, alphabetise
+Measured in cycles.
+
+## Team Lead Threshold
+
+TODO: cleanup, alphabetize
+Minimum EC cycles needed before player can lead. For our purposes it's set at 10 cycles.
 
 ## Total Contribution
 

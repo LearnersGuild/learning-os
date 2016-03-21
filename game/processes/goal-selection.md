@@ -32,4 +32,14 @@ None
 
 ---
 
-[^1]: Players only vote on goals they want to work on. they don't know they're going to be on team lead until team formation happens. Team leads don't get a formal say in what teams they will be leading, or what they'll be working on when they're team leading. 
+[^1]: Players only vote on goals they want to work on. they don't know they're going to be on team lead until team formation happens. Team leads don't get a formal say in what teams they will be leading, or what they'll be working on when they're team leading.
+
+
+
+TODO: Read it and integrate it
+
+https://en.wikipedia.org/wiki/Single_transferable_vote *********** YES!
+
+With a modification in that the same goal can be chosen TWICE!
+And the votes being transferred are the ones that didn't get a preference the most (take PGSP into account as to who gets to work on their first choice)
+We also need to calculate the PGSP based on who got which ranked preference.

@@ -1,5 +1,7 @@
 # Process: Team Formation
 
+TODO: replace BD with EC
+
 ## Context
 
 After a cycle starts, and before the next cycle begins there is a process of [Goal Selection](goal-selection.md) followed by Team Formation. Team formation kicks in when a cycle's vote cutoff time arrives.
@@ -10,19 +12,20 @@ After a cycle starts, and before the next cycle begins there is a process of [Go
 - Team experience and skill level should be approximately equal, with the exception of 1 player who should be more experienced and skilled (Team Lead)
 - No team should be without a lead
 - Team members can only be on one team
-- Teams should be no fewer than 3 and no more than 5 players
-- <no teams leading> * 50 >= <my BD> - <avg team BD>
-  - A Team Lead's Build Days (BD) should be higher than their Team Members' average BD by 50 (10 weeks)
+- Teams should be no fewer than 3 and no more than 5 players including Lead
+- <no teams leading> * Team Lead Threshold >= <my EC> - <avg team EC>
+  - A Team Effective Contribution (EC) should be higher than their Team Members' average EC by Team Lead Threshold (10 cycles)
+  TODO: reword next to in EC
   - If a Team Lead is assigned to two teams their BD should be higher than their Team Members' average BD by 100 (20 weeks)
   - If a Team Lead is assigned to three teams their BD should be higher than their Team Members' average BD by 150 (30 weeks)
 - A Team Lead should not belong to more than 3 teams
-- Teams with an average BD of 150 or more don't need a team lead
+- Teams with an average EC of 30 or more don't need a team lead
 
 TODO: Simplify formula above
 
 ### Optimize for the following in order
 - Team leads should be on as few teams as possible
-- Players Lead to Membership Ratio (LMR) should be as close to 3 as possible
+- Players Lead to Membership Ratio (LMR) should be as close to Target LMR as possible
 - Assign as many players as possible to Goals they have voted for. Maximize Preferred Goal Selection Percentage (PGSP).
 - Prefer teams of 4 players, followed by 5, followed by 3
 
@@ -38,7 +41,7 @@ TODO: Simplify formula above
 ### Step 1: Select Team Members and create Goal Instances
 
 - TEAM_MEMBERS_SIZE_TARGET = 3
-- Order all players in ascending order of Build Days, followed by ascending order LMR, followed by ascending order PGSP
+- Order all players in ascending order of Effective Contribution, followed by ascending order LMR, followed by ascending order PGSP
 - Pick the first player on the list (this is the least experienced player who has worked on the goals they voted for the least amount of times)
 - Of the Goal Templates this player voted for, pick the one that has the most votes.
   - Create a Goal Instance off of that template
@@ -46,14 +49,14 @@ TODO: Simplify formula above
   - Assign the Team to the Goal Instance
 - Of the _other_ players that voted for this Goal Template, rate them ascending by PGSP and select the top (TEAM_MEMBERS_SIZE - 1)
 - If you didn't get enough players from the previous step to reach TEAM_MEMBERS_SIZE
-  - Find the 10 players who are not yet on a team who are closest to this teams average Build Days
+  - Find the 10 players who are not yet on a team who are closest to this teams average Effective Contribution
   - Order these players ascending by LMR followed by PGSP
   - Select to the top players from that list until you've reached TEAM_MEMBERS_SIZE
 - You now have TEAM_MEMBERS_SIZE team members, for each of these members:
   - Update their PGSP
   - Remove their votes from this goal and other goals they have voted for in this cycle
-- Calculate the average Build Days for the selected Team Members from Step 1
-- If average is more than 150 skip Step 2 and repeat step 1
+- Calculate the average Effective Contribution (EC) for the selected Team Members from Step 1
+- If average is more than 30 skip Step 2 and repeat step 1
 
 ### Step 2: Select Team Leads
 
