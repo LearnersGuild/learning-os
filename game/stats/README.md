@@ -26,6 +26,7 @@ Relative Contribution X Cycles per goal X Team Members
 
 ## Preferred Goal Selection Percentage (PGSP)
 
+TODO: update with ranking algorithm
 Percentage of time that a player voted for a goal and got assigned to it.
 
 ## Lead Days (LD)
