@@ -1,7 +1,5 @@
 # Process: Team Formation
 
-TODO: replace BD with EC
-
 ## Context
 
 At the beginning of a cycle is a [Goal Selection](goal-selection.md) process followed by Team Formation. Team Formation kicks in when a cycle's vote cutoff time arrives.
