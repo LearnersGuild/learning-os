@@ -51,7 +51,11 @@ Total number of days a player led a team in Deliberate Practice as a Team Lead
 
 ## Lead Cycles (LC)
 
-Total number of days a player led a team in Deliberate Practice as a Team Lead
+Total number of cycles a player led a team in Deliberate Practice as a Team Lead
+
+## Effective Lead Cycles (ELC)
+
+Total number of ECC a player led a team in Deliberate Practice as a Team Lead
 
 ## Lead to Membership Ratio (LMR)
 
@@ -66,6 +70,10 @@ Total number of days a player joined a team in Deliberate Practice as a Team Mem
 ## Membership Cycles (MC)
 
 Total number of cycles a player joined a team in Deliberate Practice as a Team Member
+
+## Effective Membership Cycles (EMC)
+
+Total number of ECC a player joined a team in Deliberate Practice as a Team Member
 
 ## Preferred Goal Selection Percentage (PGSP)
 
