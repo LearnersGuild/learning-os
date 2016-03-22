@@ -23,11 +23,11 @@ For example, a goal that takes 2 cycles for a team of 4 has a total of 8 build c
 
 TODO: Flesh out assessment Accuracy
 
-## Build Days (BD)
+## Build Days (BD) [Player Stat]
 
 Total number of days a player worked on a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Days + Membership Days)
 
-## Build Cycles (BC)
+## Build Cycles (BC) [Player Stat]
 
 Total number of cycles a player worked on a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Cycles + Membership Cycles)
 
@@ -45,19 +45,19 @@ In the _aggregate_, the formula for ECC is: sum of ECC for each goal worked on
 
 For example, if a player has worked on 3 goals and achieved an ECC of 2.2, 3.8, and 0.75 (respectively), their aggregate ECC is 6.75.
 
-## Lead Days (LD)
+## Lead Days (LD) [Player Stat]
 
 Total number of days a player led a team in Deliberate Practice as a Team Lead
 
-## Lead Cycles (LC)
+## Lead Cycles (LC) [Player Stat]
 
 Total number of cycles a player led a team in Deliberate Practice as a Team Lead
 
-## Effective Lead Cycles (ELC)
+## Effective Lead Cycles (ELC) [Player Stat]
 
 ECC calculated from all cycles completed as a Team Lead.
 
-## Lead to Membership Ratio (LMR)
+## Lead to Membership Ratio (LMR) [Player Stat]
 
 Ratio of Lead Cycles to Membership Cycles expressed as a single number.
 
@@ -71,24 +71,24 @@ Formula: (ECC / (TEAM_LEAD_THRESHOLD * 4)) * 0.25
 
 For example, if Player A has an ECC of 24.6, and the TEAM_LEAD_THRESHOLD is 10 cycles, then Player A's Target LMR is 0.15375.
 
-## Membership Days (MD)
+## Membership Days (MD) [Player Stat]
 
 Total number of days a player joined a team in Deliberate Practice as a Team Member
 
-## Membership Cycles (MC)
+## Membership Cycles (MC) [Player Stat]
 
 Total number of cycles a player joined a team in Deliberate Practice as a Team Member
 
-## Effective Membership Cycles (EMC)
+## Effective Membership Cycles (EMC) [Player Stat]
 
 ECC calculated from all cycles completed as a Team Member.
 
-## Preferred Goal Selection Percentage (PGSP)
+## Preferred Goal Selection Percentage (PGSP) [Player Stat]
 
 TODO: update with ranking algorithm
 Percentage of time that a player voted for a goal and got assigned to it.
 
-## Relative Contribution [Player Stat]
+## Relative Contribution (RC) [Player Stat]
 
 The percentage of work contributed by a player to a goal.
 
