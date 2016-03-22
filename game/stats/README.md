@@ -23,13 +23,11 @@ For example, a goal that takes 2 cycles for a team of 4 has a total of 8 build c
 
 TODO: Flesh out assessment Accuracy
 
-## Build Days (BD) [Player Stat]
-
-Total number of days a player worked on a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Days + Membership Days)
-
 ## Build Cycles (BC) [Player Stat]
 
-Total number of cycles a player worked on a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Cycles + Membership Cycles)
+Total number of cycles a player worked on a team in Deliberate Practice as a Team Member or Team Lead.
+
+Formula: LC + MC
 
 ## Effective Contribution Cycles (ECC) [Player Stat]
 
@@ -44,10 +42,6 @@ For example, if after working on a goal with 8 Aggregate Build Cycles, a player 
 In the _aggregate_, the formula for ECC is: sum of ECC for each goal worked on
 
 For example, if a player has worked on 3 goals and achieved an ECC of 2.2, 3.8, and 0.75 (respectively), their aggregate ECC is 6.75.
-
-## Lead Days (LD) [Player Stat]
-
-Total number of days a player led a team in Deliberate Practice as a Team Lead
 
 ## Lead Cycles (LC) [Player Stat]
 
@@ -71,10 +65,6 @@ Formula: (ECC / (TEAM_LEAD_THRESHOLD * 4)) * 0.25
 
 For example, if Player A has an ECC of 24.6, and the TEAM_LEAD_THRESHOLD is 10 cycles, then Player A's Target LMR is 0.15375.
 
-## Membership Days (MD) [Player Stat]
-
-Total number of days a player joined a team in Deliberate Practice as a Team Member
-
 ## Membership Cycles (MC) [Player Stat]
 
 Total number of cycles a player joined a team in Deliberate Practice as a Team Member
@@ -97,9 +87,3 @@ Determined in the [retrospective process](../processes/retro.md) by calculating 
 Formula: sum of all contribution estimates for player / team size
 
 For example, if on a 3-player team Player A rates their own contribution at 20%, and the other two players rate Player A's contribution at 40% and 45%, respectively, Player A's RC is 35%.
-
-
-TODO: cleanup, alphabetize
-Minimum EC cycles needed before player can lead. For our purposes it's set at 10 cycles.
-
-TODO: Maybe get rid of build days? Or make Build days what Total contribution is supposed to be
