@@ -4,11 +4,17 @@ TODO: replace BD with EC
 
 ## Context
 
-After a cycle starts, and before the next cycle begins there is a process of [Goal Selection](goal-selection.md) followed by Team Formation. Team formation kicks in when a cycle's vote cutoff time arrives.
+At the beginning of a cycle is a [Goal Selection](goal-selection.md) process followed by Team Formation. Team Formation kicks in when a cycle's vote cutoff time arrives.
 
 ## Purpose
 
-### Requirements
+Forming a team is a necessary step for players to begin working on a goal.
+
+## Participants
+
+- **Free Agents**: players who are not currently on a team.
+
+## Requirements
 - Team experience and skill level should be approximately equal, with the exception of 1 player who should be more experienced and skilled (Team Lead)
 - No team should be without a lead
 - Team members can only be on one team
