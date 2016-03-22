@@ -74,6 +74,8 @@ TODO: update the steps below
     - If not all spots are filled, goal selection has failed.
       - Start again from "Vote on goals"
 
+<!-- TODO: add an example (w/ diagram) because this algorithm is not easy to understand -->
+
 _Note: this is a modified version of the [Single Transferable Vote](https://en.wikipedia.org/wiki/Single_transferable_vote) process._
 
 ## Stats Impacted
