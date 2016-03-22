@@ -19,6 +19,10 @@ TODO: Flesh out assessment Accuracy
 
 Total number of days a player worked on a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Days + Membership Days)
 
+## Build Cycles (BC)
+
+Total number of cycles a player worked on a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Cycles + Membership Cycles)
+
 ## Effective Contribution (EC)
 
 TODO: flesh out (explain man cycles)
@@ -33,9 +37,17 @@ Percentage of time that a player voted for a goal and got assigned to it.
 
 Total number of days a player led a team in Deliberate Practice as a Team Lead
 
+## Lead Cycles (LC)
+
+Total number of days a player led a team in Deliberate Practice as a Team Lead
+
 ## Membership Days (MD)
 
 Total number of days a player joined a team in Deliberate Practice as a Team Member
+
+## Membership Cycles (MC)
+
+Total number of cycles a player joined a team in Deliberate Practice as a Team Member
 
 ## Lead to Membership Ratio (LMR)
 
