@@ -11,6 +11,14 @@ Their primary purpose is to give feedback to roles, in order to help roles answe
 
 Statistics, when used correctly, are the fuel that powers learning.
 
+## Aggregate Build Cycles (ABC) [Goal Stat]
+
+The Aggregate Build Cycles for a goal is equivalent to the number of cycles worked on a goal times the size of the team.
+
+Formula: cycles worked on goal X size of team
+
+For example, a goal that takes 2 cycles for a team of 4 has a total of 8 build cycles.
+
 ## Assessment Accuracy (AA)
 
 TODO: Flesh out assessment Accuracy
@@ -23,10 +31,19 @@ Total number of days a player worked on a team in Deliberate Practice as a Team 
 
 Total number of cycles a player worked on a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Cycles + Membership Cycles)
 
-## Effective Contribution (EC)
+## Effective Contribution Cycles (ECC) [Player Stat]
 
-TODO: flesh out (explain man cycles)
-Relative Contribution X Cycles per goal X Team Members
+An adjustment to a player's BC for a goal based on their relative contribution.
+
+The ECC represents a player's effectiveness based on the relative contribution to the total build cycles for a goal.
+
+In the _context of a goal_, the formula for ECC is: RC for goal X ABC for goal.
+
+For example, if after working on a goal with 8 Aggregate Build Cycles, a player with a RC of 32% would have an ECC of 2.56, even though they _technically_ only worked two Build Cycles.
+
+In the _aggregate_, the formula for ECC is: sum of ECC for each goal worked on
+
+For example, if a player has worked on 3 goals and achieved an ECC of 2.2, 3.8, and 0.75 (respectively), their aggregate ECC is 6.75.
 
 ## Preferred Goal Selection Percentage (PGSP)
 
