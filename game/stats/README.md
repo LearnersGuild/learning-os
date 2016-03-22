@@ -65,6 +65,12 @@ Formula: (ECC / (TEAM_LEAD_THRESHOLD * 4)) * 0.25
 
 For example, if Player A has an ECC of 24.6, and the TEAM_LEAD_THRESHOLD is 10 cycles, then Player A's Target LMR is 0.15375.
 
+## Lead-Member Contribution Difference (LMCD) [Player Stat]
+
+Within the context of a Team, the LMCD is the difference between a Team Lead's ECC and the mean of all Team Members' ECC.
+
+Formula: Team Lead ECC - (mean of Team Members' ECC)
+
 ## Membership Cycles (MC) [Player Stat]
 
 Total number of cycles a player joined a team in Deliberate Practice as a Team Member

@@ -15,26 +15,36 @@ Forming a team is a necessary step for players to begin working on a goal.
 - **Free Agents**: players who are not currently on a team.
 
 ## Requirements
-- Team experience and skill level should be approximately equal, with the exception of 1 player who should be more experienced and skilled (Team Lead)
-- No team should be without a lead
-- Team members can only be on one team
-- Teams should be no fewer than 3 and no more than 5 players including Lead
-- <no teams leading> * Team Lead Threshold >= <my EC> - <avg team EC>
-  - A Team Effective Contribution (EC) should be higher than their Team Members' average EC by Team Lead Threshold (10 cycles)
-  TODO: reword next to in EC
-  - If a Team Lead is assigned to two teams their BD should be higher than their Team Members' average BD by 100 (20 weeks)
-  - If a Team Lead is assigned to three teams their BD should be higher than their Team Members' average BD by 150 (30 weeks)
-- A Team Lead should not belong to more than 3 teams
-- Teams with an average EC of 30 or more don't need a team lead
 
-TODO: Simplify formula above
+Every team must meet the following requirements:
+
+- Each Team Member's experience and skill level should be approximately equal
+- No team should be without a Lead
+- Team Members can only be on one team
+- Teams should have no fewer than 3 and no more than 5 players (including Team Lead)
+- A Team Lead cannot lead more than 3 teams
+- Teams with a mean ECC of 30 or more do not need a Team Lead.
+
+### Team Lead Requirements
+
+A Team Lead must have an ECC of at least TEAM_LEAD_THRESHOLD cycles more than the mean of the Team Members' ECC. Use the Lead-Member Contribution Difference (LCMD) to calculate this.
+
+Formula: LCMD >= TEAM_LEAD_THRESHOLD
+
+A Team Lead may lead more than one team, so long as the following formula remains true:
+
+Formula: aggregate LCMD for all teams >= <no teams leading> * TEAM_LEAD_THRESHOLD
+
+Examples:
+- If a Team Lead is assigned to two teams their ECC must be higher than the mean of all their Team Members' ECC by (2 * TEAM_LEAD_THRESHOLD), or 20 cycles.
+- If a Team Lead is assigned to three teams their ECC must be higher than the mean of all their Team Members' ECC by (3 * TEAM_LEAD_THRESHOLD), or 30 cycles.
 
 ### Optimize for the following in order
-- Team leads should be on as few teams as possible
-- Players Lead to Membership Ratio (LMR) should be as close to Target LMR as possible
+
+1. Team leads should be on as few teams as possible
+- All Free Agents' Lead to Membership Ratio (LMR) should be as close to Target LMR as possible
 - Assign as many players as possible to Goals they have voted for. Maximize Preferred Goal Selection Percentage (PGSP).
 - Prefer teams of 4 players, followed by 5, followed by 3
-
 
 ## Inputs
 
