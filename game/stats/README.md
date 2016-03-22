@@ -58,6 +58,12 @@ Total number of days a player led a team in Deliberate Practice as a Team Lead
 
 Total number of days a player led a team in Deliberate Practice as a Team Lead
 
+## Lead to Membership Ratio (LMR)
+
+Ratio of Lead Cycles to Membership Cycles expressed as a single number.
+
+For example, if a player had 5 Lead Cycles, and 20 Membership Cycles, her ratio would be 1:4, and her LMR would be expressed as 0.25.
+
 ## Membership Days (MD)
 
 Total number of days a player joined a team in Deliberate Practice as a Team Member
@@ -65,11 +71,6 @@ Total number of days a player joined a team in Deliberate Practice as a Team Mem
 ## Membership Cycles (MC)
 
 Total number of cycles a player joined a team in Deliberate Practice as a Team Member
-
-## Lead to Membership Ratio (LMR)
-
-Ratio of Lead Days to Membership Days expressed as 1 number.
-For example, if a player had 5 lead days, and 20 membership days, her ratio would be 1:4, and her LMR would be expressed as 4.
 
 ## Relative Contribution [Player Stat]
 
