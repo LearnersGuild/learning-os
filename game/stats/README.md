@@ -88,8 +88,6 @@ TODO: describe better
 Draw a line, from 0 to 25% on the y scale, x scale is 4 X Team Lead Threshold.
 Target LMR is the point at that line for how many cycles you've been playing.
 
-## Team Lead Threshold
-
 TODO: cleanup, alphabetize
 Minimum EC cycles needed before player can lead. For our purposes it's set at 10 cycles.
 
