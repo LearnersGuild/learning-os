@@ -85,12 +85,14 @@ Teams are a game structure (game object).
 
 ## Team Member
 
-TODO: Define team membership in relationship to team lead based on build days
+A Team Member is a player working on a team. Team Members by definition have fewer ECC than their Team Lead.
+
 Team Member is a game mechanic (role).
 
 ## Team Lead
 
-TODO: Define team lead in terms of build days in relationship to average team build days (or perhaps max lead days??)
+A Team Lead is a player leading a team to accomplish a goal. Team Leads by definition have fewer ECC than the mean ECC of their Team Members.
+
 Team Lead is a game mechanic (role).
 
 # Unlearning
