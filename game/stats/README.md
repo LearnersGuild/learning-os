@@ -81,29 +81,9 @@ TODO: describe better
 Draw a line, from 0 to 25% on the y scale, x scale is 4 X Team Lead Threshold.
 Target LMR is the point at that line for how many cycles you've been playing.
 
-## Effective Contribution
-
-TODO: describe better, alphabetise
-Measured in cycles.
-
 ## Team Lead Threshold
 
 TODO: cleanup, alphabetize
 Minimum EC cycles needed before player can lead. For our purposes it's set at 10 cycles.
-
-## Total Contribution
-
-TODO: Flesh out Total Contribution
-
-If RCD calculates their relative contribution compared to teams they've worked on. It is a relative number.
-Total Contribution is a cumulative number. It is a function of the total Build Days and the Relative Contribution Delta.
-
-For example, Karim might have 100 BD, and an RCD of +5%. Meanwhile Omoju has 50 BD and an RCD of +10%.
-
-Karim's Total Contribution is 105 (100 * (1 + 5%))
-Omoju's Total Contribution is 55 (50 * (1 + 10%))
-
-Karim has more experience, while Omoju on average, contributes more of her fair share on Goals on a relative basis than Karim.
-
 
 TODO: Maybe get rid of build days? Or make Build days what Total contribution is supposed to be
