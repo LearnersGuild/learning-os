@@ -45,11 +45,6 @@ In the _aggregate_, the formula for ECC is: sum of ECC for each goal worked on
 
 For example, if a player has worked on 3 goals and achieved an ECC of 2.2, 3.8, and 0.75 (respectively), their aggregate ECC is 6.75.
 
-## Preferred Goal Selection Percentage (PGSP)
-
-TODO: update with ranking algorithm
-Percentage of time that a player voted for a goal and got assigned to it.
-
 ## Lead Days (LD)
 
 Total number of days a player led a team in Deliberate Practice as a Team Lead
@@ -71,6 +66,11 @@ Total number of days a player joined a team in Deliberate Practice as a Team Mem
 ## Membership Cycles (MC)
 
 Total number of cycles a player joined a team in Deliberate Practice as a Team Member
+
+## Preferred Goal Selection Percentage (PGSP)
+
+TODO: update with ranking algorithm
+Percentage of time that a player voted for a goal and got assigned to it.
 
 ## Relative Contribution [Player Stat]
 
