@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Challenge
 
 TODO: Define Challenge
@@ -25,7 +24,6 @@ Life of a cycle: Goal selection -> Team Formation -> Deliberate Practice -> Retr
 TODO: define how cycles are basic time unit and everything is expressed int terms of cycles. They are our tick.
 
 More on cycles [here](game/processes/cycle.md).
-
 
 # Deliberate Practice
 
@@ -56,7 +54,7 @@ A group of collectives. A game object.
 
 # Pod
 
-12 to 15 players that are part of the same cohort. PodS are a Player Support structure.
+12 to 15 players that are part of the same cohort. Pods are a Player Support structure.
 
 # Phase
 
@@ -69,16 +67,17 @@ TODO: define retro
 End of every cycle
 goal progress, relative contribution, professional demand, goal quality, team behavior...etc.
 
+Read about the [Retrospective process](./game/processes/retro.md)
+
 # Stage
 
-TODO: Define stage.
-Player support structure. 1 stage is 10 weeks (2 phases)
+1 stage is 10 weeks, or 2 phases. Stages are a player support structure.
 
 A section of the game through which players advance towards victory. Stages correspond to roles; moving a higher stage is analogous to acquiring a role with greater power and responsibility.
 
 # Team
 
-A team is composed of 3 or more players working on a specific Goal Instance for one or more  cycles. Teams form around a Goal instance when the goal begins and dissolve at the end of the goal.
+A team is composed of 3 or more players working on a specific Goal Instance for one or more cycles. Teams form around a Goal Instance when the goal begins and dissolve at the end of the goal.
 
 Team composition can change in between cycles in multi-cycle goals.
 
@@ -100,3 +99,19 @@ Learning is happening all the time, in both functional and dysfunctional ways an
 
 
 TODO: add stats here as well
+
+<!-- CONSTANTS -->
+
+# MAX_TEAM_SIZE
+5 players
+
+# MIN_TEAM_SIZE
+3 players
+
+# TARGET_TEAM_SIZE
+4 players
+
+# TEAM_LEAD_THRESHOLD
+10 cycles
+
+The number of cycles over the mean of all team members needed to be eligible to lead a team.
