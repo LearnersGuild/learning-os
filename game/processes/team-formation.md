@@ -12,7 +12,7 @@ Forming a team is a necessary step for players to begin working on a goal.
 
 ## Participants
 
-- **Free Agents**: players who are not currently on a team.
+- **Free Players**: players who are not currently on a team.
 
 ## Requirements
 
@@ -42,51 +42,51 @@ Examples:
 ### Optimize for the following in order
 
 1. Team leads should be on as few teams as possible
-- All Free Agents' Lead to Membership Ratio (LMR) should be as close to Target LMR as possible
+- All Free Players' Lead to Membership Ratio (LMR) should be as close to Target LMR as possible
 - Assign as many players as possible to Goals they have voted for. Maximize Preferred Goal Selection Percentage (PGSP).
 - Prefer teams of 4 players, followed by 5, followed by 3
 
-## Inputs
+## Steps
+
+To form a team, complete steps 1 and 2. Repeat until all free players have been assigned to a team.
+
+### Inputs
 
 - Goals from goal selection process
 - Player votes on the goals (each goal has at least 3 players interested)
-- Player stats (Build Days and LMR)
-
-## Steps
+- Player stats (ECC, LMR, and PGSP)
 
 ### Step 1: Select Team Members and create Goal Instances
 
-- TEAM_MEMBERS_SIZE_TARGET = 3
-- Order all players in ascending order of Effective Contribution, followed by ascending order LMR, followed by ascending order PGSP
-- Pick the first player on the list (this is the least experienced player who has worked on the goals they voted for the least amount of times)
-- Of the Goal Templates this player voted for, pick the one that has the most votes.
+- Order all free players in ascending order of ECC, followed by descending order LMR, followed by ascending order PGSP
+- Pick the first free player on the list (this is the least experienced free player who has worked on the goals they voted for the least amount of times)
+- Of the Goal Templates this free player voted for, pick the one that has the most votes.
   - Create a Goal Instance off of that template
   - Create a Team and assign this player to it
   - Assign the Team to the Goal Instance
-- Of the _other_ players that voted for this Goal Template, rate them ascending by PGSP and select the top (TEAM_MEMBERS_SIZE - 1)
-- If you didn't get enough players from the previous step to reach TEAM_MEMBERS_SIZE
-  - Find the 10 players who are not yet on a team who are closest to this teams average Effective Contribution
-  - Order these players ascending by LMR followed by PGSP
-  - Select to the top players from that list until you've reached TEAM_MEMBERS_SIZE
-- You now have TEAM_MEMBERS_SIZE team members, for each of these members:
+- Of the _other_ free players that voted for this Goal Template, rate them ascending by PGSP and select the top (TARGET_TEAM_SIZE - 1)
+- If team size is still less than MIN_TEAM_SIZE
+  - Find the 10 free players who are not yet on a team who are closest to the mean ECC of this team
+  - Order these free players ascending by LMR followed by PGSP
+  - Select free players from the top of that list until you've reached TARGET_TEAM_SIZE
+- You now have TARGET_TEAM_SIZE Team Members, for each of these Members:
   - Update their PGSP
   - Remove their votes from this goal and other goals they have voted for in this cycle
-- Calculate the average Effective Contribution (EC) for the selected Team Members from Step 1
-- If average is more than 30 skip Step 2 and repeat step 1
+- Calculate the mean ECC for the selected Team Members from Step 1
+- If mean ECC is more than (TEAM_LEAD_THRESHOLD * 3) skip Step 2 and repeat step 1 until team is TARGET_TEAM_SIZE
 
 ### Step 2: Select Team Leads
 
-- Order all players in ascending order of Total Contribution, followed by descending order LMR, followed by descending order PGSP
-- Filter out any players whose Build Days is less than 50 higher than than the Team Members' average BD
-- Filter out any players whose LMR is less than 3
-- If there are still players on the list
-  - Assign the first player as Team Lead with the Team Members
+- Filter out any free players whose LMCR is < 5 cycles when compared to the mean ECC of the team
+- Filter out any free players whose LMR is greater than their Target LMR
+- If there are still free players on the list
+  - Order all free players in ascending order of ECC, followed by ascending order LMR, followed by descending order PGSP
+  - Assign the first free player as Team Lead for this team
+  - Update their PGSP
   - Remove that player's votes from this goal and other goals they have voted for in this cycle
-  - Loop back to Step 1 until all players have been assigned a goal and a team
+  - Loop back to Step 1 until all free players have been assigned to a team
 - Else (we ran out of team leads)
-  - Reset all teams, goals, and votes, and redo the whole process, this time with TEAM_MEMBERS_SIZE increased by 1
-
-
+  - Reset all teams, goals, and votes, and redo the whole process, this time with TARGET_TEAM_SIZE increased by 1
 
 ## Stats Impacted
 - PGSP
@@ -94,7 +94,5 @@ Examples:
 ## Results
 - Teams formed around Goal Instances
 
-
-TODO: Order by total contribution not build days
 TODO: More plain english here in steps
 TODO: Simplify the algorithm
