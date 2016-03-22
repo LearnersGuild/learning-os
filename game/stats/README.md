@@ -33,7 +33,7 @@ Total number of cycles a player worked on a team in Deliberate Practice as a Tea
 
 ## Effective Contribution Cycles (ECC) [Player Stat]
 
-An adjustment to a player's BC for a goal based on their relative contribution.
+An adjustment to a player's BC based on their relative contribution.
 
 The ECC represents a player's effectiveness based on the relative contribution to the total build cycles for a goal.
 
@@ -55,13 +55,21 @@ Total number of cycles a player led a team in Deliberate Practice as a Team Lead
 
 ## Effective Lead Cycles (ELC)
 
-Total number of ECC a player led a team in Deliberate Practice as a Team Lead
+ECC calculated from all cycles completed as a Team Lead.
 
 ## Lead to Membership Ratio (LMR)
 
 Ratio of Lead Cycles to Membership Cycles expressed as a single number.
 
 For example, if a player had 5 Lead Cycles, and 20 Membership Cycles, her ratio would be 1:4, and her LMR would be expressed as 0.25.
+
+## Target LMR [Player Stat]
+
+The ideal ratio of MC to LC, adjusted for effective cycles completed.
+
+Formula: (ECC / (TEAM_LEAD_THRESHOLD * 4)) * 0.25
+
+For example, if Player A has an ECC of 24.6, and the TEAM_LEAD_THRESHOLD is 10 cycles, then Player A's Target LMR is 0.15375.
 
 ## Membership Days (MD)
 
@@ -73,7 +81,7 @@ Total number of cycles a player joined a team in Deliberate Practice as a Team M
 
 ## Effective Membership Cycles (EMC)
 
-Total number of ECC a player joined a team in Deliberate Practice as a Team Member
+ECC calculated from all cycles completed as a Team Member.
 
 ## Preferred Goal Selection Percentage (PGSP)
 
@@ -90,11 +98,6 @@ Formula: sum of all contribution estimates for player / team size
 
 For example, if on a 3-player team Player A rates their own contribution at 20%, and the other two players rate Player A's contribution at 40% and 45%, respectively, Player A's RC is 35%.
 
-## Target LMR
-
-TODO: describe better
-Draw a line, from 0 to 25% on the y scale, x scale is 4 X Team Lead Threshold.
-Target LMR is the point at that line for how many cycles you've been playing.
 
 TODO: cleanup, alphabetize
 Minimum EC cycles needed before player can lead. For our purposes it's set at 10 cycles.

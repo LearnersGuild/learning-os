@@ -9,8 +9,8 @@ When using these numbers in other game mechanics, refer to them by their constan
 | MAX_TEAM_SIZE       | 5     | players     |
 | MIN_TEAM_SIZE       | 3     | players     |
 | TARGET_TEAM_SIZE    | 4     | players     |
-| TEAM_LEAD_THRESHOLD | 10    | ECC         |
+| TEAM_LEAD_THRESHOLD | 10    | cycles      |
 
 ## Explanations
 
-TEAM_LEAD_THRESHOLD is the number of ECC over the mean of all team members needed to be eligible to lead a team.
+TEAM_LEAD_THRESHOLD is the number of cycles over the mean of all team members needed to be eligible to lead a team.
