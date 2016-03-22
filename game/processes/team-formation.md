@@ -36,8 +36,8 @@ A Team Lead may lead more than one team, so long as the following formula remain
 Formula: aggregate LCMD for all teams >= <no teams leading> * TEAM_LEAD_THRESHOLD
 
 Examples:
-- If a Team Lead is assigned to two teams their ECC must be higher than the mean of all their Team Members' ECC by (2 * TEAM_LEAD_THRESHOLD), or 20 cycles.
-- If a Team Lead is assigned to three teams their ECC must be higher than the mean of all their Team Members' ECC by (3 * TEAM_LEAD_THRESHOLD), or 30 cycles.
+- If a Team Lead is assigned to two teams their ECC must be higher than the mean of all their teams' MECC by (2 * TEAM_LEAD_THRESHOLD), or 20 cycles.
+- If a Team Lead is assigned to three teams their ECC must be higher than the mean of all their teams' MECC by (3 * TEAM_LEAD_THRESHOLD), or 30 cycles.
 
 ### Optimize for the following in order
 
@@ -66,18 +66,17 @@ To form a team, complete steps 1 and 2. Repeat until all free players have been 
   - Assign the Team to the Goal Instance
 - Of the _other_ free players that voted for this Goal Template, rate them ascending by PGSP and select the top (TARGET_TEAM_SIZE - 1)
 - If team size is still less than MIN_TEAM_SIZE
-  - Find the 10 free players who are not yet on a team who are closest to the mean ECC of this team
-  - Order these free players ascending by LMR followed by PGSP
+  - Order free players by proximity to team MECC, followed by ascending order LMR, followed by ascending order PGSP
   - Select free players from the top of that list until you've reached TARGET_TEAM_SIZE
-- You now have TARGET_TEAM_SIZE Team Members, for each of these Members:
+- You now have TARGET_TEAM_SIZE Team Members; for each of these Members:
   - Update their PGSP
   - Remove their votes from this goal and other goals they have voted for in this cycle
-- Calculate the mean ECC for the selected Team Members from Step 1
-- If mean ECC is more than (TEAM_LEAD_THRESHOLD * 3) skip Step 2 and repeat step 1 until team is TARGET_TEAM_SIZE
+- Calculate the MECC for the selected Team Members from Step 1
+- If MECC is more than (TEAM_LEAD_THRESHOLD * 3) skip Step 2 and repeat Step 1 until team is TARGET_TEAM_SIZE
 
 ### Step 2: Select Team Leads
 
-- Filter out any free players whose LMCR is < 5 cycles when compared to the mean ECC of the team
+- Filter out any free players whose LMCR is < 5 cycles when compared to the team MECC
 - Filter out any free players whose LMR is greater than their Target LMR
 - If there are still free players on the list
   - Order all free players in ascending order of ECC, followed by ascending order LMR, followed by descending order PGSP

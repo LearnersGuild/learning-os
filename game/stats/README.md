@@ -69,7 +69,11 @@ For example, if Player A has an ECC of 24.6, and the TEAM_LEAD_THRESHOLD is 10 c
 
 Within the context of a Team, the LMCD is the difference between a Team Lead's ECC and the mean of all Team Members' ECC.
 
-Formula: Team Lead ECC - (mean of Team Members' ECC)
+Formula: Team Lead ECC - MECC
+
+## Mean Effective Contribution Cycles (MECC) [Team Stat]
+
+The mean ECC for all Team Members on a team.
 
 ## Membership Cycles (MC) [Player Stat]
 
