@@ -71,9 +71,15 @@ Total number of cycles a player joined a team in Deliberate Practice as a Team M
 Ratio of Lead Days to Membership Days expressed as 1 number.
 For example, if a player had 5 lead days, and 20 membership days, her ratio would be 1:4, and her LMR would be expressed as 4.
 
-## Relative Contribution
+## Relative Contribution [Player Stat]
 
-TODO: Flesh out relative Contribution
+The percentage of work contributed by a player to a goal.
+
+Determined in the [retrospective process](../processes/retro.md) by calculating the average of each player on a team's estimation of contribution percentages.
+
+Formula: sum of all contribution estimates for player / team size
+
+For example, if on a 3-player team Player A rates their own contribution at 20%, and the other two players rate Player A's contribution at 40% and 45%, respectively, Player A's RC is 35%.
 
 ## Target LMR
 
