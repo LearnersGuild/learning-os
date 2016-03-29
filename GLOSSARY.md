@@ -24,21 +24,17 @@ Building something in a context that approximates/simulates the "real world" as 
 
 # Goal Instance
 
-TODO: Clean this up
-
-A Goal Instance is an instantiation of a Goal Template.
-It belongs to a specific team.
+A Goal Instance is an instantiation of a Goal Template. It belongs to a specific team.
 
 One Team works on one Goal instance for one or more Cycles.
-A goal is a game structure (contract).
+
+A goal instance is a game structure (contract).
 
 # Goal Template
 
-TODO: Define Goal template
-
 Goals Templates can be single cycle, or multi-cycle.
 
-A goal is a game structure (contract template).
+A goal instance is a game structure (contract template).
 
 # Guild
 
