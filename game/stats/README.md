@@ -21,8 +21,6 @@ For example, a goal that takes 2 cycles for a team of 4 has a total of 8 build c
 
 ## Assessment Accuracy (AA)
 
-TODO: Flesh out assessment Accuracy
-
 ## Build Cycles (BC) [Player Stat]
 
 Total number of cycles a player worked on a team in Deliberate Practice as a Team Member or Team Lead.
