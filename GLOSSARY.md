@@ -42,17 +42,15 @@ A goal is a game structure (contract template).
 
 # Guild
 
-TODO: flesh out this definition
-A group of collectives. A game object.
+A group of chapters. A guild is a game object.
 
 # Pod
 
-12 to 15 players that are part of the same cohort. Pods are a Player Support structure.
+12 to 15 players that are part of the same cohort. Pods are a player support structure.
 
 # Phase
 
-TODO: Define phase.
-Player support structure. 1 phase is 5 weeks.
+1 phase is 5 weeks. Phases are a player support structure.
 
 # Retrospective
 
