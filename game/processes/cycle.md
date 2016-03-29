@@ -3,13 +3,16 @@
 ## Context
 
 All game play happens within a cycle. It is the primary game loop.
-Cycles have a specific start date, and end date.
+
+Cycles have a specific start date/time, and end date/time.
 
 Cycles belong to a Chapter.
 
 ## Purpose
 
-A cycle is the main organizing unit of the game. They are used to chunk up work, and provide the core rhythm of the game.
+A cycle is the main organizing time unit of the game. They are used to chunk up work, and provide the core rhythm of the game.
+
+Cycles provide a heartbeat, a tick to the game. They are analogous to turns in chess or plays in American football. Many stats will be expressed in terms of cycles.
 
 **1 Team works on 1 Goal Instance for 1 Cycle.**
 

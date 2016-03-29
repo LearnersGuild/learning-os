@@ -12,12 +12,11 @@ A knowledge skill that people need to build things together. Examples: Dot net w
 
 # Cycle
 
-The primary game loop. Cycles are a Game Structure (Process).
-Life of a cycle: Goal selection -> Team Formation -> Deliberate Practice -> Retrospective
+The primary game loop. Cycles are a game structure (process). Cycles provide a heartbeat, a tick to the game. They are analogous to turns in chess or plays in American football.
 
-TODO: define how cycles are basic time unit and everything is expressed int terms of cycles. They are our tick.
+Life of a cycle: Goal Selection -> Team Formation -> Deliberate Practice -> Retrospective.
 
-More on cycles [here](game/processes/cycle.md).
+[More on cycles](game/processes/cycle.md).
 
 # Deliberate Practice
 
