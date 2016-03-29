@@ -1,7 +1,3 @@
-# Challenge
-
-TODO: Define Challenge
-
 # Chapter
 
 A group of cohorts that share their skills with each other. Chapters are committed to developing the same craft. Chapter is a game object. Players in the same chapter are committed to each others learning.
