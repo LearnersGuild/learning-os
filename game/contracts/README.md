@@ -41,15 +41,3 @@ Every contract contains (at minimum) the following attributes:
 A contract for committing to a role.
 
 [Investor Learner Contract](investor-learner.md)
-
-<!-- TODO: define contract -->
-
-### Learning Contract
-A contract for committing to an offering or learning activity.
-
-<!-- TODO: define contract -->
-
-### Team Contract
-A contract for joining a team.
-
-<!-- TODO: define contract -->
