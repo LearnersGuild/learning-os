@@ -51,45 +51,44 @@ To form a team, complete steps 1 and 2. Repeat until all free players have been 
 ### Inputs
 
 - Goals from goal selection process
-- Player votes on the goals (each goal has at least 3 players interested)
+- Player votes on the goals (each goal has at least MIN_TEAM_SIZE interested)
 - Player stats (ECC, LMR, and PGSP)
 
 ### Step 1: Select Team Members and create Goal Instances
 
 - Order all free players in ascending order of ECC, followed by descending order LMR, followed by ascending order PGSP
-- Pick the first free player on the list (this is the least experienced free player who has worked on the goals they voted for the least amount of times)
-- Of the Goal Templates this free player voted for, pick the one that has the most votes.
-  - Create a Goal Instance off of that template
+  - This way, the first player in the list has the least ECC, the highest LMR, and the lowest PGSP, i.e. the least experienced free player who has worked on the goals they voted for the least amount of times
+- Pick the first free player on the list
+- Of the Goal Templates this free player voted for, pick the one that has the most votes
+  - Create a Goal Instance from this Template
   - Create a Team and assign this player to it
   - Assign the Team to the Goal Instance
 - Of the _other_ free players that voted for this Goal Template, rate them ascending by PGSP and select the top (TARGET_TEAM_SIZE - 1)
 - If team size is still less than MIN_TEAM_SIZE
-  - Order free players by proximity to team MECC, followed by ascending order LMR, followed by ascending order PGSP
-  - Select free players from the top of that list until you've reached TARGET_TEAM_SIZE
-- You now have TARGET_TEAM_SIZE Team Members; for each of these Members:
+  - Order free players by proximity to team MECC, followed by descending order LMR, followed by descending order PGSP
+    - This way, we pick players who have the closest ECC to the rest of the team, who have higher lead:member ratios, and who have worked on goals of their choosing most often
+  - Select free players from the top of that list until you've reached MIN_TEAM_SIZE
+- Team now has all Team Members; for each of these Members:
   - Update their PGSP
   - Remove their votes from this goal and other goals they have voted for in this cycle
 - Calculate the MECC for the selected Team Members from Step 1
 - If MECC is more than (TEAM_LEAD_THRESHOLD * 3) skip Step 2 and repeat Step 1 until team is TARGET_TEAM_SIZE
+  - Teams with high MECC don't need Team Lead
 
 ### Step 2: Select Team Leads
 
-- Filter out any free players whose LMCR is < 5 cycles when compared to the team MECC
-- Filter out any free players whose LMR is greater than their Target LMR
-- If there are still free players on the list
-  - Order all free players in ascending order of ECC, followed by ascending order LMR, followed by descending order PGSP
-  - Assign the first free player as Team Lead for this team
-  - Update their PGSP
-  - Remove that player's votes from this goal and other goals they have voted for in this cycle
-  - Loop back to Step 1 until all free players have been assigned to a team
-- Else (we ran out of team leads)
-  - Reset all teams, goals, and votes, and redo the whole process, this time with TARGET_TEAM_SIZE increased by 1
+- Filter out any free players whose LMCD is < 5 cycles when compared to the team MECC
+- If there are no free players on the list (we ran out of team leads)
+  - Clear all teams, reset votes, and restart team formation process, this time with MIN_TEAM_SIZE increased by 1
+- Order all free players in ascending order of ECC, followed by ascending order LMR, followed by descending order PGSP
+  - This way, we choose Team Leads from free players with more experience than the team (but not too much more) who have the lowest lead:member ratios and have worked on their chosen goals the most
+- Assign the first free player as Team Lead for this team
+- Update their PGSP
+- Remove that player's votes from this goal and other goals they have voted for in this cycle
+- Loop back to Step 1 until all free players have been assigned to a team
 
 ## Stats Impacted
 - PGSP
 
 ## Results
 - Teams formed around Goal Instances
-
-TODO: More plain english here in steps
-TODO: Simplify the algorithm
