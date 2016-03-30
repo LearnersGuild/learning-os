@@ -14,7 +14,7 @@ A cycle is the main organizing time unit of the game. They are used to chunk up 
 
 Cycles provide a heartbeat, a tick to the game. They are analogous to turns in chess or plays in American football. Many stats will be expressed in terms of cycles.
 
-**1 Team works on 1 Goal Instance for 1 Cycle.**
+**1 Team works on 1 Goal Instance for 1 or more Cycles.**
 
 Game moderators may wish to define set cycle durations to create consistency and synchronize team-formation across players, teams and cohorts that belong to a certain chapter.
 
