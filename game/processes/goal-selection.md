@@ -23,13 +23,6 @@ Players indicate interest in goals
 
 ## Steps
 
-<!--
-TODO: update the steps below
-- With a modification in that the same goal can be chosen TWICE!
-- And the votes being transferred are the ones that didn't get a preference the most (take PGSP into account as to who gets to work on their first preference)
-- We also need to calculate the PGSP based on who got which ranked preference.
- -->
-
 1. Determine **open spots**
   - This number determines how many possible teams there are
   - Formula: total no. of voters / MIN_TEAM_SIZE (round up)
@@ -44,6 +37,8 @@ TODO: update the steps below
   - Each voter assigns a goal template to each preference in their scorecard
     - Voters can choose the same goal template for multiple preference
 1. Goal selection (fill **open spots**)
+  - Sort goals by median PGSP of voters who selected goal as primary preferences (ascending)
+    - This way, players who have the lowest PGSP get their goals selected first
   - Convert primary preferences to votes for each goal
   - Goals whose vote count exceeds the Droop quota are selected
   - For each selected goal X
