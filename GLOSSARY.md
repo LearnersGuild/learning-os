@@ -50,7 +50,6 @@ A group of chapters. A guild is a game object.
 
 # Retrospective
 
-TODO: define retro
 End of every cycle
 goal progress, relative contribution, professional demand, goal quality, team behavior...etc.
 
