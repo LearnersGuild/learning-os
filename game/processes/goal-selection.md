@@ -36,7 +36,7 @@ Players indicate interest in goals
     - The scorecards have a primary and secondary preference
   - Each voter assigns a goal template to each preference in their scorecard
     - Voters can choose the same goal template for multiple preference
-1. Goal selection (fill **open spots**)
+1. Select goals (fill **open spots**)
   - Sort goals by median PGSP of voters who selected goal as primary preferences (ascending)
     - This way, players who have the lowest PGSP get their goals selected first
   - Convert primary preferences to votes for each goal
