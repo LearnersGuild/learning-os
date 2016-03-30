@@ -29,8 +29,7 @@ Players indicate interest in goals
   - Example: 23 / 3 = 8
 1. Determine **Droop quota**
   - This number determines the minimum number of votes required for a goal to be selected
-  - Formula: total no. of voters / open spots (round down) + 1
-  - Example: (23 / 8) + 1 = 3
+  - It is equal to the MIN_TEAM_SIZE
 1. Vote on goals (build **vote pool**)
   - Each voter receives a 2-preference scorecard to vote on their preferred goal template
     - The scorecards have a primary and secondary preference
@@ -42,10 +41,13 @@ Players indicate interest in goals
   - Convert primary preferences to votes for each goal
   - Goals whose vote count exceeds the Droop quota are selected
   - For each selected goal X
-    - Assign goal X to one open spot
+    - Divide vote count by Droop quota and round down, this is **spots filled**
+      - Formula: vote count / Droop quota
+      - Example: 7 / 3 (round down) = 2
+    - Assign goal X to this many open spots
     - Determine surplus votes
-      - Formula: votes for goal X - Droop quota
-      - Example: 7 - 3 = 4
+      - Formula: remainder of (vote count / droop quota)
+      - Example: 7 % 3 = 1
     - Transfer surplus votes to secondary preferences
       - From the set of primary preferences for goal X, define the set of goals chosen as a secondary preference
       - For each goal Y in this set
