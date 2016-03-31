@@ -1,20 +1,20 @@
-## Process: Cycle
+# Process: Cycle
 
 ## Context
 
 All game play happens within a cycle. It is the primary game loop.
-Cycles have a specific start date, and end date.
+
+Cycles have a specific start date/time, and end date/time.
 
 Cycles belong to a Chapter.
 
-TODO: describe base time unit per cycle. is that a support structure? are cycles defined by goals or the other way around? there's a missing concept here
-
-
 ## Purpose
 
-A cycle is the main organizing unit of the game. They are used to chunk up work, and provide the core rhythm of the game.
+A cycle is the main organizing time unit of the game. They are used to chunk up work, and provide the core rhythm of the game.
 
-**1 Team works on 1 Goal Instance for 1 Cycle.**
+Cycles provide a heartbeat, a tick to the game. They are analogous to turns in chess or plays in American football. Many stats will be expressed in terms of cycles.
+
+**1 Team works on 1 Goal Instance for 1 or more Cycles.**
 
 Game moderators may wish to define set cycle durations to create consistency and synchronize team-formation across players, teams and cohorts that belong to a certain chapter.
 

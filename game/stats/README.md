@@ -11,70 +11,96 @@ Their primary purpose is to give feedback to roles, in order to help roles answe
 
 Statistics, when used correctly, are the fuel that powers learning.
 
+## Aggregate Build Cycles (ABC) [Goal Stat]
+
+The Aggregate Build Cycles for a goal is equivalent to the number of cycles worked on a goal times the size of the team.
+
+Formula: cycles worked on goal X size of team
+
+For example, a goal that takes 2 cycles for a team of 4 has a total of 8 build cycles.
+
 ## Assessment Accuracy (AA)
 
-TODO: Flesh out assessment Accuracy
+## Build Cycles (BC) [Player Stat]
 
-## Build Days (BD)
+Total number of cycles a player worked on a team in Deliberate Practice as a Team Member or Team Lead.
 
-Total number of days a player worked on a team in Deliberate Practice as a Team Member or Team Lead. (Build Days = Lead Days + Membership Days)
+Formula: LC + MC
 
-## Effective Contribution (EC)
+## Effective Contribution Cycles (ECC) [Player Stat]
 
-TODO: flesh out (explain man cycles)
-Relative Contribution X Cycles per goal X Team Members
+An adjustment to a player's BC based on their relative contribution.
 
-## Preferred Goal Selection Percentage (PGSP)
+The ECC represents a player's effectiveness based on the relative contribution to the total build cycles for a goal.
 
-TODO: update with ranking algorithm
+In the _context of a goal_, the formula for ECC is: RC for goal X ABC for goal.
+
+For example, if after working on a goal with 8 Aggregate Build Cycles, a player with a RC of 32% would have an ECC of 2.56, even though they _technically_ only worked two Build Cycles.
+
+In the _aggregate_, the formula for ECC is: sum of ECC for each goal worked on
+
+For example, if a player has worked on 3 goals and achieved an ECC of 2.2, 3.8, and 0.75 (respectively), their aggregate ECC is 6.75.
+
+## Goals Selected (GS) [Player Stat]
+
+The number of goals a player has joined.
+
+## Preferred Goals Selected (PGS) [Player Stat]
+
+The number of goals a player has joined for which the goal was one of their preferences (in the goal selection process).
+
+## Lead Cycles (LC) [Player Stat]
+
+Total number of cycles a player led a team in Deliberate Practice as a Team Lead
+
+## Effective Lead Cycles (ELC) [Player Stat]
+
+ECC calculated from all cycles completed as a Team Lead.
+
+## Lead to Membership Ratio (LMR) [Player Stat]
+
+Ratio of Lead Cycles to Membership Cycles expressed as a single number.
+
+For example, if a player had 5 Lead Cycles, and 20 Membership Cycles, her ratio would be 1:4, and her LMR would be expressed as 0.25.
+
+## Target LMR [Player Stat]
+
+The ideal ratio of MC to LC, adjusted for effective cycles completed.
+
+Formula: (ECC / (TEAM_LEAD_THRESHOLD * 4)) * 0.25
+
+For example, if Player A has an ECC of 24.6, and the TEAM_LEAD_THRESHOLD is 10 cycles, then Player A's Target LMR is 0.15375.
+
+## Lead-Member Contribution Difference (LMCD) [Player Stat]
+
+Within the context of a Team, the LMCD is the difference between a Team Lead's ECC and the mean of all Team Members' ECC.
+
+Formula: Team Lead ECC - MECC
+
+## Mean Effective Contribution Cycles (MECC) [Team Stat]
+
+The mean ECC for all Team Members on a team.
+
+## Membership Cycles (MC) [Player Stat]
+
+Total number of cycles a player joined a team in Deliberate Practice as a Team Member
+
+## Effective Membership Cycles (EMC) [Player Stat]
+
+ECC calculated from all cycles completed as a Team Member.
+
+## Preferred Goal Selection Percentage (PGSP) [Player Stat]
+
 Percentage of time that a player voted for a goal and got assigned to it.
 
-## Lead Days (LD)
+Formula: (PGS / GS) * 100
 
-Total number of days a player led a team in Deliberate Practice as a Team Lead
+## Relative Contribution (RC) [Player Stat]
 
-## Membership Days (MD)
+The percentage of work contributed by a player to a goal.
 
-Total number of days a player joined a team in Deliberate Practice as a Team Member
+Determined in the [retrospective process](../processes/retro.md) by calculating the average of each player on a team's estimation of contribution percentages.
 
-## Lead to Membership Ratio (LMR)
+Formula: sum of all contribution estimates for player / team size
 
-Ratio of Lead Days to Membership Days expressed as 1 number.
-For example, if a player had 5 lead days, and 20 membership days, her ratio would be 1:4, and her LMR would be expressed as 4.
-
-## Relative Contribution
-
-TODO: Flesh out relative Contribution
-
-## Target LMR
-
-TODO: describe better
-Draw a line, from 0 to 25% on the y scale, x scale is 4 X Team Lead Threshold.
-Target LMR is the point at that line for how many cycles you've been playing.
-
-## Effective Contribution
-
-TODO: describe better, alphabetise
-Measured in cycles.
-
-## Team Lead Threshold
-
-TODO: cleanup, alphabetize
-Minimum EC cycles needed before player can lead. For our purposes it's set at 10 cycles.
-
-## Total Contribution
-
-TODO: Flesh out Total Contribution
-
-If RCD calculates their relative contribution compared to teams they've worked on. It is a relative number.
-Total Contribution is a cumulative number. It is a function of the total Build Days and the Relative Contribution Delta.
-
-For example, Karim might have 100 BD, and an RCD of +5%. Meanwhile Omoju has 50 BD and an RCD of +10%.
-
-Karim's Total Contribution is 105 (100 * (1 + 5%))
-Omoju's Total Contribution is 55 (50 * (1 + 10%))
-
-Karim has more experience, while Omoju on average, contributes more of her fair share on Goals on a relative basis than Karim.
-
-
-TODO: Maybe get rid of build days? Or make Build days what Total contribution is supposed to be
+For example, if on a 3-player team Player A rates their own contribution at 20%, and the other two players rate Player A's contribution at 40% and 45%, respectively, Player A's RC is 35%.
