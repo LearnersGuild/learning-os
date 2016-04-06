@@ -5,9 +5,9 @@ Documentation for the Learning Operating System (LOS).
 The LOS is comprised of five components:
 
 1. [Roles](roles.md)
-2. [Contracts](contracts.md)
-3. [Processes](processes.md)
-4. [Statistics](statistics.md)
+2. [Contracts](contracts/README.md)
+3. [Processes](processes/README.md)
+4. [Statistics](stats/README.md)
 5. [Game Objects](game-objects.md)
 
 Together these form the structure of the LOS and allow for our learning environment to flourish according to the design principles defined in our [blueprint](../blueprint/design-principles.md).

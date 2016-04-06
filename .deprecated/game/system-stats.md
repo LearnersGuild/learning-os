@@ -57,8 +57,8 @@ Each of the following Quality Stats have an adjective describing the quality to 
 100 - Evidence of deeply insightful thinking combining multiple considerations and levels of abstraction
 
 #### Relevant (Meaningful)
-0 - The person’s output (work or presenting behavior) is totally irrelevant to their practice, their POD, and their industry
-25 - This output is somewhat relevant to a single category (practice, POD, industry)
+0 - The person’s output (work or presenting behavior) is totally irrelevant to their practice, their Pod, and their industry
+25 - This output is somewhat relevant to a single category (practice, Pod, industry)
 50 - This output is relevant to multiple people or groups
 75 - This output is both relevant and timely to everyone who interacts with it
 100 - This is what everyone needed before they knew they needed it.
@@ -139,7 +139,7 @@ The following Health Stats have a descriptor of a value (ie. Purpose) and a set 
 ### Impact
 * I maintain an inventory of the software development industry’s needs.
 * I address these needs in my work as a software developer
-* I track my impact, my PODs impact, my company’s impact, and my communities’ impacts on the software development industry.
+* I track my impact, my Pods impact, my company’s impact, and my communities’ impacts on the software development industry.
 * I regularly ask and answer the question: How can I optimize these impacts on my industry?
 * I blog and read other people’s blogs
 * I follow open source, and other major projects/initiatives that have global impact.
