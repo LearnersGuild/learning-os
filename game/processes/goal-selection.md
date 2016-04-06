@@ -72,7 +72,7 @@ _Note: this is a modified version of the [Single Transferable Vote](https://en.w
 
 ## Stats Impacted
 
-None
+PGSP
 
 ---
 
