@@ -6,16 +6,28 @@ Player support modules are made up of the following:
 
 ## Content
 
-- Objectives: A list competencies this module is meant to develop, ideally broken down into lists of behaviors
-- Presentation script: This is the meat of the module. The actual material that is delivered.
-- Facilitator script: Supports the facilitator in framing and guiding exercises/experiences before/after presentation.
-- Supporting notes: FAQs and supporting material for presenters and facilitators
-- Learner resources: Video, articles, books, workshops...etc. that are available to the learner to deepen their knowledge
+- Capacity Objectives: A list competencies this module is meant to develop, broken down into lists of capacities
+- Facilitator Script: This is the meat of the module. The actual material that is delivered. Supports the facilitator in presenting and in framing and guiding exercises/experiences before/after presentation
+- Facilitator Video: A recording of the module author delivering and facilitating the content in a playtest session
+- Support Material: FAQ, Video, articles, books, workshops...etc. that are available to the learner and facilitator to deepen their knowledge.  e.g. "These are the questions you might get asked. Here's a book you can read that would deepen your understanding of the topic and help you dive deeper into it"
 
 
 ## Content Integration
 
-- Player objectives: Which player objective does this module support
-- Daily practices, group agreements, and other guidance for learners to integrate the module
-- Assessment method: How the impact of the module is measured (in terms of already existing game stats, or new stats that need to be created)
-- Dependancies: What other modules does this on depend on? What other modules depend on this module?
+- Player objectives: Which player objective(s) does this module support
+- Integration Techniques: Suggest practices, group agreements, or other guidance for learners and facilitators to integrate the module and deliberately practice the capacities
+- Measurement method: How the impact of the module is measured (in terms of already existing game stats, or new stats that need to be created). How are we measuring to what degree the learners are developing the capacities that this module covers?
+- Which Competency Category does it belong to: Learning to learn, Self Mastery, Collaboration, Navigating Systems
+- Dependancies: What existing/planned modules does this on depend on? What other modules depend on this module?
+
+
+## Module Development Steps
+
+Each of these steps should be a seperate issue on the board. 
+Ideally each step should be accepted before the next one is taken up. 
+
+1. Player Objectives, Competency Category, Capacity Objectives, Dependancies
+2. Measurement Method
+3. Facilitator Script
+4. Facilitator Video
+5. Support Material, Integration Techniques

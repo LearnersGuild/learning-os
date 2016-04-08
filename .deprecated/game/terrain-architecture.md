@@ -170,7 +170,7 @@ In the example above, if Player C and Player D pair on the challenge and submit 
 ### Project: How the web works presentation
 #### Objectives
 * Figure out how the web works
-* Present it to your POD in 5 minutes only using a white board
+* Present it to your Pod in 5 minutes only using a white board
 
 #### Time: 3 hours
 
