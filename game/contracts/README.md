@@ -1,4 +1,4 @@
-# Documentation: Contracts
+# Contracts
 
 ### Working with Contracts
 
@@ -40,16 +40,4 @@ Every contract contains (at minimum) the following attributes:
 ### Role Contracts
 A contract for committing to a role.
 
-[Investor Learner Contract](contracts/investor-learner.md)
-
-<!-- TODO: define contract -->
-
-### Learning Contract
-A contract for committing to an offering or learning activity.
-
-<!-- TODO: define contract -->
-
-### Team Contract
-A contract for joining a team.
-
-<!-- TODO: define contract -->
+[Investor Learner Contract](investor-learner.md)
