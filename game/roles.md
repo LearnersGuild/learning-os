@@ -30,10 +30,66 @@ Every role contains (at minimum) the following attributes:
 
 ## Roles
 
+### Team Lead
+<!-- TODO: define role -->
+
+### Team Member
+<!-- TODO: define role -->
+
 ### Learner
 <!-- TODO: define role -->
 
-### Funded Learner
+### Aspirant
+Applied, but unfunded player. Can play the game, but has no livelihood component.
+
+Has power to:
+- Join & form teams.
+
+<!-- TODO: define role -->
+
+### Apprentice
+Funded learner. Paid to learn.
+
+Has power to:
+- Do everything an Aspirant can do.
+- Get paid to learn.
+
+<!-- TODO: define role -->
+
+### Mentor
+Experienced learner who can aid others.
+
+Has power to:
+- Do everything an Apprentice can do.
+- Act as team lead.
+
+<!-- TODO: define role -->
+
+### Agent
+Learner capable of taking on projects for clients outside of game.
+
+Has power to:
+- Do everything a Mentor can do.
+- Take on outside projects (do work for clients outside of game).
+
+<!-- TODO: define role -->
+
+### Creator
+Super-learner who can create their own reality.
+
+Has power to:
+- Do everything an Agent can do.
+- Mod the game. Create and change stats, contracts, processes, etc.
+
+<!-- TODO: define role -->
+
+### Practitioner
+Fully employed to practice craft. Working in dignified livelihood.
+
+Has power to:
+- Do everything a Creator can do.
+- Get paid to work as a practitioner.
+
 <!-- TODO: define role -->
 
 ### Investor
@@ -42,14 +98,9 @@ Every role contains (at minimum) the following attributes:
 ### Facilities Provider
 <!-- TODO: define role -->
 
-### Mentor
-<!-- TODO: define role -->
-
 ### Facilitator
 <!-- TODO: define role -->
 
-### Practitioner
-<!-- TODO: define role -->
+### Game Moderator
 
-### System Administrator
-<!-- TODO: define role -->
+Defines cycle times for a chapter

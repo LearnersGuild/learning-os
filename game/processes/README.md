@@ -59,6 +59,11 @@ A new guidance request is added to a request queue. This queue is used in the Of
 
 ## Contract Processes
 
+[Cycle](cycle.md)
+[Goal Selection](goal-selection.md)
+[Team Formation](team-formation.md)
+[Retrospective](retro.md)
+
 ### Defining a Contract
 <!-- TODO: define process -->
 

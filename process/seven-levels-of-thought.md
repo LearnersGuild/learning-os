@@ -69,5 +69,5 @@ Tag: `_tl-design-element`
 
 This is the holy grail. The actual design decision/component/element that constitutes our learning OS. These elements should be linked to a GTD Project that is assigned to someone who is responsible for developing them.
 
-For example: Admissions Criteria. POD agreements. Mindfulness Curriculum.
+For example: Admissions Criteria. Pod agreements. Mindfulness Curriculum.
 
