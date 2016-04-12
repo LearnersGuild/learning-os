@@ -86,16 +86,122 @@ A new guidance request is added to a request queue. This queue is used in the Of
 <!-- TODO: define process -->
 
 
-## General Processes
+## Requests and Offerings
 
-### Requesting Guidance
-<!-- TODO: define process -->
+In the game, there are two types of explicit **requests** and **offerings** that a player can make:
 
-### Offering Guidance
-<!-- TODO: define process -->
+1. _Help_ requests and offerings
+1. _Feedback_ requests and offerings
+
+Help can be requested/offered _before an action or decision is taken_ and _during a practice event_.
+
+Feedback can be requested/offered _after an action or decision is taken_ and _after a practice event_.
+
+For example, a team deciding which RSGs to commit to for a cycle may _request help_ from a Mentor. Once they've completed the decision making process, the Mentor may _offer feedback_ on the team's behavior during the decision making process.
+
+### Requesting Help
+Any player or team can request help at any time by logging a [help request](./game-objects.md#help-request).
+
+Requesting help contributes to the __ stat of the requesting player/team.
+
+<!-- TODO: determine stats gained for requesting help; players should be incentivized to both request and respond to help requests -->
+
+##### Command
+
+```
+/request help <question>
+```
+
+Example:
+
+```
+/request help "How do I style a table in HTML?"
+```
+
+### Offering Help
+Any player can offer help by logging a [help offering](./game-objects.md#help-offering).
+
+When offering help, players can either make a _directed_ offer to a particular player or team or a _general_ offer to any player/team who wishes to accept it.
+
+Offering help contributes to the __ stat of the offering player.
+
+<!-- TODO: determine stats gained for offering help; players should be incentivized to offer help -->
+
+##### Command
+
+```
+/offer help [<player>...]
+```
+
+Examples:
+
+```
+/offer help
+```
+
+```
+/offer help @harry @sally
+```
 
 ### Requesting Feedback
-<!-- TODO: define process -->
+Any player or team can request feedback at any time by logging a [feedback request](./game-objects.md#feedback-request).
+
+Requesting feedback contributes to the __ stat of the requesting player/team.
+
+<!-- TODO: determine stats gained for requesting feedback; players should be incentivized to both request and respond to feedback requests -->
+
+##### Command
+
+```
+/request feedback [<link>] [<message>]
+```
+
+Examples:
+
+```
+/request feedback https://github.com/sally/mycode/pull/231
+```
+
+```
+/request feedback "listening skills"
+```
+
+```
+/request feedback https://github.com/sally/mycode/pull/231 "object-oriented design"
+```
 
 ### Offering Feedback
+Any player can offer feedback by logging a [feedback offering](./game-objects.md#feedback-offering).
+
+When offering feedback, players can either make a _directed_ offer to a particular player or team or a _general_ offer to any player/team who wishes to accept it.
+
+Offering feedback contributes to the __ stat of the offering player.
+
+<!-- TODO: determine stats gained for offering feedback; players should be incentivized to offer feedback -->
+
+##### Command
+
+```
+/offer feedback [<topic>] [<player>...]
+```
+
+Examples:
+
+```
+/offer feedback
+```
+
+```
+/offer feedback "self-awareness"
+```
+
+```
+/offer feedback @harry @sally
+```
+
+```
+/offer feedback "semantic versioning" @harry @sally
+```
+
+### Request Bubbling
 <!-- TODO: define process -->
