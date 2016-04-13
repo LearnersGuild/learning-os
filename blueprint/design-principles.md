@@ -5,7 +5,7 @@ They describe the outcome of the design. The OS itself. They are used as things 
 
 Our design principles are meant to guide the design in conjunction with the design's [Meta Goals](meta-goals.md) and our [Guiding Principles](http://guide.learnersguild.org)
 
-The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** and **design guidelines** that underlie our LOS? [^1]
+The **beliefs**, **philosophies**, **principles**, **concepts**, **strategies** and **design guidelines** that underlie our LOS. [^1]
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
 
@@ -171,14 +171,15 @@ themselves. It is engaged intelligence, not fixed ideology, that enables us to j
 
 ---
 
-[More less foundational foundations here](less-foundational)
+[More less foundational foundations here][bikeshed]
 
 
 [^1]: For an explanation of what these terms mean, see the [Seven Levels of Thought][seven-levels-of-thought]
 
 [^2]: Craft = A knowledge skill that people need to build things together. Examples: Dot net web developer, IOS developer, android developer, devops, data science, UX design, game development
 
-[seven-levels-of-thought]:../process/seven-levels-of-thought.md
-[less-foundational]:lessfoundational.md
 
 [^3]: http://www.newcultureoflearning.com/community2collective.pdf
+
+[seven-levels-of-thought]: process/seven-levels-of-thought.md
+[bikeshed]: bikeshed.md
