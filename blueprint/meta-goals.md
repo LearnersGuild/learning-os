@@ -68,7 +68,7 @@ These metrics should be consistently improving:
 - Completion rate > 90%
 
 ### Earns the Trust and Respect of Service and Professional Communities
-- In 5 years time 100 organizations are feeding Aspirants to LG and benefitting financially.
+- In 5 years time 100 organizations are feeding Applicants to LG and benefitting financially.
 - Employers are beginning to modify their software management practices to mimic LG's learning environment
 - After first cohort, 5 top tech companies are knocking at LG door asking for another 50 of our graduates
 - At any time, I am proud and inspired to talk about LG, what we are doing, and what we represent

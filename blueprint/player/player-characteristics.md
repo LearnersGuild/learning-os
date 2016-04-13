@@ -34,7 +34,7 @@ The relative traits of an ideal player are:
 ### Computational Thinking
 The ideal player should come into the game with a technical talent aptitude assessed by the use of validated "computational thinking" and/or "technical talent" assessment.
 
-These assessment should be a simulation which indicates an aspirants ability to do:
+These assessment should be a simulation which indicates an applicants ability to do:
 - Algorithmic notions of control flow
   - Example: Successfully [traversing](https://www.dropbox.com/s/cqddqb3mbad04pk/thoughtWorks%20006.jpg?dl=0) a flow chart
 - Abstraction
@@ -107,7 +107,7 @@ The ideal player should come into the games with the following non-negotiable di
   - They have an insatiable excitement and curiosity regarding the craft of software development.
 
 ### Distance Travelled
-Distance travelled is a concept that seeks to quantify the path of a potential aspirant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Aspirants’ achievements.
+Distance travelled is a concept that seeks to quantify the path of a potential applicant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Applicants’ achievements.
   - They can share where they came from to where they are in terms of their knowledge
     - Example:
       - I dropped out of high school in the 10th grade, with a 2.4 GPA. Since then, I have taken the GED, applied to community college, and finished with a 3.0 GPA.
@@ -135,4 +135,4 @@ In addition to grit, a growth mindset and an ability to perform light self-refle
 
 ---
 
-[^1]: Distance travelled is a concept that seeks to quantify the path of a potential aspirant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Aspirants’ achievements.
+[^1]: Distance travelled is a concept that seeks to quantify the path of a potential applicant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Applicants’ achievements.
