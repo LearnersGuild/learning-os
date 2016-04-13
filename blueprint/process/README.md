@@ -14,7 +14,7 @@ Design issues are stored and managed through [Github Issues][github-issues].
 
 ### Getting Your Bearings
 
-- Read about the [Seven Levels of Thought](seven-levels-of-thought.md) in which a design issue may exist.
+- Read about the [Seven Levels of Thought](thought-levels.md) in which a design issue may exist.
 - Read about the [Versions](versions.md) of our pedagogy, and when they'll be rolled out.
 - Read about how we use [Game Design](game-design.md) as a framework.
 - Read about how we use [Scrum](scrum.md) to manage our work together.

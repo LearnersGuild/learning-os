@@ -181,12 +181,12 @@ themselves. It is engaged intelligence, not fixed ideology, that enables us to j
 [More less foundational foundations here][bikeshed]
 
 
-[^1]: For an explanation of what these terms mean, see the [Seven Levels of Thought][seven-levels-of-thought]
+[^1]: For an explanation of what these terms mean, see the [Seven Levels of Thought][thought-levels]
 
 [^2]: Craft = A knowledge skill that people need to build things together. Examples: Dot net web developer, IOS developer, android developer, devops, data science, UX design, game development
 
 
 [^3]: http://www.newcultureoflearning.com/community2collective.pdf
 
-[seven-levels-of-thought]: process/seven-levels-of-thought.md
+[thought-levels]: process/thought-levels.md
 [bikeshed]: bikeshed.md
