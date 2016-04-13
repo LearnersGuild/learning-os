@@ -6,4 +6,3 @@ All things player related.
 - [Player Experience Goals](player-experience-goals.md)
 - [Player Narratives](player-narratives.md)
 - [Player Objectives](player-objectives.md)
-- [Player Roles](player-roles.md)
