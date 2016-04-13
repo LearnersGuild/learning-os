@@ -1,5 +1,13 @@
 # Scrum Process
 
+#### Purpose
+Guidelines for harmonious and productive team collaboration.
+
+#### Usage
+Follow instructions to best work together with the rest of the LOS team.
+
+---
+
 There are four types of scrum meetings that we use as part of LOS:
 - Sprint planning
 - Daily standup
@@ -74,6 +82,6 @@ Not yet implemented.
 
 ## Principles Razor (Issue Tests)
 
-When moving an issue into review, make sure to apply the principles razor - the solution should be aligned with our [design principles](../blueprint/design-principles.md).
+When moving an issue into review, make sure to apply the principles razor - the solution should be aligned with our [design principles](../design-principles.md).
 
-By default, all issues should have the razor copied over (via the [issue template](../.github/ISSUE_TEMPLATE.md)), but it's good to be sure that the ones included in your issue are accurate and up-to-date.
+By default, all issues should have the razor copied over (via the [issue template](../../.github/ISSUE_TEMPLATE.md)), but it's good to be sure that the ones included in your issue are accurate and up-to-date.

@@ -33,7 +33,7 @@ Each phase transition is a time for reflection and reassessment at the pod level
 
 Each stage transition includes a rite of passage, conferring greater responsibility and privileges to the learner/pod.
 
-_Note: Stages 0 (Aspirant) and 5 (Practitioner) are not covered by player support, and thus are not limited by the 10-week definition._
+_Note: Stages 0 (Applicant) and 5 (Practitioner) are not covered by player support, and thus are not limited by the 10-week definition._
 
 ## Cycle Details
 

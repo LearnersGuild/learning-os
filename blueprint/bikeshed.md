@@ -1,4 +1,12 @@
-# Didn't make the cut / Still digesting / Second class citizens
+# Bikeshed
+
+#### Purpose
+A place to store principles that didn't make the cut / still digesting / second class citizens.
+
+#### Usage
+Add interesting but non-critical and non-binding principles here.
+
+---
 
 ## Balance and Sustain creative tensions
 
@@ -85,7 +93,7 @@ There is a significant and difficult to measure value that comes from human conn
   - Learners create the learning map, and practitioners serve as the compass
   - Self determination, and self direction
   - We are not the learners' heroes or rescuers. Resist the temptation to save them.
-  
+
 
 
 ## Theoretical accuracy over implementation precision

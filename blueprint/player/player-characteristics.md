@@ -6,11 +6,13 @@ Define what characteristics are needed and/or useful for players to be successfu
 #### Usage
 To determine if we should invest in a player (sign a Player-Investor contract), evaluate the candidate according to the following traits:
 
+---
+
 ## Required Traits
 
 - A desire to be a software engineer in a supportive but challenging environment.
 - A willingness to making a commitment to self-transformation through social-emotional training.
-- At least 25 years old (drops to 21 for V1)
+- At least 21 years old (drops to 18 for V1 or V2)
   - This gives the pilot pod for the LG game a few less hurdles to face. With the understanding that players who are leveling up from to placed web developers are going to face challenges around race, gender, income and so on. To mitigate the risk of pod failure, we have decided to punt to v1, the challenge of 'ageism.'
 - Previous employment history or an alternate demonstration of responsibility
   - We are specifically interested in a demonstration of responsibility that indicates a players ability to navigate family needs, transportation, housing, and co-worker dynamics.
@@ -32,7 +34,7 @@ The relative traits of an ideal player are:
 ### Computational Thinking
 The ideal player should come into the game with a technical talent aptitude assessed by the use of validated "computational thinking" and/or "technical talent" assessment.
 
-These assessment should be a simulation which indicates an aspirants ability to do:
+These assessment should be a simulation which indicates an applicants ability to do:
 - Algorithmic notions of control flow
   - Example: Successfully [traversing](https://www.dropbox.com/s/cqddqb3mbad04pk/thoughtWorks%20006.jpg?dl=0) a flow chart
 - Abstraction
@@ -49,7 +51,6 @@ These assessment should be a simulation which indicates an aspirants ability to 
     - Level 4: Describe the face as a set of points that are drawn (stippling). Each point is defined by an (x, y) position.
 - Iterative thinking
   - Some have argued the addition of recursive and parallel thinking, but I believe these can be scaffolded on iterative thinking
-
 
 Examples of assessment materials can be found at [CS unplugged](http://csunplugged.org/), [Bebras](http://www.bebraschallenge.org/), as well as other resources that cater to a development of computational thinking. Similar assessment of "algorithmic notions of control flow" have been developed by Thoughtworks corporation. These assessments have proved to be a strong indicator of software engineering aptitude.
 
@@ -106,7 +107,7 @@ The ideal player should come into the games with the following non-negotiable di
   - They have an insatiable excitement and curiosity regarding the craft of software development.
 
 ### Distance Travelled
-Distance travelled is a concept that seeks to quantify the path of a potential aspirant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Aspirants’ achievements.
+Distance travelled is a concept that seeks to quantify the path of a potential applicant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Applicants’ achievements.
   - They can share where they came from to where they are in terms of their knowledge
     - Example:
       - I dropped out of high school in the 10th grade, with a 2.4 GPA. Since then, I have taken the GED, applied to community college, and finished with a 3.0 GPA.
@@ -134,4 +135,4 @@ In addition to grit, a growth mindset and an ability to perform light self-refle
 
 ---
 
-[^1]: Distance travelled is a concept that seeks to quantify the path of a potential aspirant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Aspirants’ achievements.
+[^1]: Distance travelled is a concept that seeks to quantify the path of a potential applicant outside of orthodox ability measurements like GPA, SAT and so forth. It is a recognition of the progress a potential learners has made that may not be visible when compared to traditional learners. A consideration of distance travelled is very important in contextualizing potential Applicants’ achievements.

@@ -10,7 +10,7 @@ Each stage corresponds to a separate role in the game. New players start at the 
 
 There are a total of 6 stages to the game (starting at 0), each corresponding to a different role:
 
-1. **Stage 0: Aspirant**
+1. **Stage 0: Applicant**
 1. **Stage 1: Apprentice**
 1. **Stage 2: Mentor**
 1. **Stage 3: Agent**

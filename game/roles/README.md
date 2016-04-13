@@ -39,7 +39,7 @@ Every role contains (at minimum) the following attributes:
 ### Learner
 <!-- TODO: define role -->
 
-### Aspirant
+### Applicant
 Applied, but unfunded player. Can play the game, but has no livelihood component.
 
 Has power to:
@@ -51,7 +51,7 @@ Has power to:
 Funded learner. Paid to learn.
 
 Has power to:
-- Do everything an Aspirant can do.
+- Do everything an Applicant can do.
 - Get paid to learn.
 
 <!-- TODO: define role -->
