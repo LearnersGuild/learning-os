@@ -1,6 +1,10 @@
 # Bikeshed
 
-i.e. principles that didn't make the cut / still digesting / second class citizens.
+#### Purpose
+A place to store principles that didn't make the cut / still digesting / second class citizens.
+
+#### Usage
+Add interesting but non-critical and non-binding principles here.
 
 ---
 
