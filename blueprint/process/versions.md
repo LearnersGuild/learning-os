@@ -1,21 +1,21 @@
 # Versions
 
-We use three "release versions" for our Learning OS. Each corresponds to an associated tag on Asana:
+#### Purpose
+We use three "release versions" for our Learning OS.
 
-## v0: Pilot
+#### Usage
+Reference these version numbers from issues and tasks, so that we can best prioritize work.
 
-Tag: `v0`
+---
 
-This is an issue that needs resolution for the pilot program.
+## v0
+
+This is an issue that needs resolution for the first cohort of the first chapter.
 
 ## v1
 
-Tag: `v1`
-
-Needs resolution for first or second cohort of the first chapter.
+Needs resolution for second or third cohort of the first chapter.
 
 ## v2
 
-Tag: `v2`
-
-Needs resolution for second or third cohort of the first chapter.
+Needs resolution for third or fourth cohort of the first chapter.
