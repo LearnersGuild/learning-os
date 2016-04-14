@@ -1,10 +1,10 @@
-# Documentation: Roles
+# Roles
 
 ## Starting a Role
 
 Players enter the game by playing as one or more roles. In order to take on a role, a player must _commit_ to that role's Role Contract.
 
-For example, to become a Mentor (i.e. play the Mentor Role), you must commit to a Mentor Contract. By doing so, you would be agreeing to uphold the accountabilities of the Mentor role.
+For example, to become an Apprentice (i.e. play the Apprentice Role), you must commit to an Apprentice Contract. By doing so, you would be agreeing to uphold the accountabilities of the Apprentice role.
 
 ## Revoking a Role
 
@@ -21,74 +21,27 @@ There are multiple types of roles. All roles share the same attributes, but will
 Every role contains (at minimum) the following attributes:
 
 - Title
-- Purpose
+- Description
+- Requirements
 - Accountabilities
 - Compensation
 - Statistics
 
-## Roles
+## Role Relationships
 
-### Team Lead
-<!-- TODO: define role -->
+There are two core types of roles: [Learners](learner.md) and [Investors](investor.md).
 
-### Team Member
-<!-- TODO: define role -->
+Learners are focused on learning and practicing their craft with other Learners. Investors are focused on finding and sponsoring great Learners.
 
-### Learner
-<!-- TODO: define role -->
+Learners can take on many other roles, depending on their progress within the game and other contexts.
 
-### Applicant
-Applied, but unfunded player. Can play the game, but has no livelihood component.
+The default lifecycle of a Learner is to take on roles in the following order:
 
-Has power to:
-- Join & form teams.
+1. [Learner](learner.md) (become member of the Guild)
+1. [Applicant](applicant.md) (applied to be an Apprentice)
+1. [Apprentice](apprentice.md) (supported/invested Learner)
+1. [Team Member](team-member.md) (works on projects with a team)
+1. [Team Lead](team-lead.md) (leads team projects)
+1. [Practitioner](practitioner.md) (earns a salary to practice craft)
 
-<!-- TODO: define role -->
-
-### Apprentice
-Funded learner. Paid to learn.
-
-Has power to:
-- Do everything an Applicant can do.
-- Get paid to learn.
-
-<!-- TODO: define role -->
-
-### Mentor
-Experienced learner who can aid others.
-
-Has power to:
-- Do everything an Apprentice can do.
-- Act as team lead.
-
-<!-- TODO: define role -->
-
-### Agent
-Learner capable of taking on projects for clients outside of game.
-
-Has power to:
-- Do everything a Mentor can do.
-- Take on outside projects (do work for clients outside of game).
-
-<!-- TODO: define role -->
-
-### Creator
-Super-learner who can create their own reality.
-
-Has power to:
-- Do everything an Agent can do.
-- Mod the game. Create and change stats, contracts, processes, etc.
-
-<!-- TODO: define role -->
-
-### Practitioner
-Fully employed to practice craft. Working in dignified livelihood.
-
-Has power to:
-- Do everything a Creator can do.
-- Get paid to work as a practitioner.
-
-<!-- TODO: define role -->
-
-### Investor
-<!-- TODO: define role -->
+In this way a Learner moves through the game by always increasing their skill and responsibility to the collective.
