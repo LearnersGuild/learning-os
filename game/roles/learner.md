@@ -1,11 +1,11 @@
-# Role: Practitioner
+# Role: Learner
 
-## Purpose
+## Description
+
+A member of the Learners Guild.
+
+This is an umbrella role under which many other roles (Applicant, Apprentice, Practitioner) live. Everyone in Learners Guild is a Learner, but not all Learners are the same.
 
 ## Requirements
 
-## Accountabilities
-
-## Compensation
-
-## Statistics
+- Complete the Learner Application.
