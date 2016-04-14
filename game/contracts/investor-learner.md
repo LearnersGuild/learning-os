@@ -15,9 +15,9 @@ TBD
 The Investor-Learner contract may exist in any of 6 different stages:
 
 1. Engagement
-  - During _engagement_ the investor loans the Learner $2,000 a month
+  - During _engagement_ the investor loans the Learner up to $1,500 a month
   - Engagement state has a flexible duration
-  - If a Learner wants to continue to receive $2,000 in stipend past 9 months, they need to pass a _reassessment_.
+  - If a Learner wants to continue to receive $1,500 in stipend past 40 weeks, they need to pass a _reassessment_.
   - If they don't pass _reassessment_ they may still continue to play the game but the investor will no longer be giving them a loan.
 
 2. Job Hunt
@@ -55,7 +55,7 @@ To successfully complete and _close_ the contract, a Learner must attain a full-
 
 ## Re-assessment method
 
-The assessment that happens during the 10 month _reassessment_ will be an objective evaluation. Any in-game statistic that is more than two standard deviations worse than the mean for that statistic (computed on an ongoing basis for all Learners to ever reach 10 months in the _engagement period_).
+The assessment that happens during the 40 week _reassessment_ will be an objective evaluation. Any in-game statistic that is more than two standard deviations worse than the mean for that statistic (computed on an ongoing basis for all Learners to ever reach 40 weeks in the _engagement period_).
 
 ## Statistics
 
