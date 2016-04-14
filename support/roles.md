@@ -4,12 +4,39 @@ These are the roles that provide player support.
 
 ---
 
-### Facilities Provider
-<!-- TODO: define role -->
+## Facilitator
 
-### Facilitator
-<!-- TODO: define role -->
+### Purpose
 
-### Moderator
+A supportive, healthy, and safe chapter.
 
-Defines cycle times for a chapter
+### Accountabilities
+
+- Stewarding and catalyzing a culture of curiosity and collaborative learning
+- Delivering and facilitating player support modules
+- Leading workshops in topics such as meta-learning, mindfulness, and Emotional-Social Intelligence
+- Receiving, delegating, and responding to learners' requests
+- Modeling effective mentorship
+- Acting as a liaison and representative of the company to the learners
+- Demonstrating and reinforcing effective learning habits and practices
+
+## Moderator
+
+### Purpose
+
+### Accountabilities
+
+- Defining cycle times for a chapter
+
+## Operations
+
+### Purpose
+
+Clean, organized, and professional facilities and resources for a chapter.
+
+### Accountabilities
+
+- Securing chapter facilities
+- Maintaining chapter facilities
+- Ensuring proper access to chapter facilities during learning hours
+- Ensuring that learners and support roles have all necessary equipment to learn and work effectively
