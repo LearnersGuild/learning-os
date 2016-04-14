@@ -23,19 +23,17 @@ The Investor-Learner contract may exist in any of 6 different stages:
 2. Job Hunt
   - A contract moves to job hunt when a Learner leaves the game
   - During Job Hunt the investor stops loaning the Learner
-  - No interest is added to the learner's loan during this time
 
 3. Employed
   - A contract moves to _employed_ once a Learner gets a full time job using their craft
-  - No interest is added to the learner's loan during this time
 
 4. Dignified Livelihood
   - A contract moves to _dignified livelihood_ once a Learner gets a full time job using their craft, with an annual salary of $50,000 or more.
-  - During _dignified livelihood_ the learner starts paying back their loan and interest starts to accumulated (see "Commitments" below).
-  - Payback is over 7 years with a fixed APR of 6%
+  - During _dignified livelihood_ the learner starts paying back their stipend and tuition (see "Commitments" below).
+  - Payback is 3 years at up to 20% of salary (depending on how much stipend the Learner takes)
 
 5. Closed - Success
-  - Learner debt is paid off and contract is closed
+  - 3 years of payments have been made and contract is closed
 
 6. Closed - Fail
   - Over 12 months pass from the end of _engagement period_ and learner was not able to gain  _dignified livelihood_ despite their best and sincere effort
@@ -46,7 +44,7 @@ The Investor-Learner contract may exist in any of 6 different stages:
 - Learner commits to the _engagement period_ until either:
   - a minimum of 40 weeks have passed, or
   - until a full-time employment position applying their craft is accepted.
-  - During the _engagement period_, a Learner must commit to being on-site, playing the game for a minimum of 45 hours per week.
+- During the _engagement period_, a Learner must commit to being on-site, playing the game for a minimum of 45 hours per week.
 - Learner commits to repaying the money borrowed, plus interest, once the contract is in  _dignified livelihood_.
 
 ## Success criteria
