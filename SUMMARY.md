@@ -22,7 +22,7 @@
     - [Goal Selection](game/processes/goal-selection.md)
     - [Team Formation](game/processes/team-formation.md)
     - [Retrospective](game/processes/retro.md)
-  - [Statistics](game/statistics/README.md)
+  - [Statistics](game/stats/README.md)
   - [Game Objects](game/objects/README.md)
 - [Player Support](support/README.md)
   - [Modules](support/modules/README.md)
