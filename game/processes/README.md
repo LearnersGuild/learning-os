@@ -1,4 +1,4 @@
-# Documentation: Processes
+# Processes
 
 Processes that dictate how players interact with the game.
 
