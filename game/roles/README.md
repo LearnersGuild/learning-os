@@ -23,10 +23,8 @@ Every role contains (at minimum) the following attributes:
 - Title
 - Purpose
 - Accountabilities
-- Domain
+- Compensation
 - Statistics
-- Solo / Team
-- In Game / Around Game
 
 ## Roles
 
@@ -94,13 +92,3 @@ Has power to:
 
 ### Investor
 <!-- TODO: define role -->
-
-### Facilities Provider
-<!-- TODO: define role -->
-
-### Facilitator
-<!-- TODO: define role -->
-
-### Game Moderator
-
-Defines cycle times for a chapter

@@ -26,6 +26,7 @@
   - [Game Objects](game/objects/README.md)
 - [Player Support](support/README.md)
   - [Modules](support/modules/README.md)
+  - [Roles](support/roles.md)
   - [Stages](support/stages.md)
   - [Schedule and Format](support/schedule.md)
 - [Glossary](GLOSSARY.md)
