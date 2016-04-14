@@ -41,7 +41,7 @@ In the _aggregate_, the formula for ECC is: sum of ECC for each goal worked on
 
 For example, if a player has worked on 3 goals and achieved an ECC of 2.2, 3.8, and 0.75 (respectively), their aggregate ECC is 6.75.
 
-## Goal Relevancy Estimation (GRE)
+## Goal Relevancy Estimation (GRE) [Goal-Player Stat]
 
 A measure of how relevant a particular goal is for a player.
 
@@ -68,7 +68,7 @@ else probability is differential / 100
 
 A relevant goal is a goal with a 5 or above relevancy score and at least 50% probability of accuracy.
 
-## Aggregate Relevancy Estimation (ARE)
+## Aggregate Relevancy Estimation (ARE) [Player Stat]
 
 A measure of goal relevancy across all of a player's goals.
 
@@ -77,7 +77,7 @@ This stat is a composite of two numbers:
 - Aggregate relevancy score (mean of all relevancy scores for goals)
 - Aggregate probability of accuracy (mean of all probabilities for goals)
 
-## Goal Stretchiness Ranking (GSR)
+## Goal Stretchiness Ranking (GSR) [Goal-Player Stat]
 
 A measure of how stretchy a goal is for a player, i.e. how well the goal sits within the player's ZPD.
 
@@ -86,19 +86,19 @@ This answers the question of calibrating appropriate challenges: "will this goal
 Formula:
 
 ```
-BC for goal spent in stretch zone / total BC spent on goal
+% of time spent in ZPD while working on goal
 ```
 
 To stay in their ZPD, players should aim to keep their GSR as close to 100% as possible.
 
-## Aggregate Stretchiness Ranking (ASR)
+## Aggregate Stretchiness Ranking (ASR) [Player Stat]
 
 A measure of goal stretchiness across all of a player's goals.
 
 Formula:
 
 ```
-BC spent in stretch zone / total BC
+Mean of GSR for all goals worked on by Player
 ```
 
 ## Goals Selected (GS) [Player Stat]
