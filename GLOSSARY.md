@@ -40,6 +40,10 @@ A goal instance is a game structure (contract template).
 
 A group of chapters. A guild is a game object.
 
+# Learner
+
+Anyone playing the game. Synonymous with "player" and "user". Learners take on roles and contracts, participate in processes, accrue statistics, and interact with game objects.
+
 # Pod
 
 12 to 15 players that are part of the same cohort. Pods are a player support structure.
@@ -73,13 +77,13 @@ Teams are a game structure (game object).
 
 A Team Member is a player working on a team. Team Members by definition have fewer ECC than their Team Lead.
 
-Team Member is a game mechanic (role).
+Team Member is a game structure (role).
 
 ## Team Lead
 
-A Team Lead is a player leading a team to accomplish a goal. Team Leads by definition have fewer ECC than the mean ECC of their Team Members.
+A Team Lead is a player leading a team to accomplish a goal. Team Leads by definition have more ECC than the mean ECC of their Team Members.
 
-Team Lead is a game mechanic (role).
+Team Lead is a game structure (role).
 
 # Unlearning
 
