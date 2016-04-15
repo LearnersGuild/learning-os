@@ -20,6 +20,16 @@ A supportive, healthy, and safe chapter.
 - Acting as a liaison and representative of the company to the learners
 - Demonstrating and reinforcing effective learning habits and practices
 
+## Investor
+
+## Purpose
+
+Great Learners are identified and given financial support to play and achieve dignified livelihood.
+
+## Accountabilities
+
+- Supporting Learners financially in their journey towards dignified livelihood.
+
 ## Moderator
 
 ### Purpose
