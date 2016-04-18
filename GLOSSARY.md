@@ -45,6 +45,7 @@ A group of chapters. A guild is a game object.
 # Project
 
 A Project is a Team of players working together on a specific Goal.
+One way to think about it, is that a Project is an instance of a Goal created so that a team of Players can attempt it. 
 
 Players work on 1 Project with a Team for 1 or more Cycles.
 
