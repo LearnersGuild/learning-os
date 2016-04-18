@@ -65,9 +65,9 @@ A section of the game through which players advance towards victory. Stages corr
 
 # Team
 
-A team is composed of 3 or more players working on a specific Project for one or more cycles. Teams form around a Project when the goal begins and dissolve at the end of the goal.
+A team is composed of 3 or more players working on a specific Project for one or more cycles. Teams form around a Project when the it begins and dissolve at the end of the project.
 
-Team composition can change in between cycles in multi-cycle goals.
+Team composition can change in between cycles during multi-cycle projects.
 
 Teams are a game structure (game object).
 
