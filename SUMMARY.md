@@ -20,7 +20,7 @@
   - [Processes](game/processes/README.md)
     - [Cycle](game/processes/cycle.md)
     - [Goal Selection](game/processes/goal-selection.md)
-    - [Team Formation](game/processes/team-formation.md)
+    - [Project Creation](game/processes/project-creation.md)
     - [Retrospective](game/processes/retro.md)
   - [Statistics](game/stats/README.md)
   - [Game Objects](game/objects/README.md)

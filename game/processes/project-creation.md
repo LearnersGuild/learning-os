@@ -1,20 +1,20 @@
-# Process: Team Formation
+# Process: Project Creation
 
 ## Context
 
-At the beginning of a cycle is a [Goal Selection](goal-selection.md) process followed by Team Formation. Team Formation kicks in when a cycle's vote cutoff time arrives.
+At the beginning of a cycle is a [Goal Selection](goal-selection.md) process followed by Project Creation. Project Creation kicks in when a cycle's vote cutoff time arrives.
 
 ## Purpose
 
-Forming a team is a necessary step for players to begin working on a goal.
+Creating a project is a necessary step for players to begin working together as a team on a specific goal.
 
 ## Participants
 
-- **Free Players**: players who are not currently on a team.
+- **Free Players**: players who are not currently on a project.
 
 ## Requirements
 
-Every team must meet the following requirements:
+Every project team must meet the following requirements:
 
 - Each Team Member's experience and skill level should be approximately equal
 - No team should be without a Lead
@@ -54,16 +54,16 @@ To form a team, complete steps 1 and 2. Repeat until all free players have been 
 - Player votes on the goals (each goal has at least MIN_TEAM_SIZE interested)
 - Player stats (ECC, LMR, and PGSP)
 
-### Step 1: Select Team Members and create Goal Instances
+### Step 1: Select Team Members and create Project
 
 - Order all free players in ascending order of ECC, followed by descending order LMR, followed by ascending order PGSP
   - This way, the first player in the list has the least ECC, the highest LMR, and the lowest PGSP, i.e. the least experienced free player who has worked on the goals they voted for the least amount of times
 - Pick the first free player on the list
-- Of the Goal Templates this free player voted for, pick the one that has the most votes
-  - Create a Goal Instance from this Template
+- Of the Goals this free player voted for, pick the one that has the most votes
+  - Create a Project from this Goal
   - Create a Team and assign this player to it
-  - Assign the Team to the Goal Instance
-- Of the _other_ free players that voted for this Goal Template, rate them ascending by PGSP and select the top (TARGET_TEAM_SIZE - 1)
+  - Assign the Team to the Project
+- Of the _other_ free players that voted for this Goal, rate them ascending by PGSP and select the top (TARGET_TEAM_SIZE - 1)
 - If team size is still less than MIN_TEAM_SIZE
   - Order free players by proximity to team MECC, followed by descending order LMR, followed by descending order PGSP
     - This way, we pick players who have the closest ECC to the rest of the team, who have higher lead:member ratios, and who have worked on goals of their choosing most often
@@ -91,4 +91,4 @@ To form a team, complete steps 1 and 2. Repeat until all free players have been 
 - PGSP
 
 ## Results
-- Teams formed around Goal Instances
+- Teams formed around Projects

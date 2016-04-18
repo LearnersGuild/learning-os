@@ -3,18 +3,18 @@
 ## Context
 
 Goal selection is the first process in the [game cycle](cycle.md).
-During goal selection, players indicate their commitment to participating in the cycle by voting for one or more Goal Templates.
+During goal selection, players indicate their commitment to participating in the cycle by voting for one or more Goals.
 
 ## Purpose
 
 The purpose of the Goal Selection process is to prepare for the Team Formation process by identifying:
 
 - Players that are going to participate in the cycle
-- Goal Templates these players are interested in
-- Most popular Goal Templates for this cycle
+- Goals these players are interested in
+- Most popular Goals for this cycle
 
 Players indicate interest in goals
-- Select goals from Goal Template library
+- Select goals from Goal library
 - Group intelligence to narrow down goals templates for team formation
 
 ## Participants
@@ -31,10 +31,10 @@ Players indicate interest in goals
   - This number determines the minimum number of votes required for a goal to be selected
   - It is equal to the MIN_TEAM_SIZE
 1. Vote on goals (build **vote pool**)
-  - Each voter receives a 2-preference scorecard to vote on their preferred goal template
+  - Each voter receives a 2-preference scorecard to vote on their preferred goal
     - The scorecards have a primary and secondary preference
-  - Each voter assigns a goal template to each preference in their scorecard
-    - Voters can choose the same goal template for multiple preference
+  - Each voter assigns a goal to each preference in their scorecard
+    - Voters can choose the same goal for multiple preference
 1. Select goals (fill **open spots**)
   - Sort goals by median PGSP of voters who selected goal as primary preferences (ascending)
     - This way, players who have the lowest PGSP get their goals selected first

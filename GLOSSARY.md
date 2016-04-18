@@ -22,19 +22,13 @@ Life of a cycle: Goal Selection -> Team Formation -> Deliberate Practice -> Retr
 
 Building something in a context that approximates/simulates the "real world" as much as possible with the intention of deliberately practicing the craft.
 
-# Goal Instance
+# Goal
 
-A Goal Instance is an instantiation of a Goal Template. It belongs to a specific team.
+Goals are the core feature for directing learning and collaborative work. They provide structure for teams to form around, and for players to direct their practice.
 
-One Team works on one Goal instance for one or more Cycles.
+Goals can be single cycle, or multi-cycle.
 
-A goal instance is a game structure (contract).
-
-# Goal Template
-
-Goals Templates can be single cycle, or multi-cycle.
-
-A goal instance is a game structure (contract template).
+A goal is a game structure (contract).
 
 # Guild
 
@@ -47,6 +41,15 @@ A group of chapters. A guild is a game object.
 # Phase
 
 1 phase is 5 weeks. Phases are a player support structure.
+
+# Project
+
+A Project is a Team of players working together on a specific Goal.
+One way to think about it, is that a Project is an instance of a Goal created so that a team of Players can attempt it. 
+
+Players work on 1 Project with a Team for 1 or more Cycles.
+
+A project is a game structure (game object).
 
 # Retrospective
 
@@ -63,9 +66,9 @@ A section of the game through which players advance towards victory. Stages corr
 
 # Team
 
-A team is composed of 3 or more players working on a specific Goal Instance for one or more cycles. Teams form around a Goal Instance when the goal begins and dissolve at the end of the goal.
+A team is composed of 3 or more players working on a specific Project for one or more cycles. Teams form around a Project when the it begins and dissolve at the end of the project.
 
-Team composition can change in between cycles in multi-cycle goals.
+Team composition can change in between cycles during multi-cycle projects.
 
 Teams are a game structure (game object).
 
