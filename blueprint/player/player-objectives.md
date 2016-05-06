@@ -19,8 +19,9 @@ I will create and sustain a dignified livelihood for myself as a practitioner of
 - I can get and pass job interviews (I can get through the door).
 - I can create a place of belonging for myself in the industry (I can make the house my home).
 - I can collaborate effectively with a team. 4 people + me = 7 person team.
+- I can learn, and I can learn how to learn
 
-## Objective 2: Learn how to learn and to cultivate a learning collective.
+## Objective 2: Cultivate a learning collective.
 
 I own and co-create the learning culture and learning systems in which I participate.
 
