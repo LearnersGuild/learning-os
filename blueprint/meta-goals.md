@@ -56,11 +56,14 @@ These metrics should be consistently improving:
 - Players feel transformed.
 
 ### Produces Well-Rounded Players and Practitioners
+- Helps learners become increasingly able to assume personal responsibility for their own learning
 - Majority of players attain Leadership positions in Engineering
 - We would be excited to hire anyone who completes the game onto our own software team
 - Players want to work with each other
 - Increase the learners stamina for feedback and risk over time.
 - Increase the learners resiliency over time.
+
+
 
 ### Evolves Towards Higher Level Goals
 - We adopt lower and lower "skill" bars for entry
