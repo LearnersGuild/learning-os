@@ -41,6 +41,66 @@ In the _aggregate_, the formula for ECC is: sum of ECC for each goal worked on
 
 For example, if a player has worked on 3 goals and achieved an ECC of 2.2, 3.8, and 0.75 (respectively), their aggregate ECC is 6.75.
 
+## Goal Relevancy Estimation (GRE) [Goal-Player Stat]
+
+A measure of how relevant a particular goal is for a player.
+
+This answers the question of player orientation and directionality: "will this goal move me in the right direction?"
+
+When choosing a goal, players estimate the relevancy of the goal.
+
+This stat is a composite of two numbers:
+
+- Relevancy score (7-point Likert)
+- Probability of accuracy (percent)
+
+The relevancy score is a 7-point Likert rating of the statement: "This goal is relevant to my overarching learning objectives."
+
+The probability of accuracy is a percent representing how confident a player can be that the relevancy score is accurate. This is determined by the experience differential between the player whose goal is being ranked (the subject player) and the player who is ranking (the ranking player). Ranking players with more experience than the subject player will have a higher probability of accuracy, since they have (presumably) more knowledge with which to make an accurate assessment.
+
+Formula for probability of accuracy:
+
+```
+differential = ECC of ranking player - ECC of subject player
+if differential >= 100, probability is 100
+else probability is differential / 100
+```
+
+A relevant goal is a goal with a 5 or above relevancy score and at least 50% probability of accuracy.
+
+## Aggregate Relevancy Estimation (ARE) [Player Stat]
+
+A measure of goal relevancy across all of a player's goals.
+
+This stat is a composite of two numbers:
+
+- Aggregate relevancy score (mean of all relevancy scores for goals)
+- Aggregate probability of accuracy (mean of all probabilities for goals)
+
+## Goal Stretchiness Ranking (GSR) [Goal-Player Stat]
+
+A measure of how stretchy a goal is for a player, i.e. how well the goal sits within the player's ZPD.
+
+This answers the question of calibrating appropriate challenges: "will this goal help me advance, but is still within my capacity to accomplish in the allotted time?"
+
+Formula:
+
+```
+% of time spent in ZPD while working on goal
+```
+
+To stay in their ZPD, players should aim to keep their GSR as close to 100% as possible.
+
+## Aggregate Stretchiness Ranking (ASR) [Player Stat]
+
+A measure of goal stretchiness across all of a player's goals.
+
+Formula:
+
+```
+Mean of GSR for all goals worked on by Player
+```
+
 ## Goals Selected (GS) [Player Stat]
 
 The number of goals a player has joined.
