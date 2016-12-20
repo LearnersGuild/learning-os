@@ -2,19 +2,15 @@
 
 ### Advancement with Stages
 
-Stages are sections through which players advance towards victory.
+Stages are sections of player support through which players advance towards victory.
 
-Stage transitions include a rite of passage, conferring greater responsibility and privileges to the player.
+Stage transitions include a rite of passage, a recognition of greater responsibility and privileges conferred to the player.
 
-Each stage corresponds to a separate role in the game. New players start at the lowest stage/role, and advance to higher stages by earning more powerful roles.
+There are a total of 4 stages to the game (starting at 0):
 
-There are a total of 6 stages to the game (starting at 0), each corresponding to a different role:
+1. **Stage 0: First Apprenticeship**
+1. **Stage 1: Team Leadership**
+1. **Stage 2: Community Participation**
+1. **Stage 3: Livelihood Creation**
 
-1. **Stage 0: Applicant**
-1. **Stage 1: Apprentice**
-1. **Stage 2: Mentor**
-1. **Stage 3: Agent**
-1. **Stage 4: Creator**
-1. **Stage 5: Practitioner**
-
-Like cycles, stages are not time-bound. They serve as opportunities to recognize and celebrate significant transformation events in a player's advancement.
+Like phases, stages are time-bound. They are equal to 2 phases. They serve as opportunities to recognize and celebrate significant transformation events in a player's advancement.
