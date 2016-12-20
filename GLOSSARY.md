@@ -34,6 +34,10 @@ A goal is a game structure (contract).
 
 A group of chapters. A guild is a game object.
 
+# Human Development
+
+Human Development is the phrase used to refer to the craft-agnostic learning modules and other similar content offered at Learners Guild. The practice of learning Human Development skills at Learners Guild includes the study of four core competencies: meta-learning (learning to learn), self-efficacy, collaboration, and navigating systems.
+
 # Pod
 
 12 to 15 players that are part of the same cohort. Pods are a player support structure.
